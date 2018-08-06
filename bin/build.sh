@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Find all Markdown files and build PDFs out of them.
 find documents -name '*.md' | while read file; do
   pdf_name="${file%.md}.pdf"
