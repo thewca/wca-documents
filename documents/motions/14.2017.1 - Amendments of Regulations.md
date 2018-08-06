@@ -1,0 +1,35 @@
+# SUBMISSION OF PROPOSED MOTION
+
+**Motion number:** 14.2017.1  
+**Subject:** Amendments of Regulations  
+**Intent:** Definition of the Amendment Procedure of the Regulations  
+**Submitted by:** Board of Directors  
+**Date:** July 1, 2017  
+
+# Motion
+
+1. The WCA Regulations are a Motion submitted by the Board of Directors. Any amendment of WCA Regulations is bound to the provisions stated in [WCA Motion : Amendments of Bylaws and Motions](./13-Amendments_of_Bylaws_and_Motions.md) with the exceptions provided in the present Motion.
+
+2. The WCA Regulations Committee will conduct the following process of amendment of the Regulations:
+   - 2.1. Gathering potential changes to the Regulations, based on feedback from WCA Community, own insight, and incidents during WCA Competitions.
+   - 2.2. Documenting the gathered potential changes and making them available to the public.
+   - 2.3. Making a selection from the gathered potential changes and proposing these changes as an amendment to the Regulations.
+   - 2.4. Asking feedback among WCA Staff and External Staff for proposed changes, e.g. via a majority voting or polling.
+   - 2.5. Compiling a final set of changes as a new version of the Regulations.
+   - 2.6. Delivering to the WCA Board:
+      - 2.6.1. a new complete set of the Regulations
+      - 2.6.2. a final set of included changes
+      - 2.6.3. a summary of the included changes
+      - 2.6.4. a summary of the feedback, polling, and voting
+
+3. Amendments consisting of changes that are urgent and/or corrections of clerical errors may be processed as an update of the Regulations and can be handed over to the WCA Board directly, without the process described in Article 2 of this Motion.
+
+4. The WCA Board shall make a final decision on the approval of the new version or update, based on a voting in the WCA Board with supermajority.
+   - 4.1. In case of a rejection of the new version or update, the WCA Board is required to provide a list of items that prevented the proposed version to be approved for further refinement.
+   - 4.2. In case of an approval, the WCA Board shall register the new Regulations as a new Motion.
+
+5. The Regulations and Amendments of the Regulations must be announced and made publicly accessible via the online services of the WCA.
+
+6. Approved versions or updates of the Regulations shall take effect within a maximum time frame of two weeks after publication, unless specified otherwise.
+
+7. If changes of the Regulations affect the rankings of results of WCA Competitions, then old records and rankings will stand until broken under the new Regulations, unless stated differently in the amendment.

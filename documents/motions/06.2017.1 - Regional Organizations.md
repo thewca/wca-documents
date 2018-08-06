@@ -1,0 +1,40 @@
+# SUBMISSION OF PROPOSED MOTION
+
+**Motion number:** 6.2017.1  
+**Subject:** Regional Organizations  
+**Intent:** Procedure of acknowledgement of Regional Organizations and description of their rights and duties  
+**Submitted by:** Board of Directors  
+**Date:** July 1, 2017  
+
+# Motion
+
+The WCA shall acknowledge Regional Organizations as Partners to support the Objectives of the WCA in specific regions.
+
+1. Rights of Regional Organizations:
+   - 1.1. Regional Organizations may represent the WCA in the region that they are acknowledged for, with activities that support the Objectives of the WCA.
+   - 1.2. Two Regional Organizations should not cover exactly the same region.
+
+2. Duties of Regional Organizations:
+   - 2.1. To actively organize or support WCA Competitions in the region of the organization.
+   - 2.2. To actively contribute to the Continental WCA Competitions that are held in the continent of the Regional Organization.
+   - 2.3. To respect and operationalize the Objectives set out in the Bylaws and the Motions.
+   - 2.4. To comply with all applicable Regulations.
+   - 2.5. To accept and comply with decisions of WCA Staff and External Staff.
+   - 2.6. To keep on file at the WCA a copy of its current bylaws and, if applicable, regulations in an electronic format.
+
+3. Application of Regional Organizations
+   - 3.1. Application for acknowledgement by the WCA of Regional Organizations shall be submitted in writing to the WCA Board.
+   - 3.2. The application for Regional Organizations must include all of the following information:
+      - 3.2.1. Name of the Regional Organization
+      - 3.2.2. Official address and contact details
+      - 3.2.3. A copy of its current bylaws and, if applicable, regulations, which are in compliance with the Bylaws and Regulations of the WCA
+      - 3.2.4. A list of its principal directors and officers
+      - 3.2.5. A clear description of the area that is covered by the Regional Organization
+      - 3.2.6. A report on past and current WCA related activities.
+
+4. Acknowledgement of Regional Organizations
+   - 4.1. The WCA Board shall have the right to acknowledge the Regional Organization, based on a voting in the WCA Board of Directors with at least supermajority.
+
+5. Withdrawal of Acknowledgement of Regional Organizations
+   - 5.1. Any Regional Organization may withdraw its acknowledgement any time by having its leadership submit a message to the WCA Board. The WCA Board shall have the right to accept the withdrawal, if there are no pending issues that need to be resolved before the removal of the acknowledgement of the Regional Organization.
+   - 5.2. The WCA Board shall have the right to withdraw the acknowledgement of a Regional Organization, if the Regional Organization does not comply with the rights and duties of Regional Organizations.

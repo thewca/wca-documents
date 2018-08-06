@@ -1,0 +1,28 @@
+# SUBMISSION OF PROPOSED MOTION
+
+**Motion number:** 10.2017.5  
+**Subject:** WCA Quality Assurance Committee  
+**Intent:** Rights and duties of the WCA Quality Assurance Committee  
+**Submitted by:** Board of Directors  
+**Date:** July 1, 2017  
+
+# Motion
+
+The WCA Quality Assurance Committee is an Advisory Committee of the WCA with the role to support and promote continuous quality improvement within the WCA, as well as worldwide application of quality standards to ensure consistent high quality of processes, WCA Staff, Regional Organizations, Competition Organizers, and Competition Staff.
+
+The WCA Quality Assurance Committee has the following rights and duties:
+
+1. Maintaining worldwide quality standards and promoting application of these standards.
+
+2. Maintaining training programs and best practices for WCA Staff, Regional Organizations, Competition Organizers, and Competition Staff.
+
+3. Managing the processes of continuous quality improvement:
+   - 3.1. Creating quality awareness among WCA Staff, Regional Organizations, Competition Organizers, and Competition Staff.
+   - 3.2. Evaluating operations of the WCA to discover areas for possible quality improvements.
+   - 3.3. Proposing quality improvements and handling quality improvement proposals by others.
+   - 3.4. Supporting the implementation of quality improvements.
+
+4. Managing the processes of quality reporting:
+   - 4.1. Producing periodic quality assessment reports on the quality, development, distribution, and other characteristics of the operations of the WCA and of WCA Competitions.
+
+5. Analysing and reporting on the qualitative performance of WCA Delegates to WCA Senior Delegates, and advising on the promotion and demotion of WCA Delegates.

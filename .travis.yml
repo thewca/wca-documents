@@ -1,0 +1,16 @@
+before_install:
+  # Install Panadoc and wkhtmltopdf.
+  - wget https://github.com/jgm/pandoc/releases/download/2.2.2.1/pandoc-2.2.2.1-1-amd64.deb -O pandoc.deb
+  - sudo dpkg -i pandoc.deb
+  # Copied from https://github.com/thewca/worldcubeassociation.org/blob/5698831f9addb26091641c80beadfa7c902bcb18/chef/site-cookbooks/wca/recipes/regulations.rb#L17-L18
+  - wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.4/wkhtmltox-0.12.4_linux-generic-amd64.tar.xz -O wkhtml.tar.xz
+  - sudo tar -xf wkhtml.tar.xz --strip-components=1 -C /usr/local
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: documents
+  target-branch: build
+  on:
+    branch: master
+script: ./build.sh
