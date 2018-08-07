@@ -1,5 +1,7 @@
 # WCA Sponsor Acknowledgments Policy
+<div class="version">
 ### Version 1.0
+</div>
 
 ## Purpose
 The purpose of this policy is to outline acceptable guidelines for sponsorship and partnership acknowledgments on WCA Competition webpages.

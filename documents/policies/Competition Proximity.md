@@ -1,5 +1,7 @@
 # WCA Competition Proximity Policy
+<div class="version">
 ### Version 1.0
+</div>
 
 ## Purpose
 The purpose of this policy is to spread competitions in time and geographical areas. It also prevents abuse in which several competitions could be held within a short time frame in the same area with roughly the same competitors.

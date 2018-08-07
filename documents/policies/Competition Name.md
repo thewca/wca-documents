@@ -1,5 +1,7 @@
 # WCA Competition Name Policy
+<div class="version">
 ### Version 1.0
+</div>
 
 ## Purpose
 The purpose of this policy is to create a professional standard for naming WCA Competitions.

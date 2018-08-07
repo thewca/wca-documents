@@ -1,5 +1,7 @@
 # WCA Competition Announcement Policy
+<div class="version">
 ### Version 1.0
+</div>
 
 ## Purpose
 The purpose of this policy is to grant the WCA Quality Assurance Committee permission to announce WCA Competitions on behalf of the WCA Board of Directors.

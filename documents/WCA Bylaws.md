@@ -1,17 +1,29 @@
 # Bylaws
 
+---
+
+<div style="text-align: center;">
+<div style="margin: 300px auto; font-size: 2em;">
 # World Cube Association
+</div>
 
 ## Board of Directors
+<div style="line-height: 2em; color: dimgray; font-size: 1.5em;">
 Alberto Pérez de Rada Fiol <br>
 Luis J. Iáñez <br>
 Olivér Perge <br>
 Pedro Santos Guimarães <br>
 Robert Burton <br>
 Ron van Bruchem
+</div>
+</div>
+
+<div class="page-break"></div>
 
 ## 1. Name
 The name of this corporation is World Cube Association (“WCA”).
+
+<div class="page-break"></div>
 
 ## 2. Membership
 ### 2.1 Eligibility for Membership
@@ -43,6 +55,8 @@ The members present at any properly announced meeting shall constitute a quorum 
 
 ### 2.10 Voting
 All issues to be voted on shall be decided by a simple majority of those present at the meeting in which the vote takes place.
+
+<div class="page-break"></div>
 
 ## 3. Board of Directors
 ### 3.1 Powers
@@ -85,6 +99,8 @@ Whenever a director or officer has a financial or personal interest in any matte
 
 4. The minutes of meetings at which such votes are taken shall record such disclosure, abstention, and rationale for approval.
 
+<div class="page-break"></div>
+
 ## 4. Board Meetings
 ### 4.1 Regular Meetings
 Regular meetings of the Board shall be held at such dates, times, and places as determined by the Board. Each year, the Board shall hold at least one meeting the agenda for which includes filling vacancies on the Board, if any, arising from expiration of terms.
@@ -116,6 +132,8 @@ The Board shall keep minutes of each meeting, which shall be kept and filed with
 ### 4.10 Action Without a Meeting
 Any action that the Board is required or permitted to take may be taken without a meeting if all directors, individually or collectively, consent in writing to the action; provided that the consent of any “interested director” as defined in Section 5233 of the Nonprofit Corporation Law shall not be required for approval of that transaction. Such action by written consent shall have the same force and effect as a unanimous vote of the directors. All such consents shall be filed with the minutes of the proceedings of the Board.
 
+<div class="page-break"></div>
+
 ## 5. Committees
 ### 5.1 Board Committees
 The Board may, by resolution of a majority of directors then in office, provided that a quorum is present, create and appoint members to, one (1) or more committees (“Board Committees”), each consisting of two (2) or more directors, to serve at the pleasure of the Board. The Board shall create an audit committee if required by the California Nonprofit Integrity Act of 2004 (the “Nonprofit Integrity Act”). Only directors may serve on any Board Committee. The Board may appoint one (1) or more directors as alternate members of any such Board Committee, who may replace any absent Board Committee member at any meeting of the Board Committee. Any such Board Committee, to the extent provided in the Board resolution, shall have all the authority of the Board, subject to the limitations set out in Section 5212 of the Nonprofit Corporation Law. The Board may, at any time, revoke or modify any or all of the authority so delegated to a Board Committee.
@@ -128,6 +146,8 @@ The Board may create and appoint individuals to one (1) or more advisory committ
 
 ### 5.4 Advisory Council
 The Board may create and appoint individuals to one (1) or more advisory councils or similar bodies (each, an “Advisory Council”), consisting of persons who are not officers or directors of the WCA, with such responsibilities as determined by the Board. Any such Advisory Council shall act only in an advisory capacity to the Board, shall have no legal authority to act for the WCA, and shall clearly be held out as an “advisory council.” The Board may, at any time, revoke or modify any or all of the responsibilities assigned to the Advisory Council.
+
+<div class="page-break"></div>
 
 ## 6. Officers
 ### 6.1 Officers
@@ -163,6 +183,8 @@ The Treasurer shall be the chief financial officer of the WCA as contemplated by
 ### 6.11 Compensation Review Policy
 The Board shall take such actions to approve officer compensation as may be required by the Nonprofit Integrity Act and other applicable law, and adopt a policy that sets forth guidelines for the determination, review, and approval of the compensation of its officers and key employees, in accordance with applicable law.
 
+<div class="page-break"></div>
+
 ## 7. Indemnification and Insurance
 ### 7.1 Definitions
 For purposes of this Section 7, “Agent” means any person who is or was a director, officer, employee, or other agent of the WCA, or is or was serving at the request of the WCA as a director, officer, employee, or other agent of another foreign or domestic corporation, partnership, joint venture, trust, or other enterprise, or was a director, officer, employee, or agent of a predecessor corporation of the WCA or another enterprise at the request of such predecessor corporation; “Proceeding” means any threatened, pending, or completed action or proceeding, whether civil, criminal, administrative, or investigative; and “Expenses” includes, without limitation, attorneys’ fees and any expenses incurred in establishing a right to indemnification under Section 7.2.
@@ -179,6 +201,8 @@ The Board may authorize the advance of Expenses incurred by or on behalf of an A
 ### 7.5 Insurance
 The WCA shall have the right to purchase and maintain insurance on behalf of any Agent against any liability asserted against or incurred by the Agent in such capacity or arising out of the Agent’s status as such, whether or not the WCA would have the power to indemnify the Agent against such liability under this Section 7, provided, that the WCA shall not have the power to purchase and maintain such insurance to indemnify any Agent of the WCA for a violation of Section 5233 of the Nonprofit Corporation Law.
 
+<div class="page-break"></div>
+
 ## 8. Records, Reports, and Communications
 ### 8.1 Inspection by Directors
 Every director shall have the right at any reasonable time to inspect the WCA’s books, records, documents, and physical properties. The inspection may be made in person or by the director’s agent or attorney. The right of inspection includes the right to copy and make extracts.
@@ -191,6 +215,8 @@ The fiscal year of the WCA shall begin on January 1 and end on December 31 each 
 
 ### 8.4 Electronic Transmissions
 Unless otherwise provided in these Bylaws, and subject to any guidelines and procedures that the Board may adopt from time to time, the terms “written” and “in writing” as used in these Bylaws (including, without limitation, the written consents contemplated by Section 4.10) include any form of recorded message in the English language capable of comprehension by ordinary visual means, and may include electronic transmissions, such as facsimile or e-mail; provided that (i) the WCA has obtained a valid written consent from the recipient to the use of such means of communication; (ii) for electronic transmissions to the WCA, the WCA has in effect reasonable measures to verify that the sender is the individual purporting to have sent such transmission; and (iii) the transmission creates a record that can be retained, retrieved, reviewed, and rendered into clearly legible, tangible form.
+
+<div class="page-break"></div>
 
 ## 9. Gifts, Grants, and Contracts
 ### 9.1 Gifts
@@ -208,6 +234,8 @@ The Board may authorize any officer(s) or agent(s), in the name of and on behalf
 ### 9.5 Payment of Money
 Except as otherwise specifically determined by resolution of the Board, or as otherwise required by law, checks, drafts, promissory notes, orders for the payment of money, and other evidence of indebtedness of the WCA may be signed by each of the Chair, the Executive Director, or the Treasurer.
 
+<div class="page-break"></div>
+
 ## 10. Office
 ### 10.1 Principal Office
 The principal office of the WCA for the transaction of its business shall be located at: <br>
@@ -221,8 +249,12 @@ or in such other place as may be specified by resolution of the Board.
 ### 10.2 Other Offices
 The WCA may also have branch or subordinate offices at other places, within or outside California, as the Board may determine.
 
+<div class="page-break"></div>
+
 ## 11. Emergency Provisions
 In anticipation of or during an emergency, as defined in Section 5140(n)(5) of the Nonprofit Corporation Law, the WCA may take any of the actions set out in Section 5140(n) of the Nonprofit Corporation Law.
+
+<div class="page-break"></div>
 
 ## 12. Amendment
 Except as otherwise provided by law, these Bylaws may be amended or repealed and new bylaws adopted by approval of the Board, or by a supermajority (⅔) vote of the membership at a properly announced meeting.

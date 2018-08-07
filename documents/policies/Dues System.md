@@ -1,5 +1,7 @@
 # WCA Dues System
+<div class="version">
 ### Version 1.0
+</div>
 
 The WCA Dues System is a policy by which the WCA will collect revenue on a per-competitor-per-competition basis from WCA Delegates in order to further the Mission and the Spirit of the WCA. The policy intends that WCA Delegates will fund the amount owed either by charging registration fees to their competitors, to the competition sponsors, or by using some other means of collecting money on behalf of their respective countries.
 
@@ -21,6 +23,8 @@ per-competitor-per-competition basis.
    - 4.2. The total amount owed for the competition will be the per-competitor Due amount owed multiplied by the number of competitors who participated in the competition.
    - 4.3. For a more detailed explanation of how the Due amount owed is calculated by the WFC, please refer to Appendix A.
 
+<div class="page-break"></div>
+
 ## Appendix A
 ### Detailed description of how per-competitor due amounts are calculated
 To calculate the Due amount owed for a competition, the following procedure will be used:
@@ -34,6 +38,8 @@ To calculate the Due amount owed for a competition, the following procedure will
       - 3.2.1. Countries in Band 0 do not owe Dues to the WCA for any competitions held while that country maintains Band 0 status.
          - 3.2.1.1. See Appendix C for an explanation of how Band 0 will be used by the WFC.
 
+<div class="page-break"></div>
+
 ## Appendix B
 ### 3x3x3 Fewest Moves simultaneous competitions
 1. The overall competition Due amount will be the sum of the per-competition Due amounts for each of the locations.
@@ -46,6 +52,8 @@ To calculate the Due amount owed for a competition, the following procedure will
          - 2.1.1.1. For example, the Delegate for Country A in the example above would pay 10*$0.40 = $4.00 and the Delegate for Country B above would pay 20*$0.30 = $6.00.
       - 2.1.2. The competition organizer, sponsor, or other party on behalf of the competition may pay the entire due amount for the competition less any payments already received from Delegates on behalf of their location.
    - 2.2. If the full Due amount owed is not received by the 7 day deadline, then any individual delegates who have not paid the Due amount owed for their location will not be allowed to announce a new competition as the Delegate. This will be enforced until either the Delegate pays the Due amount owed for their location, or the remaining unpaid competition Due amount owed for the entire competition is covered in full by another party.
+
+<div class="page-break"></div>
 
 ## Appendix C
 ### WFC Use of Band 0 for countries that do not owe Dues

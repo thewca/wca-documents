@@ -1,0 +1,15 @@
+a {
+  color: black;
+}
+
+body {
+  font-size: 13pt;
+}
+
+.version {
+  color: gray;
+}
+
+.page-break {
+  page-break-before: always;
+}
