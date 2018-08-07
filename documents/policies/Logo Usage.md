@@ -6,16 +6,16 @@ The WCA logo was designed for the World Cube Association by Justin Eastman in a 
 ## Logo Versions
 The following versions of the logo are covered by this policy:
 
-- Large version
-- Vector version
-- Vector version without text
-- 3D version
+- [Large version](wca{files/WCAlogo_XL.jpg})
+- [Vector version](wca{files/WCAlogo.svg})
+- [Vector version without text](wca{files/WCAlogo_notext.svg})
+- [3D version](wca{files/WCALogo3D.png})
 
 ## WCA Competitions
 Organizers and/or Delegates may use the logo on the website, printings, and apparel of competitions that have been approved by the World Cube Association.
 
 ## Regional Organizations
-Regional Organizations that are officially recognized by the World Cube Association may use the WCA logo on their website, printings, and apparel.
+Regional Organizations that are [officially recognized](wca{organizations}) by the World Cube Association may use the WCA logo on their website, printings, and apparel.
 
 ## Merchandising
 ### Merchandise for WCA competitions
@@ -23,7 +23,7 @@ Regional Organizations that are officially recognized by the World Cube Associat
 2. Organizers and/or Delegates of WCA competitions may use the WCA logo on merchandise to be sold at competitions. However, ten percent (10%) of gross sales shall be transferred to the WCA via the WCA Financial Committee.
 
 ### Merchandise sold by Third Parties
-Any requests to use the WCA logo on merchandise that will be sold must be negotiated with and approved by the WCA Board of Directors. Please email the WCA Board to request such an arrangement.
+Any requests to use the WCA logo on merchandise that will be sold must be negotiated with and approved by the WCA Board of Directors. Please email the [WCA Board](mailto:board@worldcubeassociation.org) to request such an arrangement.
 
 ## Usage on a Personal Website
 The WCA logo may not​ be used on any personal websites.

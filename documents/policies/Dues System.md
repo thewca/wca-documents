@@ -27,8 +27,8 @@ To calculate the Due amount owed for a competition, the following procedure will
 
 1. The country used to determine the Due amount owed is the country in which the competition takes place.
    - 1.1. For 3x3x3 Fewest Moves simultaneous competitions, please see Appendix B for how to calculate the Due amount owed.
-2. Countries will be grouped together into 6 Bands based on their Cost of Living values. <br> Countries are assigned to a band according to the following list: <br> https://docs.google.com/spreadsheets/d/17NAiX46eeIwA2MpW-czo-CYKNjocvQfj_uCE1jRhh_Q.
-3. To determine the price per-competitor for a competition, look up the competition’s band, then find its per-competitor price using the following list: <br> https://docs.google.com/spreadsheets/d/17NAiX46eeIwA2MpW-czo-CYKNjocvQfj_uCE1jRhh_Q
+2. Countries will be grouped together into 6 Bands based on their Cost of Living values. <br> Countries are assigned to a band according to the following list: <br> [https://docs.google.com/spreadsheets/d/17NAiX46eeIwA2MpW-czo-CYKNjocvQfj_uCE1jRhh_Q](https://docs.google.com/spreadsheets/d/17NAiX46eeIwA2MpW-czo-CYKNjocvQfj_uCE1jRhh_Q).
+3. To determine the price per-competitor for a competition, look up the competition’s band, then find its per-competitor price using the following list: <br> [https://docs.google.com/spreadsheets/d/17NAiX46eeIwA2MpW-czo-CYKNjocvQfj_uCE1jRhh_Q](https://docs.google.com/spreadsheets/d/17NAiX46eeIwA2MpW-czo-CYKNjocvQfj_uCE1jRhh_Q)
    - 3.1. The per-competitor price for Band 5 is called the Base Due amount. The per-competitor price for all other bands is a fraction of the Base Due amount.
    - 3.2. The Base Due amount is an amount set by the WFC that the countries in the most expensive band will pay. All other band Due amounts will be amounts less than this amount, and based on that country’s Cost of Living value (COL value) relative to the COL value of the countries in the most expensive band.
       - 3.2.1. Countries in Band 0 do not owe Dues to the WCA for any competitions held while that country maintains Band 0 status.
