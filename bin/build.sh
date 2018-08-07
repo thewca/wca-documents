@@ -8,7 +8,7 @@ find 'documents' -name '*.md' | while read file; do
 
   sed -r "s#wca\{([^}]*)\}#$wca_url\1#g" "$file" | # Replace wca{...} with absolute WCA URL.
   pandoc | # Markdown -> HTML
-  wkhtmltopdf --encoding 'utf-8' --user-style-sheet 'assets/style.css' --quiet - "$pdf_name" # HTML -> PDF
+  wkhtmltopdf --encoding 'utf-8' --user-style-sheet 'assets/style.css' -T 15mm -B 15mm -R 15mm -L 15mm --quiet - "$pdf_name" # HTML -> PDF
 done
 
 # Move pdf files to build directory
