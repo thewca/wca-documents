@@ -24,7 +24,7 @@ WCA Competition names should be approved if they adhere to the following conditi
 - If the competition is named after anyone or anything, they must be persons or things lacking any controversial meaning worldwide.
 - Competitions may not be named after a living cuber, competition organizer, or any competition staff.
 - Names must not contain possibly offensive parts or memes.
-- The name cannot contain website domains or anything susceptible to be interpreted as a link, hashtag or in general an electronic identificator.
+- The name cannot contain website domains or anything susceptible to be interpreted as a link, hashtag or in general an electronic identifier.
 - The name cannot contain any trademarks (such as “Nike”) unless the organization team is formally authorized, in writing, to use such names.
 - Names should not contain any unnecessary parts in the name, like “competition”.
 

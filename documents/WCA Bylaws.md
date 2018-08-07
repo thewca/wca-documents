@@ -2,20 +2,11 @@
 
 ---
 
-<div style="text-align: center;">
-<div style="margin: 300px auto; font-size: 2em;">
+<div class="text-center">
+<div style="margin: 200px auto; font-size: 1.8em;">
 # World Cube Association
 </div>
-
-## Board of Directors
-<div style="line-height: 2em; color: dimgray; font-size: 1.5em;">
-Alberto Pérez de Rada Fiol <br>
-Luis J. Iáñez <br>
-Olivér Perge <br>
-Pedro Santos Guimarães <br>
-Robert Burton <br>
-Ron van Bruchem
-</div>
+<img src="https://www.worldcubeassociation.org/files/WCAlogo_notext.svg" style="width: 60%; margin: auto;">
 </div>
 
 <div class="page-break"></div>

@@ -3,7 +3,8 @@ a {
 }
 
 body {
-  font-size: 13pt;
+  padding: 20px;
+  font-size: 14pt;
 }
 
 .version {
