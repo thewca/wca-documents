@@ -12,6 +12,7 @@ find 'documents' -name '*.md' | while read file; do
 done
 
 # Move pdf files to build directory
+rm -rf build
 cp -r documents build
 find build -name '*.md' -exec rm {} +
 find documents -name '*.pdf' -exec rm {} +

@@ -13,3 +13,8 @@ body {
 .page-break {
   page-break-before: always;
 }
+
+.text-center {
+  display: block;
+  text-align: center;
+}
