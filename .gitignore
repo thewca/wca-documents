@@ -1,2 +1,2 @@
 # Generated PDF files.
-documents/**/*.pdf
+build/
