@@ -36,8 +36,6 @@ RESOLVED FURTHER, that the By-Laws of this corporation, as previously ratified b
 
 RESOLVED FURTHER, that the WCA Motions, as previously ratified by unanimous vote in July 2017 be, and hereby is, ratified and approved as an official policy of this corporation and that such motion be inserted in the Minute Book of this corporation;
 
-<div class="page-break"></div>
-
 <b class="text-center">ELECTION OF OFFICERS</b>
 
 RESOLVED FURTHER, that the following officers be, and each of them hereby is, elected as officers of this corporation to serve until their respective successors are duly elected and

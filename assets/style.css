@@ -8,6 +8,12 @@ body {
   font-size: 14pt;
 }
 
+/* Remove unnecessary spacing at the end that sometimes causes an empty page to be generated. */
+body > :last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
 /* Make multiline tables look good (https://github.com/wkhtmltopdf/wkhtmltopdf/issues/3356#issuecomment-288837439). */
 
 table {
