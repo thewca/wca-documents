@@ -31,3 +31,33 @@ tr {
   display: block;
   text-align: center;
 }
+
+/* Fancy numeration of nested numeric lists. (Based on https://stackoverflow.com/a/26245056) */
+
+ol[type="1"] {
+  list-style-type: none;
+  counter-reset: item;
+  padding-left: 0.5em;
+}
+
+ol[type="1"] > li {
+  display: table;
+  counter-increment: item;
+  margin-bottom: 0.5em;
+  width: 100%;
+}
+
+ol[type="1"] > li:before {
+  content: counters(item, ".") ". ";
+  display: table-cell;
+  padding-right: 0.5em;
+  width: 1px;
+}
+
+li ol[type="1"] > li {
+  margin: 0;
+}
+
+li ol[type="1"] > li:before {
+  content: counters(item, ".") " ";
+}
