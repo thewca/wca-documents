@@ -49,7 +49,6 @@ ol[type="1"] {
 ol[type="1"] > li {
   display: table;
   counter-increment: item;
-  margin-bottom: 0.5em;
   width: 100%;
 }
 
@@ -60,10 +59,10 @@ ol[type="1"] > li:before {
   width: 1px;
 }
 
-li ol[type="1"] > li {
-  margin: 0;
-}
-
 li ol[type="1"] > li:before {
   content: counters(item, ".") " ";
+}
+
+li + li {
+  margin-top: 0.25em;
 }
