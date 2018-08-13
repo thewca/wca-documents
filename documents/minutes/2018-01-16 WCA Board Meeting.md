@@ -24,7 +24,8 @@ Robert Burton updated the Board of Directors on our progress in becoming recogni
 All Regional Organizations have responded to our inquiry. We must now collect the remaining information from each organization to meet the requirements of our Motion on Regional Organizations.
 
 RESOLVED, that Regional Organizations have a grace period ending on December 31, 2018 to meet all requirements set forth in our Motion on Regional Organizations. If, at the end on that date, any Regional Organizations do not meet the requirements set forth in that Motion, they will no longer be recognized by the World Cube Association.
-AVATARS
+
+<b class="text-center">AVATARS</b>
 
 We discussed the status of the avatars of the WCA Delegates. Some delegates have still not been contacted to change their avatars in cases in which they are depicted in an unprofessional manner.
 
