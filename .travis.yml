@@ -1,3 +1,6 @@
+branches:
+  only:
+  - master
 addons:
   ssh_known_hosts:
     - worldcubeassociation.org
@@ -13,10 +16,6 @@ deploy:
     github_token: $GITHUB_TOKEN
     local_dir: build
     target_branch: build
-    on:
-      branch: master
   - provider: script
     skip_cleanup: true
     script: bin/deploy.sh
-    on:
-      branch: master
