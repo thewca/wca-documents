@@ -1,17 +1,19 @@
-# WCA Dues System
+# WCA Dues System Policy
 <div class="version">
-### Version 1.0
+### Version 1.1
 </div>
 
+## Purpose
 The WCA Dues System is a policy by which the WCA will collect revenue on a per-competitor-per-competition basis from WCA Delegates in order to further the Mission and the Spirit of the WCA. The policy intends that WCA Delegates will fund the amount owed either by charging registration fees to their competitors, to the competition sponsors, or by using some other means of collecting money on behalf of their respective countries.
 
-1. Any WCA Delegate who hosts a competition will be responsible for paying Dues after the competition has finished.
+## Policy
+1. Any WCA Delegate who hosts a competition will be responsible for paying Dues after the competition has finished (Exception: WCA World Championship and WCA Continental Championships are exempt from paying Dues.).
 2. WCA Delegates are ultimately responsible for Dues being paid on time and in full.
    1. Delegates may allow the competition organizers or other official organization to pay the Dues on their behalf.
 3. After a WCA Delegate submits the results for their competition and the results are posted by the WRT, the WCA Financial Committee will send the Delegate an invoice detailing the total Due amount owed.
-   1. WCA Delegates will have 7 days to pay the invoice counting from the time the invoice was sent.
-   2. If payment is not received by 7 days, the Delegate is considered late on their dues payment.
-      1. Delegates who are not able to pay their Dues within 7 days should contact the WFC with a reason why payment cannot be made on time.
+   1. WCA Delegates will have 30 days to pay the invoice counting from the time the invoice was sent.
+   2. If payment is not received by 30 days, the Delegate is considered late on their dues payment.
+      1. Delegates who are not able to pay their Dues within 30 days should contact the WFC with a reason why payment cannot be made on time.
          1. On a case-by-case basis the WFC will evaluate if the Delegate is experiencing an exceptional circumstance for why payment cannot be made on time. In such cases, special accommodations may be made on a one-time basis.
          2. If Delegates do not have a valid reason for the late payment (i.e. an exceptional circumstance), then the Delegate will not be allowed to announce any new competitions as Delegate until their outstanding balance is paid. (Exception: 3x3x3 Fewest Moves simultaneous competitions are handled differently. See Appendix B).
       2. Delegates with chronically late payments will be referred to their Senior Delegates for follow-up to ensure that future Dues are received on time.
@@ -51,7 +53,7 @@ To calculate the Due amount owed for a competition, the following procedure will
       1. Each Delegate of each location can pay the Due amount for a competition in their country, using their country’s per-competitor amount and the number of competitors who attended at their location.
          1. For example, the Delegate for Country A in the example above would pay 10*$0.40 = $4.00 and the Delegate for Country B above would pay 20*$0.30 = $6.00.
       2. The competition organizer, sponsor, or other party on behalf of the competition may pay the entire due amount for the competition less any payments already received from Delegates on behalf of their location.
-   2. If the full Due amount owed is not received by the 7 day deadline, then any individual delegates who have not paid the Due amount owed for their location will not be allowed to announce a new competition as the Delegate. This will be enforced until either the Delegate pays the Due amount owed for their location, or the remaining unpaid competition Due amount owed for the entire competition is covered in full by another party.
+   2. If the full Due amount owed is not received by the 30 day deadline, then any individual delegates who have not paid the Due amount owed for their location will not be allowed to announce a new competition as the Delegate. This will be enforced until either the Delegate pays the Due amount owed for their location, or the remaining unpaid competition Due amount owed for the entire competition is covered in full by another party.
 
 <div class="page-break"></div>
 
