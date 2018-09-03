@@ -1,3 +1,5 @@
+env:
+  - WCA_HOST: worldcubeassociation.org
 addons:
   ssh_known_hosts:
     - worldcubeassociation.org
