@@ -12,7 +12,12 @@ script: bin/build.sh
 deploy:
   - provider: pages
     skip_cleanup: true
-    github_token: $GITHUB_TOKEN
+
+    # This token belongs to `thewca-bot` and is named "Push to build branch on
+    # wca-documents". It has the `public_repo` scope.
+    github_token:
+      secure: nVDJPOZc0jq3yJkJAqpd7pAaiohWSxLpTkqloqPuB+zSU8GDYokq+B/PmK9dgzHZsd+LaJgPY2qqsNvHw7n4e0xGeyTIZA50+eosr7IEW1MphCBkn4ZZd51gSV3ldgZrWVMpZMqYH5V/pgq7zFEUZL4YVOVBCwj99KgzeG+IK1PifVUfEQVj9uDxEEygbm1nlaZ65M8j1NW+KhWfcdx4Q50+F2C3Z26teqOddJ9UOHYR8nv7aFHCr/5TCCflr61v0WDDUlqSXUSFeK497OKAB785sTxqVl8wg6LMPUf2A0PwDxFJN2uJAhYdEZSivTxHYjDX25ivkFwDj6rbhygOlXpWgIw4okExVMd8hzc4aCsUVM4uQhANXq47wh4lBMlUg5Tv1yD4xFU53VvjR3XUrpfvdMfzBEbTOMtPDkvAbl79XIfAjSuNoS8ieSWQP5JY1Jaj5zcNuhHHaLkV95tNVC3DjG7MAGVnVGhI0pYI1HniWtYPu95uoqMEVBupjmSlAgMqC9GRDXs+FIT/VopW4jDBM+Jw/nX4jzX5y0TwVhjwD/FJXfHM5RGHNPdxRW+cz59AR0Atjz4VIY0oRN1BKw0dpBmpmGOqBp4H5oRYSL9cYH+cpGKqVYCo3UyrCZzjKne0kQ8LP0UgnGl5eMMw053qV4TJvrq/gv8Oef5YeLM=
+
     local_dir: build
     target_branch: build
     on:
