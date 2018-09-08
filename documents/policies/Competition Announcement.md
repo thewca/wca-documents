@@ -1,21 +1,26 @@
 # WCA Competition Announcement Policy
 <div class="version">
-### Version 1.0
+### Version 2.0
 </div>
 
 ## Purpose
-The purpose of this policy is to grant the WCA Quality Assurance Committee permission to announce WCA Competitions on behalf of the WCA Board of Directors.
+The purpose of this policy is to create an Advisory Committee with the responsibility and duty of approving and announcing WCA Competitions.
 
 ## Policy
-The WCA Board hereby authorized the WCA Quality Assurance Committee to announce WCA Competitions on its behalf. More specifically, the WCA Board is granting the following permissions:
+The WCA Board hereby creates the WCA Competition Announcement Team (WCAT) as an Advisory Committee of the WCA.
 
-- The WQAC has the right to approve and announce WCA Competitions ([Motion 4.2017.1](wca{documents/04.2018.1 - Board of Directors.pdf}), Article 2.7; [WCA Regulation 8a1](wca{regulations/#8a1}))
-- The WQAC has the right to edit WCA Competitions after they have been announced, at the request of the WCA Delegate(s).
-- The WQAC has the right to reject competition names which do not follow the spirit of the [WCA Competition Name Policy](wca{documents/policies/Competition Name.pdf}).
-- The WQAC has the right to make exceptions to the [WCA Competition Proximity Policy](wca{documents/policies/Competition Proximity.pdf}).
-- The WCA Board grants the WQAC the authority to announce competitions on the WCA website up to two weeks before the start of the competition in special cases, at the discretion of the WQAC ([WCA Regulation 8a4](wca{regulations/#8a4})).
-- The WCA Board grants the WQAC the authority to approve “Best of X” (where X is 1, 2, or 3) as the round format for 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 One-Handed, 3x3x3 With Feet, Clock, Megaminx, Pyraminx, Skewb, and Square-1 in special cases, at the discretion of the WQAC ([WCA Regulation 9b1a](wca{regulations/#9b1a})).
-- The WCA Board grants the WQAC the authority to approve the adoption of optional regulations by organization teams to facilitate the administration of competitions, at the discretion of the WQAC ([WCA Regulations Article Z](wca{regulations/#article-Z-optional}); [WCA Regulation 9k](wca{regulations/#9k})).
-- The WCA Board grants the WQAC the authority to approve changes to competitor limits, at the discretion of the WQAC ([WCA Regulation Z4b](wca{regulations/#Z4b})).
+1. The WCA Competition Announcement Team is responsible for announcing WCA Competitions.
+2. The WCA Competition Announcement Team has the following rights and duties:
+   1. Announcing WCA Competitions:
+      1. Approving and announcing WCA Competitions (See [Motion 4.2018.1](wca{documents/04.2018.1 - Board of Directors.pdf}), Article 2.7).
+         1. Ensuring announcements adhere to WCA quality standards.
+      2. Rejecting competitions.
+      3. Making exceptions to the [WCA Competition Proximity Policy](wca{documents/policies/Competition Proximity.pdf}).
+      4. Approving the adoption of optional regulations by organization teams to facilitate the administration of competitions ([WCA Regulations Article Z](wca{regulations/#article-Z-optional}); [WCA Regulation 9k](wca{regulations/#9k})).
+   2. Editing WCA Competitions:
+      1. Editing WCA Competitions after they have been announced, at the request of the WCA Delegate(s).
+      2. Approving changes to competitor limits (See [WCA Regulation Z4b](wca{regulations/#Z4b})).
+   3. Deleting WCA Competitions:
+      1. Deleting and removing the announcements of WCA Competitions that have been cancelled by the WCA Board.
 
-The WCA Board retains the right to override or revert competition announcements made under the WQAC’s authority.
+The WCA Board retains the right to override or revert competition announcements made under the WCA Competition Announcement Team’s authority.
