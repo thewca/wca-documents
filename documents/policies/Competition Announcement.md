@@ -12,7 +12,7 @@ The WCA Board hereby creates the WCA Competition Announcement Team (WCAT) as an 
 1. The WCA Competition Announcement Team is responsible for announcing WCA Competitions.
 2. The WCA Competition Announcement Team has the following rights and duties:
    1. Announcing WCA Competitions:
-      1. Approving and announcing WCA Competitions (See [Motion 4.2018.1](wca{documents/04.2018.1 - Board of Directors.pdf}), Article 2.7).
+      1. Approving and announcing WCA Competitions (See [Motion 4.2018.1](wca{documents/motions/04.2018.1 - Board of Directors.pdf}), Article 2.7).
          1. Ensuring announcements adhere to WCA quality standards.
       2. Rejecting competitions.
       3. Making exceptions to the [WCA Competition Proximity Policy](wca{documents/policies/Competition Proximity.pdf}).
