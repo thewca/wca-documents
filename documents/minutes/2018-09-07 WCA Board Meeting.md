@@ -4,7 +4,7 @@ MINUTES OF MEETING OF THE BOARD OF DIRECTORS OF WORLD CUBE ASSOCIATION
 A California Nonprofit Public Benefit Corporation
 </div>
 
-On September 7, 2018 at 12:55 pm PST, the Board of Directors of World Cube Association (the “Board”) met for a regular meeting via Google Hangouts. The following directors were present at the meeting:
+On September 7, 2018 at 12:55 p.m. PST, the Board of Directors of World Cube Association (the “Board”) met for a regular meeting via Google Hangouts. The following directors were present at the meeting:
 
 <div class="text-center">
 Alberto Pérez de Rada Fiol <br>
@@ -21,7 +21,7 @@ RESOLVED FURTHER, that the WCA Competition Announcement Policy v1.0 remains in e
 
 <b class="text-center">ADJOURNMENT</b>
 
-There being no further business, the meeting was adjourned at 1:01 p.m PST
+There being no further business, the meeting was adjourned at 1:01 p.m. PST
 
 <div style="text-align: right;">
 <span style="text-decoration: underline;">/s/ Alberto Pérez de Rada Fiol</span>

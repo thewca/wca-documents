@@ -4,7 +4,7 @@ MINUTES OF MEETING OF THE BOARD OF DIRECTORS OF WORLD CUBE ASSOCIATION
 A California Nonprofit Public Benefit Corporation
 </div>
 
-On January 16, 2018 at 1:00 pm PST, the Board of Directors of World Cube Association (the “Board”) met for a regular meeting via Google Hangouts. The following directors were present at the meeting:
+On January 16, 2018 at 1:00 p.m. PST, the Board of Directors of World Cube Association (the “Board”) met for a regular meeting via Google Hangouts. The following directors were present at the meeting:
 
 <div class="text-center">
 Alberto Pérez de Rada Fiol <br>
@@ -57,7 +57,7 @@ We discussed that scheduling a digest for announcing achievements may force us t
 
 <b class="text-center">ADJOURNMENT</b>
 
-There being no further business, the meeting was adjourned at 3:10 p.m PST
+There being no further business, the meeting was adjourned at 3:10 p.m. PST
 
 <div style="text-align: right;">
 <span style="text-decoration: underline;">/s/ Robert Burton</span>
