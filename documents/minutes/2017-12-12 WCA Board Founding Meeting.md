@@ -4,7 +4,7 @@ MINUTES OF MEETING OF THE BOARD OF DIRECTORS OF WORLD CUBE ASSOCIATION
 A California Nonprofit Public Benefit Corporation
 </div>
 
-On December 12, 2017 at 1:00 pm PST, the Board of Directors of World Cube Association (the “Board”) met for its initial meeting via Google Hangouts. The following directors were present at the meeting:
+On December 12, 2017 at 1:00 p.m. PST, the Board of Directors of World Cube Association (the “Board”) met for its initial meeting via Google Hangouts. The following directors were present at the meeting:
 
 <div class="text-center">
 Pedro Santos Guimarães <br>
@@ -71,7 +71,7 @@ RESOLVED FURTHER, that the Secretary of this corporation be, and hereby is, auth
 
 <b class="text-center">ADJOURNMENT</b>
 
-There being no further business, the meeting was adjourned at 2:56 p.m PST
+There being no further business, the meeting was adjourned at 2:56 p.m. PST
 
 <div style="text-align: right;">
 <span style="text-decoration: underline;">/s/ Robert Burton</span>
