@@ -19,7 +19,7 @@ WCA Competition names should be approved if they adhere to the following conditi
   - A sponsor of the competition
 - Capitalization of the competition name must be appropriate. The first letter of each word in the competition’s name should be capitalized and subsequent letters within words should be lowercase, except articles and prepositions, which should be always lowercase. Acronyms should be capitalized.
 - The name must end with the year of the last day of the competition.
-- The competition name must be in Roman letters and may only contain characters from A-Z, a-z, and 0-9, with or without accents. Only '.:-& are permitted as special characters.
+- The competition name must be in Roman-readable letters and may only contain characters from A-Z, a-z, and 0-9, with or without accents. Only '.:-& are permitted as special characters.
 - The competition name must be 50 characters or less, including whitespaces.
 - If the competition is named after anyone or anything, they must be persons or things lacking any controversial meaning worldwide.
 - Competitions may not be named after a living cuber, competition organizer, or any competition staff.
