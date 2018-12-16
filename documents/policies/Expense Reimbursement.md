@@ -38,7 +38,7 @@ All expenses must be approved in writing by the WCA Board of Directors in accord
       1. Receipts should be submitted for all usage of advance funds within 30 days* of the transaction(s).
       2. All excess funds not documented by receipts must be returned to the WCA within 60 days* of receiving the advance.
 
-* The strict “accountable plan” limits for receipt submission and excess fund return are 60 days and 120 days, respectively, but the WCA requires the tighter deadlines unless there are extenuating circumstances as approved by the WCA Treasurer or the WCA Board of Directors.
+*The strict “accountable plan” limits for receipt submission and excess fund return are 60 days and 120 days, respectively, but the WCA requires the tighter deadlines unless there are extenuating circumstances as approved by the WCA Treasurer or the WCA Board of Directors.
 
 ### Travel Expenses
 #### Lodging and Meals
