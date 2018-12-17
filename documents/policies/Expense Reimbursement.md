@@ -20,7 +20,7 @@ The purpose of this policy is to define the conditions under which WCA Staff and
 All expenses must be approved in writing by the WCA Board of Directors in accordance with relevant Policies and other Board decisions. Approval must be sought at least 28 days before the first date of the WCA Competition for which they apply.
 
 ### Expense Reimbursement Processes
-1. **Receipts are required for all expenses (except mileage)**
+1. Receipts are required for all expenses (except mileage)
    1. Scans or readable digital photos of receipts are sufficient.
    2. Personal car mileage has special logging requirements (see below).
    3. Expenses will not be granted without receipts or mileage logs.
