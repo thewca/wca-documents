@@ -4,17 +4,17 @@
 </div>
 
 ## Purpose
-The purpose of this policy is to define the conditions under which WCA Staff and External Staff can be reimbursed their expenses originated from travels to assist in our nonprofit activities in support of our Mission.
+The purpose of this policy is to define the conditions under which WCA Staff can be reimbursed their expenses originated from travels to assist in our nonprofit activities in support of our Mission.
 
 ## Policy
 ### Allowed Expenses
-1. Expenses can only be claimed for competitions in which WCA funded travel is absolutely necessary for the competition to take place. This is ordinarily limited to the Delegate’s travel expenses to countries or remote regions where suitable WCA Staff and/or External Staff are not already available or for countries who are still developing in speedcubing terms.
+1. Expenses can only be claimed for competitions in which WCA funded travel is absolutely necessary for the competition to take place. This is ordinarily limited to the Delegate’s travel expenses to countries or remote regions where suitable WCA Staff are not already available or for countries who are still developing in speedcubing terms.
 2. The World Cube Association will only reimburse expenses which are reasonable and necessary for conducting World Cube Association activities, with special limits for travel expenses.
 3. The World Cube Association will only reimburse expenses as allowed by federal, state, and local laws for nonprofits.
 4. These guidelines form an “accountable plan”, which prevents expense reimbursements from becoming taxable salary.
 5. Expense categories include
-   1. Staff travel and lodging
-   2. Staff meals
+   1. WCA Staff travel and lodging
+   2. WCA Staff meals
 
 ### Approval
 All expenses must be approved in writing by the WCA Board of Directors in accordance with relevant Policies and other Board decisions. Approval must be sought at least 28 days before the first date of the WCA Competition for which they apply.
@@ -30,7 +30,7 @@ All expenses must be approved in writing by the WCA Board of Directors in accord
 3. Out of pocket expenses
    1. All out of pocket expense reimbursement requests must be filed with the WFC within 30 days of the transaction, with supporting receipts.
 4. Delegated reimbursement
-   1. The WFC, Committee/Team Leaders, and Senior Delegates may assist the WCA Treasurer with reimbursements by aggregating expense requests from multiple WCA Staff and/or External Staff.
+   1. The WFC, Committee/Team Leaders, and Senior Delegates may assist the WCA Treasurer with reimbursements by aggregating expense requests from multiple WCA Staff.
       1. The applicant must present all relevant receipts to the WFC, with the names of the people who incurred each expense.
       2. The applicant would then be responsible for properly distributing reimbursements they receive from the Treasurer, on behalf of the WCA.
 5. Advance payment
@@ -63,18 +63,18 @@ All expenses must be reasonable and necessary. The maximum amounts should not be
 ##### Additional Lodging Expense Restrictions
 Requirements
 
-1. If anyone not on official World Cube Association business (e.g. WCA Staff and/or External Staff not explicitly named and authorized as per the approved application for funding) is staying in the same room, expenses must be prorated to exclude their portion of the room.
+1. If anyone not on official World Cube Association business (e.g. WCA Staff not explicitly named and authorized as per the approved application for funding) is staying in the same room, expenses must be prorated to exclude their portion of the room.
 2. Lodging must not be expensed beyond the nights overlapping with the first and final days of an event.
    1. Checking in the day before the first competition date and checking out the day after the last competition date is acceptable.
 3. Lodging requests should be proposed and approved in advance.
 4. Minimum 2 people per hotel room.
-   1. Single occupancy rooms are only allowed for one Staff or External Staff in an odd-numbered group, or due to special situations.
+   1. Single occupancy rooms are only allowed for one WCA Staff in an odd-numbered group, or due to special situations.
 5. Proposals must include
-   1. Estimated Staff and/or External Staff count per night
+   1. Estimated WCA Staff count per night
    2. Estimated room count and cost per night
-   3. Explicit night-by-night breakdowns of number of Staff and/or External Staff who need lodging if this differs per night.
-6. Single transaction for Staff and/or External Staff room block.
-   1. Separate individual reimbursements must be capped at the corresponding fraction of Staff and/or External Staff room block (e.g. 1/4 of room cost per night if Staff and/or External Staff block is 4 per room).
+   3. Explicit night-by-night breakdowns of number of WCA Staff who need lodging if this differs per night.
+6. Single transaction for WCA Staff room block.
+   1. Separate individual reimbursements must be capped at the corresponding fraction of WCA Staff room block (e.g. 1/4 of room cost per night if WCA Staff block is 4 per room).
 
 ##### Additional Meal Expense Restrictions
 1. Alcohol must not be expensed.
@@ -83,7 +83,7 @@ Requirements
    1. You may only expense meals for people who are related to WCA official business and authorized as per the application for funding.
    2. If you pay for a meal with people unrelated to WCA official business, you must exclude that portion from your expenses.
    3. The expense report should include the names of each individual whose meal is being expensed.
-      1. Exception: When expensing shared food (e.g. pizza) with other WCA Staff and/or External Staff, please include the number of pre-authorized WCA Staff and/or External Staff served.
+      1. Exception: When expensing shared food (e.g. pizza) with other WCA Staff, please include the number of pre-authorized WCA Staff served.
 
 #### Personal Car Mileage
 These guidelines apply to driving your personal car on World Cube Association official business
@@ -121,7 +121,7 @@ We do not support expense reimbursements for car rentals, unless explicitly auth
 
 #### Public Transportation, Coaches, Trains, Taxis, and Ride‑Share
 1. All other reimbursement requests for transportation of these form or of forms not yet mentioned may be approved at the discretion of the WCA Board of Directors.
-2. Taxi and rideshare reimbursements are limited to a maximum of $30 per day per WCA Staff or External Staff. Please consider using cheaper forms of transportation when possible.
+2. Taxi and rideshare reimbursements are limited to a maximum of $30 per day per WCA Staff. Please consider using cheaper forms of transportation when possible.
    1. For rides to or from long distance transit stations (e.g. airport, train station), exceptions to taxi and rideshare reimbursement limit may be allowed when explicitly pre-approved in writing.
       1. Actual reimbursement amount must not exceed 150% of pre-approved estimate amount.
 
