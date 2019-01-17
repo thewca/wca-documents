@@ -1,6 +1,6 @@
 # WCA Competition Proximity Policy
 <div class="version">
-### Version 1.0
+### Version 1.1
 </div>
 
 ## Purpose
@@ -11,7 +11,6 @@ The purpose of this policy is to spread competitions in time and geographical ar
 2. Otherwise, the WCA Board should review the circumstances of the proposed competition. A Delegate requesting approval for such a competition must provide further information on why the competition should still be accepted. Possible arguments that support such a competition being accepted include:
     a. The two competitions don’t have events in common.
     b. The two competitions take place in different countries.
-    c. In the last 12 months, there have been fewer than 16 competitions in the area 100 km around the competition.
 
 ### 3x3x3 Fewest Moves Simultaneous Competitions
 A 3x3x3 Fewest Moves simultaneous competition is a WCA competition having only the 3x3x3 Fewest Moves event and taking place simultaneously in different locations.
