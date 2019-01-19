@@ -1,6 +1,6 @@
 # WCA Competition Name Policy
 <div class="version">
-### Version 1.0
+### Version 1.1
 </div>
 
 ## Purpose
@@ -22,6 +22,7 @@ WCA Competition names should be approved if they adhere to the following conditi
 - The competition name must be in Roman-readable letters and may only contain characters from A-Z, a-z, and 0-9, with or without accents. Only '.:-& are permitted as special characters.
 - The competition name must be 50 characters or less, including whitespaces.
 - If the competition is named after anyone or anything, they must be persons or things lacking any controversial meaning worldwide.
+- Names should contain the location of the competition.
 - Competitions may not be named after a living cuber, competition organizer, or any competition staff.
 - Names must not contain possibly offensive parts or memes.
 - The name cannot contain website domains or anything susceptible to be interpreted as a link, hashtag or in general an electronic identifier.
@@ -45,7 +46,7 @@ The following are examples of acceptable competition names:
 - Norwegian Championship 2018 (competition is named after the country)
 - Liberty Science Center 2017 (competition is named after the venue)
 - Skillcon 2017 (competition is named after the convention it is a part of)
-- Silent Spring 2017 (competition is named after the events)
+- Silent Spring Atlanta 2019 (competition is named after the events, season, and city)
 - Anders Larsson Memorial 2017 (competition is named as a memorial to a deceased cuber)
 - Greece New Year 2018 (competition is named after location and year season)
 - WCA World Championship 2019 (World Championship name)
