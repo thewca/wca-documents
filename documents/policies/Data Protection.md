@@ -1,6 +1,6 @@
 # WCA Data Protection Policy
 <div class="version">
-### Version 1.0
+### Version 1.1
 </div>
 
 ## Purpose
@@ -18,8 +18,7 @@ The WCA Board hereby creates the WCA Data Protection Committee (WDPC) as an Advi
    2. Acting as WCA liaison for Data Protection matters:
       1. Managing requests from Registered Speedcubers and WCA Staff on Data Protection
          1. Managing requests relating to data subject’s right to be forgotten.
-            1. Liaison with the WRT to request data subject data be removed or anonymized within the WCA Database.
-            2. Liaison with the WST to request that data subject data be removed or anonymized within the WCA Website.
+            1. Liaison with the WRT to request data subject's personal data be removed or anonymized within the WCA Database.
          2. Managing requests relating to disclosure of information the WCA holds for data subjects.
          3. Answering general queries with regard to Data Protection.
       2. Liaison with outside parties and agencies with regard to Data Protection.
