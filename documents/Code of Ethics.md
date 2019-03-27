@@ -83,5 +83,5 @@ The official communication channel for the WEC is via email. For any concerns ab
 6. **WCA Representation**
    1. WCA Staff should be professional, respectful, and overall a positive representative of the organization.
       1. WCA Staff should always be aware of their target audience (e.g. their age, experience, nationality, etc.) and their tone/language when they make statements while acting in their capacity as WCA Staff.
-      2. WCA Staff must not sign contracts on behalf of the WCA without prior approval of the WCA Board.
-         1. This includes presenting the WCA’s IRS Determination letter or using the WCA’s non-profit status as part of the organization of a competition.
+   2. WCA Staff must not sign contracts on behalf of the WCA without prior approval of the WCA Board.
+      1. This includes presenting the WCA’s IRS Determination letter or using the WCA’s non-profit status as part of the organization of a competition.
