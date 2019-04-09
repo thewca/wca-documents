@@ -1,6 +1,6 @@
-# WCA Expense Reimbursement Policy
+# WCA Travel Reimbursement Policy
 <div class="version">
-### Version 1.0
+### Version 1.1
 </div>
 
 ## Purpose
@@ -118,6 +118,9 @@ We do not support expense reimbursements for car rentals, unless explicitly auth
 1. World Cube Association Directors, Officers, Deputies, and WCA Delegates traveling to or from WCA Competitions may request reimbursements for flights, if necessary for official WCA business.
 2. All flights will only be expensed at the Basic Economy or Economy Class level or equivalent. No expenses may be approved for any upgrades to Economy Plus, Business Class, or First Class levels or equivalent.
 3. Please book flights at least 28 days in advance of travel if possible.
+4. Reimbursements of flights are only approved within the budget submitted as part of the application.
+   1. Expenses that exceed a competition’s budget by less than 15% may be approved at the discretion of the WFC.
+   2. Expenses that exceed a competition’s budget by more than 15% may be approved by a Senior Member of the WFC or by the WCA Treasurer.
 
 #### Public Transportation, Coaches, Trains, Taxis, and Ride‑Share
 1. All other reimbursement requests for transportation of these form or of forms not yet mentioned may be approved at the discretion of the WCA Board of Directors.
