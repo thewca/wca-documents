@@ -15,6 +15,7 @@ Delegates who submit late reports and/or results for two consecutive competition
 
 ### Probation Due to Late Dues
 As per the WCA Dues System Policy, Delegates who have outstanding payments without explicit approval by the WFC, shall be placed on probation.
+
 1. Unless the Delegate has a valid reason for the late payment (i.e. an exceptional circumstance), as determined by the WFC, then the Delegate will not be allowed to announce any new competitions as Delegate until their outstanding balance is paid. (Exception: 3x3x3 Fewest Moves simultaneous competitions are handled differently.)
    1. Competitions that have already been announced will be unaffected; however, no new competitions may be announced.
 
