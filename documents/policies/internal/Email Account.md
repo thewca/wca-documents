@@ -39,7 +39,7 @@ Staff who do not adhere to this policy may face disciplinary action (including d
 
 ### Account Deletion and Suspension
 
-- When an individual is no longer a WCA Staff member, his WCA account shall be suspended.
+- When an individual is no longer a WCA Staff member, their WCA account shall be suspended.
    - If an individual becomes a Staff member again, their account shall be reinstated.
 - The WCA G Suite administrator reserves the right to delete WCA accounts in certain circumstances.
    - After a period of 7 years after a Staff member’s access is revoked, their account (and all related account email) shall be deleted.
