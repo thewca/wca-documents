@@ -4,7 +4,7 @@
 </div>
 
 ## Policy
-Delegates who fail to do their duties may be placed on probation. This is an internal designation which only the individual Delegate, Regional Delegates, Senior Delegates, Board, WQAC, WCAT, and WFC would be aware of.
+Delegates who fail to do their duties may be placed on probation. This is an internal designation which only the Delegate on probation, Regional Delegate, Senior Delegate, Board, and relevant committees and/or teams would be aware of.
 
 ### Probation Due to Late Reports and/or Results
 Delegates who submit late reports and/or results for two consecutive competitions, or Delegates who demonstrate a pattern of late submissions of reports and/or results, shall subject to the following restrictions.
