@@ -34,7 +34,7 @@ At the discretion of the Senior Delegate, Delegates on this type of probation sh
 1. The Delegate may not be permitted to delegate competitions without another Delegate (or Candidate Delegate) present at the competition.
 2. The Delegate may be restricted to competitions that have a lower competitor limit, set by the Senior Delegate.
 3. The Delegate may be required to have the schedule approved by the WQAC and/or Senior Delegate before submitting competitions for announcement.
-4. The Delegate may not announce any competitions until communication is re-establishsed and outstanding issues are resolved.
+4. The Delegate may not have any competitions announced until communication is re-establishsed and outstanding issues are resolved.
 
 The Delegate will remain on probation until they demonstrate that they are capable of fulfilling their duties, at the discretion of the Senior Delegate.
 
