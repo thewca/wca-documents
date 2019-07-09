@@ -1,6 +1,6 @@
 # WCA Delegate Probationary Status Policy
 <div class="version">
-### Version 1.0
+### Version 1.1
 </div>
 
 ## Policy
