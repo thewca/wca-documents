@@ -7,7 +7,7 @@
 Delegates who fail to do their duties may be placed on probation. This is an internal designation which only the Delegate on probation, Regional Delegate, Senior Delegate, Board, and relevant committees and/or teams would be aware of.
 
 ### Probation Due to Late Reports and/or Results
-Delegates who submit late reports and/or results for two consecutive competitions, or Delegates who demonstrate a pattern of late submissions of reports and/or results, shall subject to the following restrictions.
+Delegates who submit late reports and/or results for two consecutive competitions, or Delegates who demonstrate a pattern of late submissions of reports and/or results, shall be subject to the following restrictions.
 
 1. The Delegate will not be permitted to delegate competitions held in the same week or held on consecutive weekends.
    1. Competitions that have already been announced will be unaffected; however, no new competitions which would violate this restriction may be announced.
