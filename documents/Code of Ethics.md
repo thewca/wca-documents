@@ -46,7 +46,7 @@ The official communication channel for the WEC is via email. For any concerns ab
 3. **Conduct of Official WCA Competitions**
    1. Decisions on incidents required to be made by a WCA Delegate must only be made by those officially listed on the competition page.
       1. Non-listed Delegates can make decisions on incidents only with the approval of the listed Delegate(s).
-   2. Decisions on competition changes should be approved by both organizer(s) and listed Delegate(s) through open, joint discussions. This includes decisions before, during and after the competition.
+   2. Decisions on competition changes should be approved by both organizer(s) and listed Delegate(s) through open, joint discussions. This includes decisions before, during, and after the competition.
    3. WCA Delegates should work in conjunction with the organizer(s) to hold the events requested by the organizer(s).
       1. Possible reasons for declining organizers’ requests include:
          1. Scheduling issues
