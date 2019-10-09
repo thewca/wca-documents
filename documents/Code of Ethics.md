@@ -40,7 +40,7 @@ The official communication channel for the WEC is via email. For any concerns ab
       2. The budget of a competition should be in alignment with the Mission and Spirit of the WCA.
       3. Profit acquired from a competition must not be kept for personal gain and should be put towards the benefit of the community. Where possible this should be done via an organization, and not an individual.
          1. If profits from a competition will be donated to a charity, this information must be made public on the competition page when it is announced. Any such charity must be registered as such in the country the competition is held.
-      4. Listed Delegates comply with Finance invoices and must advise Organizers to take into account WCA Dues when making the budget.
+      4. Listed Delegates must comply with Finance invoices and must advise Organizers to take into account WCA Dues when making the budget.
 2. **Communication**
    1. The [WCA email account policy](https://www.worldcubeassociation.org/documents/policies/internal/Email%20Account.pdf) must be followed.
       1. All official WCA email communication must utilize the @worldcubeassociation.org addresses.
