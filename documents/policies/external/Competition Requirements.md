@@ -27,7 +27,7 @@ competition.
       2. Submitting the competition results to the WCA Results Team within one week of the end of the competition.
          1. Results should be double-checked and free of errors before submission.
          2. All scramble sequences used during a competition must be sent with the results of the competition.
-            1. All scramble sequences must be labeled with the events, rounds, and groups for which they were used. If there are multiple groups on a round, it is not necessary to identify which competitor was in which group.
+            1. All scramble sequences must be labeled with the events, rounds, and groups for which they were used. If there are multiple groups in a round, it is not necessary to identify which competitor was in which group.
          3. Physical records (e.g. score sheets, written solutions from 3x3x3 Fewest Moves) must be retained for a minimum of 90 days. Digital records (e.g. scramble sequences, results) must be retained for 7 years.
       3. Sending corrections of competition results to the WCA Results Team.
       4. Advising other competition officials when necessary.
