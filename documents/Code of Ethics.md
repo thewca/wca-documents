@@ -48,7 +48,7 @@ The official communication channel for the WEC is via email. For any concerns ab
          1. Example: Contacting sponsors for a competition should use personal email addresses.
    2. WCA Delegates must communicate with other Delegates in their region and/or in any region they are planning to delegate a competition.
    3. All work done within the WCA is confidential and must not be disclosed to non-WCA Staff members without explicit permission from relevant members.
-      1. Delegates may provide relevant feedback to the Organizers but must not give visibility of incidents, or sections written by other Delegates.
+      1. Delegates may provide relevant feedback to the Organizers but must not give visibility of sensitive information, or sections written by other Delegates.
 3. **Conduct of Official WCA Competitions**
    1. Decisions on incidents required to be made by a WCA Delegate must only be made by those listed on the WCA competition page.
       1. Non-listed Delegates can make decisions on incidents only with the approval of the listed Delegate(s).
