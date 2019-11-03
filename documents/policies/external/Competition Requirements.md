@@ -1,6 +1,6 @@
 # WCA Competition Requirements Policy
 <div class="version">
-### Version 1.0
+### Version 2.0
 </div>
 
 ## Purpose
@@ -41,6 +41,7 @@ competition.
       1. The competition website cannot link to web pages that advertise specific products or services of the sponsor (unless it is the sponsor’s homepage).
       2. The competition website cannot advertise any specific products or services of the sponsor, including any endorsements of quality or price.
    3. The competition website may acknowledge the sponsorship contribution.
+10. Competitions with proceeds going to a charity must indicate so on the competition website, preferably in the Information section of the 'General info' tab. The name of the charity must be included. Any such charity needs to be recognized in the country where the competition is held.
 
 If WCA Regulations are not correctly observed during a competition, results may be modified at the discretion of the WCA Delegate, WCA Regulations Committee, WCA Results Team, WCA Disciplinary Committee, or the WCA Board.
 
@@ -97,15 +98,22 @@ The WCA Delegate must submit the following information when requesting approval 
 5. Competitor limit
    1. The competitor limit can be on either a "first come first serve" basis or based upon qualification results or rankings in the WCA world rankings of a previously announced calendar date.
       1. Qualification for an event must be based only on results from the same event.
-      2. Qualification for an event must be based on one type of result only (i.e. average/mean or single)
+      2. Qualification for an event must be based on one type of result only (i.e. average/mean or single).
          1. Exception: in case of using average/mean results, single results must be used to break ties.
    2. If the competitor limit for a competition or an event is reached before the competition, the organization team must not approve any additional registrations for the competition or the event.
-   3. The competitor limit is per competition. Per day competitor limits are not allowed.
+   3. The competitor limit is per competition or per event. Per day competitor limits are not allowed.
+      1. Exception: for 3x3x3 Fewest Moves simultaneous competitions, the competitor limit is per location.
    4. The WCA Competition Announcement Team will review the competitor limit and/or qualification results or rankings to ensure that they are utilized properly.
 6. Registration requirements
    1. The registration requirements must be clear and precise.
       1. The registration requirements must be available in English.
       2. In addition to the English version, the registration requirements can be available in any other language and should be available in the local language.
+      3. If the registration requirements are not possible to be fulfilled by an individual due to reasons outside of their control, the Delegate must provide an alternative approach to fulfilling the requirements.
+         1. Possible reasons include, but are not limited to:
+            1. Having an unsupported credit card for paying the registration fee.
+         2. Exceptions must not be based on:
+            1. Missing the registration deadline.
+            2. Not having enough money to pay the registration fee.
    2. The registration period(s) must be a clearly defined time range with a start and end time and date.
       1. Each registration period must be announced publicly on the WCA website at least 48 hours before it starts.
          1. The competition's WCA Delegate(s) and/or organizer(s) may register for the competition prior to the first registration period, however their registration(s) must not be approved until the first registration period has started.
@@ -119,6 +127,11 @@ The WCA Delegate must submit the following information when requesting approval 
    2. Only results from events that appear on the competition website in the Events tab and Schedule will be recognized.
       1. Other events may only be held unofficially.
    3. If the main event of the competition is not the 3x3x3 Cube, it should be publicly mentioned in the competition's information.
+      1. The main event should be the main focus of the competition by being recognizable in the competition schedule and having an appropriate proportion of rounds and attempts.
+   4. An additional event may be added upon the WCA Delegate's request at the discretion of the WCAT. The competition must meet the following requirements for an additional event to be added:
+      1. The competition is at least 7 days away.
+      2. A registration period for the competition must have a minimum of 72 hours before it closes.
+      3. The competitor limit must not be completely filled.
 8. Schedule
    1. The schedule must be published on the WCA website using the WCA schedule tool.
    2. The schedule should be manageable by the competition's WCA Delegate(s) and adhere to the WCA quality standards.
