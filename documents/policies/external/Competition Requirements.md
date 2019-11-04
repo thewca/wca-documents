@@ -108,7 +108,7 @@ The WCA Delegate must submit the following information when requesting approval 
    1. The registration requirements must be clear and precise.
       1. The registration requirements must be available in English.
       2. In addition to the English version, the registration requirements can be available in any other language and should be available in the local language.
-      3. If the registration requirements are not possible to be fulfilled by an individual due to reasons outside of their control, the Delegate must provide an alternative approach to fulfilling the requirements.
+      3. If the registration requirements are not possible to be fulfilled by an individual due to reasons outside of their control, they are eligible for completing their registration following a suitable alternative approach, at the discretion of the Delegate. In case of such an inquiry, organizers must involve the Delegate, who must then carefully assess the individual's situation. If deemed appropriate, the Delegate and organizers must make reasonable efforts to provide an alternative approach for the individual to fulfilling the requirements.
          1. Possible reasons include, but are not limited to:
             1. Having an unsupported credit card for paying the registration fee.
          2. Exceptions must not be based on:
