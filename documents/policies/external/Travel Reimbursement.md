@@ -1,6 +1,6 @@
 # WCA Travel Reimbursement Policy
 <div class="version">
-### Version 1.1
+### Version 1.2
 </div>
 
 ## Purpose
@@ -17,7 +17,7 @@ The purpose of this policy is to define the conditions under which WCA Staff can
    2. WCA Staff meals
 
 ### Approval
-All expenses must be approved in writing by the WCA Board of Directors in accordance with relevant Policies and other Board decisions. Approval must be sought at least 28 days before the first date of the WCA Competition for which they apply.
+All expenses must be approved in writing by the WCA Board of Directors in accordance with relevant Policies and other Board decisions. Approval must be sought at least 60 days before the first date of the WCA Competition for which they apply.
 
 ### Expense Reimbursement Processes
 1. Receipts are required for all expenses (except mileage)
