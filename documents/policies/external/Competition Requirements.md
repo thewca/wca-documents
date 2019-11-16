@@ -118,7 +118,18 @@ The WCA Delegate must submit the following information when requesting approval 
       1. Each registration period must be announced publicly on the WCA website at least 48 hours before it starts.
          1. The competition's WCA Delegate(s) and/or organizer(s) may register for the competition prior to the first registration period, however their registration(s) must not be approved until the first registration period has started.
       2. Different registration periods may have different registration requirements (e.g. restricting which events a competitor can register for).
-   3. Different locations for multi-location competitions may have different registration requirements (e.g. competitor limit).
+   3. The deadline for updating registered events for competitors with completed registrations must be outlined.
+      1. This deadline will either be at the same time as registration closes or after registration has closed.
+         1. The deadline may be set to be just before an event is scheduled to take place. 
+      2. Competitors may choose not to compete in an event they are registered for.
+   4. The organization team must outline the conditions of the waiting list, and if one is in place.
+      1. If a waiting list is in place:
+         1. Registrants will be placed on the waiting list if they have completed all requirements for a valid registration, but the competitor limit has been filled. Registrants from the waiting list will be accepted in the order that their registration was completed once a spot becomes available.
+         2. It must be stated what the deadline is to be accepted for a registrant on the waiting list.
+            1. This deadline should be the same as the deadline for refunds for competitors canceling their registration, if (partial) refunds are to be given.
+         3. The organization team may specify a limit to the waiting list. Once the limit of the waiting list has been reached, the Delegate should inform the WCAT to close the registration period.
+      2. If a waiting list is not in place, the Delegate should inform the WCAT once the competitor limit has been filled so the registration period can be closed.
+   5. Different locations for multi-location competitions may have different registration requirements (e.g. competitor limit).
 7. Events
    1. Each event must have a planned number of rounds.
       1. Each round of each event must have a planned format and time limit.
