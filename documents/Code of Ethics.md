@@ -65,13 +65,13 @@ The official communication channel for the WEC is via email. For any concerns ab
    4. Delegates and Organizers should only be officially listed for a competition if they perform a significant role.
       1. Delegates and Organizers should agree on their roles for the competition before the competition is announced.
 4. **Conflicts of Interest**
-   1. WCA Staff must report all potential conflicts of interest that may arise and affect their WCA Staff role to the WEC using [this form]{https://docs.google.com/forms/d/e/1FAIpQLSca81GIwjguJoWrPcbgabkRpdgJqbusIf9RBR7ObNNNL9kvqw/viewform?usp=sf_link} . These include, but are not limited to:
+   1. WCA Staff must report all potential conflicts of interest that may arise and affect their WCA Staff role to the WEC using [this form](https://docs.google.com/forms/d/e/1FAIpQLSca81GIwjguJoWrPcbgabkRpdgJqbusIf9RBR7ObNNNL9kvqw/viewform?usp=sf_link). These include, but are not limited to:
       1. Sponsorships
       2. A stake in businesses trading within the cubing community.
          1. Example: Being the owner of a cubing store/business.
    2. WCA Staff must not receive sponsorship(s) for their role within the WCA.
       1. Any sponsorship details of a WCA Staff member as a competitor must be reported to the WEC.
-   3. WCA Staff must not use their role to promote a third party brand who are not [a WCA-recognized regional organization](https://www.worldcubeassociation.org/organizations), the competition sponsor(s), or sponsors of the WCA. This includes but is not limited to:
+   3. WCA Staff must not use their role to promote a third party brand who are not a [WCA-recognized regional organization](https://www.worldcubeassociation.org/organizations), the competition sponsor(s), or sponsors of the WCA. This includes but is not limited to:
       1. Promotions in emails to competitors
       2. References in the email signature block
    4. WCA Delegates must not wear apparel which could reasonably be interpreted as an official affiliation or agreement with the WCA.
