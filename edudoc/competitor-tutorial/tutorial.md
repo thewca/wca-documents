@@ -33,3 +33,4 @@ and make sure that all the scrambles are correct.
 ## Objects at the competition
 - **Stackmat timer**: This is the official device for measuring times at a competition.
 It can look like any of the three versions below.
+![Timers](images/stackmat_timers.png)
