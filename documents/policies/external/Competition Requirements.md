@@ -42,6 +42,7 @@ competition.
       2. The competition website cannot advertise any specific products or services of the sponsor, including any endorsements of quality or price.
    3. The competition website may acknowledge the sponsorship contribution.
 10. Competitions with proceeds going to a charity must indicate so on the competition website, preferably in the Information section of the 'General info' tab. The name of the charity must be included. Any such charity needs to be recognized in the country where the competition is held.
+   1. Having this indicated on the competition website must be done as soon as the charity of the proceeds for has been decided. This must be done prior to the competition taking place. Decisions of charities decided after the competition has taken place must be approved by the Ethics Committee.
 
 If WCA Regulations are not correctly observed during a competition, results may be modified at the discretion of the WCA Delegate, WCA Regulations Committee, WCA Results Team, WCA Disciplinary Committee, or the WCA Board.
 
@@ -116,19 +117,20 @@ The WCA Delegate must submit the following information when requesting approval 
             2. Not having enough money to pay the registration fee.
    2. The registration period(s) must be a clearly defined time range with a start and end time and date.
       1. Each registration period must be announced publicly on the WCA website at least 48 hours before it starts.
-         1. The competition's WCA Delegate(s) and/or organizer(s) may register for the competition prior to the first registration period, however their registration(s) must not be approved until the first registration period has started.
+         1. An active registration period may be extended after request of the Delegate.
+         2. The competition's WCA Delegate(s) and/or organizer(s) may register for the competition prior to the first registration period, however their registration(s) must not be approved until the first registration period has started.
       2. Different registration periods may have different registration requirements (e.g. restricting which events a competitor can register for).
    3. The deadline for updating registered events for competitors with completed registrations must be outlined.
-      1. This deadline will either be at the same time as registration closes or after registration has closed.
+      1. This deadline must not be earlier than the time registration is set to close. 
          1. The deadline may be set to be just before an event is scheduled to take place. 
       2. Competitors may choose not to compete in an event they are registered for.
-   4. The organization team must outline the conditions of the waiting list, and if one is in place.
+   4. The organization team must outline the conditions of the waiting list.
       1. If a waiting list is in place:
          1. Registrants will be placed on the waiting list if they have completed all requirements for a valid registration, but the competitor limit has been filled. Registrants from the waiting list will be accepted in the order that their registration was completed once a spot becomes available.
          2. It must be stated what the deadline is to be accepted for a registrant on the waiting list.
             1. This deadline should be the same as the deadline for refunds for competitors canceling their registration, if (partial) refunds are to be given.
-         3. The organization team may specify a limit to the waiting list. Once the limit of the waiting list has been reached, the Delegate should inform the WCAT to close the registration period.
-      2. If a waiting list is not in place, the Delegate should inform the WCAT once the competitor limit has been filled so the registration period can be closed.
+         3. The organization team may specify a limit to the waiting list. Once the limit of the waiting list has been reached, the Delegate should inform the WCAT to close the registration period. 
+            1. In case a limit was not set in advance, the Delegate may contact the WCAT to request to have the registration period closed if the waiting list has become unreasonably long.
    5. Different locations for multi-location competitions may have different registration requirements (e.g. competitor limit).
 7. Events
    1. Each event must have a planned number of rounds.
@@ -137,8 +139,8 @@ The WCA Delegate must submit the following information when requesting approval 
       3. A round may have a cutoff. A round with a cutoff is a combined round, with the formats as per [WCA Regulation 9b)](wca{regulations/#9b}).
    2. Only results from events that appear on the competition website in the Events tab and Schedule will be recognized.
       1. Other events may only be held unofficially.
-   3. If the main event of the competition is not the 3x3x3 Cube, it should be publicly mentioned in the competition's information.
-      1. The main event should be the main focus of the competition by being recognizable in the competition schedule and having an appropriate proportion of rounds and attempts.
+   3. If the main event of the competition is not the 3x3x3 Cube, it should be publicly mentioned in the competition's information section of the 'General info' tab.
+      1. The main event should be recognizable in the competition schedule and having an appropriate proportion of rounds and attempts.
    4. An additional event may be added upon the WCA Delegate's request at the discretion of the WCAT. The competition must meet the following requirements for an additional event to be added:
       1. The competition is at least 7 days away.
       2. A registration period for the competition must have a minimum of 72 hours before it closes.
