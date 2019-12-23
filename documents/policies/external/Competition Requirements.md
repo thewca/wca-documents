@@ -179,4 +179,6 @@ The following information can be changed by the competition WCA Delegate without
 5. Advancement conditions ([WCA Regulation 9p)](wca{regulations/#9p}))
 6. Scheduled time of a round
 
+Tabs on the competition website may be modified without the approval of the WCAT. This can be done as long as there is no contradicting information added. These tab edits may be modified without informing all registered competitors at the discretion of the Delegate.
+
 All other information submitted as part of the competition approval process may only be changed at the discretion of the WCA Competition Announcement Team or the WCA Board.
