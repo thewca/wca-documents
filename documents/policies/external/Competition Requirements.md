@@ -141,6 +141,8 @@ The WCA Delegate must submit the following information when requesting approval 
       1. Other events may only be held unofficially.
    3. If the main event of the competition is not the 3x3x3 Cube, it should be publicly mentioned in the competition's information section of the 'General info' tab.
       1. The main event should be recognizable in the competition schedule and having an appropriate proportion of rounds and attempts.
+      2. Only WCA sanctioned events may be considered the main event of the competition.
+      3. There may be no main event of the competition.
    4. An additional event may be added upon the WCA Delegate's request at the discretion of the WCAT. The competition must meet the following requirements for an additional event to be added:
       1. The competition is at least 7 days away.
       2. A registration period for the competition must have a minimum of 72 hours before it closes.
