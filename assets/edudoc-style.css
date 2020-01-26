@@ -2,6 +2,7 @@ body {
     margin 0;
     padding 0;
     font-family: arial;
+    font-size: 18px;
 }
 
 h1 {
@@ -13,14 +14,33 @@ img.logo {
     padding: 20px;
 }
 
-.important {
-	background: #f00;
-	border-style: solid;
+li {
+    padding: 5px 0 5px 0;
+}
+
+.box {
+    border-style: solid;
 	font-weight: bold;
-	text-align: center;
+    text-align: center;
+    margin: 20px;
+    padding: 5px;
+}
+
+.attention {
+	background: #fbe5a3;
+}
+
+.important {
+	background: #d26d6a;
 }
 
 .important p::before {
     font-family: monospace;
     content: 'IMPORTANT: ';
+}
+
+.centered {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
