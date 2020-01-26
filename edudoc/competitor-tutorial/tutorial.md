@@ -74,30 +74,30 @@ The judge must not sign the score sheet before they have recorded the result!
 
 ## Competition Procedure
 
-- **Event**: 
+### Event: 
 WCA competitions have one or more events. The most common event is the normal 3x3x3 Cube, but in total there are 18 official events.
 
-- **Round**: 
+### Round: 
 Most events usually have multiple rounds: a first round with every competitor for the event, and possibly further ones that only some of the competitors advance to.
 
-- **Groups**: 
+### Groups: 
 Every round is divided into one or more groups. This helps prevent crowding timer stations with all the competitors in a round. Most competitions also rely on competitors to judge, run, and scramble for each other in the same round, and dividing competitors into multiple groups with different scrambles allows them to help without seeing a scramble that they will attempt in the future. 
 
-- **Submitting your puzzle**: 
+### Submitting your puzzle: 
 When your group gets called, you must be ready to submit your puzzle. You will find score sheets placed on the assigned table; search for the one with your name on, put your puzzle on it, and then go to the waiting area. 
 
 ::::: {.box .attention}
 Remember that you must be ready to submit your puzzle as soon as your group is called!
 :::::
 
-- **Stationary judges or running judges**: 
+### Stationary judges or running judges: 
 Competitions use different systems, so judges have slightly different roles and duties based on what system is being used.
 
 A stationary judge will sit at the same solving station and judge multiple competitors in a row. The runners will take the puzzles from the scrambling table, call the competitors, and distribute them to the stationary judges. The duties of the judges are just limited to the solving procedure.
 
 Running judges take the puzzles from the scrambling table, call the relevant competitors in the waiting area, bring them to a station, follow the solving procedure, and then bring the puzzle back to the scrambling table.
 
-- **Starting the solve**:
+### Starting the solve:
 Before each attempt, the judge needs to ensure that the timer is on and has been reset.
 When the competitor sits down at the station, the judge/runner puts the covered puzzle on the mat and then waits until the competitor is ready to start the attempt. Note that competitors have one minute to start the attempt once they sit at the station.
 
@@ -111,20 +111,14 @@ The judge needs to make sure that the competitor is ready!
 Remember that you have 1 minute to start your attempt once you sit at the station with the puzzle placed on the mat!
 :::::
 
-- **Inspection**:
+### Inspection:
 The inspection phase starts when the competitor confirms to the judge that they are ready by saying “Yes” (or another clear gesture). At this point, the judge lifts the cover and starts a stopwatch to measure the inspection phase. During inspection, the competitor has a maximum of 15 seconds to inspect the puzzle. They may pick up the puzzle and look at it from all sides, but must not apply any move. If the competitor makes a move, the judge disqualifies the solve and the attempt is over. The following table shows what actions occur during inspection.
 
-
-Time
-Action
-8 seconds
-Judge calls “8 seconds”
-12 seconds
-Judge calls “12 seconds”
-15 seconds
-Judge does not stop the attempt, but will add a +2 second penalty at end of solve.
-17 seconds
-Judge stops the attempt and applies a DNF
+| Time          | Action                                    | 
+| ------------- |:-----------------------------------------:| 
+| 8 seconds     | Judge calls "8 seconds"                   | 
+| 12 seconds    | Judge calls "12 seconds"                  |  
+| 15 seconds    | Judge does not stop the attempt, but will add a +2 second penalty at end of solve | | 17 seconds    | Judge stops the attempt and applies a DNF |   
 
 ::::: {.box .important}
 The competitor has up to 15 seconds to inspect the puzzle!
@@ -135,9 +129,9 @@ Remember that during inspection the competitor is not allowed to apply any moves
 :::::
 
 Once the competitor starts their solve, the inspection phase ends, and the judge will not perform any more actions from the inspection phase.
-The judge has to start the stopwatch as soon as they lift the cover and to stop it only when the competitor lifts the hands from the timer (and hence starts the timer). 
+The judge has to start the stopwatch as soon as they lift the cover and to stop it only when the competitor **lifts the hands from the timer** (and hence starts the timer). 
 
-- **Solving**:
+### Solving:
 At the end of inspection, the competitor puts the puzzle on the mat (in any orientation) and places their hands on the timer sensors to start the timer. Choosing when to start the solve it’s up to the competitor and they can do that at any point during the inspection phase. The competitor must not be touching the puzzle, and their hands must be palms down with their fingers touching the sensors. They will see a red light, then a green light. When the light goes green, the competitor can then start the solving phase by lifting their hands from the timer and beginning their solve.
 
 ::::: {.box .important}
@@ -148,7 +142,7 @@ The competitor must wait for the green light before starting the timer!
 Remember that for starting the solve the competitor’s hands must be flat, palms down and must touch the sensors with their fingers, not their palms!
 :::::
 
-- **Stopping the solve**:
+### Stopping the solve:
 When the puzzle is solved, the competitor stops the timer by putting their hands on the sensors. They must not be touching the puzzle and their hands must be flat with palms down.
 
 ::::: {.box .attention}
@@ -161,7 +155,7 @@ The judge checks if the puzzle is solved or not, and confirms the correctness to
 If any help is needed on a decision, or if something irregular happens, please contact the WCA Delegate without hesitation.
 :::::
 
-- **Administration**:
+### Administration:
 Once the solve is done the judge writes the result on the score sheet, and then signs it. The competitor, after checking that the result is written correctly and clearly readable and that the judge has signed, signs the score sheet as well, to accept it.
 
 If the competitor has more attempts left, the competitor then needs to go back to the waiting area. The judge places the puzzle and the score sheet in the cover and then the judge/runner takes it back to the scrambling table.
@@ -173,6 +167,10 @@ Both the judge and the competitor must confirm the result on the score sheet wit
 ::::: {.box .attention}
 Remember that the competitor needs to check that the written time is correct and readable before signing the attempt!
 :::::
+
+## Important Regulations
+
+- **Starting the solve**:
 
 
 
