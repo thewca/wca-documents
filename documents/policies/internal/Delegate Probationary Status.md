@@ -1,6 +1,6 @@
 # WCA Delegate Probationary Status Policy
 <div class="version">
-### Version 1.1
+### Version 1.2
 </div>
 
 ## Policy
@@ -31,7 +31,7 @@ At the discretion of the Senior Delegate, Delegates may be placed on probation d
 
 At the discretion of the Senior Delegate, Delegates on this type of probation shall be subject to restrictions, including, but not limited to, any or all of the following:
 
-1. The Delegate may not be permitted to delegate competitions without another Delegate (or Candidate Delegate) present at the competition.
+1. The Delegate may not be permitted to delegate competitions without another Delegate present at the competition.
 2. The Delegate may be restricted to competitions that have a lower competitor limit, set by the Senior Delegate.
 3. The Delegate may be required to have the schedule approved by the WQAC and/or Senior Delegate before submitting competitions for announcement.
 4. The Delegate may not have any competitions announced until communication is re-established and outstanding issues are resolved.
