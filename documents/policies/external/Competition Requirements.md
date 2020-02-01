@@ -19,9 +19,7 @@ An official WCA Competition must:
 6. Have at least one official event.
 7. Have at least one competitor.
 8. Have at least one designated WCA Delegate in attendance.
-   1. Exception: in case the WCA Delegate cannot attend the competition, the WCA Board may
-appoint a trusted person to act as a temporary WCA Candidate Delegate for the
-competition.
+   1. Exception: in case the WCA Delegate cannot attend the competition, the WCA Board may appoint a trusted person to act as a temporary WCA Delegate for the competition.
    2. The WCA Delegate for a competition is responsible for:
       1. Submitting the Delegate Report to the WCA Regulations Committee and the WCA Quality Assurance Committee regarding adherence to WCA Regulations and quality standards during the competition, the overall course of the competition, and any incidents that happened. The report must be submitted within one week of the end of the competition.
       2. Submitting the competition results to the WCA Results Team within one week of the end of the competition.
