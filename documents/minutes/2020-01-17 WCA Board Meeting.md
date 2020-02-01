@@ -13,7 +13,7 @@ Henrik Buus Aagaard <br>
 Robert Burton <br>
 </div>
 
-<b class="text-center">WCA Motion Amendments</b>
+<b class="text-center">WCA MOTION AMENDMENTS</b>
 
 The Board discussed the feedback from Staff from the proposed amendments to the Motions.
 
