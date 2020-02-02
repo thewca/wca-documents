@@ -3,7 +3,7 @@
 ## WCA Organization - General Introduction
 ![WCA logo](https://www.worldcubeassociation.org/files/WCAlogo_notext.svg){.logo height=133px}
 The World Cube Association is the organization responsible for organizing speedcubing competitions all around the world.
-Every competition that is sanctioned by the WCA has to follow the WCA Regulations and Guidelines,
+Every competition that is sanctioned by the WCA has to follow the WCA [Regulations](https://www.worldcubeassociation.org/regulations/) and [Guidelines](https://www.worldcubeassociation.org/regulations/guidelines.html),
 so it's very important that you are familiar with them before going to a competition.
 
 This document will guide you through the basics of competing and judging. Reading this document can be very helpful
@@ -37,6 +37,8 @@ It can look like any of the three versions below.
 ::::: {}
 ![](images/stackmat_timers.png){.centered height=200px}
 :::::
+
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 - **Mat**: Stackmat timers must be used with accompanying mats. The mat helps prevent puzzles from sliding at the end of the attempt.
 
@@ -118,7 +120,10 @@ The inspection phase starts when the competitor confirms to the judge that they 
 | ------------- |:-----------------------------------------:| 
 | 8 seconds     | Judge calls "8 seconds"                   | 
 | 12 seconds    | Judge calls "12 seconds"                  |  
-| 15 seconds    | Judge does not stop the attempt, but will add a +2 second penalty at end of solve | | 17 seconds    | Judge stops the attempt and applies a DNF |   
+| 15 seconds    | Judge does not stop the attempt, but will add a +2 second penalty at end of solve | 
+| 17 seconds    | Judge stops the attempt and applies a DNF |   
+
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 ::::: {.box .important}
 The competitor has up to 15 seconds to inspect the puzzle!
@@ -155,6 +160,8 @@ The judge checks if the puzzle is solved or not, and confirms the correctness to
 If any help is needed on a decision, or if something irregular happens, please contact the WCA Delegate without hesitation.
 :::::
 
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
 ### Administration:
 Once the solve is done the judge writes the result on the score sheet, and then signs it. The competitor, after checking that the result is written correctly and clearly readable and that the judge has signed, signs the score sheet as well, to accept it.
 
@@ -172,6 +179,107 @@ Remember that the competitor needs to check that the written time is correct and
 
 - **Starting the solve**:
 
+[Regulation A4)](https://www.worldcubeassociation.org/regulations/#A4) is the rule which indicates how to start the timer correctly.
 
+::::: {}
+![](images/RegA4.png){.centered width=90%}
+:::::
 
+::::: {.box .attention}
+Remember that starting the solve incorrectly leads to penalties!
+:::::
 
+- **During the solve**:
+
+[Regulation A5)](https://www.worldcubeassociation.org/regulations/#A5) explains the rules during the solve.
+During the whole solve, you can only talk to your judge or to the WCA Delegate, you can’t receive any external help from any objects or person. Penalty for either infraction is a DNF.
+
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
+- **Stopping the timer**:
+
+[Regulation A6)](https://www.worldcubeassociation.org/regulations/#A6) is the rule which explains how to stop the timer correctly.
+
+::::: {}
+![](images/RegA6.png){.centered width=90%}
+:::::
+
+::::: {.box .attention}
+Remember that stopping the solve incorrectly leads to penalties!
+:::::
+
+- **Misalignments**:
+
+| <!-- --> | <!-- --> ![](){width=650px} | 
+| --- | --- | 
+| ![](images/nopenalty.jpg){width=150px} | **No penalty:** the cube is solved and the misalignments of all layers compared with their adjacent layers are below 45°. | 
+| ![](images/plus2.jpg){width=150px} | **+2:** the cube is solved, but the misaligned layer exceeds 45°, which means the cube is one move away from being solved. Please note that the WCA Regulations consider all states of the puzzle to be one move away from the solved state if you have to turn only one side of the puzzle to reach the solved state – **even if it’s a double turn.** |  
+| ![](images/unclear.jpg){width=150px} | **Ask the Delegate:** If it’s not clear whether a +2 penalty should be applied or not, **don’t touch the puzzle** and call a Delegate to the station. | 
+| ![](images/DNF2moves.jpg){width=150px} | **DNF:** When more than one move is required to solve the puzzle, the result of the attempt is DNF. |
+| ![](images/DNFslice.jpg){width=150px} | **DNF:** If a middle layer of the puzzle is misaligned, this counts as two moves required to solve, as only outer layer turns are counted. Therefore, the result of the attempt is DNF. |
+
+::::: {.box .important}
+If you are unsure about penalties, always ask a Delegate!
+:::::
+
+## Formats
+
+Depending on the event there are different ways of calculating the results that are used to rank competitors. The most common ones are:
+
+- **Average of 5**: Every competitor gets 5 attempts. When they’re all done the best and the worst results are discarded and the average is calculated using the remaining 3 results.
+
+- **Mean of 3**: Every competitor gets 3 attempts. The average is calculated using those 3 results.
+
+- **Best of X**: Every competitor gets X attempts, where X equals either 1, 2 or 3. The best results among those X attempts is the final result.
+
+## Important Definitions
+
+- **Cutoff**: Some events may have a “combined round”. Most of the time the format for this is either “Best of 2 / Average of 5” or “Best of 1 / Mean of 3”. In both cases, there is also a certain time, the cutoff, provided as well. This means that you will first do one or two attempts, and if neither result is under the cutoff, you are done with the round. If you managed to get at least one resolution below the cutoff, those solves already count as the beginning of your average/mean, and you can continue with the round.
+
+- **Time limit**: The time limit is the maximum time a competitor can use for an attempt. If a competitor reaches the time limit the judge stops the competitor immediately and assigns them a DNF for the solve. Some events have cumulative time limits. A cumulative time limit works like a normal time limit, but it’s applied to the sum of all your results for the entire round and not individual results. In case of a cumulative time limit, if the result is a DNF, then the time taken to get that DNF is also written in brackets.  
+
+- **DNF**: Did Not Finish. DNF is the worst result in speedcubing and is generally given as a penalty.
+
+- **DNS**: Did Not Start. DNS means that the competitor did not start the attempt. (Note: The attempt starts with the inspection phase, not with the solving.) DNS results are usually not assigned by judges.
+
+- **Extra** attempt: In certain situations, you might receive an extra attempt. This means that you get the chance of redoing an attempt on an extra scramble because in the previous one something happened that disadvantaged you. Only Delegates can assign extra attempts, so always report any incident to them.
+
+::::: {.box .important}
+Extra attempts can be given only by a Delegate!
+:::::
+
+::::: {}
+![](images/coverInfographic.png){.centered width=95%}
+:::::
+
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
+## You should...
+
+- **... never talk about the scrambles before the end of the round.**
+<p style="text-align: right;"> *You will have plenty of time to discuss them later in the day. :)* </p>
+
+- **... never talk to someone during your solves (other than your judge or a Delegate).**
+<p style="text-align: right;"> *It will never be so important to risk getting a DNF because of it.* </p>
+
+- **... never disturb a competitor when you are judging (e.g. playing with your phone or with your puzzle or talking to someone).**
+<p style="text-align: right;"> *You don’t want to be disturbed during your attempts, make sure that others won’t be disturbed by you.* </p>
+
+- **... never talk to a competitor when you are judging, other than telling them “Ready?”, “8 seconds”, “12 seconds” or confirming results or when resolving incidents.**
+<p style="text-align: right;"> *Any other talk can be disturbing for them.* </p>
+
+- **... never touch the puzzle if it’s misaligned after the competitor has stopped the timer.**
+<p style="text-align: right;"> *If you do so, you could influence the Delegate’s decision. Call them immediately to the station.* </p>
+
+- **... never use your phone/camera for recording solves with a screen facing you.**
+<p style="text-align: right;"> *Front-facing cameras automatically invalidate (DNF) the affected solve.* </p>
+
+- **... never round the results when you are a judge.**
+<p style="text-align: right;"> *Results should be recorded exactly as displayed on the timer, not rounded off.
+(E.g. 14.587 should not be recorded as 14.59 and 14.500 should not be recorded as 14.5)* </p>
+
+- **... never use flash photography at a competition.**
+<p style="text-align: right;"> *It’s not a good feeling to be blinded during your official solves.* </p>
+
+- **... never make a decision when you are not 100% sure if it’s correct or not.**
+<p style="text-align: right;"> *Make sure to adhere with the WCA Regulations and ask a Delegate!* </p>
