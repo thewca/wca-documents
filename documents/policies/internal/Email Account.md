@@ -1,6 +1,6 @@
 # WCA Email Account Policy
 <div class="version">
-Version 1.0
+Version 1.1
 </div>
 
 ## Purpose
@@ -29,7 +29,7 @@ Staff must not use their WCA email to:
 Staff should not use their WCA email for personal reasons.
 
 ### Email Signature
-Staff are encouraged to create a professional email signature. Here is a sample acceptable email signature:  
+Staff are encouraged to create a professional email signature. Staff email signatures should not contain logos or unnecessary textual references. Here is a sample acceptable email signature:  
 **Mike Miller**  
 *Member of the WCA Results Team*  
 *WCA Delegate for United States (New York)*
