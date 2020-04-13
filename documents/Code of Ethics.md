@@ -1,6 +1,6 @@
 # Code of Ethics
 <div class="version">
-### Version 2.0
+### Version 2.1
 </div>
 
 The Code of Ethics must be considered by all Staff members of the World Cube Association (WCA), referred to in this document as “WCA Staff”, as a standard for actions and decisions they will be making when acting on behalf of the WCA within their role. “Listed Delegates” refers to WCA Delegates who are publicly displayed on the “General info” tab of an official WCA Competition.
@@ -49,6 +49,8 @@ The official communication channel for the WEC is via email. For any concerns ab
    2. WCA Delegates must communicate with other Delegates in their region and/or in any region they are planning to delegate a competition.
    3. All work done within the WCA is confidential and must not be disclosed to non-WCA Staff members without explicit permission from relevant members.
       1. Delegates may provide relevant feedback to the Organizers but must not give visibility of sensitive information, or sections written by other Delegates.
+   4. WCA Staff should be professional, respectful, and provide a positive reflection of the organization.
+      1. WCA Staff should always be aware of their target audience (e.g. their age, experience, nationality, etc.) and their tone/language when they make statements while acting in their capacity as WCA Staff.
 3. **Conduct of Official WCA Competitions**
    1. Decisions on incidents required to be made by a WCA Delegate must only be made by those listed on the WCA competition page.
       1. Non-listed Delegates can make decisions on incidents only with the approval of the listed Delegate(s).
@@ -74,8 +76,8 @@ The official communication channel for the WEC is via email. For any concerns ab
    3. WCA Staff must not use their role to promote a third party brand who are not a [WCA-recognized regional organization](https://www.worldcubeassociation.org/organizations), the competition sponsor(s), or sponsors of the WCA. This includes but is not limited to:
       1. Promotions in emails to competitors
       2. References in the email signature block
-   4. WCA Delegates must not wear apparel which could reasonably be interpreted as an official affiliation or agreement with the WCA.
-      1. Delegates may wear personal sponsorship apparel while they are competing at a competition.
+   4. Listed WCA Delegates must not wear apparel which could reasonably be interpreted as an official affiliation or agreement with the WCA.
+      1. Delegates may wear personal sponsorship apparel while they are competing.
    5. Organizers must handle decisions on competition sponsors.
       1. Delegates may provide advice and should ensure that the competition organization team is negotiating a fair deal.
    6. WCA Staff must take all steps possible to exclude themselves from any decisions in which they have a conflict of interest.
@@ -89,9 +91,6 @@ The official communication channel for the WEC is via email. For any concerns ab
       2. Unfair conditions at competitions
       3. Unfair treatment of competitors
    3. WCA Staff must not use their permissions to take actions which are outside of the scope of their role within the WCA.
-6. **WCA Representation**
-   1. WCA Staff should be professional, respectful, and provide a positive reflection of the organization.
-      1. WCA Staff should always be aware of their target audience (e.g. their age, experience, nationality, etc.) and their tone/language when they make statements while acting in their capacity as WCA Staff.
-   2. WCA Staff must not sign contracts on behalf of the WCA without prior approval of the WCA Board.
+   4. WCA Staff must not sign contracts on behalf of the WCA without prior approval of the WCA Board.
       1. This includes presenting the WCA’s IRS Determination letter or using the WCA’s non-profit status as part of the organization of a competition.
       2. WCA Staff may prove their role to 3rd parties (such as venues) by requesting the Board of Directors for a document with the WCA's letterhead.
