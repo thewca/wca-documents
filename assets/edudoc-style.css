@@ -20,18 +20,18 @@ li {
 
 .box {
     border-style: solid;
-	font-weight: bold;
+	  font-weight: bold;
     text-align: center;
     margin: 20px;
     padding: 5px;
 }
 
 .attention {
-	background: #fbe5a3;
+	  background: #fbe5a3;
 }
 
 .important {
-	background: #d26d6a;
+	  background: #d26d6a;
 }
 
 .important p::before {
