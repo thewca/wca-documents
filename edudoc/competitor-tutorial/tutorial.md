@@ -136,7 +136,7 @@ Remember that during inspection the competitor is not allowed to apply any moves
 
 Once the competitor starts their solve, the inspection phase ends, and the judge will not perform any more actions from the inspection phase.
 
-The judge has to start the stopwatch as soon as they lift the cover and to stop it only when the competitor **lifts the hands from the timer** (and hence starts the timer).
+The judge has to start the stopwatch as soon as they lift the cover and to stop it only when the competitor **lifts their hands from the timer** (and hence starts the timer).
 
 ### Solving:
 At the end of inspection, the competitor puts the puzzle on the mat (in any orientation) and places their hands on the timer sensors to start the timer. Choosing when to start the solve is up to the competitor and they can do that at any point during the inspection phase. The competitor must not be touching the puzzle, and their hands must be flat, facing palms down with their fingers touching the sensors. The competitor can then start the solving phase by lifting their hands from the timer and beginning their solve.
@@ -158,14 +158,14 @@ When the puzzle is solved, the competitor stops the timer by putting their hands
 Remember that for stopping the solve the competitor’s hands must be flat with palms down! (Penalty: +2 seconds [A6d](http://wca.link/A6d))
 :::::
 
-The judge checks if the puzzle is solved or not, and confirms the correctness to the competitor: “OKAY”, “PENALTY” or “DNF.” The competitor is not allowed to touch the puzzle until the judge has clearly made a decision.
+The judge checks if the puzzle is solved or not, and tells the competitor the result: “OKAY”, “PENALTY” or “DNF.” The competitor is not allowed to touch the puzzle until the judge has clearly made a decision.
 
 ::::: {.box .important}
 If any help is needed on a decision, or if something irregular happens, please contact the WCA Delegate without hesitation.
 :::::
 
 ::::: {.box .important}
-Remeber that penalties are cumulative, so you might get multiple +2 second penalties on the same attempt.
+Remember that penalties are cumulative, so you might get multiple +2 second penalties on the same attempt.
 :::::
 
 ### Administration:
@@ -236,21 +236,21 @@ If you are unsure about penalties, always ask a Delegate!
 
 ## Important Definitions
 
-- **Formats** Depending on the event there are different ways of calculating the results that are used to rank competitors. The most common ones are:
+- **Formats** Depending on the event there are different ways of calculating the results that are used to rank competitors. The legal formats are:
 
   - **Average of 5**: Every competitor gets 5 attempts. When they’re all done the best and the worst results are discarded and the average is calculated using the remaining 3 results.
   - **Mean of 3**: Every competitor gets 3 attempts. The average is calculated using those 3 results.
   - **Best of X**: Every competitor gets X attempts, where X equals either 1, 2 or 3. The best results among those X attempts is the final result.
 
-- **Cutoff**: Some events may have a “combined round”. Most of the time the format for this is either “Best of 2 / Average of 5” or “Best of 1 / Mean of 3”. In both cases, there is also a certain time, the cutoff, provided as well. This means that you will first do one or two attempts, and if neither result is under the cutoff, you are done with the round. If you managed to get at least one resolution below the cutoff, those solves already count as the beginning of your average/mean, and you can continue with the round.
+- **Cutoff**: Some events may have a "Cutoff round”. Most of the time the format for this is either “Best of 2 / Average of 5” or “Best of 1 / Mean of 3”. In both cases, there is also a certain time, the cutoff, provided as well. This means that you will first do one or two attempts, and if neither result is under the cutoff, you are done with the round. If you managed to get at least one result below the cutoff you can continue with the round and finish your average/mean.
 
 - **Time limit**: The time limit is the maximum time a competitor can use for an attempt. If a competitor reaches the time limit the judge stops the competitor immediately and assigns them a DNF for the solve. Some events have cumulative time limits. A cumulative time limit works like a normal time limit, but it’s applied to the sum of all your results for the entire round and not individual results. In case of a cumulative time limit, if the result is a DNF, then the time taken to get that DNF is also written in brackets.  
 
 - **DNF**: Did Not Finish. DNF is the worst result in speedcubing and is generally given as a penalty.
 
-- **DNS**: Did Not Start. DNS means that the competitor did not start the attempt. (Note: The attempt starts with the inspection phase, not with the solving.) DNS results are usually not assigned by judges.
+- **DNS**: Did Not Start. DNS means that the competitor was eligible for the attempt but declined it. (Note: The attempt starts with the inspection phase, not with the solving.) DNS results are usually not assigned by judges.
 
-- **Extra attempt**: In certain situations, you might receive an extra attempt. This means that you get the chance of redoing an attempt on an extra scramble because in the previous one something happened that disadvantaged you. Only Delegates can assign extra attempts, so always report any incident to them.
+- **Extra attempt**: In certain situations, you might receive an extra attempt. This means that you get the chance of redoing an attempt using an extra scramble because there was an incident during the original attempt. Only Delegates can assign extra attempts, so always report any incident to them.
 
 ::::: {.box .important}
 Extra attempts can be given only by a Delegate!
