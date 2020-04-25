@@ -25,9 +25,7 @@ In some cases, a Delegate may start off as a Trainee Delegate instead, during a 
 - A reasonable response rate is generally expected from Delegates. A reasonable response rate is usually within 48 hours and at most within a week, unless special circumstances arise.
 - The information exchanged over the Delegates' mailing list is confidential. These are conversations among Delegates and there is no reason for them to leave the list except as part of official announcements by the Board or the Committees/Teams.
 
-<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
-
-## On accepting to delegate a competition
+## On accepting to delegate a competition {.page-break-before}
 *(added on Sep. 20, 2016)*
 
 - The Delegate must make sure that the organization team is able to hold the competition with all the guarantees
@@ -152,9 +150,7 @@ Examples corresponding to the list above:
 - Permitted: "Luis J. Iáñez", "Luis Javier Iáñez", "Javier Iáñez", "LJ Iáñez"
 - **Not** permitted: "L. J. Iáñez", "L. Javier Iáñez", "Luis Javier I.", "L. J. I."
 
-<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
-
-### Scoretaking during the competition
+### Scoretaking during the competition {.page-break-before}
 Scoretakers should be instructed to alert a Delegate if any of the following happen:
 
 - A scorecard is missing a signature. The Delegate should find the competitor and/or judge to rectify the missing signature. Otherwise, the attempt must be recorded as DNF.
