@@ -5,10 +5,11 @@ addons:
     - worldcubeassociation.org
     - staging.worldcubeassociation.org
 before_install:
-  # Decrypt the RSA key file.
-  - openssl aes-256-cbc -K $encrypted_d2c91d5e690a_key -iv $encrypted_d2c91d5e690a_iv -in .travis/deploy_rsa.enc -out /tmp/deploy_rsa -d
   - sudo bin/install_dependencies.sh
 script: bin/build.sh
+before_deploy:
+  # Decrypt the RSA key file.
+  - openssl aes-256-cbc -K $encrypted_d2c91d5e690a_key -iv $encrypted_d2c91d5e690a_iv -in .travis/deploy_rsa.enc -out /tmp/deploy_rsa -d
 deploy:
   - provider: pages
     skip_cleanup: true
