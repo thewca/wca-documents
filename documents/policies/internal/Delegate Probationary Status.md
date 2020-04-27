@@ -1,6 +1,6 @@
 # WCA Delegate Probationary Status Policy
 <div class="version">
-### Version 1.2
+### Version 1.3
 </div>
 
 ## Policy
@@ -14,10 +14,11 @@ Delegates who submit late reports and/or results for two consecutive competition
 2. The Delegate will remain on probation until they demonstrate that they are capable of fulfilling their duties by submitting the report and results of at least three consecutive competitions on time.
 
 ### Probation Due to Late Dues
-As per the WCA Dues System Policy, Delegates who have outstanding payments without explicit approval by the WFC, shall be placed on probation.
+Delegates who have outstanding payments for competition dues or gear orders without explicit approval by the WFC, shall be placed on probation.
 
-1. Unless the Delegate has a valid reason for the late payment (i.e. an exceptional circumstance), as determined by the WFC, then the Delegate will not be allowed to announce any new competitions as Delegate until their outstanding balance is paid. (Exception: 3x3x3 Fewest Moves simultaneous competitions are handled differently.)
+1. Unless the Delegate has a valid reason for the late payment (i.e. an exceptional circumstance), as determined by the WFC, then the Delegate will not be allowed to announce any new competitions, or place any new gear orders as Delegate until their outstanding balance is paid. (Exception: 3x3x3 Fewest Moves simultaneous competitions are handled differently.)
    1. Competitions that have already been announced will be unaffected; however, no new competitions may be announced.
+2. Following the payment of the outstanding balance, the Delegate may be placed on further probation limiting the number of upcoming competitions they may have announced at any one time and their ability to place gear orders, at the discretion of the WFC or Senior Delegate.
 
 ### Probation Due to Quality Issues
 At the discretion of the Senior Delegate, Delegates may be placed on probation due to quality issues, including, but not limited to:
