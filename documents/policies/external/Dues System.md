@@ -1,6 +1,6 @@
 # WCA Dues System Policy
 <div class="version">
-### Version 1.3
+### Version 1.4
 </div>
 
 ## Purpose
@@ -17,7 +17,7 @@ The WCA Dues System is a policy by which the WCA will collect revenue on a per-c
       1. Delegates who are not able to pay their Dues within 30 days should contact the WFC with a reason why payment cannot be made on time.
          1. Invoices not paid within 60 days of the date issued may be subject to disciplinary action.
             1. On a case-by-case basis the WFC will evaluate if the Delegate is experiencing an exceptional circumstance for why payment cannot be made on time. In such cases, special accommodations may be made on a one-time basis.
-            2. If Delegates do not have a valid reason for the late payment (i.e. an exceptional circumstance), then the Delegates will not be allowed to announce any new competitions as Delegate until their outstanding balance is paid.
+            2. If Delegates do not have a valid reason for the late payment (i.e. an exceptional circumstance), then the Delegates will not be allowed to announce any new competitions or place any new gear orders as Delegate until their outstanding balance is paid.
       2. Delegates with chronically late payments will be referred to their Senior Delegates for follow-up to ensure that future Dues are received on time.
          1. Frequent late payments may result in disciplinary action.
    3. WCA Delegates may pay the Due amount using either PayPal or Stripe.
