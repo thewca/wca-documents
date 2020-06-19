@@ -8,8 +8,10 @@ This policy provides a directive from the Board of Directors of The World Cube A
 
 ## Scope
 This policy applies to all WCA Staff, WCA Competition Organizers and WCA Community members in their capacity as competitors, volunteers or spectators at WCA Competitions. This policy sets out WCA’s commitment in relation to:
+
 1. Approach to the holding and cancellation of WCA Competitions
 2. Directives and recommendations at WCA Competitions to minimize the spread of the virus.
+
 Since the WCA itself does not organize competitions, the WCA are not responsible for damage or injury incurred at WCA-recognized competitions, including contraction of COVID-19. 
 
 ## Policy
