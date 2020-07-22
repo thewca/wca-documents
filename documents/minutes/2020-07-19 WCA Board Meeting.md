@@ -31,6 +31,10 @@ RESOLVED, that Copenhagen, Denmark shall be the host city of the WCA European Ch
 
 RESOLVED, that Toronto Canada shall be the host city of the WCA North American Championship 2022 on dates TBC.
 
+<b class="text-center">AMENDMENTS TO THE WCA REGULATIONS </b>
+
+RESOLVED, that the amendments to the WCA Regulations as proposed by the WRC are approved and shall go into effect from August 1, 2020.
+
 <b class="text-center">ANNUAL MEETING</b>
 
 The Board discussed planning and preparations for the 2020 Annual Meeting. Further information will be delivered to the relevant members at a later date.
