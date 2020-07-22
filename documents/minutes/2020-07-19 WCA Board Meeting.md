@@ -33,7 +33,7 @@ RESOLVED, that Toronto Canada shall be the host city of the WCA North American C
 
 <b class="text-center">AMENDMENTS TO THE WCA REGULATIONS </b>
 
-RESOLVED, that the amendments to the WCA Regulations as proposed by the WRC are approved and shall go into effect from August 1, 2020
+RESOLVED, that the amendments to the WCA Regulations as proposed by the WRC are approved and shall go into effect from August 1, 2020.
 
 <b class="text-center">ANNUAL MEETING</b>
 
