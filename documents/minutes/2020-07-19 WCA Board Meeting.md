@@ -25,11 +25,11 @@ The Board discussed a review of the WCA Competition Safety Policy and concluded 
 
 RESOLVED, that Almere, Netherlands shall be the host city of the WCA World Championship 2021 on July 22-25 2021.
 
-RESOLVED, that Semey, Kazakhstan shall be the host city of the WCA Asian Championship 2022 on July 6-9 2022
+RESOLVED, that Semey, Kazakhstan shall be the host city of the WCA Asian Championship 2022 on July 6-9 2022.
 
-RESOLVED, that Copenhagen, Denmark shall be the host city of the WCA European Championship 2022 on dates TBC
+RESOLVED, that Copenhagen, Denmark shall be the host city of the WCA European Championship 2022 on dates TBC.
 
-RESOLVED, that Toronto Canada shall be the host city of the WCA North American Championship 2022 on dates TBC
+RESOLVED, that Toronto Canada shall be the host city of the WCA North American Championship 2022 on dates TBC.
 
 <b class="text-center">ANNUAL MEETING</b>
 
