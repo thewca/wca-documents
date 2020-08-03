@@ -31,7 +31,6 @@ An official WCA Competition must:
       4. Advising other competition officials when necessary.
       5. Deciding about disqualifying competitors during the competition.
       6. Generating, providing, and maintaining the security of the scramble sequences ([WCA Regulation 4b2)](wca{regulations/#4b2})).
-      7. Making a copy of the WCA Regulations available at the competition.
    3. The WCA Delegate may delegate some of their responsibilities to organizers or other officials.
 9. Comply with the rules of “qualified sponsorship” set forth by Publication 598 of the Internal Revenue Service (IRS), as well as any additional rules or laws in the local country of the competition.
    1. The competition website may announce and display the business name or logo in connection with the competition.
@@ -42,7 +41,7 @@ An official WCA Competition must:
 10. Competitions with proceeds going to a charity must indicate so on the competition website, preferably in the Information section of the 'General info' tab. The name of the charity must be included. Any such charity needs to be recognized in the country where the competition is held.
    1. Having this indicated on the competition website must be done as soon as the charity of the proceeds for has been decided. This must be done prior to the competition taking place.
 
-If WCA Regulations are not correctly observed during a competition, results may be modified at the discretion of the WCA Delegate, WCA Regulations Committee, WCA Results Team, WCA Disciplinary Committee, or the WCA Board.
+If WCA Regulations are not correctly observed during a competition, results may be modified at the discretion of the WCA Delegate, WCA Regulations Committee, WCA Results Team, WCA Disciplinary Committee, WCA Ethics Committee, or the WCA Board.
 
 ### Announcement Criteria
 The WCA Delegate must submit the following information when requesting approval of a competition:
@@ -69,7 +68,7 @@ The WCA Delegate must submit the following information when requesting approval 
    12. Names should not contain any unnecessary parts in the name, like "competition".
    13. The competition nickname and ID must resemble the competition name.
        1. The competition nickname and ID should only be modified if the competition name is too long (more than 32 characters). Exception: groups of competitions may have modified nicknames and IDs to ensure consistency with past and future competitions.
-    14. Abbreviations and acronyms should be avoided unless the competition name is too long (more than 32 characters).
+   14. Abbreviations and acronyms should be avoided unless the competition name is too long (more than 32 characters).
 2. Location(s)
    1. A location consists of the country, city, and venue.
    2. The location should also include subregions of the country that are common to include with addresses (e.g. the state a U.S. city is located in).
@@ -104,37 +103,40 @@ The WCA Delegate must submit the following information when requesting approval 
       1. Exception: for 3x3x3 Fewest Moves simultaneous competitions, the competitor limit is per location.
    4. The WCA Competition Announcement Team will review the competitor limit and/or qualification results or rankings to ensure that they are utilized properly.
 6. Registration requirements
-   1. The registration requirements must be clear and precise.
-      1. The registration requirements must be available in English.
-      2. In addition to the English version, the registration requirements can be available in any other language and should be available in the local language.
-      3. If the registration requirements are not possible to be fulfilled by an individual due to reasons outside of their control, they are eligible for completing their registration following a suitable alternative approach, at the discretion of the Delegate. In case of such an inquiry, organizers must involve the Delegate, who must then carefully assess the individual's situation. If deemed appropriate, the Delegate and organizers must make reasonable efforts to provide an alternative approach for the individual to fulfilling the requirements.
+   1. The registration requirements are the set of rules and procedures relevant to the registration process.
+      1. The registration requirements must be clear and precise.
+         1. If an occurrence is not covered by the registration requirements, the organization team and Delegate(s) must make a decision based on fair sportsmanship.
+      2. The registration requirements must be available in English.
+      3. In addition to the English version, the registration requirements can be available in any other language and should be available in the local language.
+      4. If the registration requirements are not possible to be fulfilled by an individual due to reasons outside of their control, they are eligible for completing their registration following a suitable alternative approach, at the discretion of the Delegate. In case of such an inquiry, organizers must involve the Delegate, who must then carefully assess the individual's situation. If deemed appropriate, the Delegate and organizers must make reasonable efforts to provide an alternative approach for the individual to fulfilling the requirements.
          1. Possible reasons include, but are not limited to:
             1. Having an unsupported credit card for paying the registration fee.
          2. Exceptions must not be based on:
             1. Missing the registration deadline.
             2. Not having enough money to pay the registration fee.
-   2. The registration period(s) must be a clearly defined time range with a start and end time and date.
+   2. The registration requirements must include the registration period(s) with a clearly defined time range with a start and end time and date.
       1. Each registration period must be announced publicly on the WCA website at least 48 hours before it starts.
          1. An active registration period may be extended after request of the Delegate.
          2. The competition's WCA Delegate(s) and/or organizer(s) may register for the competition prior to the first registration period, however their registration(s) must not be approved until the first registration period has started.
       2. Different registration periods may have different registration requirements (e.g. restricting which events a competitor can register for).
-   3. The deadline for updating registered events for competitors with completed registrations must be outlined.
+   3. The registration requirements must include the procedure for completing a valid registration.
+   4. The registration requirements must include the deadline for updating registered events for competitors with completed registrations.
       1. This deadline must not be earlier than the time registration is set to close. 
          1. The deadline may be set to be just before an event is scheduled to take place. 
       2. Competitors may choose not to compete in an event they are registered for.
-   4. The organization team must outline the conditions of the waiting list.
+   5. The registration requirements must include the conditions of the waiting list.
       1. If a waiting list is in place:
          1. Registrants will be placed on the waiting list if they have completed all requirements for a valid registration, but the competitor limit has been filled. Registrants from the waiting list will be accepted in the order that their registration was completed once a spot becomes available.
          2. It must be stated what the deadline is to be accepted for a registrant on the waiting list.
             1. This deadline should be the same as the deadline for refunds for competitors canceling their registration, if (partial) refunds are to be given.
          3. The organization team may specify a limit to the waiting list. Once the limit of the waiting list has been reached, the Delegate should inform the WCAT to close the registration period. 
             1. In case a limit was not set in advance, the Delegate may contact the WCAT to request to have the registration period closed if the waiting list has become unreasonably long.
-   5. Different locations for multi-location competitions may have different registration requirements (e.g. competitor limit).
+   6. Different locations for multi-location competitions may have different registration requirements (e.g. competitor limit).
 7. Events
    1. Each event must have a planned number of rounds.
       1. Each round of each event must have a planned format and time limit.
       2. A round of an event must have planned advancement conditions if there is a subsequent round of the event.
-      3. A round may have a cutoff. A round with a cutoff is a combined round, with the formats as per [WCA Regulation 9b)](wca{regulations/#9b}).
+      3. A round may have a cutoff. A round with a cutoff is a cutoff round, with the formats as per [WCA Regulation 9b)](wca{regulations/#9b}).
    2. Only results from events that appear on the competition website in the Events tab and Schedule will be recognized.
       1. Other events may only be held unofficially.
    3. If the main event of the competition is not the 3x3x3 Cube, it should be publicly mentioned in the competition's information section of the 'General info' tab.
@@ -153,6 +155,7 @@ The WCA Delegate must submit the following information when requesting approval 
       1. A competition must be located in the region where the championship type is selected.
       2. A competition may have multiple championship types.
       3. A championship type for a region must only be assigned to one competition in a year.
+         1. Exception: Two competitions may have the same Championship status if one of the competitions has only 3x3x3 Fewest Moves as an event and the other competition does not hold the event 3x3x3 Fewest Moves. The two competitions must be held within two months of each other. This only applies to National Championships.
       4. An additional selection process is conducted by the WCA Board for organizing Continental and World Championships.
    2. Naming
       1. Continental and World Championships names must begin with "WCA".
