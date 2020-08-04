@@ -91,7 +91,7 @@ The WCA Delegate must submit the following information when requesting approval 
          1. A competitor is only permitted to participate in one of the twin competitions.
             1. If a competitor competes at more than one of the involved twin competitions, only the results from the competition that they compete in first will be kept.
 3. WCA Delegate(s)
-4. Organization team(s)
+4. Organization team
    1. Organization teams can be specific persons and/or organizations.
 5. Competitor limit
    1. The competitor limit can be on either a "first come first serve" basis or based upon qualification results or rankings in the WCA world rankings of a previously announced calendar date.
