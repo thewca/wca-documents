@@ -1,6 +1,6 @@
 # WCA Competition Requirements Policy
 <div class="version">
-### Version 2.0
+### Version 3.0
 </div>
 
 ## Purpose
@@ -31,7 +31,7 @@ An official WCA Competition must:
       4. Advising other competition officials when necessary.
       5. Deciding about disqualifying competitors during the competition.
       6. Generating, providing, and maintaining the security of the scramble sequences ([WCA Regulation 4b2)](wca{regulations/#4b2})).
-   3. The WCA Delegate may delegate some of their responsibilities to organizers or other officials.
+   3. The WCA Delegate may delegate some of their responsibilities to the organization team or other officials.
 9. Comply with the rules of “qualified sponsorship” set forth by Publication 598 of the Internal Revenue Service (IRS), as well as any additional rules or laws in the local country of the competition.
    1. The competition website may announce and display the business name or logo in connection with the competition.
    2. The competition website may link to a website homepage or competition-specific landing page.
@@ -61,7 +61,7 @@ The WCA Delegate must submit the following information when requesting approval 
    5. The competition name must be 50 characters or less, including whitespaces.
    6. If the competition is named after anyone or anything, they must be persons or things lacking any controversial meaning worldwide.
    7. Names should contain the location of the competition.
-   8. Competitions may not be named after a living cuber, competition organizer, or any competition staff.
+   8. Competitions may not be named after a living cuber, member of the organization team, or any competition staff.
    9. Names must not contain possibly offensive parts or memes.
    10. The name cannot contain website domains or anything susceptible to be interpreted as a link, hashtag or in general an electronic identifier.
    11. The name cannot contain any trademarks unless the organization team is formally authorized, in writing, to use such names.
@@ -91,8 +91,8 @@ The WCA Delegate must submit the following information when requesting approval 
          1. A competitor is only permitted to participate in one of the twin competitions.
             1. If a competitor competes at more than one of the involved twin competitions, only the results from the competition that they compete in first will be kept.
 3. WCA Delegate(s)
-4. Organizer(s)
-   1. Organizers can be specific persons and/or organizations.
+4. Organization team(s)
+   1. Organization teams can be specific persons and/or organizations.
 5. Competitor limit
    1. The competitor limit can be on either a "first come first serve" basis or based upon qualification results or rankings in the WCA world rankings of a previously announced calendar date.
       1. Qualification for an event must be based only on results from the same event.
@@ -108,7 +108,7 @@ The WCA Delegate must submit the following information when requesting approval 
          1. If an occurrence is not covered by the registration requirements, the organization team and Delegate(s) must make a decision based on fair sportsmanship.
       2. The registration requirements must be available in English.
       3. In addition to the English version, the registration requirements can be available in any other language and should be available in the local language.
-      4. If the registration requirements are not possible to be fulfilled by an individual due to reasons outside of their control, they are eligible for completing their registration following a suitable alternative approach, at the discretion of the Delegate. In case of such an inquiry, organizers must involve the Delegate, who must then carefully assess the individual's situation. If deemed appropriate, the Delegate and organizers must make reasonable efforts to provide an alternative approach for the individual to fulfilling the requirements.
+      4. If the registration requirements are not possible to be fulfilled by an individual due to reasons outside of their control, they are eligible for completing their registration following a suitable alternative approach, at the discretion of the Delegate. In case of such an inquiry, the organization team must involve the Delegate, who must then carefully assess the individual's situation. If deemed appropriate, the Delegate and organization team must make reasonable efforts to provide an alternative approach for the individual to fulfilling the requirements.
          1. Possible reasons include, but are not limited to:
             1. Having an unsupported credit card for paying the registration fee.
          2. Exceptions must not be based on:
@@ -117,7 +117,7 @@ The WCA Delegate must submit the following information when requesting approval 
    2. The registration requirements must include the registration period(s) with a clearly defined time range with a start and end time and date.
       1. Each registration period must be announced publicly on the WCA website at least 48 hours before it starts.
          1. An active registration period may be extended after request of the Delegate.
-         2. The competition's WCA Delegate(s) and/or organizer(s) may register for the competition prior to the first registration period, however their registration(s) must not be approved until the first registration period has started.
+         2. The competition's WCA Delegate(s) and/or members of the organization team may register for the competition prior to the first registration period, however their registration(s) must not be approved until the first registration period has started.
       2. Different registration periods may have different registration requirements (e.g. restricting which events a competitor can register for).
    3. The registration requirements must include the procedure for completing a valid registration.
    4. The registration requirements must include the deadline for updating registered events for competitors with completed registrations.
