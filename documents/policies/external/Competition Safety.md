@@ -41,7 +41,7 @@ In addition to the above section on requirements for return to competitions, the
    1. It is recommended that competitors disinfect their puzzles before submitting at the start of the round.
    2. Competitors should refrain from touching the competition surface when they are not in the process of an official attempt.
    3. It should be the competitor’s responsibility to return the puzzle to the cover after the completion of the attempt.
-   4. Competitors may bring their own cover to place over the competition supplied mat or timer provided the function of the equipment is not affected.
+   4. Competitors may bring their own cover (e.g. clear plastic) to place over the competition supplied mat or timer provided the function of the equipment is not affected.
       1. Competitors are responsible for any modifications made to timing equipment and will not be eligible for any extra attempts if the function of the equipment is affected by the competitor’s cover.
    5. Competitors are permitted to disinfect the timing equipment prior to beginning their attempt.
    6. Competitors should not borrow puzzles from other attendees and should bring all required puzzles to the competition.
