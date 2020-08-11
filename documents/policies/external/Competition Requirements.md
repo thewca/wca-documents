@@ -124,6 +124,7 @@ The WCA Delegate must submit the following information when requesting approval 
       1. This deadline must not be earlier than the time registration is set to close. 
          1. The deadline may be set to be just before an event is scheduled to take place. 
       2. Competitors may choose not to compete in an event they are registered for.
+      3. Exception: for competitions with only one event, the deadline for updating registered events may be omitted.
    5. The registration requirements must include the conditions of the waiting list.
       1. If a waiting list is in place:
          1. Registrants will be placed on the waiting list if they have completed all requirements for a valid registration, but the competitor limit has been filled. Registrants from the waiting list will be accepted in the order that their registration was completed once a spot becomes available.
