@@ -9,6 +9,10 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  text-decoration: underline black;
+}
+
 img.logo {
   float: left;
   padding: 20px;
@@ -34,6 +38,10 @@ li {
   background: #d26d6a;
 }
 
+.example {
+  background: #b8fba2;
+}
+
 .important p::before {
   font-family: monospace;
   content: 'IMPORTANT: ';
@@ -55,4 +63,12 @@ li {
 
 .text-right {
   text-align: right;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.indent {
+  text-indent: 3em;
 }
