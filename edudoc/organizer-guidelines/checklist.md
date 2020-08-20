@@ -6,7 +6,6 @@ This document will outline how competition organizers can make sure they have do
 ::::: {.box .important}
 The checklist itself can be accessed through [this link](https://docs.google.com/spreadsheets/d/10uvykyBM-44EUmK63CyCk_GejBdXKYy4).
 :::::
-TODO: Is this link publicly accessible?
 
 You will need to download this spreadsheet and add details that are necessary for your specific competition if there are any additional ones.
 
