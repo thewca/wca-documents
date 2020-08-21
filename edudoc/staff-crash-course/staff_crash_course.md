@@ -78,6 +78,8 @@ Staff members should also consider how they appear on online forums in regards t
 
 All WCA Staff should create a filter which will whitelist all mails sent from an *@worldcubeassociation.org* mailing address so they don’t miss any important information. This can be done by navigating to [https://mail.google.com/mail/u/0/#settings/filters](https://mail.google.com/mail/u/0/#settings/filters) and scrolling to the bottom where it says “Create a new filter”. There you set the “from” to “worldcubeassociation.org” and click “create filter”. Finally, set it to “Never mark as spam”.
 
+Please note, it is possible for basically anyone to forge a mail as if it were sent from a WCA email account despite not having access to that account. This kind of emails are usually detected by gmail spam filters thanks to the SPF/DKIM signatures on the email. The suggested whitelist filter bypasses this check, so you should make sure to keep this in mind when receiving suspicious emails and check these signatures.
+
 ## Communicating Dates and Times
 
 Whenever trying to arrange a meeting or set a deadline that requires agreement on an exact point in time, remember to send your suggestion in UTC. What is breakfast time for you may be the middle of the night for someone else on your team. UTC helps eliminate a lot of misunderstandings.i
