@@ -153,7 +153,7 @@ The WCA Delegate must submit the following information when requesting approval 
    2. The schedule should be manageable by the competition's WCA Delegate(s) and adhere to the WCA quality standards.
 9. Championships
    1. A championship type is assigned to competitions that are National, Continental, or World Championships.
-      1. A competition must be located in the region where the championship type is selected.
+      1. A competition must be located entirely within the region where the championship type is selected.
       2. A competition may have multiple championship types.
       3. A championship type for a region must only be assigned to one competition in a year.
          1. Exception: Two competitions may have the same Championship status if one of the competitions has only 3x3x3 Fewest Moves as an event and the other competition does not hold the event 3x3x3 Fewest Moves. The two competitions must be held within two months of each other. This only applies to National Championships.
