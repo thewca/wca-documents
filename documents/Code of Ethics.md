@@ -91,6 +91,6 @@ The official communication channel for the WEC is via email. For any concerns ab
       2. Unfair conditions at competitions
       3. Unfair treatment of competitors
    3. WCA Staff must not use their permissions to take actions which are outside of the scope of their role within the WCA.
-   4. WCA Staff must not sign contracts on behalf of the WCA without prior approval of the WCA Board. Written permission from the Board is required to have the WCA mentioned in a contract.
+   4. WCA Staff must not sign contracts on behalf of the WCA without prior approval of the WCA Board. Written permission from the Board is required to have the WCA referenced in a contract.
       1. This includes presenting the WCA’s IRS Determination letter or using the WCA’s non-profit status as part of the organization of a competition.
       2. WCA Staff may prove their role to 3rd parties (such as venues) by requesting the Board of Directors for a document with the WCA's letterhead.
