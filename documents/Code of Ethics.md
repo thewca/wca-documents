@@ -1,6 +1,6 @@
 # Code of Ethics
 <div class="version">
-### Version 2.1
+### Version 2.2
 </div>
 
 The Code of Ethics must be considered by all Staff members of the World Cube Association (WCA), referred to in this document as “WCA Staff”, as a standard for actions and decisions they will be making when acting on behalf of the WCA within their role. “Listed Delegates” refers to WCA Delegates who are publicly displayed on the “General info” tab of an official WCA Competition.
@@ -91,6 +91,6 @@ The official communication channel for the WEC is via email. For any concerns ab
       2. Unfair conditions at competitions
       3. Unfair treatment of competitors
    3. WCA Staff must not use their permissions to take actions which are outside of the scope of their role within the WCA.
-   4. WCA Staff must not sign contracts on behalf of the WCA without prior approval of the WCA Board.
+   4. WCA Staff must not sign contracts on behalf of the WCA without prior approval of the WCA Board. Written permission from the Board is required to have the WCA referenced in a contract.
       1. This includes presenting the WCA’s IRS Determination letter or using the WCA’s non-profit status as part of the organization of a competition.
       2. WCA Staff may prove their role to 3rd parties (such as venues) by requesting the Board of Directors for a document with the WCA's letterhead.
