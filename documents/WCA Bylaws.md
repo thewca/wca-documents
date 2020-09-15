@@ -59,7 +59,7 @@ The amount required for annual dues shall be $0 each year for all membership typ
 ### 2.8	Rights of Members
 Each voting member shall be eligible to appoint in writing one voting representative to cast the member’s vote in WCA elections.
 
-### 2.9	Resignation and Termination
+### 2.9 Resignation and Termination
 Any member may resign by filing a written resignation with the secretary. Resignation shall not relieve a member of unpaid dues, or other charges previously accrued. A member can have their membership terminated by a majority vote of the membership.
 
 ### 2.10 Annual Meetings
