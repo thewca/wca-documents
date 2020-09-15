@@ -38,7 +38,7 @@ Regional Organization membership is available for registered entities who act to
   6. The Regional Organization provides a clear description of the area they cover along with a report on past activities proving they act as the entity which organises WCA activities within their region.
 This membership is active from the moment they are acknowledged by the Board of Directors as meeting the requirements for this category and continues until this membership is revoked either through resignation or termination. This category of members does not have the right to vote in matters of the WCA and any elections.
 
-### 2.4	Associate Regional Organization Membership
+### 2.4 Associate Regional Organization Membership
 Associate Regional Organization membership is available for groups who act to organize WCA activities within their specified regions but however, are not currently a registered entity within the region which they operate. Applications for this type of membership are to be made in writing to the Board of Directors provided the entity meets the following requirements:
   1. The Regional Organization has a name, address and contact details;
   2. The Regional Organization has a website and a logo;
