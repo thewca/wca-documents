@@ -20,7 +20,7 @@ The name of this corporation is World Cube Association (“WCA”).
 ### 2.1 Eligibility for Membership
 Application for membership, as defined in Section 5056 of the California Nonprofit Public Benefit Corporation Law, as amended (the “Nonprofit Corporation Law”), shall be open to any person. Membership is granted after completion and receipt of a membership application and annual dues. All memberships shall be granted upon a recommendation of a member and a majority vote of the board, or a majority vote of members at a properly announced meeting. Membership is non-transferrable.
 
-### 2.2	Types of Membership
+### 2.2 Types of Membership
 The WCA shall offer the following type of memberships to its organization:
   1. Regional Organizations;
   2. Associate Regional Organizations;
