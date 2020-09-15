@@ -53,7 +53,7 @@ Any individual who is currently a Full Delegate, Committee/Team Leader, Committe
 ### 2.6 Individual Non-voting Members
 Any individual who has competed at a past WCA Competition and has an attributed personal WCA ID is automatically considered an individual non-voting member of the WCA. This membership type is active from the moment an individual starts their first official attempt at their first WCA competition and continues until this membership is revoked either through resignation or termination (See 2.6 and 2.8). This category of members does not have the right to vote in matters of the WCA and any elections.
 
-### 2.7	Annual Dues
+### 2.7 Annual Dues
 The amount required for annual dues shall be $0 each year for all membership types, unless changed by a majority vote of the members at a properly announced meeting. Continued membership is contingent upon being up-to-date on membership dues.
 
 ### 2.8 Rights of Members
