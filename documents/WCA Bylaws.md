@@ -28,7 +28,7 @@ The WCA shall offer the following type of memberships to its organization:
   4. Individual non-voting members.
 The Board reserves the right to establish or remove membership categories.  
   
-### 2.3	Regional Organization Membership
+### 2.3 Regional Organization Membership
 Regional Organization membership is available for registered entities who act to organize WCA activities within their specified regions. Applications for this type of membership are to be made in writing to the Board of Directors provided the entity meets the following requirements:
   1. The Regional Organization has a name, address and contact details;
   2. The Regional Organization has a website and a logo;
