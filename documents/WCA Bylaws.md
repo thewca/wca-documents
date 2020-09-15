@@ -79,7 +79,7 @@ Special meetings may be called by the Chair, the Vice-Chair, or a simple majorit
 ### 2.12	Notice of Meetings
 Printed notice of each meeting shall be given to each voting member, by mail or electronic correspondence, not less than two weeks prior to the meeting.
 
-### 2.13	Quorum
+### 2.13 Quorum
 The members present at any properly announced meeting shall constitute a quorum if they are at least 1/3 of the total number of voting members.
 
 ### 2.14 Voting
