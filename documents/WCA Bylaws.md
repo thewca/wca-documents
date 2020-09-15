@@ -56,7 +56,7 @@ Any individual who has competed at a past WCA Competition and has an attributed 
 ### 2.7	Annual Dues
 The amount required for annual dues shall be $0 each year for all membership types, unless changed by a majority vote of the members at a properly announced meeting. Continued membership is contingent upon being up-to-date on membership dues.
 
-### 2.8	Rights of Members
+### 2.8 Rights of Members
 Each voting member shall be eligible to appoint in writing one voting representative to cast the member’s vote in WCA elections.
 
 ### 2.9 Resignation and Termination
