@@ -47,7 +47,7 @@ Associate Regional Organization membership is available for groups who act to or
   6. The Regional Organization provides a clear description of the area they cover along with a report on past activities proving they act as the entity which organises WCA activities within their region.
 This membership is active from the moment they are acknowledged by the Board of Directors as meeting the requirements for this category and continues until this membership is revoked either through resignation or termination or after two years from the date in which their membership is active. This category of members does not have the right to vote in matters of the WCA and any elections.
 
-### 2.5	Individual Voting Members
+### 2.5 Individual Voting Members
 Any individual who is currently a Full Delegate, Committee/Team Leader, Committee/Team Senior Member or a Director is automatically considered an individual voting member of the WCA. This membership is active from the moment an individual is promoted to one of the above positions and continues until this membership is revoked either through resignation or termination (See 2.6 and 2.8). This category of members has the right to place a maximum of one vote in matters of the WCA and any elections.
 
 ### 2.6 Individual Non-voting Members
