@@ -76,7 +76,7 @@ An annual meeting of the members shall take place in the month of October, the s
 ### 2.11	Special Meetings
 Special meetings may be called by the Chair, the Vice-Chair, or a simple majority of the Board of Directors. A petition signed by five percent of voting members may also call a special meeting.
 
-### 2.12	Notice of Meetings
+### 2.12 Notice of Meetings
 Printed notice of each meeting shall be given to each voting member, by mail or electronic correspondence, not less than two weeks prior to the meeting.
 
 ### 2.13 Quorum
