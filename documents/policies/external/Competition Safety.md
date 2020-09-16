@@ -33,7 +33,7 @@ In addition to the above section on requirements for return to competitions, the
 
 1. General
    1. All attendees should keep at least 1m (3ft) apart for the duration of the competition.
-   2. It is recommended that attendees wear face masks at the venue  especially when social distancing is not possible, for example, while competing or judging.
+   2. It is recommended that attendees wear face masks at the venue, especially when social distancing is not possible (for example, while competing or judging).
    3. All attendees should be encouraged to sanitize their hands upon entrance to the venue and at regular intervals throughout the competition.
    4. Any attendee showing symptoms of COVID-19 should not attend the competition and should be asked to leave if they present at the venue.
    5. Competitions should not accept or offer on the spot registrations.
