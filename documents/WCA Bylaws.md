@@ -98,7 +98,7 @@ The number of authorized directors of the WCA shall be not less than three (3) n
 No more than forty-nine percent (49%) of the directors serving on the Board may be interested persons, as defined in Section 5227 of the Nonprofit Corporation Law. However, any violation of this Section 3.3 shall not affect the validity or enforceability of any transaction entered into by the WCA.
 
 ### 3.4 Eligibility of Directors
-To be eligible as a director of the WCA candidates must be at least 18 years of age and be a voting member of the WCA.
+To be eligible as a director of the WCA candidates must be at least 18 years of age and be an individual voting member of the WCA.
 
 ### 3.5 Election and Term of Office
 New directors and current directors shall be elected or re-elected to two (2) year terms by the voting representatives of members at the annual meeting. A Board Advisory Committee shall be responsible for recommending a set of election procedures to the Board. Directors will be elected by a plurality vote of members present at the annual meeting. Directors may also be elected in accordance with an online election, if and only if the procedures for the online election have been recommended to the Board by a Board Advisory Committee and approved by the Board at least two (2) weeks in advance of the election. <br>
