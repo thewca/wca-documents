@@ -32,9 +32,9 @@ The Board reserves the right to establish or remove membership categories.
 Regional Organization membership is available for registered entities who act to organize WCA activities within their specified regions. Applications for this type of membership are to be made in writing to the Board of Directors provided the entity meets the following requirements:
   1. The Regional Organization has a name, address and contact details;
   2. The Regional Organization has a website and a logo;
-  3. The Regional Organization provides a current copy of it’s Bylaws to the WCA;
-  4. The Regional Organization is registered as a legal entity in the area in which they operate;
-  5. The Regional Organization provides an description of their organizational structure;
+  3. The Regional Organization provides a current copy of its Bylaws to the WCA;
+  4. The Regional Organization is registered as a legal entity in the area in which it operates;
+  5. The Regional Organization provides a description of their organizational structure;
   6. The Regional Organization provides a clear description of the area they cover along with a report on past activities proving they act as the entity which organises WCA activities within their region.
 This membership is active from the moment they are acknowledged by the Board of Directors as meeting the requirements for this category and continues until this membership is revoked either through resignation or termination. This category of members do not have the right to vote in matters of the WCA and any elections.
 
@@ -42,8 +42,8 @@ This membership is active from the moment they are acknowledged by the Board of 
 Associate Regional Organization membership is available for groups who act to organize WCA activities within their specified regions but however, are not currently a registered entity within the region which they operate. Applications for this type of membership are to be made in writing to the Board of Directors provided the entity meets the following requirements:
   1. The Regional Organization has a name, address and contact details;
   2. The Regional Organization has a website and a logo;
-  3. The Regional Organization provides a current copy of it’s Bylaws to the WCA;
-  5. The Regional Organization provides an description of their organizational structure;
+  3. The Regional Organization provides a current copy of its Bylaws to the WCA;
+  5. The Regional Organization provides a description of their organizational structure;
   6. The Regional Organization provides a clear description of the area they cover along with a report on past activities proving they act as the entity which organises WCA activities within their region.
 This membership is active from the moment they are acknowledged by the Board of Directors as meeting the requirements for this category and continues until this membership is revoked either through resignation or termination or after two years from the date in which their membership is active. This category of members do not have the right to vote in matters of the WCA and any elections.
 
