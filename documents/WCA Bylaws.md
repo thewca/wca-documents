@@ -20,31 +20,69 @@ The name of this corporation is World Cube Association (“WCA”).
 ### 2.1 Eligibility for Membership
 Application for membership, as defined in Section 5056 of the California Nonprofit Public Benefit Corporation Law, as amended (the “Nonprofit Corporation Law”), shall be open to any person. Membership is granted after completion and receipt of a membership application and annual dues. All memberships shall be granted upon a recommendation of a member and a majority vote of the board, or a majority vote of members at a properly announced meeting. Membership is non-transferrable.
 
-### 2.2	Annual Dues
-The amount required for annual dues shall be $0 each year, unless changed by a majority vote of the members at a properly announced meeting. Continued membership is contingent upon being up-to-date on membership dues.
+### 2.2 Types of Membership
+The WCA shall offer the following type of memberships to its organization:
+  1. Regional Organizations;
+  2. Associate Regional Organizations;
+  3. Individual voting members;
+  4. Individual non-voting members.
+The Board reserves the right to establish or remove membership categories.  
+  
+### 2.3 Regional Organization Membership
+Regional Organization membership is available for registered entities who act to organize WCA activities within their specified regions. Applications for this type of membership are to be made in writing to the Board of Directors provided the entity meets the following requirements:
+  1. The Regional Organization has a name, address and contact details;
+  2. The Regional Organization has a website and a logo;
+  3. The Regional Organization provides a current copy of its Bylaws to the WCA;
+  4. The Regional Organization is registered as a legal entity in the area in which it operates;
+  5. The Regional Organization provides a description of their organizational structure;
+  6. The Regional Organization provides a clear description of the area they cover along with a report on past activities proving they act as the entity which organises WCA activities within their region.
+This membership is active from the moment they are acknowledged by the Board of Directors as meeting the requirements for this category and continues until this membership is revoked either through resignation or termination. This category of members do not have the right to vote in matters of the WCA and any elections.
 
-### 2.3	Rights of Members
-Each member shall be eligible to appoint in writing one voting representative to cast the member’s vote in WCA elections.
+### 2.4 Associate Regional Organization Membership
+Associate Regional Organization membership is available for groups who act to organize WCA activities within their specified regions but however, are not currently a registered entity within the region which they operate. Applications for this type of membership are to be made in writing to the Board of Directors provided the entity meets the following requirements:
+  1. The Regional Organization has a name, address and contact details;
+  2. The Regional Organization has a website and a logo;
+  3. The Regional Organization provides a current copy of its Bylaws to the WCA;
+  5. The Regional Organization provides a description of their organizational structure;
+  6. The Regional Organization provides a clear description of the area they cover along with a report on past activities proving they act as the entity which organises WCA activities within their region.
+This membership is active from the moment they are acknowledged by the Board of Directors as meeting the requirements for this category and continues until this membership is revoked either through resignation or termination or after two years from the date in which their membership is active. This category of members do not have the right to vote in matters of the WCA and any elections.
 
-### 2.4	Resignation and Termination
+### 2.5 Individual Voting Members
+Any individual who is currently a Full Delegate, Committee/Team Leader, Committee/Team Senior Member, Director or Officer is automatically considered an individual voting member of the WCA. This membership is active from the moment an individual is promoted to one of the above positions and continues until this membership is revoked either through resignation or termination (see 2.6 and 2.8). This category of members have the right to place a maximum of one vote in matters of the WCA and any elections.
+
+### 2.6 Individual Non-voting Members
+Any individual who has competed at a past WCA Competition and has an attributed personal WCA ID is automatically considered an individual non-voting member of the WCA. This membership type is active from the moment an individual starts their first official attempt at their first WCA competition and continues until this membership is revoked either through resignation or termination (see 2.6 and 2.8). This category of members does not have the right to vote in matters of the WCA and any elections.
+
+### 2.7 Annual Dues
+The amount required for annual dues shall be $0 each year for all membership types, unless changed by a majority vote of the members at a properly announced meeting. Continued membership is contingent upon being up-to-date on membership dues.
+
+### 2.8 Rights of Members
+Each voting member shall be eligible to appoint in writing one voting representative to cast the member’s vote in WCA elections.
+
+### 2.9 Resignation and Termination
 Any member may resign by filing a written resignation with the secretary. Resignation shall not relieve a member of unpaid dues, or other charges previously accrued. A member can have their membership terminated by a majority vote of the membership.
 
-### 2.5	Non-voting Membership
-The board shall have the authority to establish and define non-voting categories of membership.
+### 2.10 Annual Meetings
+An annual meeting of the members shall take place in the month of October, the specific date, time, and location of which will be designated by the chair. The annual meeting shall run according to the following agenda which must be circulated to the members not less than 2 weeks prior to the meeting:
+  1. Opening of the meeting;
+  2. Roll call;
+  3. Adoption of the agenda;
+  4. Approval of the minutes of the previous general meeting;
+  5. Activity reports;
+  6. Financial report;
+  7. Items brought forward to the meeting by members;
+  8. Date and place of the next meeting.
 
-### 2.6	Annual Meetings
-An annual meeting of the members shall take place in the month of October, the specific date, time, and location of which will be designated by the chair. At the annual meeting the members shall elect directors and officers, receive reports on the activities of the association, and determine the direction of the association for the coming year.
-
-### 2.7	Special Meetings
+### 2.11	Special Meetings
 Special meetings may be called by the Chair, the Vice-Chair, or a simple majority of the Board of Directors. A petition signed by five percent of voting members may also call a special meeting.
 
-### 2.8	Notice of Meetings
+### 2.12 Notice of Meetings
 Printed notice of each meeting shall be given to each voting member, by mail or electronic correspondence, not less than two weeks prior to the meeting.
 
-### 2.9	Quorum
-The members present at any properly announced meeting shall constitute a quorum if they are at least 1/3 of the total number of members.
+### 2.13 Quorum
+The members present at any properly announced meeting shall constitute a quorum if they are at least 1/3 of the total number of voting members.
 
-### 2.10 Voting
+### 2.14 Voting
 All issues to be voted on shall be decided by a simple majority of those present at the meeting in which the vote takes place.
 
 <div class="page-break"></div>
@@ -59,27 +97,30 @@ The number of authorized directors of the WCA shall be not less than three (3) n
 ### 3.3 Qualification of Directors
 No more than forty-nine percent (49%) of the directors serving on the Board may be interested persons, as defined in Section 5227 of the Nonprofit Corporation Law. However, any violation of this Section 3.3 shall not affect the validity or enforceability of any transaction entered into by the WCA.
 
-### 3.4 Election and Term of Office
+### 3.4 Eligibility of Directors
+To be eligible as a director of the WCA candidates must be at least 18 years of age and be an individual voting member of the WCA.
+
+### 3.5 Election and Term of Office
 New directors and current directors shall be elected or re-elected to two (2) year terms by the voting representatives of members at the annual meeting. A Board Advisory Committee shall be responsible for recommending a set of election procedures to the Board. Directors will be elected by a plurality vote of members present at the annual meeting. Directors may also be elected in accordance with an online election, if and only if the procedures for the online election have been recommended to the Board by a Board Advisory Committee and approved by the Board at least two (2) weeks in advance of the election. <br>
 
 A director may not serve for more than three (3) consecutive terms. However, a director may be elected to the Board to serve for any number of additional terms so long as there is at least a one-year break between sets of three (3) consecutive terms. An in-office director shall hold office until a successor has been elected and duly qualified or until that director’s earlier resignation or removal in accordance with these Bylaws.
 
-### 3.5 Vacancies
+### 3.6 Vacancies
 A vacancy or vacancies on the Board shall exist in the event that the actual number of directors is less than the authorized number for any reason. In addition, the Board may declare by resolution a vacancy in the office of any director who has been declared of unsound mind by an order of court, convicted of a felony, or found by final order or judgment of any court to have breached a duty under Article 3 of Chapter 2 of the Nonprofit Corporation Law.
 
-### 3.6 Resignation
+### 3.7 Resignation
 Except as provided below, any director may resign at any time by giving written notice to the Chair, the Executive Director, or the Secretary (as each are defined in Section 6.1). The resignation shall take effect upon receipt of notice or at any later time specified in the notice. Unless otherwise specified in the notice, the resignation need not be accepted to be effective. If a director’s resignation is effective at a later time, the Board may elect a successor to take office as of the date when the resignation becomes effective. Except on notice to the Attorney General of California, no director may resign if the WCA would be left without a duly elected director or directors.
 
-### 3.7 Removal
+### 3.8 Removal
 A director may be removed from office at any time, with or without cause, by a vote of a majority of directors then in office, or a vote of a majority of members at a properly announced meeting, provided that a quorum is present. No reduction in the authorized number of directors shall have the effect of removing any director before that director’s term of office expires unless the reduction also provides for the removal of that specified director in accordance with these Bylaws and the Nonprofit Corporation Law.
 
-### 3.8 Filling Vacancies
+### 3.9 Filling Vacancies
 Vacancies on the Board may be filled, at a regular or special meeting of the Board, by approval of the Board or, if the number of directors then in office is less than a quorum, by (i) the unanimous written consent of the directors then in office, (ii) the affirmative vote of a majority of directors then in office at a meeting held with notice in accordance with Section 4.4 or waiver of notice in accordance with Section 4.6, or (iii) a sole remaining director. A director elected to fill an existing vacancy shall hold office for the unexpired portion of the term, or until his or her death, resignation, or removal from office.
 
-### 3.9 Compensation and Reimbursement
+### 3.10 Compensation and Reimbursement
 Directors shall not receive any compensation for their services as directors. The Board may authorize the advancement or reimbursement to a director of actual reasonable expenses incurred in carrying out his or her duties as a director.
 
-### 3.10 Conflict of Interest Policy
+### 3.11 Conflict of Interest Policy
 Whenever a director or officer has a financial or personal interest in any matter coming before the Board, the Board shall ensure that:
 
 1. The interest of such officer or director is fully disclosed to the Board.
