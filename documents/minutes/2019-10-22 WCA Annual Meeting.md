@@ -17,7 +17,7 @@ Michael Chai, Daniel Sheppard, Joshua Feran, Nitin Subramanian <br>
 Antoine Piau, Tim McMahon, Serhii Koksharov, Bob Burton <br>
 Chris Wright, Edward Hollingdale <br>
 
-At the time of the meeting the members marked above in green were voting members of the World Cube Association. At the time of the meeting the World Cube Association had 142 voting members. As such we did not have a quorum of 33% present at the meeting and therefore no votes were passed.
+At the time of the meeting the World Cube Association had 142 voting members. As such we did not have a quorum of 33% present at the meeting and therefore no votes were passed.
 </div>
 
 
