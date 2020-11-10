@@ -23,7 +23,7 @@ If you are lacking personnel to help, it might be beneficial to also have the re
 
 The person in charge of checking people in should also make sure that citizenships and the date of birth of competitors are checked and match the registration data.
 
-More on the setup can be found in the [Venue Setup document](https://TODO.Link-only-available-once-done).
+More on the setup can be found in the [Venue Setup document](https://www.worldcubeassociation.org/edudoc/organizer-guidelines/venue-setup.pdf).
 
 
 ## Score-taking
