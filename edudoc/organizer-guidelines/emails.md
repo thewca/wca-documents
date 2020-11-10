@@ -72,7 +72,7 @@ Some variations like “Best Regards,” “Kind Regards,” “See you soon,”
 ### CC or BCC
 
 ::::: {.box .important}
-When handling group emails, you should always send it out as a [BCC](https://www.technology.pitt.edu/help-desk/how-to-documents/using-blind-carbon-copy-bcc-feature-protect-privacy-email-addresses) instead of a **CC** for privacy reasons.
+When handling group emails, you should always send it out as a **BCC** instead of a *CC* for privacy reasons.
 :::::
 
 However, **CC** is more applicable when handling communications emails between **organizers and Delegate(s)**.
@@ -97,7 +97,7 @@ Subject: Important Information about XX Open 2020
 
 Hello competitor,
 
-Thank you for registering to compete in XX Open 2020. Unfortunately, we did not reach the number registrations in 3x3 necessary to have a 4th round. This means we will not be running the 4th round of 3x3 and the semifinal will now be final instead. The updated schedule can be found [here](http://insert.link.to.schedule).
+Thank you for registering to compete in XX Open 2020. Unfortunately, we did not reach the number registrations in 3x3 necessary to have a 4th round. This means we will not be running the 4th round of 3x3 and the semifinal will now be final instead. The updated schedule can be found here[add link to new schedule].
 
 Kind Regards
 
