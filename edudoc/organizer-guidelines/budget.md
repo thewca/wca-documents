@@ -43,7 +43,7 @@ Keep in mind that you **cannot** make a personal profit by organizing a competit
 ### Example Budget
 
 ::::: {.box .example .text-left}
-Here’s an example budget that could work for your competition. You need to be organized when writing it down in order to make things easier to track. If your final revenue is **negative**, it’s strongly recommended to adjust your expenses and incomes to avoid any major financial loss. For a more complete list of the expenses you may have, see the example budget on the [competition checklist](https://TODO.Link-only-available-once-done).
+Here’s an example budget that could work for your competition. You need to be organized when writing it down in order to make things easier to track. If your final revenue is **negative**, it’s strongly recommended to adjust your expenses and incomes to avoid any major financial loss. For a more complete list of the expenses you may have, see the example budget on the [competition checklist](https://www.worldcubeassociation.org/edudoc/organizer-guidelines/checklist.pdf).
 
 ![](images/budget.png){.centered height=200px}
 :::::
