@@ -4,7 +4,7 @@
 This document will outline how competition organizers can make sure they have done everything necessary for the organization of their competition.
 
 ::::: {.box .important}
-The checklist itself can be accessed through [this link](https://docs.google.com/spreadsheets/d/10uvykyBM-44EUmK63CyCk_GejBdXKYy4).
+The checklist itself can be accessed through [this link](https://docs.google.com/spreadsheets/d/1i5QStai9sJSrST2EUPBNwfejI0QeW3ojDJ9Ok-GpFCY/edit).
 :::::
 
 You will need to download this spreadsheet and add details that are necessary for your specific competition if there are any additional ones.
