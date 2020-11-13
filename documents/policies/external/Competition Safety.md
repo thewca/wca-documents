@@ -1,6 +1,6 @@
 # WCA Competition Safety Policy
 <div class="version">
-### Version 1.2
+### Version 1.3
 </div>
 
 ## Purpose
@@ -16,7 +16,7 @@ Since the WCA itself does not organize competitions, the WCA are not responsible
 
 ## Policy
 ### Return to competitions
-In order for a competition to be approved and sanctioned by the WCA the WCA Delegate(s) must prove to the Board of Directors beyond a reasonable doubt that the following conditions are met:
+In order for a competition to be approved and sanctioned by the WCA the WCA Delegate(s) must prove to the Board of Directors beyond a reasonable doubt that holding of competitions in the region is safe and the following conditions are met:
 
 1. Public gatherings are allowed by law in the jurisdiction in which the competition will take place (relevant government or state website links will be required to verify);
 2. The competitor limit is not greater than half the maximum number of people allowed at public gatherings;
@@ -25,7 +25,7 @@ In order for a competition to be approved and sanctioned by the WCA the WCA Dele
 4. There is no guidance from local governments that prohibits the running of the competition and;
 5. The WCA Delegate and Organizers produce a detailed risk management plan outlining all steps being taken to ensure that the competition is run as safely and efficiently as possible.
 
-The Board of Directors retains the right to require other conditions to be met in order for a competition to be recognized and sanctioned by the WCA.
+The Board of Directors retains the right to require other conditions to be met in order for a competition to be recognized and sanctioned by the WCA. Additionally the Board has the right at any time to withdraw approval and cancel a competition where it may no longer be possible to hold safely
 
 
 ### Holding of competitions
