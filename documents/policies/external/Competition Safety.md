@@ -27,6 +27,7 @@ In order for a competition to be approved and sanctioned by the WCA the WCA Dele
 
 The Board of Directors retains the right to require other conditions to be met in order for a competition to be recognized and sanctioned by the WCA. Additionally the Board has the right at any time to withdraw approval and cancel a competition where it may no longer be possible to hold safely
 
+The recommendations set forth in this policy may be waived at the discretion of the WCA Board, if community transmissions are near-zero within the region the competition serves and the competition abides by all local government advice. 
 
 ### Holding of competitions
 In addition to the above section on requirements for return to competitions, the following are recommendations in place for organizers who have the approval of the Board to continue with their competitions:
