@@ -1,6 +1,6 @@
 # WCA Competition Safety Policy
 <div class="version">
-### Version 1.3
+### Version 1.4
 </div>
 
 ## Purpose
