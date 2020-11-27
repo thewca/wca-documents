@@ -92,6 +92,8 @@ An annual meeting of the members shall take place in the month of October, the s
   4. Approval of the minutes of the previous general meeting;
   
   5. Activity reports;
+
+  <div class="page-break"></div>
   
   6. Financial report;
   
