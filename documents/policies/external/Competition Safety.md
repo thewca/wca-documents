@@ -25,7 +25,7 @@ In order for a competition to be approved and sanctioned by the WCA the WCA Dele
 4. There is no guidance from local governments that prohibits the running of the competition and;
 5. The WCA Delegate and Organizers produce a detailed risk management plan outlining all steps being taken to ensure that the competition is run as safely and efficiently as possible.
 
-The Board of Directors retains the right to require other conditions to be met in order for a competition to be recognized and sanctioned by the WCA. Additionally the Board has the right at any time to withdraw approval and cancel a competition where it may no longer be possible to hold safely
+The Board of Directors retains the right to require other conditions to be met in order for a competition to be recognized and sanctioned by the WCA. Additionally the Board has the right at any time to withdraw approval and cancel a competition where it may no longer be possible to hold safely.
 
 The recommendations set forth in this policy may be waived at the discretion of the WCA Board, if community transmissions are near-zero within the region the competition serves and the competition abides by all local government advice. 
 
@@ -58,9 +58,9 @@ In addition to the above section on requirements for return to competitions, the
       2. Scramblers should have access to hand sanitation as required.
       3. Scramblers should bring their own pens; however competition organizers must still supply pens as required.
    3. The following recommendations are in relation to runners:
-      1. Runners should maintain at least a 1m (3ft) at all time unless required to place a cube on a solving station
-      2. Runners should not come into contact with competitors puzzles
-      3. Runners should have access to hand sanitation as required
+      1. Runners should maintain at least a 1m (3ft) distance at all times unless required to place a cube on a solving station.
+      2. Runners should not come into contact with competitors puzzles.
+      3. Runners should have access to hand sanitation as required.
 4. Spectators
    1. Competitions must not completely prohibit non-competitors from entering the venue.
       1. Competitions may limit spectators to one guest per competitor.
