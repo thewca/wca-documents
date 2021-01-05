@@ -168,7 +168,7 @@ Scoretakers should be instructed to alert a Delegate if any of the following hap
 - **Cumulative time limits**: Make sure that the round format is correct (ie. not using a cutoff) and that all times for a cumulative do not sum up to exceed the limit.
 
 ### Compiling Competition Results
-The [WCA Scrambles Matcher](https://viroulep.github.io/scrambles-matcher/#) should be used to match scrambles with the competition results. If using WCA Live, you must synchronize the results before using the WCA Scramble Matcher by clicking the synchronize button on the admin page.
+The [WCA Scrambles Matcher](https://scrambles-matcher.worldcubeassociation.org/) should be used to match scrambles with the competition results. If using WCA Live, you must synchronize the results before using the WCA Scramble Matcher by clicking the synchronize button on the admin page.
 
 The Scrambles Matcher allows you to import results from a multitude of resources, including a workbook, WCA Live, or WCIF. Once the competition’s results are opened, you can then upload the scrambles for the competition. This can be done by selecting “Upload Scrambles JSON” and going inside the unzipped scrambles folder and in the “Interchange” folder to select the .json file. If multiple scramble files were used, you can upload each of them. Once uploaded, select each event to assign scrambles to specific rounds and remove any unused scrambles. **Make sure to double-check the assignments for every event to ensure that all the scrambles that were used are assigned correctly!**
 
