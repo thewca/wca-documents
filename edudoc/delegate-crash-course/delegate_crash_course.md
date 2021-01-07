@@ -161,7 +161,7 @@ Scoretakers should be instructed to alert a Delegate if any of the following hap
 ### Checking competition results before submission
 **Ensuring the integrity of all results is one of the main goals of the WCA!** Delegates should make all reasonable efforts to make sure that the results they submit are representative of what happened at the competition. In particular, **you should also always check for**:
 
-- **Registration data**: You have to verify that all issues related to registration data have been resolved (see [Administering registration data](https://www.worldcubeassociation.org/panel/delegate-crash-course#administering-registration-data)). If this has already been done before the competition as recommended, no bigger issues are expected at this stage.
+- **Registration data**: You have to verify that all issues related to registration data have been resolved (see the Administering registration data section). If this has already been done before the competition as recommended, no bigger issues are expected at this stage.
 - **Score taking errors**: You should always double-check each and every scorecard by comparing it with the results entered. This can happen during or after the competition is finished, but always **before** submitting the results (help from reliable organizers or volunteers can be enrolled). When doing this, don't forget to check for [Regulation A7c+](https://www.worldcubeassociation.org/regulations/guidelines.html#A7c+), check for missing signatures, check if extra attempts were entered at their correct position, etc.
 - **Cutoffs**: If people do not meet the cutoff for a combined round, their further results have to be blank and they will have no average result. But often, e.g. if the organizer forgot to set a cutoff or to synchronize with WCA Live, the results will contain no visible combined round but a lot of DNS results instead. Make sure to correct such occurrences before submitting the results!
 - **Time limits**: Judges are not always aware of the time limits of a round and such times often get entered by the score takers. But when checking the competition results after the competition, the times that exceeded the time limits must be changed to DNF (according to [Regulation A1a4+](https://www.worldcubeassociation.org/regulations/guidelines.html#A1a4+), e.g. a 5:03.48 Megaminx result, while the time limit for the round was 5 minutes).
@@ -255,7 +255,7 @@ Changes requests in country are particularly delicate as they affects rankings a
   - When did the competitor obtain the new nationality?
 - **Note:** residing in a country is **not** equivalent to having citizenship for that country.
 
-Final remark: the rules for competitor names described in [Administering registration data](https://www.worldcubeassociation.org/panel/delegate-crash-course#administering-registration-data) do of course also apply for name changes.
+Final remark: the rules for competitor names described in the Administering registration data section do of course also apply for name changes.
 
 ## On submitting competition reports
 *(updated on March 1, 2019)*
