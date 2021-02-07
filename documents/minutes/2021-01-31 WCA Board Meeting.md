@@ -4,7 +4,7 @@ MINUTES OF MEETING OF THE BOARD OF DIRECTORS OF WORLD CUBE ASSOCIATION
 A California Nonprofit Public Benefit Corporation
 </div>
 
-On January 31, 2020 at 7:00 p.m. UTC, the Board of Directors of World Cube Association (the “Board”) met for a regular meeting via Google Hangouts. The following directors were present at the meeting:
+On January 31, 2021 at 7:00 p.m. UTC, the Board of Directors of World Cube Association (the “Board”) met for a regular meeting via Google Hangouts. The following directors were present at the meeting:
 
 <div class="text-center">
 Callum Goodyear <br>
