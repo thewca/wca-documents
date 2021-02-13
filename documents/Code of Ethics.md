@@ -1,6 +1,6 @@
 # Code of Ethics
 <div class="version">
-### Version 2.2
+### Version 2.3
 </div>
 
 The Code of Ethics must be considered by all Staff members of the World Cube Association (WCA), referred to in this document as “WCA Staff”, as a standard for actions and decisions they will be making when acting on behalf of the WCA within their role. “Listed Delegates” refers to WCA Delegates who are publicly displayed on the “General info” tab of an official WCA Competition.
@@ -38,9 +38,9 @@ The official communication channel for the WEC is via email. For any concerns ab
    4. Listed Delegates must request and review an outlined budget for all of their competitions before announcement. Any concerns in the competition budget should be discussed with an Organizer and/or the people in charge of the competition finances. Delegates and Organizers should work together to find a resolution to any concern.
       1. Competition budgets must be held by the Delegate for a period of 7 years and can be requested for review by the WCA Board, WEC, WFC or the Senior Delegate.
       2. The budget of a competition should be in alignment with the Mission and Spirit of the WCA.
-      3. Profit acquired from a competition must not be kept for personal gain and should be put towards the benefit of the community. Where possible this should be done via an organization, and not an individual.
+      3. Listed Delegates must comply with Finance invoices and must advise Organizers to take into account WCA Dues when making the budget.
+   5. Profit acquired from a competition must not be kept for personal gain by the Organizers nor the Delegates and should be put towards the benefit of the community. Where possible, this should be done via an organization and not an individual.
          1. If profits from a competition will be donated to a charity, this information must be made public on the competition page when it is announced. Any such charity must be registered as such in the country the competition is held.
-      4. Listed Delegates must comply with Finance invoices and must advise Organizers to take into account WCA Dues when making the budget.
 2. **Communication**
    1. The [WCA email account policy](https://www.worldcubeassociation.org/documents/policies/internal/Email%20Account.pdf) must be followed.
       1. All official WCA email communication must utilize the @worldcubeassociation.org addresses.
