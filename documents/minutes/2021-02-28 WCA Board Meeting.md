@@ -20,7 +20,7 @@ RESOLVED, that Saransh Grover be accepted as the nominee for WCA Marketing Team 
 
 <b class="text-center">ADJOURNMENT</b>
 
-There being no further business, the meeting was adjourned at 7:00 p.m. UTC.
+There being no further business, the meeting was adjourned at 7:01 p.m. UTC.
 
 <div style="text-align: right;">
 <span style="text-decoration: underline;">/s/ Ethan Pride</span>
