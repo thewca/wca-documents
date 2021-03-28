@@ -1,5 +1,7 @@
 # WCA Competition Tutorial
 
+Scroll to the bottom of the document for translations.
+
 ## WCA Organization - General Introduction
 ![WCA logo](../../assets/WCAlogo_notext.svg){.logo height=133px}
 The World Cube Association is the organization governing speedcubing competitions all around the world. Every competition that is sanctioned by the WCA has to follow the WCA [Regulations](https://www.worldcubeassociation.org/regulations/) and [Guidelines](https://www.worldcubeassociation.org/regulations/guidelines.html), so it's very important that you are familiar with them before going to a competition.
@@ -302,3 +304,9 @@ Extra attempts can be given only by a Delegate!
 ::::: {}
 ![](images/coverInfographic.png){.centered width=95%}
 :::::
+
+## Translations {.page-break-before}
+
+Below you can find translations of the tutorial. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
+
+- Svenska (Swedish): https://www.worldcubeassociation.org/edudoc/competitor-tutorial/tutorial_se.pdf 
