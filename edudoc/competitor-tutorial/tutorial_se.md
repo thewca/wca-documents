@@ -177,7 +177,7 @@ Deltagaren måste verifiera att resultatet är korrekt och läsbart innan hen si
 
 ## Viktiga regler {.page-break-before}
 
-- **Stara lösningen**:
+- **Starta lösningen**:
 
 [Regel A4)](https://www.worldcubeassociation.org/regulations/#A4) reglerar hur timern ska startas.
 
