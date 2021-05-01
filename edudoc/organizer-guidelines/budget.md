@@ -14,7 +14,7 @@ Making a list with all the expenses is a great way to start and get an estimate 
 - Is there any extra fee to have venue staff present on the competition day(s)? If yes, how much?
 - Does the venue demand any percentage of the money collected from the registrations?
 - Do the Delegate(s) live near the competition? Are you going to need to cover any of their expenses? If so, which ones?
-  - You should always try to get the closest Delegate possible to lower the expenses. Nevertheless, Delegate expenses must only include costs incurred as a direct result of attending the competition as a listed Delegate. For more information on covering Delegates’ expenses, see section 1.2 of the [Code of Ethics](https://www.worldcubeassociation.org/documents/Code%20of%20Ethics.pdf).
+  - You should always try to get the closest Delegate possible to lower the expenses. Nevertheless, Delegate expenses must only include costs incurred as a direct result of attending the competition as a listed Delegate. For more information on covering Delegates’ expenses, see the section on finances of the [Code of Ethics](https://www.worldcubeassociation.org/documents/Code%20of%20Ethics.pdf).
 - Do you need to rent tables/chairs?
 - Do you need to rent audio/visual equipment?
 - Are competitors receiving prizes? How much do those cost?
@@ -36,7 +36,7 @@ Keep in mind when drafting a budget which heavily relies on registration fees th
 Listing all sources of income and comparing them to the expenses can help you see whether the total income matches or exceeds the expenses. If expenses exceed total income then you will need to find a way to raise more funds. Try to raise slightly more funds than your expected expenses so that you are prepared in case anything goes wrong. If you are going to rely primarily on registrations, it is good to use online payment to avoid the issue of being at a loss due to too many no-shows on the competition. Waiving registration fees for competitors must follow section 1.3 of the [Code of Ethics](https://www.worldcubeassociation.org/documents/Code%20of%20Ethics.pdf).
 
 ::::: {.box .attention}
-Keep in mind that you **cannot** make a personal profit by organizing a competition! Please keep section 1.4.3 of the [Code of Ethics](https://www.worldcubeassociation.org/documents/Code%20of%20Ethics.pdf) in mind when considering finances. If you have leftover funds at the end of your competition, discuss the best use of the funds with your Delegate(s).
+Keep in mind that you **cannot** make a personal profit by organizing a competition! Please keep the Finances section of the [Code of Ethics](https://www.worldcubeassociation.org/documents/Code%20of%20Ethics.pdf) in mind when making your competition budget. If you have leftover funds at the end of your competition, discuss the best use of the funds with your Delegate(s).
 :::::
 
 
