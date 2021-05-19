@@ -121,7 +121,7 @@ The WCA highly recommends using [WCA Live](https://live.worldcubeassociation.org
 
 - To set up your competition, just [sign in](https://live.worldcubeassociation.org/admin) to the admin section and select the competition that you want to set up.
 - Events, competitors, and schedule are loaded from the WCA website into WCA Live. If you make any changes to these, you must synchronize them by clicking the synchronize button on the admin page.
-- The recommended way for generating scorecards is [Groupifer](https://groupifier.jonatanklosko.com/). Synchronizing (as above) is needed before generating scorecards for subsequent rounds.
+- The recommended way for generating scorecards is [Groupifier](https://groupifier.jonatanklosko.com/). Synchronizing (as above) is needed before generating scorecards for subsequent rounds.
 - If your competition allows on-the-spot (OTS) registrations, registrations can be added at [https://www.worldcubeassociation.org/competitions/YOUR-COMPETITION-ID/registrations/add](https://www.worldcubeassociation.org/competitions/YOUR-COMPETITION-ID/registrations/add) (where you replace YOUR-COMPETITION-ID with the ID of your competition).
 
 **Important**: For the unlikely case of WCA Live being temporarily unavailable, it is highly recommended to have a copy of the [standard results workbook template](https://www.worldcubeassociation.org/files/results.xls) available as an emergency fallback.
@@ -348,8 +348,8 @@ For becoming a WCA Delegate, the following steps should be taken:
 - [Old Delegates Google Group](https://groups.google.com/forum/#!forum/wca-delegates)
 - [TNoodle](https://www.worldcubeassociation.org/regulations/scrambles/)
 - [WCA Live](https://live.worldcubeassociation.org/)
-- [WCA Scrambles Matcher](https://viroulep.github.io/scrambles-matcher/#)
+- [WCA Scrambles Matcher](https://scrambles-matcher.worldcubeassociation.org/)
 - [WCA Workbook Assistant](https://www.worldcubeassociation.org/wca-workbook-assistant)
 - [WCA Workbook Assistant advanced helper video](https://www.youtube.com/watch?v=FmKCp-Vll4k)
-- [Groupifier](https://jonatanklosko.github.io/groupifier/)
+- [Groupifier](https://groupifier.jonatanklosko.com/)
 - Guides to organizing competitions: [English](http://cinoto.com.br/cubo/organize.pdf) | [French](https://docs.google.com/document/d/19Y66EYz4JYrcVmzE8zmnOHCppGJGDg0sBDQaUv54sJg/edit)
