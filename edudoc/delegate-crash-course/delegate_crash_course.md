@@ -340,7 +340,7 @@ For becoming a WCA Delegate, the following steps should be taken:
 - After all the above steps are taken, we officially have a new Junior Delegate!
 
 ## Important Links
-*(updated on November 20th, 2019)*
+*(updated on May 19th, 2021)*
 
 - [Create competition page](https://www.worldcubeassociation.org/competitions/new)
 - [Delegates Google Group](https://groups.google.com/a/worldcubeassociation.org/forum/#!forum/delegates)
