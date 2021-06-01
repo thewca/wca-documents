@@ -20,14 +20,14 @@ Here you can find printable templates for cube covers and clock covers, both of 
 
 5. Make sure you print all templates **STRICTLY** within the following specifications (**covers printed using different specifications can be unfit for WCA competitions to the extent of some results being removed afterwards**):
 
-| Template               | Paper size | Paper thickness    | Paper type |
-| ---------------------- | :--------: | :----------------- | :--------- |
-| Cube cover             |     A3     | 350-400 gsm \*     | Color      |
-| Paper clock cover \*\* |     A4     | 60-90 gsm          | BW         |
-| Results box (table)    |     A3     | 350-400 gsm \*     | Color      |
-| Results box (wall)     |     A4     | 250-350 gsm \*\*\* | Color      |
-| Square-1 inserts       |     A4     | 250-350 gsm        | Color      |
-| Competition rules      |     A4     | Any                | Color      |
+| Template               | Paper size | Paper thickness | Paper type |
+| ---------------------- | :--------: | :-------------- | :--------- |
+| Cube cover             |     A3     | 350-400 gsm \*  | Color      |
+| Paper clock cover \*\* |     A4     | 60-90 gsm       | BW         |
+| Results box (table)    |     A3     | 350-400 gsm \*  | Color      |
+| Results box (wall)     |     A4     | 250-400 gsm     | Color      |
+| Square-1 inserts       |     A4     | 250-400 gsm     | Color      |
+| Competition rules      |     A4     | Any             | Color      |
 
 "gsm" stands for grams per square meter. This is the standard unit of measurement for paper thickness.
 
@@ -35,10 +35,10 @@ Here you can find printable templates for cube covers and clock covers, both of 
 
 \*\* Clock covers are printed on standard printing paper used in regular BW office printers. 80 gsm is the best option.
 
-| Template                           | Resolution       | Infill     |  Filament  | Rafts | Supports |
-| ---------------------------------- | :--------------- | :--------- | :--------: | :---: | :------- |
-| 3D clock cover (Cady's design)     | 0.2 - 0.3mm      | 15%        |    PLA     |  Any  | None \*  |
-| 3D clock cover (Mitchell's design) | 0.2 - 0.3mm \*\* | 15% \*\*\* | PLA / PETG | None  | None     |
+| Template                           | Resolution     | Infill     |  Filament  | Rafts | Supports |
+| ---------------------------------- | :------------- | :--------- | :--------: | :---: | :------- |
+| 3D clock cover (Cady's design)     | 0.2-0.3mm      | 15%        |    PLA     |  Any  | None \*  |
+| 3D clock cover (Mitchell's design) | 0.2-0.3mm \*\* | 15% \*\*\* | PLA / PETG | None  | None     |
 
 \* None are needed when printing upright
 
@@ -63,6 +63,9 @@ Link to the templates folder (**please only share the link to THIS page and not 
 ## Credits
 
 Paper templates - Deni Mintsaev
+
 3D clock cover - Cady Shields
+
 Stackable 3D clock cover - Mitchell Lane
+
 Competition rules image - Tom Nelson
