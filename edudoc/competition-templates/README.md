@@ -35,10 +35,10 @@ Here you can find printable templates for cube covers and clock covers, both of 
 
 \*\* Clock covers are printed on standard printing paper used in regular BW office printers. 80 gsm is the best option.
 
-| Template                           |    Resolution    |   Infill   |  Filament  | Rafts | Supports |
-| ---------------------------------- | :--------------: | :--------: | :--------: | :---: | :------: |
-| 3D clock cover (Cady's design)     |   0.2 - 0.3mm    |    15%     |    PLA     |  Any  | None \*  |
-| 3D clock cover (Mitchell's design) | 0.2 - 0.3mm \*\* | 15% \*\*\* | PLA / PETG | None  |   None   |
+| Template                           | Resolution       | Infill     |  Filament  | Rafts | Supports |
+| ---------------------------------- | :--------------- | :--------- | :--------: | :---: | :------- |
+| 3D clock cover (Cady's design)     | 0.2 - 0.3mm      | 15%        |    PLA     |  Any  | None \*  |
+| 3D clock cover (Mitchell's design) | 0.2 - 0.3mm \*\* | 15% \*\*\* | PLA / PETG | None  | None     |
 
 \* None are needed when printing upright
 
