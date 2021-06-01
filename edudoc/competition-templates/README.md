@@ -31,16 +31,20 @@ Here you can find printable templates for cube covers and clock covers, both of 
 
 "gsm" stands for grams per square meter. This is the standard unit of measurement for paper thickness.
 
-\* Thicker is better.
+\* Thicker is better
 
 \*\* Clock covers are printed on standard printing paper used in regular BW office printers. 80 gsm is the best option.
 
-| Template                           | Resolution  | Infill | Filament | Rafts | Supports |
-| ---------------------------------- | :---------: | :----: | :------: | :---: | :------: |
-| 3D clock cover (Cady's design)     | 0.2 - 0.3mm |  15%   |   PLA    |  Any  | None \*  |
-| 3D clock cover (Mitchell's design) |     Any     |  Any   |   Any    |  Any  |   Any    |
+| Template                           |    Resolution    |   Infill   |  Filament  | Rafts | Supports |
+| ---------------------------------- | :--------------: | :--------: | :--------: | :---: | :------: |
+| 3D clock cover (Cady's design)     |   0.2 - 0.3mm    |    15%     |    PLA     |  Any  | None \*  |
+| 3D clock cover (Mitchell's design) | 0.2 - 0.3mm \*\* | 15% \*\*\* | PLA / PETG | None  |   None   |
 
-\* None are needed when printing upright.
+\* None are needed when printing upright
+
+\*\* 0.24mm recommended
+
+\*\*\* No infill will be generated
 
 6. You will need the following tools in order to assemble the paper prints:
 
