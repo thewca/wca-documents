@@ -16,7 +16,7 @@ Here you can find printable templates for cube covers and clock covers, both of 
 
 3. If you are making **custom clock covers**, you will need to copy your finished design to a new A4-sized document (210\*297mm / 8.27\*11.69in), rotate the whole design 12 degrees counterclockwise and save the file as PDF. If you are printing them on a regular office printer that can’t print all the way to the edges, try selecting the setting “fit to printable area”.
 
-4. There are two 3D-printable clock cover designs: one made by Mitchell Lane and one made by Cady Shields. Mitchell's version can stack, but doesn't fit the Angstrom clock. Cady's design does not stack, but is more sturdy and fits the Angstrom clock. These 3D clock cover designs last much longer than the paper versions. We recommend that you look for a 3D printing service in your area or try to find a 3D printing enthusiast who could make them for you. If you live in the US and would like to have some 3D clock covers printed, you can contact Mitchell Lane directly: mlane@worldcubeassociation.org
+4. There are two 3D-printable clock cover designs: one made by Mitchell Lane and one made by Cady Shields. Mitchell's design can stack, while Cady's design does not stack, but is more sturdy and can fit clocks with a thicker outer shell (clocks like this have never been mass-produced, only custom made). Both of these 3D clock cover designs last much longer than the paper version. We recommend that you look for a 3D printing service in your area or try to find a 3D printing enthusiast who could make them for you.
 
 5. Make sure you print all templates **STRICTLY** within the following specifications (**covers printed using different specifications can be unfit for WCA competitions to the extent of some results being removed afterwards**):
 
@@ -24,16 +24,16 @@ Here you can find printable templates for cube covers and clock covers, both of 
 | ---------------------- | :--------: | :----------------- | :--------- |
 | Cube cover             |     A3     | 350-400 gsm \*     | Color      |
 | Paper clock cover \*\* |     A4     | 60-90 gsm          | BW         |
-| Results box (table)    |     A3     | 350-400 gsm        | Color      |
+| Results box (table)    |     A3     | 350-400 gsm \*     | Color      |
 | Results box (wall)     |     A4     | 250-350 gsm \*\*\* | Color      |
 | Square-1 inserts       |     A4     | 250-350 gsm        | Color      |
 | Competition rules      |     A4     | Any                | Color      |
 
-\* "gsm" stands for grams per square meter. This is the standard unit of measurement for paper thickness.
+"gsm" stands for grams per square meter. This is the standard unit of measurement for paper thickness.
 
-\*\* Clock covers are printed on standard printing paper used in regular BW office printers.
+\* Thicker is better.
 
-\*\*\* Thicker is better.
+\*\* Clock covers are printed on standard printing paper used in regular BW office printers. 80 gsm is the best option.
 
 | Template                           | Resolution  | Infill | Filament | Rafts | Supports |
 | ---------------------------------- | :---------: | :----: | :------: | :---: | :------: |
