@@ -1,17 +1,14 @@
 # Organizer work during the competition
 
-
 As an organizer of a competition, it is very important that you keep on top of the planning and stay communicative with your Delegate(s) and co-organizers.
 
 The tasks you will have to do vary from region to region, but in general, there are several points below which your Delegate will likely expect you to perform. If you have any specific questions, please ask the Delegate you are planning on working with. Upon discussion, they might help you in some areas or advise you on how to do them.
-
 
 ## Preparing the venue
 
 You need to make sure to have the venue set up so it is ready for the competition. This may take a significant amount of time, so be sure to set off the required amount of time needed for it. This includes having all the tables and chairs laid out and also all the needed equipment.
 
 You might also need to modify the setup from one event to the next. This might include setting the regular cube covers off to the side and preparing your special ones for Clock if you have them. This can also be placing papers and stopwatches out on a side stage in time for Fewest Moves as that can take some time.
-
 
 ## Registration/Check-in
 
@@ -24,7 +21,6 @@ If you are lacking personnel to help, it might be beneficial to also have the re
 The person in charge of checking people in should also make sure that citizenships and the date of birth of competitors are checked and match the registration data.
 
 More on the setup can be found in the [Venue Setup document](https://www.worldcubeassociation.org/edudoc/organizer-guidelines/venue-setup.pdf).
-
 
 ## Score-taking
 
@@ -39,19 +35,14 @@ Your Delegate(s) will be very appreciative if you can, in addition to having a d
 
 The score-taker also needs to be instructed about how extra attempts are written in and to look out for a Delegate signature on the extra attempt to make sure it is authorized. They should also be looking out for missing signatures for individual attempts by both the competitor and judge.
 
-
 ## Dealing with the venue
 
 The person in charge of the venue, likely the main organizer, will be asked a lot of questions throughout the day from competitors, parents, and spectators about where different things are in the venue (e.g. toilets). Another item they might need to address is making sure there are enough chairs and tables set out for competitors. This person is likely also in charge of keys and making sure people can get to the, potentially locked, places they need to access.
 Depending on who the owner is, or if issues arise, someone needs to be responsible for talking to the venue owner and resolve the issues.
 
-
 ## Calling Volunteers
 
-The main organizer is someone who needs to be calling volunteers (scramblers, judges, possibly runners) for each group and make sure it can run as it should. You, as the main organizer, need to always check if all the needed judging stations have been filled. You should also pay attention to whether all scramblers are in place and, if in use, the needed amount of runners are present. You might want to print an overview of who is the staff for each group so you can quickly find them, if you are assigning volunteers.
-
-If someone who is assigned to judge refuses to fulfill the task or is missing, notify your Delegate(s) of this and they will handle the case.
-
+One of the tasks for the organizers is calling volunteers (scramblers, judges, and possibly runners) for each group and making sure the group proceeds according to plan. The organizers need to always check if all the needed judging stations have judges. They also need to pay attention to whether all scramblers are in place and, if in use, the needed number of runners is present. If you are assigning duties, you can print out an overview of who is scramblind/judging/running for each group so you can quickly find them during the competition. If someone who is assigned to judge or scramble refuses to fulfill their task or is missing, notify your Delegate(s) of this and they will handle the case.
 
 ## Calling groups
 
