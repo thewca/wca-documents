@@ -4,7 +4,7 @@ To handle the registrations, you can either use the WCA website or an external t
 
 ## Registration requirements
 
-It is important that you make the registration requirements clear on the competition website and that every competitor is subject to the same requirements. A registration is only considered complete if the competitor fulfilled **all** of the requirements established (e.g. Paying the registration fee). A competitor is **not** eligible to compete if the registration is not complete (see Regulation [2c1](https://www.worldcubeassociation.org/regulations/#2c1)).
+It is important that you make the registration requirements clear on the competition website and that every competitor is subject to the same requirements. A registration is only considered complete if the competitor fulfilled **all** of the requirements established (e.g. Paying the registration fee). A competitor is **not** eligible to compete if the registration is not complete (see Regulation [2c1](https://www.worldcubeassociation.org/regulations/#2c1)). If something weird occurs with a competitor's registration, contact your Delegate to find a solution.
 
 Once the registration period starts, the registrations will have to be manually approved. You will see an extra list on the registration tab with all the registrations pending approval. Be aware that taking too long to accept registrations once the requirements have been met can reflect badly on the organizational team and may lead competitors (especially new-comers) to believe they have done something incorrectly or that something went wrong with their registration. You do not have to accept every registration within minutes, but be sure to accept them in two days at most in order to avoid any issue.
 
