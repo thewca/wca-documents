@@ -27,7 +27,7 @@ The WCA website’s online registration allows you to ask competitors how many g
 
 The scrambling table should be reasonably close to the solving stations so that it does not take too long for judges (or “[runners](https://www.worldcubeassociation.org/edudoc/organizer-guidelines/running-systems.pdf)”) to pick up puzzles and move them from the scrambling table to the solving stations and vice-versa. There should also be some sort of visual barrier to ensure competitors or guests cannot see the scrambles.
 
-The puzzle drop-off table can be in the scrambling area too (usually done at smaller competitions). If you are using a separate puzzle drop-off table, make sure that it is not too far from the scrambling table in order to make it easier for runners to transport the puzzles.
+The puzzle drop-off table can simply be the scrambling table (usually done at smaller competitions). If you are using a separate puzzle drop-off table, make sure that it is not too far from the scrambling table in order to make it easier for runners to transport the puzzles.
 
 ## Waiting area {.page-break-before}
 
