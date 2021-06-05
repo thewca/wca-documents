@@ -16,12 +16,12 @@ Here’s a list of things that can be useful to be in the information packet but
 -   Reminder about groups/group information.
 -   Reminder to get in touch if dropping out to recoup on possible refund, subject to registrations terms and conditions.
 -   Reminder about competitor tutorials (if there are a lot of first-timers).
--   Reminder for first-timers to bring identification (to check at registration).
+-   Reminder for first-timers to bring identification (which will be checked during registration).
 -   A reminder of no flash photography.
 -   A link to live results.
--   Parents/Guardians tend to worry about their kid’s well being, so it’s important to help ease their worrying. Do try to answer their most common questions to the best of your knowledge in the email or direct them to someone (e.g. Delegate(s)) who can.
+-   Parents/Guardians tend to worry about their child’s well being, so it’s important to help ease their worrying. Do try to answer their most common questions to the best of your knowledge in the email or direct them to someone (e.g. Delegate(s)) who can give a better answer.
 -   Which judging system will be used during the competition (Running judges/Seated judges with runners).
--   Any special practices in the region where foreigners or newcomers might not be aware of.
+-   Any special practices in the region which foreigners or newcomers might not be aware of.
 
 ::::: {.box .example}
 Example: Using registration ID instead of initials for scrambling and judging signature, whether to check-in at the registration desk once a day or once across the whole competition, etc.
@@ -32,6 +32,10 @@ Example: Using registration ID instead of initials for scrambling and judging si
 -   An opportunity to mention the sponsors.
 -   Leave your contact details so people can email, call, or message you if they’re struggling to get to the venue.
 -   Any final updates/changes. **Maybe a revised schedule if fewer competitors registered than expected.**
+
+::::: {.box .important}
+It is highly advisable that you share your email draft with the Delegate(s) and the organization team before sending it off to all competitors.
+:::::
 
 ## Multiple Languages
 
@@ -72,9 +76,7 @@ When handling group emails, you should always send it out as a **BCC** instead o
 
 However, **CC** is more applicable when handling communications emails between **organizers and Delegate(s)**.
 
-::::: {.page-break-before}
 Always include both organizers and Delegate(s) in the CC list for any changes to the competition or any communication with competitors. **Example: Competitor dropping out, change of events or asking for travel advice.** This way, everyone in the organization team and the Delegate(s) are aware of what's going on during the competition.
-:::::
 
 ### Body
 
@@ -84,8 +86,6 @@ Stick to the subject. If the subject is about groups, then the groups must be me
 **Example: Recipients might find information on “XX Open 2019” and mistaken it as “XX Open 2020”.**
 
 #### Example Email
-
-Here is an example of an email:
 
 ::::: {.box .example .text-left}
 Subject: Important Information about XX Open 2020
