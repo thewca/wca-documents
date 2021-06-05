@@ -1,0 +1,31 @@
+name: Website deployment
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: bin/install_dependencies.sh
+
+      - name: Run the PDF compilation process
+        run: bin/build.sh
+
+      - name: Push to GitHub build branch
+        uses: JamesIves/github-pages-deploy-action@4.1.4
+        with:
+          branch: build
+          folder: build
+
+      - name: Trigger website deployment
+        env:
+          WCA_HOST: worldcubeassociation.org
+        run: |
+          echo "${{ secrets.DEPLOY_PRIVATE_KEY }}" > /tmp/deploy_rsa
+          bin/deploy.sh
