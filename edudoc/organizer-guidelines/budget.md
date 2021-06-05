@@ -1,6 +1,6 @@
 # Budgeting a competition
 
-Budgeting your competition properly is crucial to improving the overall quality and to avoiding any financial loss. While budgeting, strive to answer the following questions...
+Budgeting your competition properly is crucial to improving the overall quality and to avoiding any financial loss. While budgeting, strive to answer the following questions:
 
 ## What expenses are there?
 
@@ -35,7 +35,7 @@ Listing all sources of income and comparing them to the expenses can help you se
 Keep in mind that you **cannot** make a personal profit by organizing a competition! Please keep the Finances section of the [Code of Ethics](https://www.worldcubeassociation.org/documents/Code%20of%20Ethics.pdf) in mind when making your competition budget. If you have leftover funds at the end of your competition, discuss the best use of the funds with your Delegate(s).
 :::::
 
-You should also decide before the announcement of the competition on which organizer/Delegate will receive the registration fee payments and other funds, and how you will handle any purchases that need to be made for your competition. This is a very important point that you should discuss beforehand to try to avoid any sort of misunderstandings or disputes over the budget that may arise.
+In case you require competitors to pay for the registration in advance, the organization team and Delegate(s) should coordinate who will process the payments and who will perform the required shopping. Keep in mind that if you have a Regional Organization for the area of the competition, it might be preferable to have it process the payments due to potential taxation laws in your region.
 
 ### Example Budget
 
