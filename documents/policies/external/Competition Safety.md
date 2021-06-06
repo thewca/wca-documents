@@ -25,7 +25,7 @@ In order for a competition to be approved and sanctioned by the WCA the WCA Dele
 4. There is no guidance from local governments that prohibits the running of the competition and;
 5. The WCA Delegate and Organizers produce a detailed risk management plan outlining all steps being taken to ensure that the competition is run as safely and efficiently as possible.
 
-Where cases in a Country or Region are both low and stable, the Board may delegate the responsibility of checking competition safety plans to a combination of the WCAT, Senior Delegate, and Regional Delegate. With low being defined as fewer than 4 daily new cases per 100k population. The “Where new cases are lower and staying low” section [here](https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html) can be used as a quick check reference.
+Where cases in a Country or Region are both low and stable, the Board may delegate the responsibility of checking competition safety plans to a combination of the WCAT, Senior Delegate, and Regional Delegate.
 
 The Board of Directors retains the right to require other conditions to be met in order for a competition to be recognized and sanctioned by the WCA. Additionally the Board has the right at any time to withdraw approval and cancel a competition where it may no longer be possible to hold safely.
 
