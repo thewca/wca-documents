@@ -1,4 +1,4 @@
-# Concise Judge Tutorial
+# Judging Tutorial for Newcomers
 
 This document is intended for those who have not been a judge before, and will highlight some of the key regulations to follow during the judging process. The procedure described is intended for regular speedsolving events. For blindfolded events there are a few key differences not highlighted in this document.
 
@@ -35,12 +35,41 @@ This is the main equipment and tools required to proceed with a speedsolving att
 
 Here are some common incidents that can result in +2 or DNF:
 
-![Penalties1](images/penalties1.png)
+![Penalty 1](images/penalty1.png)
+
+**+2** is given when the competitor exceeds 15 seconds of inspection time and starts the timer before 17 seconds.
+
+**DNF** is given when the competitor fails to start the timer within 17 seconds of inspection time.
+
+![Penalty 2](images/penalty2.png)
+
+**+2** is given when the competitor touches the puzzle while starting the timer.
+
+**+2** is given when the competitor stops the timer without fully releasing the puzzle.
+
+**+2** is given when the competitor touches the puzzle before the judge has inspected the solved state of the puzzle.
 
 ::::: {.page-break-before}
 :::::
 
-![Penalties2](images/penalties2.png)
+![Penalty 3](images/penalty3.png)
+
+**+2** is given when the competitor fails to start the timer with their palms facing down.
+
+**+2** is given when the competitor fails to stop the timer with their palms facing down.
+
+![Penalty 4](images/penalty4.png)
+
+**+2** is given if the puzzle is one move away from the solved state at the end of the attempt.
+
+Note: 180° turns (R2, U2, etc.) are considered one move.
+
+This shows what kind of misalignments result in a +2 penalty:
+
+![Misalignments](images/misalignments.png)
+
+::::: {.page-break-before}
+:::::
 
 Other incidents that can result in a penalty:
 
