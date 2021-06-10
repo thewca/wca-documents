@@ -8,7 +8,9 @@ This is the main equipment and tools required to proceed with a speedsolving att
 
 **Stackmat timer**: This is the official device for measuring times at a WCA competition. The image below is the latest version of the timer, previous versions of the timer are still accepted to be used in competitions.
 
-![Timer](images/timer.png)
+::::: {.centered}
+![](images/timer.png)
+:::::
 
 **Stopwatch**: This is used for measuring the inspection time. Stopwatches are also used to measure time for attempts over 10 minutes. Note: Not to be confused with a stackmat timer.
 
@@ -25,8 +27,7 @@ This is the main equipment and tools required to proceed with a speedsolving att
 9. The competitor stops the timer once they have solved the puzzle to stop the attempt. Inspect the puzzle and call “OKAY”, “PENALTY”, or “DNF”.
 10. A final result (along with penalties, if applicable) is recorded on the scorecard before both the judge and the competitor sign the attempt to verify that the result is correct and accepted.
 
-::::: {.page-break-before}
-:::::
+::::: {.page-break-before} :::::
 
 ## Penalties
 
@@ -34,13 +35,17 @@ This is the main equipment and tools required to proceed with a speedsolving att
 
 Here are some common incidents that can result in +2 or DNF:
 
-![Penalty 1](images/penalty1.png)
+::::: {.centered}
+![](images/penalty1.png)
+:::::
 
 **+2** is given when the competitor exceeds 15 seconds of inspection time and starts the timer before 17 seconds.
 
 **DNF** is given when the competitor fails to start the timer within 17 seconds of inspection time.
 
-![Penalty 2](images/penalty2.png)
+::::: {.centered}
+![](images/penalty2.png)
+:::::
 
 **+2** is given when the competitor touches the puzzle while starting the timer.
 
@@ -48,27 +53,31 @@ Here are some common incidents that can result in +2 or DNF:
 
 **+2** is given when the competitor touches the puzzle before the judge has inspected the solved state of the puzzle.
 
-::::: {.page-break-before}
-:::::
+::::: {.page-break-before} :::::
 
-![Penalty 3](images/penalty3.png)
+::::: {.centered}
+![](images/penalty3.png)
+:::::
 
 **+2** is given when the competitor fails to start the timer with their palms facing down.
 
 **+2** is given when the competitor fails to stop the timer with their palms facing down.
 
-![Penalty 4](images/penalty4.png)
+::::: {.centered}
+![](images/penalty4.png)
+:::::
 
 **+2** is given if the puzzle is one move away from the solved state at the end of the attempt.
 
 Note: 180° turns (R2, U2, etc.) are considered one move.
 
-::::: {.page-break-before}
-:::::
+::::: {.page-break-before} :::::
 
 This shows what kind of misalignments result in a +2 penalty:
 
-![Misalignments](images/misalignments.png)
+::::: {.centered}
+![](images/misalignments.png)
+:::::
 
 Other incidents that can result in a penalty:
 
