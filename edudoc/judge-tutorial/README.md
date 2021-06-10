@@ -21,7 +21,6 @@ This is the main equipment and tools required to proceed with a speedsolving att
 5. After 8 seconds of inspection have elapsed you must call “8 seconds”. After 12 seconds of inspection have elapsed, you must call “12 seconds”.
 6. During the inspection phase, the competitor must not make any move to the puzzle, except to correct minor misalignments.
 7. The competitor starts the attempt by placing their fingers on the sensors, waiting for the green light to turn on and then removing their hands from the timer.
-   a. The competitor must start the attempt within 17 seconds; a **+2** penalty is given if the competitor didn’t start the attempt within 15 seconds.
 8. Stop the stopwatch as soon as the competitor starts their attempt.
 9. The competitor stops the timer once they have solved the puzzle to stop the attempt. Inspect the puzzle and call “OKAY”, “PENALTY”, or “DNF”.
 10. A final result (along with penalties, if applicable) is recorded on the scorecard before both the judge and the competitor sign the attempt to verify that the result is correct and accepted.
@@ -64,12 +63,12 @@ Here are some common incidents that can result in +2 or DNF:
 
 Note: 180° turns (R2, U2, etc.) are considered one move.
 
+::::: {.page-break-before}
+:::::
+
 This shows what kind of misalignments result in a +2 penalty:
 
 ![Misalignments](images/misalignments.png)
-
-::::: {.page-break-before}
-:::::
 
 Other incidents that can result in a penalty:
 
