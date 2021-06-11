@@ -13,6 +13,10 @@ h2 {
   text-decoration: underline black;
 }
 
+img {
+  max-width: 800px;
+}
+
 img.logo {
   float: left;
   padding: 20px;

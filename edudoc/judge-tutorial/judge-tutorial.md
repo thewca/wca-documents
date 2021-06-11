@@ -8,11 +8,9 @@ This is the main equipment and tools required to proceed with a speedsolving att
 
 **Stackmat timer**: This is the official device for measuring times at a WCA competition. The image below is the latest version of the timer, previous versions of the timer are still accepted to be used in competitions.
 
-::::: {.centered}
-![](images/timer.png)
-:::::
+![](images/timer.png){.centered}
 
-**Stopwatch**: This is used for measuring the inspection time. Stopwatches are also used to measure time for attempts over 10 minutes. Note: Not to be confused with a stackmat timer.
+**Stopwatch**: This is used for measuring the inspection time. Stopwatches are also used to measure time for attempts over 10 minutes. **Note: Not to be confused with a stackmat timer.**
 
 ## Judging Procedure
 
@@ -22,12 +20,13 @@ This is the main equipment and tools required to proceed with a speedsolving att
 4. Once the competitor is ready, uncover the puzzle and start the stopwatch simultaneously to time the inspection. This starts the attempt.
 5. After 8 seconds of inspection have elapsed you must call “8 seconds”. After 12 seconds of inspection have elapsed, you must call “12 seconds”.
 6. During the inspection phase, the competitor must not make any move to the puzzle, except to correct minor misalignments.
-7. The competitor starts the attempt by placing their fingers on the sensors, waiting for the green light to turn on and then removing their hands from the timer.
-8. Stop the stopwatch as soon as the competitor starts their attempt.
-9. The competitor stops the timer once they have solved the puzzle to stop the attempt. Inspect the puzzle and call “OKAY”, “PENALTY”, or “DNF”.
+7. The competitor starts the solve by placing their fingers on the sensors, waiting for the green light to turn on and then removing their hands from the timer.
+8. Stop the stopwatch as soon as the competitor starts their solve.
+9. The competitor stops the timer once they have solved the puzzle to stop the attempt. Inspect the puzzle without touching it (except for the Clock event) and call “OKAY”, “PENALTY”, or “DNF”.
 10. A final result (along with penalties, if applicable) is recorded on the scorecard before both the judge and the competitor sign the attempt to verify that the result is correct and accepted.
 
-::::: {.page-break-before} :::::
+::::: {.page-break-before}
+:::::
 
 ## Penalties
 
@@ -35,49 +34,41 @@ This is the main equipment and tools required to proceed with a speedsolving att
 
 Here are some common incidents that can result in +2 or DNF:
 
-::::: {.centered}
-![](images/penalty1.png)
-:::::
+![](images/penalty1.png){.centered}
 
 **+2** is given when the competitor exceeds 15 seconds of inspection time and starts the timer before 17 seconds.
 
 **DNF** is given when the competitor fails to start the timer within 17 seconds of inspection time.
 
-::::: {.centered}
-![](images/penalty2.png)
-:::::
+![](images/penalty2.png){.centered}
 
 **+2** is given when the competitor touches the puzzle while starting the timer.
 
 **+2** is given when the competitor stops the timer without fully releasing the puzzle.
 
-**+2** is given when the competitor touches the puzzle before the judge has inspected the solved state of the puzzle.
+**+2** is given when the competitor touches the puzzle before the judge has inspected the solved state.
 
-::::: {.page-break-before} :::::
-
-::::: {.centered}
-![](images/penalty3.png)
+::::: {.page-break-before}
 :::::
+
+![](images/penalty3.png){.centered}
 
 **+2** is given when the competitor fails to start the timer with their palms facing down.
 
 **+2** is given when the competitor fails to stop the timer with their palms facing down.
 
-::::: {.centered}
-![](images/penalty4.png)
-:::::
+![](images/penalty4.png){.centered}
 
 **+2** is given if the puzzle is one move away from the solved state at the end of the attempt.
 
 Note: 180° turns (R2, U2, etc.) are considered one move.
 
-::::: {.page-break-before} :::::
+::::: {.page-break-before}
+:::::
 
 This shows what kind of misalignments result in a +2 penalty:
 
-::::: {.centered}
-![](images/misalignments.png)
-:::::
+![](images/misalignments.png){.centered}
 
 Other incidents that can result in a penalty:
 
