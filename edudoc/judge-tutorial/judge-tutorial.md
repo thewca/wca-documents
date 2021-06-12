@@ -66,7 +66,7 @@ Note: 180° turns (R2, U2, etc.) are considered one move.
 ::::: {.page-break-before}
 :::::
 
-::::: {.box .attention}
+::::: {.box .warning}
 #### This shows what kind of misalignments result in a +2 penalty:
 
 ![](images/misalignments.png){.centered}

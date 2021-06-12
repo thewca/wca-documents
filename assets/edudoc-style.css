@@ -1,6 +1,6 @@
 body {
-  margin 0;
-  padding 0;
+  margin: 0;
+  padding: 0;
   font-family: arial;
   font-size: 18px;
 }
@@ -38,17 +38,21 @@ li {
   background: #fbe5a3;
 }
 
-.important {
-  background: #d26d6a;
-}
-
 .example {
   background: #b8fba2;
+}
+
+.important {
+  background: #d26d6a;
 }
 
 .important p::before {
   font-family: monospace;
   content: 'IMPORTANT: ';
+}
+
+.warning {
+  background: #ffc0c0;
 }
 
 .centered {
