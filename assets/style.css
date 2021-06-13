@@ -1,92 +1,95 @@
 a {
-	color: black;
+  color: black;
 }
 
 body {
-	margin: 0;
-	padding: 0;
-	font-size: 14pt;
+  margin: 0;
+  padding: 0;
+  font-family: arial;
+  font-size: 14pt;
 }
 
 /* Remove unnecessary spacing at the end that sometimes causes an empty page to be generated. */
 body > :last-child {
-	margin-bottom: 0;
-	padding-bottom: 0;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+img {
+  max-width: 800px;
 }
 
 /* Make multiline tables look good (https://github.com/wkhtmltopdf/wkhtmltopdf/issues/3356#issuecomment-288837439). */
 
 table {
-	page-break-inside: auto;
-	margin-left: auto;
-	margin-right: auto;
+  page-break-inside: avoid;
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
 }
 
 tr {
-	page-break-inside: avoid;
-	page-break-after: auto;
+  page-break-inside: avoid;
+  page-break-after: auto;
 }
 
 th {
-	font-weight: bold;
-	text-align: center;
+  font-weight: bold;
+  text-align: center;
 }
 
-th,
-td {
-	font-size: 20px;
-	padding: 10px;
-	border: 1px solid black;
-}
-
-.version {
-	color: gray;
-}
-
-.page-break {
-	page-break-before: always;
-}
-
-.text-center {
-	display: block;
-	text-align: center;
+th, td {
+  font-size: 18px;
+  padding: 5px 10px;
+  border: 1px solid black;
 }
 
 .bordered-image {
-	border-style: solid;
-	border-width: 2px;
-	box-sizing: border-box;
-	max-width: 800px;
-	margin-left: auto;
-	margin-right: auto;
-	padding: 5px;
+  padding: 5px;
+  margin: 0 auto;
+  display:block;
+  border: 2px solid black;
+  box-sizing: border-box;
+}
+
+.version {
+  color: gray;
+}
+
+.page-break {
+  page-break-before: always;
+}
+
+.text-center {
+  display: block;
+  text-align: center;
 }
 
 /* Fancy numeration of nested numeric lists. (Based on https://stackoverflow.com/a/26245056) */
 
-ol[type='1'] {
-	list-style-type: none;
-	counter-reset: item;
-	padding-left: 0.5em;
+ol[type="1"] {
+  list-style-type: none;
+  counter-reset: item;
+  padding-left: 0.5em;
 }
 
-ol[type='1'] > li {
-	display: table;
-	counter-increment: item;
-	width: 100%;
+ol[type="1"] > li {
+  display: table;
+  counter-increment: item;
+  width: 100%;
 }
 
-ol[type='1'] > li:before {
-	content: counters(item, '.') '. ';
-	display: table-cell;
-	padding-right: 0.5em;
-	width: 1px;
+ol[type="1"] > li:before {
+  content: counters(item, ".") ". ";
+  display: table-cell;
+  padding-right: 0.5em;
+  width: 1px;
 }
 
-li ol[type='1'] > li:before {
-	content: counters(item, '.') ' ';
+li ol[type="1"] > li:before {
+  content: counters(item, ".") " ";
 }
 
 li + li {
-	margin-top: 0.25em;
+  margin-top: 0.25em;
 }

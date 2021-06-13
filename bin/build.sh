@@ -10,13 +10,21 @@ find 'documents' -name '*.md' | while read file; do
 
   html_name="${file%.md}.html"
   pdf_name="${file%.md}.pdf"
+  stylesheet="../../../assets/style.css"
+  
+  file_headline=$(head -n 1 "$file")
+  document_title=$(echo "$file_headline" | sed -E "s/#+\s*//")
 
   # deliberately NOT using the pipe | operator here because wkhtml tries to resolve image links
   # based on the location of its input file. If piping is used, wkhtml assumes /tmp as location
   # and links like "./dummy-image.png" become "/tmp/dummy-image.png" instead of "edudoc/$project/dummy-image.png"
   sed -r "s#wca\{([^}]*)\}#$wca_url\1#g" "$file" | # Replace wca{...} with absolute WCA URL.
-  pandoc -o "$html_name" # Markdown -> HTML
-  wkhtmltopdf --encoding 'utf-8' --user-style-sheet 'assets/style.css' -T 15mm -B 15mm -R 15mm -L 15mm --quiet "$html_name" "$pdf_name" # HTML -> PDF
+  pandoc -s --from markdown --to html5 --css="$stylesheet"  --metadata pagetitle="$document_title" "$file" -o "$html_name" # Markdown -> HTML
+  wkhtmltopdf --encoding 'utf-8' -T 15mm -B 15mm -R 15mm -L 15mm --quiet "$html_name" "$pdf_name" # HTML -> PDF
+  
+  #ORIGINAL
+  #pandoc -o "$html_name" # Markdown -> HTML
+  #wkhtmltopdf --encoding 'utf-8' --user-style-sheet 'assets/style.css' -T 15mm -B 15mm -R 15mm -L 15mm --quiet "$html_name" "$pdf_name" # HTML -> PDF
 done
 
 compile_date=$(date '+%Y-%m-%d')
@@ -27,17 +35,19 @@ find 'edudoc' -name '*.md' | while read file; do
 
   pdf_name="${file%.md}.pdf"
   html_name="${file%.md}.html"
-
   header_html="${file%.md}-header.html"
-
+  edudoc_stylesheet="../../assets/edudoc-style.css"
+  
   file_headline=$(head -n 1 "$file")
   document_title=$(echo "$file_headline" | sed -E "s/#+\s*//")
 
   sed -E "s#DOCUMENT_TITLE#$document_title#g" "assets/edudoc-header.html" |
   sed -E "s#DATE#$compile_date#g" > "$header_html"
 
-  pandoc -s --from markdown --to html5 --metadata pagetitle="$document_title" "$file" -o "$html_name"  # Markdown -> HTML
-  wkhtmltopdf --encoding 'utf-8' --user-style-sheet 'assets/edudoc-style.css' -T 15mm -B 15mm -R 15mm -L 15mm --header-html "$header_html" --footer-center "[page]" --quiet "$html_name" "$pdf_name" # HTML -> PDF
+  #pandoc -s --from markdown --to html5 --metadata pagetitle="$document_title" "$file" -o "$html_name"  # Markdown -> HTML
+  #wkhtmltopdf --encoding 'utf-8' --user-style-sheet 'assets/edudoc-style.css' -T 15mm -B 15mm -R 15mm -L 15mm --header-html "$header_html" --footer-center "[page]" --quiet "$html_name" "$pdf_name" # HTML -> PDF
+  pandoc -s --from markdown --to html5 --css="$edudoc_stylesheet" --metadata pagetitle="$document_title" "$file" -o "$html_name"  # Markdown -> HTML
+  wkhtmltopdf --encoding 'utf-8' -T 15mm -B 15mm -R 15mm -L 15mm --header-html "$header_html" --footer-center "[page]" --quiet "$html_name" "$pdf_name" # HTML -> PDF
 done
 
 # Remove potentially cached PDFs from last build run
@@ -50,7 +60,7 @@ cp -r edudoc build/
 # Remove source files from target build and trim empty directories
 find build/ -type f -not -name "*.pdf" -delete
 find build/ -type d -empty -delete
-# Remove target PDF from source folder
+# Remove target PDF and HTML from source folder
 find documents/ -name "*.pdf" -delete
 find edudoc/ -name "*.pdf" -delete
 find documents/ -name "*.html" -delete
