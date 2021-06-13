@@ -96,12 +96,12 @@ Setup 4 is also making use of a competitors waiting area. The scrambling area do
 ## Definition of Terms
 </div>
 
-| Term                     | Definition                                                                                                                              |
-| :----------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
-| Competitor               | A participant at a WCA competition                                                                                                      |
-| Competition Area         | An area consisting of a Competitor Waiting Area and Solving Stations                                                                    |
+| Term | Definition |
+| :-- | :------ |
+| Competitor | A participant at a WCA competition |
+| Competition Area | An area consisting of a Competitor Waiting Area and Solving Stations |
 | Competitors Waiting Area | A space inside the Competitors Area where competitors wait between their attempts, after submitting their puzzle to the scrambling area |
-| Organization Team        | Persons who are responsible for the organization of a WCA Competition, as defined in the WCA Regulations                                |
-| Regulations              | The Regulations of the WCA as approved for use in WCA Competitions                                                                      |
-| Solving Station          | The area where a competitor will complete their attempts                                                                                |
-| WCA Delegate             | A role defined in the Motions and in the WCA Regulations to oversee official WCA Competitions on behalf of the WCA                      |
+| Organization Team | Persons who are responsible for the organization of a WCA Competition, as defined in the WCA Regulations |
+| Regulations | The Regulations of the WCA as approved for use in WCA Competitions |
+| Solving Station | The area where a competitor will complete their attempts |
+| WCA Delegate | A role defined in the Motions and in the WCA Regulations to oversee official WCA Competitions on behalf of the WCA |
