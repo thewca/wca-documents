@@ -1,9 +1,7 @@
 # WCA Competition Templates
 
 ::::: {.box .important}
-
-### DO NOT use any templates before reading this entire document!
-
+DO NOT use any templates before reading this entire document!
 :::::
 
 Here you can find printable templates for cube covers and clock covers, both of which are stackable; results boxes for scorecards: a design that can be hung on a wall and another that can be put on a table; Square-1 inserts (21 per page) and an outline of some important competition rules. There are also two 3D-printable clock cover designs.
@@ -56,16 +54,15 @@ Here you can find printable templates for cube covers and clock covers, both of 
 
 7. On all templates except for the clock covers, make all cuts on the **INNER** side of the black lines, leaving no black color visible after the cuts are done. On the clock cover the cuts need to be made **THROUGH** the black lines.
 
-::::: {.box .important}
-Link to the templates folder (**please only share the link to THIS page and not the direct link to the folder**): [Templates Folder](https://drive.google.com/drive/folders/1EVqEWSqruZ8_vEJpUmqhFUqaikzgUkkP?usp=sharing)
+::::: {.box .warning}
+[Link to the templates folder](https://drive.google.com/drive/folders/1EVqEWSqruZ8_vEJpUmqhFUqaikzgUkkP?usp=sharing)
+
+Please only share the link to THIS page and not the direct link to the folder.
 :::::
 
 ## Credits
 
-Paper templates - Deni Mintsaev
-
-3D clock cover - Cady Shields
-
-Stackable 3D clock cover - Mitchell Lane
-
+Paper templates - Deni Mintsaev<br/>
+3D clock cover - Cady Shields<br/>
+Stackable 3D clock cover - Mitchell Lane<br/>
 Competition rules image - Tom Nelson
