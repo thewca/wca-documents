@@ -25,7 +25,7 @@ find 'documents' -name '*.md' | while read file; do
 
   html_name="${file%.md}.html"
   pdf_name="${file%.md}.pdf"
-  stylesheet="/assets/style.css"
+  stylesheet="../../../assets/style.css"
   
   file_headline=$(head -n 1 "$file")
   document_title=$(echo "$file_headline" | sed -E "s/#+\s*//")
@@ -98,7 +98,7 @@ done
   #pandoc -s --from markdown --to html5 --metadata pagetitle="$document_title" "$file" -o "$html_name"  # Markdown -> HTML
   #wkhtmltopdf --encoding 'utf-8' --user-style-sheet 'assets/edudoc-style.css' -T 15mm -B 15mm -R 15mm -L 15mm --header-html "$header_html" --footer-center "[page]" --quiet "$html_name" "$pdf_name" # HTML -> PDF
   pandoc -s --from markdown --to html5 --css="$edudoc_stylesheet" --metadata pagetitle="$document_title" "$file" -o "$html_name"  # Markdown -> HTML
-  #wkhtmltopdf --encoding 'utf-8' -T 15mm -B 15mm -R 15mm -L 15mm --header-html "$header_html" --footer-center "[page]" --quiet "$html_name" "$pdf_name" # HTML -> PDF
+  wkhtmltopdf --encoding 'utf-8' -T 15mm -B 15mm -R 15mm -L 15mm --header-html "$header_html" --footer-center "[page]" --quiet "$html_name" "$pdf_name" # HTML -> PDF
 done
 >>>>>>> Potential fix for styling of all documents (WIP)
 

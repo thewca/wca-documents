@@ -27,6 +27,7 @@ li {
   padding: 5px 0 5px 0;
 }
 
+/* The styling of table, tr, th and td should be the same as in style.css */
 table {
   page-break-inside: avoid;
   margin-left: auto;
@@ -47,7 +48,7 @@ th {
 >>>>>>> Potential fix for styling of all documents (WIP)
 }
 
-th, td {
+td, th {
   font-size: 18px;
   padding: 5px 10px;
   border: 1px solid black;
