@@ -27,5 +27,6 @@ jobs:
         env:
           WCA_HOST: worldcubeassociation.org
         run: |
+          mkdir -p $HOME/.ssh
           echo "${{ secrets.DEPLOY_PRIVATE_KEY }}" > /tmp/deploy_rsa
           bin/deploy.sh
