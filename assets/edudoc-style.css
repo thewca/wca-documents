@@ -47,7 +47,6 @@ th, td {
   font-size: 18px;
   padding: 5px 10px;
   border: 1px solid black;
-  vertical-align: top;
 }
 
 .box {
@@ -85,12 +84,8 @@ th, td {
   display: block;
 }
 
-.page-break-before {
+.page-break {
   page-break-before: always;
-}
-
-.page-break-after {
-  page-break-after: always;
 }
 
 .text-right {
