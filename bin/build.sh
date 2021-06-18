@@ -21,10 +21,6 @@ find 'documents' -name '*.md' | while read file; do
   sed -r "s#wca\{([^}]*)\}#$wca_url\1#g" "$file" | # Replace wca{...} with absolute WCA URL.
   pandoc -s --from markdown --to html5 --css="$stylesheet"  --metadata pagetitle="$document_title" "$file" -o "$html_name" # Markdown -> HTML
   wkhtmltopdf --encoding 'utf-8' -T 15mm -B 15mm -R 15mm -L 15mm --quiet "$html_name" "$pdf_name" # HTML -> PDF
-  
-  #ORIGINAL
-  #pandoc -o "$html_name" # Markdown -> HTML
-  #wkhtmltopdf --encoding 'utf-8' --user-style-sheet 'assets/style.css' -T 15mm -B 15mm -R 15mm -L 15mm --quiet "$html_name" "$pdf_name" # HTML -> PDF
 done
 
 compile_date=$(date '+%Y-%m-%d')
