@@ -21,7 +21,9 @@ Om du är osäker på något, fråga alltid delegaten!
 - **Runner**: Runners ansvarar för att transportera pussel mellan blandarna och domarna.
 - **Blandare**: Blandarna är de som blandar pusslen enligt officiella blandningssekvenser. De verifierar med en signatur att varje blandning är korrekt.
 
-## Objekt som används på tävlingen {.page-break-before}
+<div class="page-break"></div>
+
+## Objekt som används på tävlingen
 
 - **Stackmat-timer**: Detta är den officiella enheten för tidtagning på tävlingar.
 Den kan se ut som någon av de tre versionerna nedan.
@@ -43,9 +45,9 @@ Den kan se ut som någon av de tre versionerna nedan.
 
 - **Cube cover**: Cube covers används för att täcka över pusslet före ett försök, så att deltagare inte kan se blandningen i förväg.
 
-::::: {.page-break-after}
 ![](images/cover.jpg){.centered height=200px}
-:::::
+
+<div class="page-break"></div>
 
 - **Resultatkort**: När ett pussel blandats signerar blandaren på resultatkortet att det gjorts på korrekt sätt. Efter varje försök skriver domaren ner resultatet på resultatkortet och signerar. Därefter signerar deltagaren för att bekräfta att resultatet på resultatkortet är
   - 1) korrekt
@@ -69,8 +71,9 @@ Deltagaren ska inte signera resultatet förrän domaren antecknat och signerat f
 Domaren ska inte signera resultatkortet förrän resultatet har antecknats!
 :::::
 
+<div class="page-break"></div>
 
-## Tävlingsprocedur {.page-break-before}
+## Tävlingsprocedur
 
 ### Grenar:
 WCA-tävlingar kan ha en eller flera grenar. Den vanligaste genen är 3x3x3, men det finns totalt 17 officiella grenar.
@@ -92,7 +95,6 @@ Kom ihåg: Du måste vara redo att lämna in ditt pussel när din grupp ropas up
 Olika tävlingar använder olika system, så domare kan ha något olika roller och uppgifter beroende på vilket system som används.
 
 - **Stationära domare** sitter vid samma lösningsstation under hela gruppen, och dömer flera deltagare i rad. En runner tar pusslet från blandningsbordet, ropar upp deltagaren, och fördelar dem till en domare. Domarens uppgifter är här begränsade till lösningsproceduren. Detta system är det absolut vanligaste i Sverige.
-
 - **Running judges** är mycket ovanligt på svenska tävlingar. Här tar domaren pusslet från blandningsbordet, ropar upp deltagaren, tar dem till en lösningsstation, dömer försöket, och tar sedan tillbaka pusslet till blandningsbordet. Med detta system används alltså inga runners, utan domaren agerar runner. 
 
 ### Att starta en lösning:
@@ -105,6 +107,8 @@ Domaren säkerställer att deltagaren är redo för försöket genom att fråga 
 ::::: {.box .important}
 Domaren måste se till att deltagaren är redo! Om pusslets cube cover lyfts för tidigt kan det leda till ett extra försök.
 :::::
+
+<div class="page-break"></div>s
 
 ::::: {.box .attention}
 Kom ihåg: Du har 1 minut på dig att starta ditt försök från det att du satt dig vid stationen med pusslet placerat på mattan!
@@ -140,11 +144,13 @@ Vid slutet av inspektionen lägger deltagaren pusslet på mattan (i valfri orien
 När deltagaren placerar fingrarna på timern tänds först en röd lampa, och sedan en grön. Först när den gröna lampan tänts är timern redo, och deltagarn kan starta lösningen.
 :::::
 
+<div class="page-break"></div>
+
 ::::: {.box .attention}
 Kom ihåg: Vid starten av lösningen måste deltagaren placera händerna platt, med handflatorna nedåt, och röra sensorerna med fingrarna, inte handflatorna! (Straff: +2 sekunder [A4b](http://wca.link/A4b))
 :::::
 
-### Stoppa lösningen: {.page-break-before}
+### Stoppa lösningen:
 När pusslet är löst stoppar deltagaren timern genom att placera händerna på sensorerna. Deltagaren får då inte röra pusslet, och handflatorna måste vara nedåt.
 
 ::::: {.box .attention}
@@ -174,8 +180,9 @@ Både domaren och deltagaren måste bekräfta resultatet på resultatkortet geno
 Deltagaren måste verifiera att resultatet är korrekt och läsbart innan hen signerar försöket!
 :::::
 
+<div class="page-break"></div>
 
-## Viktiga regler {.page-break-before}
+## Viktiga regler
 
 - **Starta lösningen**:
 
@@ -202,9 +209,11 @@ Under hela lösningen får deltagaren bara prata med domaren och Delegaten. Du f
 ![](images/RegA6_se.png){.centered width=90%}
 :::::
 
-::::: {.box .attention .page-break-after}
+::::: {.box .attention}
 Kom ihåg: Att stoppa timern på ett felaktigt sätt leder till tidsstraff!
 :::::
+
+<div class="page-break"></div>
 
 - **Feljusteringar**:
 
@@ -220,8 +229,9 @@ Kom ihåg: Att stoppa timern på ett felaktigt sätt leder till tidsstraff!
 Om du är osäker, fråga alltid en delegat!
 :::::
 
+<div class="page-break"></div>
 
-## Viktiga definitioner {.page-break-before}
+## Viktiga definitioner
 
 - **Format:** Beroende på gren finns följande sätt att beräkna resultatet som används för att ranka deltagare:
 
@@ -244,8 +254,9 @@ Vissa grenar har kumulativa tidsgränser. En kumulativ tidsgräns fungerar som e
 Endast delegater kan dela ut extra försök!
 :::::
 
+<div class="page-break"></div>
 
-## Du bör... {.page-break-before}
+## Du bör...
 
 - **... aldrig prata om blandningarna förrän omgången är över.**
 

@@ -23,13 +23,13 @@ You should also leave enough time at the beginning of your competition to check-
 
 4. How many solving stations will be available?
 
-::::: {.page-break-after}
 Knowing how many solving stations can be set up tells you how many people can compete at once. Keep in mind that although more stations can shorten the duration of a round they also require more judges, scramblers and possibly runners depending on the [running system](https://www.worldcubeassociation.org/edudoc/organizer-guidelines/running-systems.pdf) of your competition, so you need to account for the extra time looking for volunteers in case you did not [assign staff tasks beforehand](https://www.worldcubeassociation.org/edudoc/organizer-guidelines/staff.pdf).
-:::::
 
 5. What are the lunch options near the venue?
 
 You need to be aware that while some may go to eat lunch by car, other competitors and spectators may have to go by walking, meaning you have to consider the time it takes for one to walk to a restaurant and then back to the competition venue. Be sure to check more than one option in the area since not everyone wants to or can eat at the same place.
+
+<div class="page-break"></div>
 
 Keep in mind that some people may opt for food delivery (especially if the lunch options are too far to go by walking), so you should also consider that possibility when scheduling lunch time. In case eating inside the venue is not allowed, make that clear in the competition website, as many people may choose to bring snacks or lunch to eat at the venue.
 

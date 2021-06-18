@@ -12,6 +12,7 @@ Badges and lanyards can be used to give competitors group and staffing informati
 
 ::::: {.box .example}
 An example lanyard from Perfect Vision Provo 2020 can be found below.
+
 ![](images/lanyard.png){.centered height=200px}
 :::::
 
@@ -31,6 +32,8 @@ Posters can be used to give competitors and spectators information. Here are a f
 - Reminding people of things they should or should not do, ex. please stay quiet, do not use flash photography, stay 1.5 meters away from competitors.
 - Label areas of importance, ex. competitor waiting area, quiet room, spectator seating.
 - Convey group information and/or staff responsibilities to competitors by listing the information or by providing a link and/or QR code that directs them to the information online.
+
+<div class="page-break"></div>
 
 ### Fliers:
 
@@ -68,6 +71,8 @@ Stanchions can be extremely helpful for crowd control! Some ways that you can us
 ### Unofficial Events:
 
 Holding events that aren’t recognized officially can be fun for competitors to participate in and spectators to watch. Some examples of unofficial events that could be held are team events, relays, and events that use non-WCA puzzles. This can also help the WCA in testing how these unofficial events may work in official settings in the future.
+
+<div class="page-break"></div>
 
 ### Goodies:
 

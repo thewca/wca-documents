@@ -32,9 +32,9 @@ One of the best ways to achieve feedback from the Delegate(s) and the other memb
 
 ### Other:
 
-::::: {.page-break-after}
 Improving the experience of others such as parents/guardians, spectators, vendors, and venue staff is important too! Reaching out to them to ask how your organization could improve their experience at future competitions is a great thing to do.
-:::::
+
+<div class="page-break"></div>
 
 Here are some questions that you should try to get an answer to:
 

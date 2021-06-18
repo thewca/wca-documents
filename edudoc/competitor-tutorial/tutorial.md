@@ -21,7 +21,9 @@ If you are not sure about something, always ask the Delegate!
 - **Runner**: Runners are responsible for moving puzzles between scramblers and judges.
 - **Scrambler**: Scramblers apply official scramble sequences on competitors' puzzles. They certify with their signature that the applied scramble was correct.
 
-## Objects at the competition {.page-break-before}
+<div class="page-break"></div>
+
+## Objects at the competition
 
 - **Stackmat timer**: This is the official device for measuring times at a competition.
 It can look like any of the three versions below.
@@ -44,9 +46,9 @@ It can look like any of the three versions below.
 
 - **Cover**: Covers are used to cover a puzzle before an attempt, so competitors cannot see the scrambles.
 
-::::: {.page-break-after}
 ![](images/cover.jpg){.centered height=200px}
-:::::
+
+<div class="page-break"></div>
 
 - **Score sheet**: After a puzzle is scrambled, the scrambler signs for the correctnees on the score sheet. Additonally after each solve the judge writes down the result on the score sheet, signs it and has the competitor sign it, to acknowledge that the result is
   - 1) correct
@@ -71,8 +73,9 @@ Penalty: Disqualification of the solve
 The judge must not sign the score sheet before they have recorded the result!
 :::::
 
+<div class="page-break"></div>
 
-## Competition Procedure {.page-break-before}
+## Competition Procedure
 
 ### Event:
 WCA competitions have one or more events. The most common event is the normal 3x3x3 Cube, but in total there are 17 official events.
@@ -94,7 +97,6 @@ Remember that you must be ready to submit your puzzle as soon as your group is c
 Competitions use different systems, so judges have slightly different roles and duties based on what system is being used.
 
 - **Stationary judges** will sit at the same solving station and judge multiple competitors in a row. The runners will take the puzzles from the scrambling table, call the competitors, and distribute them to the stationary judges. The duties of the judges are just limited to the solving procedure.
-
 - **Running judges** take the puzzles from the scrambling table, call the relevant competitors in the waiting area, bring them to a station, follow the solving procedure, and then bring the puzzle back to the scrambling table.
 
 ### Starting the solve:
@@ -107,6 +109,8 @@ The judge makes sure that the competitor is ready for the attempt, by asking “
 ::::: {.box .important}
 The judge needs to make sure that the competitor is ready! Lifting the cover to early can lead to an extra attempt.
 :::::
+
+<div class="page-break"></div>
 
 ::::: {.box .attention}
 Remember that you have 1 minute to start your attempt once you sit at the station with the puzzle placed on the mat!
@@ -145,7 +149,9 @@ When placing their hands on the timer, the competitor will first see a red light
 Remember that for starting the solve the competitor’s hands must be flat, palms down and must touch the sensors with their fingers, not their palms! (Penalty: +2 seconds [A4b](http://wca.link/A4b))
 :::::
 
-### Stopping the solve: {.page-break-before}
+<div class="page-break"></div>
+
+### Stopping the solve:
 When the puzzle is solved, the competitor stops the timer by putting their hands on the sensors. They must not be touching the puzzle and their hands must be flat with palms down.
 
 ::::: {.box .attention}
@@ -175,8 +181,9 @@ Both the judge and the competitor must confirm the result on the score sheet wit
 Remember that the competitor needs to check that the written time is correct and readable before signing the attempt!
 :::::
 
+<div class="page-break"></div>
 
-## Important Regulations {.page-break-before}
+## Important Regulations
 
 - **Starting the solve**:
 
@@ -203,9 +210,11 @@ During the whole solve, you can only talk to your judge or to the WCA Delegate, 
 ![](images/RegA6.png){.centered width=90%}
 :::::
 
-::::: {.box .attention .page-break-after}
+::::: {.box .attention}
 Remember that stopping the solve incorrectly leads to penalties!
 :::::
+
+<div class="page-break"></div>
 
 - **Misalignments**:
 
@@ -221,8 +230,9 @@ Remember that stopping the solve incorrectly leads to penalties!
 If you are unsure about penalties, always ask a Delegate!
 :::::
 
+<div class="page-break"></div>
 
-## Important Definitions {.page-break-before}
+## Important Definitions
 
 - **Formats** Depending on the event there are different ways of calculating the results that are used to rank competitors. The legal formats are:
 
@@ -244,8 +254,9 @@ If you are unsure about penalties, always ask a Delegate!
 Extra attempts can be given only by a Delegate!
 :::::
 
+<div class="page-break"></div>
 
-## You should... {.page-break-before}
+## You should...
 
 - **... never talk about the scrambles before the end of the round.**
 
@@ -305,8 +316,10 @@ Extra attempts can be given only by a Delegate!
 ![](images/coverInfographic.png){.centered width=95%}
 :::::
 
-## Translations {.page-break-before}
+<div style="margin-top: 200px"></div>
+
+## Translations
 
 Below you can find translations of the tutorial. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
 
-- Svenska (Swedish): https://www.worldcubeassociation.org/edudoc/competitor-tutorial/tutorial_se.pdf 
+- [Svenska (Swedish)](https://www.worldcubeassociation.org/edudoc/competitor-tutorial/tutorial_se.pdf)
