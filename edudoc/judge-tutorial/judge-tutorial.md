@@ -25,8 +25,7 @@ This is the main equipment and tools required to proceed with a speedsolving att
 9. The competitor stops the timer once they have solved the puzzle to stop the attempt. Inspect the puzzle without touching it (except for the Clock event) and call “OKAY”, “PENALTY”, or “DNF”.
 10. A final result (along with penalties, if applicable) is recorded on the scorecard before both the judge and the competitor sign the attempt to verify that the result is correct and accepted.
 
-::::: {.page-break-before}
-:::::
+<div class="page-break"></div>
 
 ## Penalties
 
@@ -48,8 +47,7 @@ Here are some common incidents that can result in +2 or DNF:
 
 **+2** is given when the competitor touches the puzzle before the judge has inspected the solved state.
 
-::::: {.page-break-before}
-:::::
+<div class="page-break"></div>
 
 ![](images/penalty3.png){.centered}
 
@@ -63,8 +61,7 @@ Here are some common incidents that can result in +2 or DNF:
 
 Note: 180° turns (R2, U2, etc.) are considered one move.
 
-::::: {.page-break-before}
-:::::
+<div class="page-break"></div>
 
 ::::: {.box .warning}
 #### This shows what kind of misalignments result in a +2 penalty:
