@@ -59,9 +59,10 @@ done
 rm -rf build
 # Create build dir so that the following cp operations maintain folder structure
 mkdir build
-# Copy generated content into build folder
+# Copy generated content into build folder and copy all static documents into the build folder
 cp -r documents build/
 cp -r edudoc build/
+cp -r static build/
 # Remove source files from target build and trim empty directories
 find build/ -type f -not -name "*.pdf" -delete
 find build/ -type d -empty -delete
