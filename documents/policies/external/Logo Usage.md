@@ -32,5 +32,7 @@ Any requests to use the WCA logo on merchandise that will be sold must be negoti
 ### Usage on a Personal Website
 The WCA logo may not​ be used on any personal websites.
 
+<div class="page-break"></div>
+
 ### Other
 All other requests to use the WCA logo for purposes not already outlined in this policy must be approved on a case by case basis by the WCA Board of Directors.

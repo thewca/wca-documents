@@ -14,13 +14,11 @@ Robert Burton <br>
 Saransh Grover <br>
 </div>
 
-
 <b class="text-center">COMPETITION SAFETY POLICY REVIEW</b>
 
 The Board discussed a review of the WCA Competition Safety Policy and will make the following amendments:
 
 1. Adding a clarification that the Board has the right to cancel competitions as per Motion 10.2020.2
-
 2. Amend the final sentence of “Return to competitions” to clarify that a competition must be able to be run safely in the region
 
 Additionally an announcement will be made regarding the need to have adequate space within a venue to ensure all participants can socially distance with a general guideline of making available 4sqm per person in attendance.  
