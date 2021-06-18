@@ -52,8 +52,7 @@ The purpose of this policy is to define standards of how official WCA Scrambles,
                 1. Exception: if the WCA Delegate(s) will be temporarily unavailable when a group is supposed to start, they may give a password to one of the scramblers.
             4. Once the scrambles are done being used, the file should be closed immediately to ensure they are not accidentally reused.
 
-::::: {.page-break}
-:::::
+<div class="page-break"></div>
 
 ## Examples of competition setups
 
@@ -65,8 +64,7 @@ Below are some setups from WCA Competitions. Some of the setups follow the requi
 
 Setup 1 has the competitors in a group placed at solving stations. The waiting area in the adjacent room is for competitors in the next group. The scrambling areas are properly visually isolated. Setup 1 is in compliance with the points of the policy in regards to the setup.
 
-::::: {.page-break}
-:::::
+<div class="page-break"></div>
 
 ### Setup 2 {.text-center}
 
@@ -74,8 +72,7 @@ Setup 1 has the competitors in a group placed at solving stations. The waiting a
 
 Setup 2 is making use of a competitors waiting area. The scrambling area is properly visually isolated. Both from the waiting area and the solving stations. The solving stations are also visually isolated from the competitors waiting area. Setup 2 is in compliance with the points of the policy in regards to the setup.
 
-::::: {.page-break}
-:::::
+<div class="page-break"></div>
 
 ### Setup 3 {.text-center}
 
@@ -83,8 +80,7 @@ Setup 2 is making use of a competitors waiting area. The scrambling area is prop
 
 Setup 3 is also making use of a competitors waiting area. The scrambling area is properly visually isolated. Both from the waiting area and the solving stations. There is no visual barrier between the waiting area and the solving stations, which there preferably should be. Setup 3 is acceptable, but the distance between the waiting area and solving stations should be considered by the organization team and Delegate if it is appropriate to adhere to point 3.4.
 
-::::: {.page-break}
-:::::
+<div class="page-break"></div>
 
 ### Setup 4 {.text-center}
 
