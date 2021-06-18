@@ -30,15 +30,15 @@ This is the main equipment and tools required to proceed with a speedsolving att
 
 ## Penalties
 
-**+2** is a penalty where 2 seconds are added to the final result of the attempt. **Did Not Finish** (DNF) is a penalty that results in a disqualification of the attempt. If you are not sure what should be done in an incident, you should ask the WCA Delegate of the competition for advice.
+**+2** is a penalty where 2 seconds are added to the final result of the attempt. **+2** penalties are cumulative, which means the competitor could potentially receive a total penalty of **+4** or even higher. **Did Not Finish** (DNF) is a penalty that results in a disqualification of the attempt. If you are not sure what should be done in an incident, you should always ask the WCA Delegate of the competition for advice.
 
 Here are some common incidents that can result in +2 or DNF:
 
 ![](images/penalty1.png){.centered}
 
-**+2** is given when the competitor exceeds 15 seconds of inspection time and starts the timer before 17 seconds.
+**+2** is given when the competitor exceeds 15 seconds of inspection time and starts the solve before 17 seconds.
 
-**DNF** is given when the competitor fails to start the timer within 17 seconds of inspection time.
+**DNF** is given when the competitor fails to start the solve within 17 seconds of inspection time.
 
 ![](images/penalty2.png){.centered}
 
