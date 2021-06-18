@@ -1,7 +1,6 @@
-/* If this is updated, update the styling of the body in edudoc-header.html too */
 body {
-  margin: 0;
-  padding: 0;
+  margin 0;
+  padding 0;
   font-family: arial;
   font-size: 18px;
 }
@@ -14,10 +13,6 @@ h2 {
   text-decoration: underline black;
 }
 
-img {
-  max-width: 800px;
-}
-
 img.logo {
   float: left;
   padding: 20px;
@@ -25,29 +20,6 @@ img.logo {
 
 li {
   padding: 5px 0 5px 0;
-}
-
-table {
-  page-break-inside: avoid;
-  margin-left: auto;
-  margin-right: auto;
-  border-collapse: collapse;
-}
-
-tr {
-  page-break-inside: avoid;
-  page-break-after: auto;
-}
-
-th {
-  font-weight: bold;
-  text-align: center;
-}
-
-th, td {
-  font-size: 18px;
-  padding: 5px 10px;
-  border: 1px solid black;
 }
 
 .box {
@@ -62,21 +34,17 @@ th, td {
   background: #fbe5a3;
 }
 
-.example {
-  background: #b8fba2;
-}
-
 .important {
   background: #d26d6a;
+}
+
+.example {
+  background: #b8fba2;
 }
 
 .important p::before {
   font-family: monospace;
   content: 'IMPORTANT: ';
-}
-
-.warning {
-  background: #ffc0c0;
 }
 
 .centered {
