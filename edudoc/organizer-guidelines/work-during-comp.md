@@ -29,9 +29,7 @@ You will need someone who is actively entering the results during the competitio
 Results should be typed in quickly as competitors are likely very eager to see where they placed, but accuracy must never be neglected too.
 It is also very important to have results typed in quickly if you are preparing scorecards for subsequent rounds at your competition. This is to make sure a bottleneck is not caused by having to wait around for printing second round scorecards just before the start of the round.
 
-::::: {.page-break-before}
 Your Delegate(s) will be very appreciative if you can, in addition to having a designated score-taker, also have some else double-check the results so they can be submitted at the end of the competition and the Delegate(s) will not have to spend hours on their own dealing with the results. This is also a good practice to do throughout the day to make sure there are not any major mistakes causing wrong competitors to proceed to subsequent rounds.
-:::::
 
 The score-taker also needs to be instructed about how extra attempts are written in and to look out for a Delegate signature on the extra attempt to make sure it is authorized. They should also be looking out for missing signatures for individual attempts by both the competitor and judge.
 

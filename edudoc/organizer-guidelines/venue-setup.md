@@ -29,7 +29,7 @@ The scrambling table should be reasonably close to the solving stations so that 
 
 The puzzle drop-off table can simply be the scrambling table (usually done at smaller competitions). If you are using a separate puzzle drop-off table, make sure that it is not too far from the scrambling table in order to make it easier for runners to transport the puzzles.
 
-## Waiting area {.page-break-before}
+## Waiting area
 
 You should have an area for competitors to wait in between solves until they are called. Again, this should be close to the solving stations in order to avoid walking unnecessarily long distances, but you must do your best to make it so that competitors in the waiting area cannot easily see people solving. A good idea in absence of any visual barriers is to have chairs in the waiting area facing **away** the solving stations. You may also use a stationary system, in which all competitors stay at the same solving station throughout the whole group, but you should only do that in particular circumstances on special cases (e.g. Final rounds, or groups where all competitors can be placed far from each other) since this system makes it easier for competitors to see the scrambles of other competitors.
 

@@ -31,7 +31,9 @@ You must also follow the requirements set out in the [WCA Competition Requiremen
 Please also double check with the local community/delegate(s) to avoid breaking the proximity policy stated in the WCA Competition Requirement Policy.
 :::::
 
-## Venue fees {.page-break-before}
+<div class="page-break"></div>
+
+## Venue fees
 
 You should find out how much it is to rent the venue and keep the Delegate(s) updated with the price. You should also double check with the venue for any additional fees such as renting the projector, sound systems and etc. Competitions may sometimes incurred additional fees to enter the venue, such as if the competition is part of a festival/convention. The Delegate(s) should be able to advise whether the competition is feasible. It might also be worth mentioning to the venue that the event is a non-profit/community group activity as some venues do provide a lower fee for such events. **Keep in mind that you may not use the WCA's non-profit status as a selling point for receiving a lower rent price during your negotiations!**
 
