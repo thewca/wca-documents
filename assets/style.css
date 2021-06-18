@@ -41,6 +41,7 @@ th, td {
   font-size: 18px;
   padding: 5px 10px;
   border: 1px solid black;
+  vertical-align: top;
 }
 
 .bordered-image {
