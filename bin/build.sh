@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Makes it so that all commands are displayed as they get executed
 set -x
 
 wca_url="https://worldcubeassociation.org/"
@@ -59,17 +60,19 @@ done
 rm -rf build
 # Create build dir so that the following cp operations maintain folder structure
 mkdir build
-# Copy generated content into build folder and copy all static documents into the build folder
+# Copy generated content into build folder
 cp -r documents build/
 cp -r edudoc build/
+# Copy all contents of the static folder into the build/documents folder
 cp -r static/*/ build/documents/
 # Remove source files from target build and trim empty directories
 find build/ -type f -not -name "*.pdf" -delete
 find build/ -type d -empty -delete
-# Remove target PDF, HTML and CSS from source folder
+# Remove target PDF, HTML and CSS from documents folder
 find documents/ -name "*.pdf" -delete
-find edudoc/ -name "*.pdf" -delete
 find documents/ -name "*.html" -delete
-find edudoc/ -name "*.html" -delete
 find documents/ -name "*.css" -delete
+# Remove target PDF, HTML and CSS from edudoc folder
+find edudoc/ -name "*.pdf" -delete
+find edudoc/ -name "*.html" -delete
 find edudoc/ -name "*.css" -delete
