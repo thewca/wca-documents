@@ -62,7 +62,7 @@ mkdir build
 # Copy generated content into build folder and copy all static documents into the build folder
 cp -r documents build/
 cp -r edudoc build/
-cp -r static build/
+cp -r static/*/ build/documents/
 # Remove source files from target build and trim empty directories
 find build/ -type f -not -name "*.pdf" -delete
 find build/ -type d -empty -delete
