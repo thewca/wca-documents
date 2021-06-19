@@ -4,15 +4,19 @@ Official Documents of the World Cube Association.
 
 ## Process
 
-Whenever changes are made, GitHub builds PDF files out of each Markdown document, pushes the generated files to the [build](https://github.com/thewca/wca-documents/tree/build) branch and deploys them to the website. Documents in `documents` then become available at `worldcubeassociation.org/documents/\[path to doc\]`, and documents in `edudoc` become available at `worldcubeassociation.org/edudoc\[path to doc\]`. The `static` folder contains PDF files that don't need to be rendered; these simply get copied into `build/documents` and become available at the same URL as the files in `documents`. Example: `documents/policies/external/Competition Requirements.md` gets converted to PDF and becomes available at `https://www.worldcubeassociation.org/documents/policies/external/Competition Requirements.pdf`.
+Whenever changes are made, GitHub builds PDF files out of each Markdown document, pushes the generated files to the [build](https://github.com/thewca/wca-documents/tree/build) branch and deploys them to the website. Documents in `documents` then become available at `worldcubeassociation.org/documents/[path to doc]`, and documents in `edudoc` become available at `worldcubeassociation.org/edudoc/[path to doc]`.
+
+Example: `documents/policies/external/Competition Requirements.md` gets converted to PDF and becomes available at `https://www.worldcubeassociation.org/documents/policies/external/Competition Requirements.pdf`.
+
+The `static` folder contains PDF files that don't need to be rendered; these simply get copied into `build/documents` and become available at the same URL as the files in `documents`.
 
 ## Scripts
 
 | Script | Description |
 | ------ | ----------- |
-| `bin/install_dependencies.sh` | Installs dependencies necessary to generate PDFs. |
-| `bin/build.sh` | Builds PDF files into `build` directory (use this to test the rendering of your docs). |
-| `bin/deploy.sh` | WCA deployment script used by GitHub (you don't need this). |
+| `bin/install_dependencies.sh` | Installs dependencies necessary to generate PDFs. Run this once. |
+| `bin/build.sh` | Builds PDF files into `build` directory. Use this to test the rendering of your docs. |
+| `bin/deploy.sh` | WCA deployment script used by GitHub. You don't need to use this. |
 
 ## Detailed Explanation
 
