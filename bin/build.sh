@@ -6,12 +6,16 @@ set -x
 wca_url="https://worldcubeassociation.org/"
 stylesheet=$(realpath "./assets/style.css")
 
+# Copy source folders into temporary folders
+cp -r documents/ ./tempdocuments
+cp -r edudoc/ ./tempedudoc
+
 # Find formal and legal Markdown files and build PDFs out of them.
-find 'documents' -name '*.md' | while read file; do
+find 'tempdocuments' -name '*.md' | while read file; do
   echo "Processing $file, vanilla style"
 
-  html_name="${file%.md}.html"
   pdf_name="${file%.md}.pdf"
+  html_name="${file%.md}.html"
   
   file_headline=$(head -n 1 "$file")
   document_title=$(echo "$file_headline" | sed -E "s/#+\s*//")
@@ -34,7 +38,7 @@ compile_date=$(date '+%Y-%m-%d')
 stylesheet=$(realpath "./assets/edudoc-style.css")
 
 # Find educational Markdown files and build PDFs out of them.
-find 'edudoc' -name '*.md' | while read file; do
+find 'tempedudoc' -name '*.md' | while read file; do
   echo "Processing $file, edudoc style"
 
   pdf_name="${file%.md}.pdf"
@@ -58,21 +62,11 @@ done
 
 # Remove potentially cached PDFs from last build run
 rm -rf build
-# Create build dir so that the following cp operations maintain folder structure
+# Create build directory for working on the conversion of the files
 mkdir build
-# Copy generated content into build folder
-cp -r documents build/
-cp -r edudoc build/
-# Copy all contents of the static folder into the build/documents folder
-cp -r static/*/ build/documents/
-# Remove source files from target build and trim empty directories
+# Move temporary folders into build
+mv tempdocuments build/documents
+mv tempedudoc build/edudoc
+# Remove all non-PDF files and empty folders from build
 find build/ -type f -not -name "*.pdf" -delete
 find build/ -type d -empty -delete
-# Remove target PDF, HTML and CSS from documents folder
-find documents/ -name "*.pdf" -delete
-find documents/ -name "*.html" -delete
-find documents/ -name "*.css" -delete
-# Remove target PDF, HTML and CSS from edudoc folder
-find edudoc/ -name "*.pdf" -delete
-find edudoc/ -name "*.html" -delete
-find edudoc/ -name "*.css" -delete
