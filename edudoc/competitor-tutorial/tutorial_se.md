@@ -1,12 +1,11 @@
 # Deltagarinstruktioner för WCA-tävlingar
 
 ## WCA som organisation - Generell Introduktion 
-![WCA logo](../../assets/WCAlogo_notext.svg){.logo height=133px}
+![]({logo}){.logo height=133px}
 
 WCA (World Cube Association) är organisationen som ansvarar för arrangerande av tävlingar i Speedcubing över hela världen. Alla WCA-tävlingar måste följa WCA:s [Tävlingsregler](https://www.worldcubeassociation.org/regulations/) och [Riktlinjer]((https://www.worldcubeassociation.org/regulations/guidelines.html)), därför är det viktigt att du är bekant med dessa innan du deltar.
 
 Detta dokument guidar dig genom grunderna i att tävla och döma. Att läsa detta dokument kan vara väldigt nyttigt för att få en grundförståelse för WCA-tävlingar, men vi rekommenderar ändå att du läser WCA:s tävlingsregler och riktlinjer, samt deltar i deltagarinstruktionen om tävlingen har en sådan.
-
 
 ## Roller på tävlingar
 - **Delegat**: Delegater är WCA:s officiella funktionärer, och de ansvarar för att WCA:s tävlingsregler följs på tävlingen. De hanterar också incidenter, och har ansvar för blandningar och resultat. Om det uppstår några tveksamheter eller frågor bör du i första hand vända dig till tävlingens delegat
@@ -312,6 +311,4 @@ Endast delegater kan dela ut extra försök!
   *Se till att följa tävlingsreglerna, och fråga en delegat om du är osäker!*
   :::
 
-::::: {}
-![](images/coverInfographic_se.png){.centered width=95%}
-:::::
+![](images/coverInfographic_se.png){.centered width=90%}

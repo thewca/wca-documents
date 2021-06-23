@@ -6,7 +6,7 @@
 <div style="margin: 200px auto; font-size: 1.8em;">
 # World Cube Association
 </div>
-<img src="../assets/WCAlogo_notext.svg" style="width: 60%; margin: auto;">
+<img src="{logo}" style="width: 60%; margin: auto;">
 </div>
 
 <div class="page-break"></div>
