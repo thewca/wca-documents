@@ -28,9 +28,7 @@ In some cases, a Delegate may start off as a Trainee Delegate instead, during a 
 - A reasonable response rate is generally expected from Delegates. A reasonable response rate is usually within 48 hours and at most within a week, unless special circumstances arise.
 - The information exchanged over the Delegates' mailing list is confidential. These are conversations among Delegates and there is no reason for them to leave the list except as part of official announcements by the Board or the Committees/Teams.
 
-<div class="page-break"></div>
-
-## On accepting to delegate a competition
+## On accepting to delegate a competition {.page-break-before}
 
 *(added on Sep. 20, 2016)*
 
@@ -64,9 +62,7 @@ To request an official competition you first need to create a new competition by
 - The competition must be announced **at least 28 days** before the scheduled start of the competition. You should **submit the competition earlier than this** as a safety measure so that if there is an issue with the competition, then the competition will likely still be announced before the 28-day deadline.
 - The competition must comply with the [Competition Requirements Policy](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Requirements.pdf). This means your competition should be at least 100 kilometers or 19 days away from all other competitions. There can be exceptions made to the Proximity Policy if the Delegate has valid arguments. Examples can be found in the policy.
 
-<div class="page-break"></div>
-
-### How to fill out the new competition page:
+### How to fill out the new competition page: {.page-break-before}
 
 - The name of the competition must follow the [Competition Requirements Policy](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Requirements.pdf). Even if you are choosing a name which is obvious for you why it complies with the policy, you must still give an explanation of the name in the “The reason for the name” field.
   - The competition nickname should be the same as the actual name of the competition if it is 32 or fewer characters with few exceptions. If the name of the competition is over 32 characters, you should pick a nickname which is as close as possible to the actual name. The nickname is only used for display purposes and is what will be shown on the “[Competitions](https://www.worldcubeassociation.org/competitions)” page and in the “[Rankings](https://www.worldcubeassociation.org/results/events.php)” page.
@@ -167,9 +163,7 @@ Examples corresponding to the list above:
 - Permitted: "Luis J. Iáñez", "Luis Javier Iáñez", "Javier Iáñez", "LJ Iáñez"
 - **Not** permitted: "L. J. Iáñez", "L. Javier Iáñez", "Luis Javier I.", "L. J. I."
 
-<div class="page-break"></div>
-
-### Scoretaking during the competition
+### Scoretaking during the competition {.page-break-before}
 
 Scoretakers should be instructed to alert a Delegate if any of the following happen:
 

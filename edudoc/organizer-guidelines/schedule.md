@@ -29,7 +29,8 @@ Knowing how many solving stations can be set up tells you how many people can co
 
 You need to be aware that while some may go to eat lunch by car, other competitors and spectators may have to go by walking, meaning you have to consider the time it takes for one to walk to a restaurant and then back to the competition venue. Be sure to check more than one option in the area since not everyone wants to or can eat at the same place.
 
-<div class="page-break"></div>
+::::: {.page-break-before}
+:::::
 
 Keep in mind that some people may opt for food delivery (especially if the lunch options are too far to go by walking), so you should also consider that possibility when scheduling lunch time. In case eating inside the venue is not allowed, make that clear in the competition website, as many people may choose to bring snacks or lunch to eat at the venue.
 

@@ -128,9 +128,7 @@ We do not support expense reimbursements for car rentals, unless explicitly auth
    1. For rides to or from long distance transit stations (e.g. airport, train station), exceptions to taxi and rideshare reimbursement limit may be allowed when explicitly pre-approved in writing.
       1. Actual reimbursement amount must not exceed 150% of pre-approved estimate amount.
 
-<div class="page-break"></div>
-
-## Appendix A
+## Appendix A {.page-break-before}
 ### Application for Funding - Authorization Process
 This process needs to be followed when applying for funding to support travel to a WCA Competition
 

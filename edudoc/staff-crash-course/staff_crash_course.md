@@ -28,9 +28,7 @@ Additionally, if you have not received a reply in a timely manner, you should pi
 
 More broadly speaking, the preferred  approach is “over-communication” in the WCA by keeping all relevant persons in the loop at all times. If you think there is a topic which other staff members should see, please add them to as a Carbon Copy (CC) to the email. For example, if you escalate an issue about a specific Delegate to any Team/Committee, be sure to include their Senior and/or Regional Delegate in CC.
 
-<div class="page-break"></div>
-
-## Making changes to recipients
+## Making changes to recipients {.page-break-before}
 
 When you make changes to the recipients, make this clear at the top of the email.\
 If there is a need to include another team/committee to the thread then begin by writing a “+” along with the name of the team/committee so everyone is aware.\

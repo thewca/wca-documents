@@ -20,9 +20,7 @@ Pre-assigning staff duties to competitors, on the other hand, is about having al
 
 The pre-assigned system is a better fit if the local community is relatively new and doesn’t have experience staffing or isn’t familiar with the regulations. By training specific individuals beforehand you can achieve a higher quality staff than by teaching them at the competition only. If done correctly, pre-assigning will also result in a higher quality competition than assigning staff on the spot.
 
-<div class="page-break"></div>
-
-## Assigning staff on the spot
+## Assigning staff on the spot {.page-break-before}
 
 If you assign staff at the competition, you will save time during the pre-comp work. However, you may have trouble finding people willing to help, and even if it only takes a couple of minutes to get enough volunteers, that can add up to a significant amount of time throughout the day. You need to take this into account when scheduling your competition. Keep in mind that some events will take longer to find staff than others (e.g. it’s harder to find scramblers for 7x7 than for 2x2). This approach is useful if your local community is familiar with the regulations and if there are many people willing to help without getting anything in exchange.
 
@@ -40,9 +38,7 @@ As you may have noticed by now, every approach to assigning staff has its own ad
 
 Most of the time there will not be any major issue to assign staff for the first rounds, but it may be difficult to know who is going to proceed to subsequent rounds, so it’s important that you have more than one option of tasks distribution planned based on the competitors that will possibly be available.
 
-<div class="page-break"></div>
-
-## General considerations when assigning staff
+## General considerations when assigning staff {.page-break-before}
 
 1. **Judges** should know at least the basic regulations (such as how to distinguish between common +2 penalties and DNFs) and should be focused on the competitor they are judging (e.g. you don’t want judges who keep using their phones or cubing while judging).
 2. **Scramblers** should be trustworthy people in order to avoid incorrect scrambles, and, if possible, it is useful to get help from the faster people at the event, as they will be able to scramble the puzzle quicker, often with greater accuracy. Faster competitors are also helpful in case of an incorrect scramble because they can also solve the puzzle faster. You should let your Delegate review the list of scramblers before the competition.

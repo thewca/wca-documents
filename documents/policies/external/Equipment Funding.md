@@ -55,9 +55,7 @@ All equipment must be clearly labeled with the WCA logo and asset identification
 
 All equipment must only be used for WCA Competitions. Exception: WCA funded equipment may be used for other WCA activities with the express written permission from the WCA Board of Directors.
 
-<div class="page-break"></div>
-
-## Appendix A
+## Appendix A {.page-break-before}
 ### Application for Funding - Authorization Process
 This process needs to be followed when applying for funding for Competition Equipment.
 

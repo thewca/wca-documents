@@ -33,9 +33,7 @@ Posters can be used to give competitors and spectators information. Here are a f
 - Label areas of importance, ex. competitor waiting area, quiet room, spectator seating.
 - Convey group information and/or staff responsibilities to competitors by listing the information or by providing a link and/or QR code that directs them to the information online.
 
-<div class="page-break"></div>
-
-### Fliers:
+### Fliers: {.page-break-before}
 
 Fliers can be used to convey important information about your competition to spectators and competitors, to answer some frequently asked questions that your local community may have, to alert competitions about future competitions in the area, and/or to direct competitors to online resources.
 
@@ -72,9 +70,7 @@ Stanchions can be extremely helpful for crowd control! Some ways that you can us
 
 Holding events that aren’t recognized officially can be fun for competitors to participate in and spectators to watch. Some examples of unofficial events that could be held are team events, relays, and events that use non-WCA puzzles. This can also help the WCA in testing how these unofficial events may work in official settings in the future.
 
-<div class="page-break"></div>
-
-### Goodies:
+### Goodies: {.page-break-before}
 
 Giving competitors “goodies” is a great way to enhance their competition experience! Examples of goodies that you could give to competitors can include but are not limited to: drawstring bags, T-shirts, hoodies, hats, bracelets, stickers, pins, keychains, lanyards, magnets, badges, pens, pencils, phone accessories, sunglasses, and cube logos. Goodies can include branding related to the competition, an organization that held the competition, or sponsors of the competition.
 

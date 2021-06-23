@@ -56,8 +56,12 @@ th, td {
   color: gray;
 }
 
-.page-break {
+.page-break-before {
   page-break-before: always;
+}
+
+.page-break-after {
+  page-break-after: always;
 }
 
 .text-center {

@@ -1,7 +1,7 @@
 # Deltagarinstruktioner för WCA-tävlingar
 
 ## WCA som organisation - Generell Introduktion 
-![]({logo}){.logo height=133px}
+![WCA logo]({logo}){.logo height=133px}
 
 WCA (World Cube Association) är organisationen som ansvarar för arrangerande av tävlingar i Speedcubing över hela världen. Alla WCA-tävlingar måste följa WCA:s [Tävlingsregler](https://www.worldcubeassociation.org/regulations/) och [Riktlinjer]((https://www.worldcubeassociation.org/regulations/guidelines.html)), därför är det viktigt att du är bekant med dessa innan du deltar.
 
@@ -20,33 +20,27 @@ Om du är osäker på något, fråga alltid delegaten!
 - **Runner**: Runners ansvarar för att transportera pussel mellan blandarna och domarna.
 - **Blandare**: Blandarna är de som blandar pusslen enligt officiella blandningssekvenser. De verifierar med en signatur att varje blandning är korrekt.
 
-<div class="page-break"></div>
-
-## Objekt som används på tävlingen
+## Objekt som används på tävlingen {.page-break-before}
 
 - **Stackmat-timer**: Detta är den officiella enheten för tidtagning på tävlingar.
 Den kan se ut som någon av de tre versionerna nedan.
 
-::::: {}
 ![](images/stackmat_timers.png){.centered height=200px}
-:::::
 
 - **Matta**: Stackmat-timers måste användas tillsammans med tillhörande mattor. Mattan håller timern på plats, skyddar pusslen, och förhindrar dem från att glida iväg vid slutet av försöket.
-::::: {}
+
 ![](images/mat.png){.centered width=600px}
-:::::
 
 - **Tidtagarur**: Tidtagarur används för att mäta inspektionstiden. De används även för att mäta tiden på försök över 10 minuter. Notera att tidtagarur kan vara av olika modeller, och de kan därför se ut och fungera annorlunda jämfört med det på bilden nedan.
 
-::::: {}
 ![](images/stopwatch.jpg){.centered height=200px}
-:::::
 
 - **Cube cover**: Cube covers används för att täcka över pusslet före ett försök, så att deltagare inte kan se blandningen i förväg.
 
 ![](images/cover.jpg){.centered height=200px}
 
-<div class="page-break"></div>
+::::: {.page-break-before}
+:::::
 
 - **Resultatkort**: När ett pussel blandats signerar blandaren på resultatkortet att det gjorts på korrekt sätt. Efter varje försök skriver domaren ner resultatet på resultatkortet och signerar. Därefter signerar deltagaren för att bekräfta att resultatet på resultatkortet är
   - 1) korrekt
@@ -54,9 +48,7 @@ Den kan se ut som någon av de tre versionerna nedan.
   - 3) korrekt formaterat
   - 4) tydligt läsbart
 
-::::: {}
 ![](images/scoresheet_se.png){.centered height=600px}
-:::::
 
 ::::: {.box .attention}
 Om någon del av resultatkortet är oläsligt kommer den sämsta möjliga tolkningen registreras för det försöket. 
@@ -70,9 +62,8 @@ Deltagaren ska inte signera resultatet förrän domaren antecknat och signerat f
 Domaren ska inte signera resultatkortet förrän resultatet har antecknats!
 :::::
 
-<div class="page-break"></div>
 
-## Tävlingsprocedur
+## Tävlingsprocedur {.page-break-before}
 
 ### Grenar:
 WCA-tävlingar kan ha en eller flera grenar. Den vanligaste genen är 3x3x3, men det finns totalt 17 officiella grenar.
@@ -107,9 +98,7 @@ Domaren säkerställer att deltagaren är redo för försöket genom att fråga 
 Domaren måste se till att deltagaren är redo! Om pusslets cube cover lyfts för tidigt kan det leda till ett extra försök.
 :::::
 
-<div class="page-break"></div>s
-
-::::: {.box .attention}
+::::: {.box .attention .page-break-before}
 Kom ihåg: Du har 1 minut på dig att starta ditt försök från det att du satt dig vid stationen med pusslet placerat på mattan!
 :::::
 
@@ -143,9 +132,7 @@ Vid slutet av inspektionen lägger deltagaren pusslet på mattan (i valfri orien
 När deltagaren placerar fingrarna på timern tänds först en röd lampa, och sedan en grön. Först när den gröna lampan tänts är timern redo, och deltagarn kan starta lösningen.
 :::::
 
-<div class="page-break"></div>
-
-::::: {.box .attention}
+::::: {.box .attention .page-break-before}
 Kom ihåg: Vid starten av lösningen måste deltagaren placera händerna platt, med handflatorna nedåt, och röra sensorerna med fingrarna, inte handflatorna! (Straff: +2 sekunder [A4b](http://wca.link/A4b))
 :::::
 
@@ -179,17 +166,13 @@ Både domaren och deltagaren måste bekräfta resultatet på resultatkortet geno
 Deltagaren måste verifiera att resultatet är korrekt och läsbart innan hen signerar försöket!
 :::::
 
-<div class="page-break"></div>
-
-## Viktiga regler
+## Viktiga regler {.page-break-before}
 
 - **Starta lösningen**:
 
 [Regel A4)](https://www.worldcubeassociation.org/regulations/#A4) reglerar hur timern ska startas.
 
-::::: {}
 ![](images/RegA4_se.png){.centered width=90%}
-:::::
 
 ::::: {.box .attention}
 Kom ihåg: Att starta lösningen på ett felaktigt sätt leder till tidsstraff!
@@ -204,17 +187,13 @@ Under hela lösningen får deltagaren bara prata med domaren och Delegaten. Du f
 
 [Regel A6)](https://www.worldcubeassociation.org/regulations/#A6) reglerar hur timern ska stoppas.
 
-::::: {}
 ![](images/RegA6_se.png){.centered width=90%}
-:::::
 
 ::::: {.box .attention}
 Kom ihåg: Att stoppa timern på ett felaktigt sätt leder till tidsstraff!
 :::::
 
-<div class="page-break"></div>
-
-- **Feljusteringar**:
+- **Feljusteringar**: {.page-break-before}
 
 | <!-- --> | <!-- --> ![](){width=650px} |
 | --- | --- |
@@ -228,9 +207,7 @@ Kom ihåg: Att stoppa timern på ett felaktigt sätt leder till tidsstraff!
 Om du är osäker, fråga alltid en delegat!
 :::::
 
-<div class="page-break"></div>
-
-## Viktiga definitioner
+## Viktiga definitioner {.page-break-before}
 
 - **Format:** Beroende på gren finns följande sätt att beräkna resultatet som används för att ranka deltagare:
 
@@ -253,9 +230,7 @@ Vissa grenar har kumulativa tidsgränser. En kumulativ tidsgräns fungerar som e
 Endast delegater kan dela ut extra försök!
 :::::
 
-<div class="page-break"></div>
-
-## Du bör...
+## Du bör... {.page-break-before}
 
 - **... aldrig prata om blandningarna förrän omgången är över.**
 

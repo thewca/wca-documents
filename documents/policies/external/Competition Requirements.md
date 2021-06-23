@@ -173,9 +173,7 @@ The WCA Delegate must submit the following information when requesting approval 
     2. The organization team may request to prohibit competitors from participating in specific combinations of events.
     3. Approving optional requirements is at the discretion of the WCA Competition Announcement Team.
 
-<div class="page-break"></div>
-
-### Amendments to WCA Competitions
+### Amendments to WCA Competitions {.page-break-before}
 The following information can be changed by the competition WCA Delegate without approval, within the confines of the relevant WCA Regulations. Changes to any of the below points must be clearly communicated to all registered competitors:
 
 1. Number of rounds ([WCA Regulation 9m)](wca{regulations/#9m}))

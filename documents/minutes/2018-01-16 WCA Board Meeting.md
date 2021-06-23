@@ -37,7 +37,8 @@ We determined that we will not ask the WST to lock the registration dates for co
 
 We previously agreed that we shall vote on all cases in which a competitor limit change is requested for an already announced competition. In future cases, we should make sure that the changes requested are appropriate (and that reasons are provided with such requests).
 
-<div class="page-break"></div>
+::::: {.page-break-before}
+:::::
 
 <b class="text-center">PROXIMITY POLICY</b>
 

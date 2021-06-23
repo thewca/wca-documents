@@ -3,7 +3,7 @@
 Scroll to the bottom of the document for translations.
 
 ## WCA Organization - General Introduction
-![]({logo}){.logo height=133px}
+![WCA logo]({logo}){.logo height=133px}
 
 The World Cube Association is the organization governing speedcubing competitions all around the world. Every competition that is sanctioned by the WCA has to follow the WCA [Regulations](https://www.worldcubeassociation.org/regulations/) and [Guidelines](https://www.worldcubeassociation.org/regulations/guidelines.html), so it's very important that you are familiar with them before going to a competition.
 
@@ -22,34 +22,27 @@ If you are not sure about something, always ask the Delegate!
 - **Runner**: Runners are responsible for moving puzzles between scramblers and judges.
 - **Scrambler**: Scramblers apply official scramble sequences on competitors' puzzles. They certify with their signature that the applied scramble was correct.
 
-<div class="page-break"></div>
-
-## Objects at the competition
+## Objects at the competition {.page-break-before}
 
 - **Stackmat timer**: This is the official device for measuring times at a competition.
 It can look like any of the three versions below.
 
-::::: {}
 ![](images/stackmat_timers.png){.centered height=200px}
-:::::
 
 - **Mat**: Stackmat timers must be used with accompanying mats. The mat helps prevent puzzles from sliding at the end of the attempt.
 
-::::: {}
 ![](images/mat.png){.centered width=600px}
-:::::
 
 - **Stopwatch**: Stopwatches are used for measuring the inspection time. They are also used to measure time for attempts over 10 minutes. Note that stopwatches can be of different models and hence their functioning can be different from the one shown in the picture.
 
-::::: {}
 ![](images/stopwatch.jpg){.centered height=200px}
-:::::
 
 - **Cover**: Covers are used to cover a puzzle before an attempt, so competitors cannot see the scrambles.
 
 ![](images/cover.jpg){.centered height=200px}
 
-<div class="page-break"></div>
+::::: {.page-break-before}
+:::::
 
 - **Score sheet**: After a puzzle is scrambled, the scrambler signs for the correctnees on the score sheet. Additonally after each solve the judge writes down the result on the score sheet, signs it and has the competitor sign it, to acknowledge that the result is
   - 1) correct
@@ -57,9 +50,7 @@ It can look like any of the three versions below.
   - 3) properly formatted, and
   - 4) clearly readable.
 
-::::: {}
 ![](images/scoresheet.png){.centered height=600px}
-:::::
 
 ::::: {.box .attention}
 If a time on your score sheet is illegible, the worst interpretable result will be entered for that attempt.
@@ -74,9 +65,7 @@ Penalty: Disqualification of the solve
 The judge must not sign the score sheet before they have recorded the result!
 :::::
 
-<div class="page-break"></div>
-
-## Competition Procedure
+## Competition Procedure {.page-break-before}
 
 ### Event:
 WCA competitions have one or more events. The most common event is the normal 3x3x3 Cube, but in total there are 17 official events.
@@ -111,9 +100,7 @@ The judge makes sure that the competitor is ready for the attempt, by asking “
 The judge needs to make sure that the competitor is ready! Lifting the cover to early can lead to an extra attempt.
 :::::
 
-<div class="page-break"></div>
-
-::::: {.box .attention}
+::::: {.box .attention .page-break-before}
 Remember that you have 1 minute to start your attempt once you sit at the station with the puzzle placed on the mat!
 :::::
 
@@ -150,9 +137,7 @@ When placing their hands on the timer, the competitor will first see a red light
 Remember that for starting the solve the competitor’s hands must be flat, palms down and must touch the sensors with their fingers, not their palms! (Penalty: +2 seconds [A4b](http://wca.link/A4b))
 :::::
 
-<div class="page-break"></div>
-
-### Stopping the solve:
+### Stopping the solve: {.page-break-before}
 When the puzzle is solved, the competitor stops the timer by putting their hands on the sensors. They must not be touching the puzzle and their hands must be flat with palms down.
 
 ::::: {.box .attention}
@@ -182,17 +167,13 @@ Both the judge and the competitor must confirm the result on the score sheet wit
 Remember that the competitor needs to check that the written time is correct and readable before signing the attempt!
 :::::
 
-<div class="page-break"></div>
-
-## Important Regulations
+## Important Regulations {.page-break-before}
 
 - **Starting the solve**:
 
 [Regulation A4)](https://www.worldcubeassociation.org/regulations/#A4) is the rule which indicates how to start the timer correctly.
 
-::::: {}
 ![](images/RegA4.png){.centered width=90%}
-:::::
 
 ::::: {.box .attention}
 Remember that starting the solve incorrectly leads to penalties!
@@ -207,17 +188,13 @@ During the whole solve, you can only talk to your judge or to the WCA Delegate, 
 
 [Regulation A6)](https://www.worldcubeassociation.org/regulations/#A6) is the rule which explains how to stop the timer correctly.
 
-::::: {}
 ![](images/RegA6.png){.centered width=90%}
-:::::
 
 ::::: {.box .attention}
 Remember that stopping the solve incorrectly leads to penalties!
 :::::
 
-<div class="page-break"></div>
-
-- **Misalignments**:
+- **Misalignments**: {.page-break-before}
 
 | <!-- --> | <!-- --> ![](){width=650px} |
 | --- | --- |
@@ -231,9 +208,7 @@ Remember that stopping the solve incorrectly leads to penalties!
 If you are unsure about penalties, always ask a Delegate!
 :::::
 
-<div class="page-break"></div>
-
-## Important Definitions
+## Important Definitions {.page-break-before}
 
 - **Formats** Depending on the event there are different ways of calculating the results that are used to rank competitors. The legal formats are:
 
@@ -255,9 +230,7 @@ If you are unsure about penalties, always ask a Delegate!
 Extra attempts can be given only by a Delegate!
 :::::
 
-<div class="page-break"></div>
-
-## You should...
+## You should... {.page-break-before}
 
 - **... never talk about the scrambles before the end of the round.**
 

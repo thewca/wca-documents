@@ -15,7 +15,8 @@ Disciplinary procedures are handled by the WCA Disciplinary Committee (WDC) as o
 
 The official communication channel for the WDC is via email. For any concerns about the conduct of Registered Speedcubers, contact the WDC: disciplinary@worldcubeassociation.org.
 
-<div class="page-break"></div>
+::::: {.page-break-before}
+:::::
 
 1. **Scope and Application**
    1. All Members of the WCA Community are automatically bound by and required to comply with all of the provisions of the Code of Conduct. Members of the WCA Community shall be deemed to have agreed:

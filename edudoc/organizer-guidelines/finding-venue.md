@@ -27,11 +27,9 @@ Ideally you should have a rough set of dates in mind that suits you, the venue, 
 You must also follow the requirements set out in the [WCA Competition Requirement Policy](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Requirements.pdf). You must make sure the dates are realistic that the competition can without great time pressure be announced at least 28 days in advance of the competition. You should also allow enough time for competition to complete their registration and to plan their trip.
 :::::
 
-::::: {.box .important}
+::::: {.box .important .page-break-after}
 Please also double check with the local community/delegate(s) to avoid breaking the proximity policy stated in the WCA Competition Requirement Policy.
 :::::
-
-<div class="page-break"></div>
 
 ## Venue fees
 
