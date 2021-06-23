@@ -261,7 +261,7 @@ Final remark: the rules for competitor names described in the Administering regi
 *(updated on March 1, 2019)*
 
 We believe that reports are a valuable learning opportunity for new Delegates and therefore ask for them to be sent to the Delegates’ mailing list. Since all Board members are in said mailing list, this complies with regulation 1c1). Competition reports must filled out and submitted via the WCA website within one week of the competition. The link to the competition report form is: [https://www.worldcubeassociation.org/competitions/YOUR-COMPETITION-ID/report](https://www.worldcubeassociation.org/competitions/YOUR-COMPETITION-ID/report) where you replace YOUR-COMPETITION-ID with the ID of your competition. You can also easily access the form over the "My competitions" page.\
-This form sends an email to [reports@worldcubeassociation.org](malto:reports@worldcubeassociation.org) with the competition report.\
+This form sends an email to [reports@worldcubeassociation.org](mailto:reports@worldcubeassociation.org) with the competition report.\
 We encourage Delegates to write careful, detailed reports for the benefit of all Delegates, and we also encourage new Delegates to read other Delegates' reports carefully and make the most of this learning opportunity.
 
 ## Paying competition Dues
@@ -277,7 +277,7 @@ Please note, due to limitations with the software, **only the first listed Deleg
 
 As the invoice contact, it is your duty to inform other Delegates for the competition about the invoice being owed, and also to communicate with the WFC on behalf of this invoice. This person may also send the invoice onto the organisation team, another Delegate, an association treasurer, etc. If forwarding onto someone else to pay, we would highly recommend requesting confirmation from them once payment has been made. There is a payment period of 30 days, invoices must be paid within this timeframe otherwise there may be repercussions.
 
-If you ever have any doubts, questions, etc. then feel free to send an email to [finance@worldcubeassociation.org](malto:finance@worldcubeassociation.org) who will get back to you as soon as possible.
+If you ever have any doubts, questions, etc. then feel free to send an email to [finance@worldcubeassociation.org](mailto:finance@worldcubeassociation.org) who will get back to you as soon as possible.
 
 ## Administering WCA user accounts
 *(updated on November 10th, 2019)*
