@@ -39,10 +39,7 @@ It can look like any of the three versions below.
 
 - **Cover**: Covers are used to cover a puzzle before an attempt, so competitors cannot see the scrambles.
 
-![](images/cover.jpg){.centered height=200px}
-
-::::: {.page-break-before}
-:::::
+![](images/cover.jpg){.centered height=200px .page-break-after}
 
 - **Score sheet**: After a puzzle is scrambled, the scrambler signs for the correctnees on the score sheet. Additonally after each solve the judge writes down the result on the score sheet, signs it and has the competitor sign it, to acknowledge that the result is
   - 1) correct

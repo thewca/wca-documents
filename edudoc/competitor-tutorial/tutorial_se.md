@@ -37,10 +37,7 @@ Den kan se ut som någon av de tre versionerna nedan.
 
 - **Cube cover**: Cube covers används för att täcka över pusslet före ett försök, så att deltagare inte kan se blandningen i förväg.
 
-![](images/cover.jpg){.centered height=200px}
-
-::::: {.page-break-before}
-:::::
+![](images/cover.jpg){.centered height=200px .page-break-after}
 
 - **Resultatkort**: När ett pussel blandats signerar blandaren på resultatkortet att det gjorts på korrekt sätt. Efter varje försök skriver domaren ner resultatet på resultatkortet och signerar. Därefter signerar deltagaren för att bekräfta att resultatet på resultatkortet är
   - 1) korrekt
