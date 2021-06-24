@@ -189,11 +189,11 @@ Under hela lösningen får deltagaren bara prata med domaren och Delegaten. Du f
 
 ![](images/RegA6_se.png){.centered width=90%}
 
-::::: {.box .attention}
+::::: {.box .attention .page-break-after}
 Kom ihåg: Att stoppa timern på ett felaktigt sätt leder till tidsstraff!
 :::::
 
-- **Feljusteringar**: {.page-break-before}
+- **Feljusteringar**:
 
 | <!-- --> | <!-- --> ![](){width=650px} |
 | --- | --- |

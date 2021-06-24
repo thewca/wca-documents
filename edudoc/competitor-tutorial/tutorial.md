@@ -190,11 +190,11 @@ During the whole solve, you can only talk to your judge or to the WCA Delegate, 
 
 ![](images/RegA6.png){.centered width=90%}
 
-::::: {.box .attention}
+::::: {.box .attention .page-break-after}
 Remember that stopping the solve incorrectly leads to penalties!
 :::::
 
-- **Misalignments**: {.page-break-before}
+- **Misalignments**:
 
 | <!-- --> | <!-- --> ![](){width=650px} |
 | --- | --- |

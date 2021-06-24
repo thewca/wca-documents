@@ -1,6 +1,6 @@
 # WCA Email Account Policy
 <div class="version">
-Version 1.1
+### Version 1.1
 </div>
 
 ## Purpose
