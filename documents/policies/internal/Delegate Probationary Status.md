@@ -1,7 +1,6 @@
 # WCA Delegate Probationary Status Policy
-<div class="version">
-### Version 1.3
-</div>
+
+### Version 1.3 {.version}
 
 ## Policy
 Delegates who fail to do their duties may be placed on probation. This is an internal designation which only the Delegate on probation, Regional Delegate, Senior Delegate, Board, and relevant committees and/or teams would be aware of.

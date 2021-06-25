@@ -3,7 +3,8 @@
 Scroll to the bottom of the document for translations.
 
 ## WCA Organization - General Introduction
-![WCA logo](../../assets/WCAlogo_notext.svg){.logo height=133px}
+
+![WCA logo]({logo}){.logo height=133px}
 The World Cube Association is the organization governing speedcubing competitions all around the world. Every competition that is sanctioned by the WCA has to follow the WCA [Regulations](https://www.worldcubeassociation.org/regulations/) and [Guidelines](https://www.worldcubeassociation.org/regulations/guidelines.html), so it's very important that you are familiar with them before going to a competition.
 
 This document will guide you through the basics of competing and judging. Reading this document can be very helpful to get a basic picture about official WCA competitions, but we still recommend you to read the WCA Regulations and Guidelines and participate in the "Competition Tutorial" event at the competition if your competition has one.
@@ -26,27 +27,19 @@ If you are not sure about something, always ask the Delegate!
 - **Stackmat timer**: This is the official device for measuring times at a competition.
 It can look like any of the three versions below.
 
-::::: {}
 ![](images/stackmat_timers.png){.centered height=200px}
-:::::
 
 - **Mat**: Stackmat timers must be used with accompanying mats. The mat helps prevent puzzles from sliding at the end of the attempt.
 
-::::: {}
 ![](images/mat.png){.centered width=600px}
-:::::
 
 - **Stopwatch**: Stopwatches are used for measuring the inspection time. They are also used to measure time for attempts over 10 minutes. Note that stopwatches can be of different models and hence their functioning can be different from the one shown in the picture.
 
-::::: {}
 ![](images/stopwatch.jpg){.centered height=200px}
-:::::
 
 - **Cover**: Covers are used to cover a puzzle before an attempt, so competitors cannot see the scrambles.
 
-::::: {.page-break-after}
-![](images/cover.jpg){.centered height=200px}
-:::::
+![](images/cover.jpg){.centered height=200px .page-break-after}
 
 - **Score sheet**: After a puzzle is scrambled, the scrambler signs for the correctnees on the score sheet. Additonally after each solve the judge writes down the result on the score sheet, signs it and has the competitor sign it, to acknowledge that the result is
   - 1) correct
@@ -54,9 +47,7 @@ It can look like any of the three versions below.
   - 3) properly formatted, and
   - 4) clearly readable.
 
-::::: {}
 ![](images/scoresheet.png){.centered height=600px}
-:::::
 
 ::::: {.box .attention}
 If a time on your score sheet is illegible, the worst interpretable result will be entered for that attempt.
@@ -70,7 +61,6 @@ Penalty: Disqualification of the solve
 ::::: {.box .attention}
 The judge must not sign the score sheet before they have recorded the result!
 :::::
-
 
 ## Competition Procedure {.page-break-before}
 
@@ -94,7 +84,6 @@ Remember that you must be ready to submit your puzzle as soon as your group is c
 Competitions use different systems, so judges have slightly different roles and duties based on what system is being used.
 
 - **Stationary judges** will sit at the same solving station and judge multiple competitors in a row. The runners will take the puzzles from the scrambling table, call the competitors, and distribute them to the stationary judges. The duties of the judges are just limited to the solving procedure.
-
 - **Running judges** take the puzzles from the scrambling table, call the relevant competitors in the waiting area, bring them to a station, follow the solving procedure, and then bring the puzzle back to the scrambling table.
 
 ### Starting the solve:
@@ -108,7 +97,7 @@ The judge makes sure that the competitor is ready for the attempt, by asking “
 The judge needs to make sure that the competitor is ready! Lifting the cover to early can lead to an extra attempt.
 :::::
 
-::::: {.box .attention}
+::::: {.box .attention .page-break-before}
 Remember that you have 1 minute to start your attempt once you sit at the station with the puzzle placed on the mat!
 :::::
 
@@ -175,16 +164,13 @@ Both the judge and the competitor must confirm the result on the score sheet wit
 Remember that the competitor needs to check that the written time is correct and readable before signing the attempt!
 :::::
 
-
 ## Important Regulations {.page-break-before}
 
 - **Starting the solve**:
 
 [Regulation A4)](https://www.worldcubeassociation.org/regulations/#A4) is the rule which indicates how to start the timer correctly.
 
-::::: {}
 ![](images/RegA4.png){.centered width=90%}
-:::::
 
 ::::: {.box .attention}
 Remember that starting the solve incorrectly leads to penalties!
@@ -199,9 +185,7 @@ During the whole solve, you can only talk to your judge or to the WCA Delegate, 
 
 [Regulation A6)](https://www.worldcubeassociation.org/regulations/#A6) is the rule which explains how to stop the timer correctly.
 
-::::: {}
 ![](images/RegA6.png){.centered width=90%}
-:::::
 
 ::::: {.box .attention .page-break-after}
 Remember that stopping the solve incorrectly leads to penalties!
@@ -220,7 +204,6 @@ Remember that stopping the solve incorrectly leads to penalties!
 ::::: {.box .important}
 If you are unsure about penalties, always ask a Delegate!
 :::::
-
 
 ## Important Definitions {.page-break-before}
 
@@ -243,7 +226,6 @@ If you are unsure about penalties, always ask a Delegate!
 ::::: {.box .important}
 Extra attempts can be given only by a Delegate!
 :::::
-
 
 ## You should... {.page-break-before}
 
@@ -301,12 +283,12 @@ Extra attempts can be given only by a Delegate!
   *Make sure to adhere with the WCA Regulations and ask a Delegate!*
   :::
 
-::::: {}
-![](images/coverInfographic.png){.centered width=95%}
-:::::
+![](images/coverInfographic.png){.centered width=90%}
 
-## Translations {.page-break-before}
+<div style="margin-top: 200px"></div>
+
+## Translations
 
 Below you can find translations of the tutorial. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
 
-- Svenska (Swedish): https://www.worldcubeassociation.org/edudoc/competitor-tutorial/tutorial_se.pdf 
+- [Svenska (Swedish)](https://www.worldcubeassociation.org/edudoc/competitor-tutorial/tutorial_se.pdf)

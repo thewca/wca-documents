@@ -25,10 +25,7 @@ This is the main equipment and tools required to proceed with a speedsolving att
 9. The competitor stops the timer once they have solved the puzzle to stop the attempt. Inspect the puzzle without touching it (except for the Clock event) and call “OKAY”, “PENALTY”, or “DNF”.
 10. A final result (along with penalties, if applicable) is recorded on the scorecard before both the judge and the competitor sign the attempt to verify that the result is correct and accepted.
 
-::::: {.page-break-before}
-:::::
-
-## Penalties
+## Penalties {.page-break-before}
 
 **+2** is a penalty where 2 seconds are added to the final result of the attempt. **+2** penalties are cumulative, which means the competitor could potentially receive a total penalty of **+4** or even higher. **Did Not Finish** (DNF) is a penalty that results in a disqualification of the attempt. If you are not sure what should be done in an incident, you should always ask the WCA Delegate of the competition for advice.
 
@@ -48,10 +45,7 @@ Here are some common incidents that can result in +2 or DNF:
 
 **+2** is given when the competitor touches the puzzle before the judge has inspected the solved state.
 
-::::: {.page-break-before}
-:::::
-
-![](images/penalty3.png){.centered}
+![](images/penalty3.png){.centered .page-break-before}
 
 **+2** is given when the competitor fails to start the timer with their palms facing down.
 
@@ -63,10 +57,7 @@ Here are some common incidents that can result in +2 or DNF:
 
 Note: 180° turns (R2, U2, etc.) are considered one move.
 
-::::: {.page-break-before}
-:::::
-
-::::: {.box .warning}
+::::: {.box .warning .page-break-before}
 #### This shows what kind of misalignments result in a +2 penalty:
 
 ![](images/misalignments.png){.centered}

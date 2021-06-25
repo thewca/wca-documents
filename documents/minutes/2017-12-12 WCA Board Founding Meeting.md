@@ -42,7 +42,7 @@ RESOLVED FURTHER, that the following officers be, and each of them hereby is, el
 qualified:
 
 | **Title** | **Name** |
-| :--------- | :--------- |
+| :--- | :--------- |
 | Chair of the Board | Ron van Bruchem |
 | Executive Director | Ron van Bruchem |
 | Secretary | Robert Burton |

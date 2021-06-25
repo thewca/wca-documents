@@ -1,7 +1,6 @@
 # WCA Logo Usage Policy
-<div class="version">
-### Version 1.0
-</div>
+
+### Version 1.0 {.version}
 
 ## Purpose
 The WCA logo was designed for the World Cube Association by Justin Eastman in a design contest in January 2005. A 3D version of the logo was designed by Vu Minh Tan. This policy outlines the allowed usage of the WCA logo.
@@ -32,5 +31,5 @@ Any requests to use the WCA logo on merchandise that will be sold must be negoti
 ### Usage on a Personal Website
 The WCA logo may not​ be used on any personal websites.
 
-### Other
+### Other {.page-break-before}
 All other requests to use the WCA logo for purposes not already outlined in this policy must be approved on a case by case basis by the WCA Board of Directors.

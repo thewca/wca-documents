@@ -1,12 +1,11 @@
 # Deltagarinstruktioner för WCA-tävlingar
 
-## WCA som organisation - Generell Introduktion 
-![WCA logo](../../assets/WCAlogo_notext.svg){.logo height=133px}
+## WCA som organisation - Generell Introduktion
 
+![WCA logo]({logo}){.logo height=133px}
 WCA (World Cube Association) är organisationen som ansvarar för arrangerande av tävlingar i Speedcubing över hela världen. Alla WCA-tävlingar måste följa WCA:s [Tävlingsregler](https://www.worldcubeassociation.org/regulations/) och [Riktlinjer]((https://www.worldcubeassociation.org/regulations/guidelines.html)), därför är det viktigt att du är bekant med dessa innan du deltar.
 
 Detta dokument guidar dig genom grunderna i att tävla och döma. Att läsa detta dokument kan vara väldigt nyttigt för att få en grundförståelse för WCA-tävlingar, men vi rekommenderar ändå att du läser WCA:s tävlingsregler och riktlinjer, samt deltar i deltagarinstruktionen om tävlingen har en sådan.
-
 
 ## Roller på tävlingar
 - **Delegat**: Delegater är WCA:s officiella funktionärer, och de ansvarar för att WCA:s tävlingsregler följs på tävlingen. De hanterar också incidenter, och har ansvar för blandningar och resultat. Om det uppstår några tveksamheter eller frågor bör du i första hand vända dig till tävlingens delegat
@@ -26,26 +25,19 @@ Om du är osäker på något, fråga alltid delegaten!
 - **Stackmat-timer**: Detta är den officiella enheten för tidtagning på tävlingar.
 Den kan se ut som någon av de tre versionerna nedan.
 
-::::: {}
 ![](images/stackmat_timers.png){.centered height=200px}
-:::::
 
 - **Matta**: Stackmat-timers måste användas tillsammans med tillhörande mattor. Mattan håller timern på plats, skyddar pusslen, och förhindrar dem från att glida iväg vid slutet av försöket.
-::::: {}
+
 ![](images/mat.png){.centered width=600px}
-:::::
 
 - **Tidtagarur**: Tidtagarur används för att mäta inspektionstiden. De används även för att mäta tiden på försök över 10 minuter. Notera att tidtagarur kan vara av olika modeller, och de kan därför se ut och fungera annorlunda jämfört med det på bilden nedan.
 
-::::: {}
 ![](images/stopwatch.jpg){.centered height=200px}
-:::::
 
 - **Cube cover**: Cube covers används för att täcka över pusslet före ett försök, så att deltagare inte kan se blandningen i förväg.
 
-::::: {.page-break-after}
-![](images/cover.jpg){.centered height=200px}
-:::::
+![](images/cover.jpg){.centered height=200px .page-break-after}
 
 - **Resultatkort**: När ett pussel blandats signerar blandaren på resultatkortet att det gjorts på korrekt sätt. Efter varje försök skriver domaren ner resultatet på resultatkortet och signerar. Därefter signerar deltagaren för att bekräfta att resultatet på resultatkortet är
   - 1) korrekt
@@ -53,9 +45,7 @@ Den kan se ut som någon av de tre versionerna nedan.
   - 3) korrekt formaterat
   - 4) tydligt läsbart
 
-::::: {}
 ![](images/scoresheet_se.png){.centered height=600px}
-:::::
 
 ::::: {.box .attention}
 Om någon del av resultatkortet är oläsligt kommer den sämsta möjliga tolkningen registreras för det försöket. 
@@ -92,7 +82,6 @@ Kom ihåg: Du måste vara redo att lämna in ditt pussel när din grupp ropas up
 Olika tävlingar använder olika system, så domare kan ha något olika roller och uppgifter beroende på vilket system som används.
 
 - **Stationära domare** sitter vid samma lösningsstation under hela gruppen, och dömer flera deltagare i rad. En runner tar pusslet från blandningsbordet, ropar upp deltagaren, och fördelar dem till en domare. Domarens uppgifter är här begränsade till lösningsproceduren. Detta system är det absolut vanligaste i Sverige.
-
 - **Running judges** är mycket ovanligt på svenska tävlingar. Här tar domaren pusslet från blandningsbordet, ropar upp deltagaren, tar dem till en lösningsstation, dömer försöket, och tar sedan tillbaka pusslet till blandningsbordet. Med detta system används alltså inga runners, utan domaren agerar runner. 
 
 ### Att starta en lösning:
@@ -106,7 +95,7 @@ Domaren säkerställer att deltagaren är redo för försöket genom att fråga 
 Domaren måste se till att deltagaren är redo! Om pusslets cube cover lyfts för tidigt kan det leda till ett extra försök.
 :::::
 
-::::: {.box .attention}
+::::: {.box .attention .page-break-before}
 Kom ihåg: Du har 1 minut på dig att starta ditt försök från det att du satt dig vid stationen med pusslet placerat på mattan!
 :::::
 
@@ -140,11 +129,11 @@ Vid slutet av inspektionen lägger deltagaren pusslet på mattan (i valfri orien
 När deltagaren placerar fingrarna på timern tänds först en röd lampa, och sedan en grön. Först när den gröna lampan tänts är timern redo, och deltagarn kan starta lösningen.
 :::::
 
-::::: {.box .attention}
+::::: {.box .attention .page-break-before}
 Kom ihåg: Vid starten av lösningen måste deltagaren placera händerna platt, med handflatorna nedåt, och röra sensorerna med fingrarna, inte handflatorna! (Straff: +2 sekunder [A4b](http://wca.link/A4b))
 :::::
 
-### Stoppa lösningen: {.page-break-before}
+### Stoppa lösningen:
 När pusslet är löst stoppar deltagaren timern genom att placera händerna på sensorerna. Deltagaren får då inte röra pusslet, och handflatorna måste vara nedåt.
 
 ::::: {.box .attention}
@@ -174,16 +163,13 @@ Både domaren och deltagaren måste bekräfta resultatet på resultatkortet geno
 Deltagaren måste verifiera att resultatet är korrekt och läsbart innan hen signerar försöket!
 :::::
 
-
 ## Viktiga regler {.page-break-before}
 
 - **Starta lösningen**:
 
 [Regel A4)](https://www.worldcubeassociation.org/regulations/#A4) reglerar hur timern ska startas.
 
-::::: {}
 ![](images/RegA4_se.png){.centered width=90%}
-:::::
 
 ::::: {.box .attention}
 Kom ihåg: Att starta lösningen på ett felaktigt sätt leder till tidsstraff!
@@ -198,9 +184,7 @@ Under hela lösningen får deltagaren bara prata med domaren och Delegaten. Du f
 
 [Regel A6)](https://www.worldcubeassociation.org/regulations/#A6) reglerar hur timern ska stoppas.
 
-::::: {}
 ![](images/RegA6_se.png){.centered width=90%}
-:::::
 
 ::::: {.box .attention .page-break-after}
 Kom ihåg: Att stoppa timern på ett felaktigt sätt leder till tidsstraff!
@@ -219,7 +203,6 @@ Kom ihåg: Att stoppa timern på ett felaktigt sätt leder till tidsstraff!
 ::::: {.box .important}
 Om du är osäker, fråga alltid en delegat!
 :::::
-
 
 ## Viktiga definitioner {.page-break-before}
 
@@ -243,7 +226,6 @@ Vissa grenar har kumulativa tidsgränser. En kumulativ tidsgräns fungerar som e
 ::::: {.box .important}
 Endast delegater kan dela ut extra försök!
 :::::
-
 
 ## Du bör... {.page-break-before}
 
@@ -301,6 +283,4 @@ Endast delegater kan dela ut extra försök!
   *Se till att följa tävlingsreglerna, och fråga en delegat om du är osäker!*
   :::
 
-::::: {}
-![](images/coverInfographic_se.png){.centered width=95%}
-:::::
+![](images/coverInfographic_se.png){.centered width=90%}

@@ -37,6 +37,9 @@ We determined that we will not ask the WST to lock the registration dates for co
 
 We previously agreed that we shall vote on all cases in which a competitor limit change is requested for an already announced competition. In future cases, we should make sure that the changes requested are appropriate (and that reasons are provided with such requests).
 
+::::: {.page-break-before}
+:::::
+
 <b class="text-center">PROXIMITY POLICY</b>
 
 We discussed the effects of the updated proximity policy that was implemented in November 2017. We noticed that competitors are now traveling shorter distances, but competitions are now larger (with higher competitor limits). We determined that we should not make any change right now and continue to assess the situation. It is predicted that in some time, because of growth, we will have to revisit this policy once again. Some areas continue to have problems, such as the Northeastern United States, in which some competitors do not have the opportunity to participate in competitions because the same competitors seem to go to all of the competitions within their area. Because of this, a limit to the number of competitions that someone may attend within a certain area may be necessary. However, we currently do not have the software needs for such a system implemented, so we cannot enforce such a policy right now.

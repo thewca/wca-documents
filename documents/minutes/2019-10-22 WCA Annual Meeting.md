@@ -51,7 +51,7 @@ Lucas Garron (WRC Leader) begins by apologising for the communication of potenti
 
 <b class="text-center">HALL OF FAME</b>
 
-The Board received a proposal from Daniel Sheppard (WAC Leader) to evaluate a hall of fame for the organization. There has not been much progress and discussion will be brought up with the relevant committees and teams regarding the matter
+The Board received a proposal from Daniel Sheppard (WAC Leader) to evaluate a hall of fame for the organization. There has not been much progress and discussion will be brought up with the relevant committees and teams regarding the matter.
 
 <b class="text-center">ADJOURNMENT</b>
 

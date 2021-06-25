@@ -1,7 +1,6 @@
 # WCA Equipment Funding Policy
-<div class="version">
-### Version 1.1
-</div>
+
+### Version 1.1 {.version}
 
 ## Purpose
 The purpose of this policy is to offer a process and procedure for the WCA to invest in the equipment necessary to run WCA Competitions for countries or regions where their own investment is hindered by financial or other hardship.
@@ -55,9 +54,7 @@ All equipment must be clearly labeled with the WCA logo and asset identification
 
 All equipment must only be used for WCA Competitions. Exception: WCA funded equipment may be used for other WCA activities with the express written permission from the WCA Board of Directors.
 
-<div class="page-break"></div>
-
-## Appendix A
+## Appendix A {.page-break-before}
 ### Application for Funding - Authorization Process
 This process needs to be followed when applying for funding for Competition Equipment.
 

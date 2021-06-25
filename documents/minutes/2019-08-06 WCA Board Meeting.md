@@ -21,8 +21,8 @@ The Board agreed to schedule quarterly Board meetings. Attendance at such meetin
 
 As a result of negative feedback regarding the timing for applications with the current round of Continental Championships, in conjunction with feedback from Ethan Pride regarding the difficulty of planning the World Championship in less than one year, the Board agreed to open application periods earlier and extend their length to offer organizational teams more time to apply and give the successful applicants more time to prepare. The following timetable was agreed upon:
 
-| **Type** | **Year** | **Location** | **Applications open** | **Applications close** | **Board decision** |
-| :--------- | :--------- | :--------- | :--------- | :--------- | :--------- |
+| Type | Year | Location | Applications open | Applications close | Board decision |
+| :---- | :-- | :-------- | :------ | :------ | :----- |
 | World | 2021 | World | January 1, 2020 | March 31, 2020 | April 30, 2020 |
 | Continental | 2022 | Asia | March 1, 2020 | May 31, 2020 | June 30, 2020* |
 | | | Europe | | | |
@@ -75,6 +75,9 @@ After a successful test using Zoom for a meeting among the Board members, it was
 <b class="text-center">WEC LEADERSHIP</b>
 
 RESOLVED, that Callum Goodyear is hereby appointed as Leader for the WCA Ethics Committee, contingent upon a successful approval vote by Senior Delegates and Committee/Team Leaders.
+
+::::: {.page-break-before}
+:::::
 
 <b class="text-center">ADJOURNMENT</b>
 
