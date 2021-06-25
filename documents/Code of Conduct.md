@@ -1,7 +1,6 @@
 # Code of Conduct
-<div class="version">
-### Version 1.0
-</div>
+
+### Version 1.0 {.version}
 
 The Code of Conduct must be considered by all members of the World Cube Association (WCA) Community, as a standard for actions and behavior. Members of the WCA Community include, but are not limited to: Registered Speedcubers, Competitions Organizers, Guests, WCA Officials, Users on the official WCA Forum. 
 

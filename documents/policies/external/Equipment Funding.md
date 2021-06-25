@@ -1,7 +1,6 @@
 # WCA Equipment Funding Policy
-<div class="version">
-### Version 1.1
-</div>
+
+### Version 1.1 {.version}
 
 ## Purpose
 The purpose of this policy is to offer a process and procedure for the WCA to invest in the equipment necessary to run WCA Competitions for countries or regions where their own investment is hindered by financial or other hardship.

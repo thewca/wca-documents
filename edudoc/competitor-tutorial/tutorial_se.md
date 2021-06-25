@@ -1,8 +1,8 @@
 # Deltagarinstruktioner för WCA-tävlingar
 
-## WCA som organisation - Generell Introduktion 
-![WCA logo]({logo}){.logo height=133px}
+## WCA som organisation - Generell Introduktion
 
+![WCA logo]({logo}){.logo height=133px}
 WCA (World Cube Association) är organisationen som ansvarar för arrangerande av tävlingar i Speedcubing över hela världen. Alla WCA-tävlingar måste följa WCA:s [Tävlingsregler](https://www.worldcubeassociation.org/regulations/) och [Riktlinjer]((https://www.worldcubeassociation.org/regulations/guidelines.html)), därför är det viktigt att du är bekant med dessa innan du deltar.
 
 Detta dokument guidar dig genom grunderna i att tävla och döma. Att läsa detta dokument kan vara väldigt nyttigt för att få en grundförståelse för WCA-tävlingar, men vi rekommenderar ändå att du läser WCA:s tävlingsregler och riktlinjer, samt deltar i deltagarinstruktionen om tävlingen har en sådan.

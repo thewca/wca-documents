@@ -1,7 +1,6 @@
 # WCA Website Posting Policy
-<div class="version">
-### Version 1.0
-</div>
+
+### Version 1.0 {.version}
 
 ## Purpose
 The purpose of this policy is to establish what is appropriate to post on the WCA’s website, to determine what should be pinned to the top of the feed, and to regulate how long posts remain pinned.

@@ -1,7 +1,6 @@
 # WCA Competition Requirements Policy
-<div class="version">
-### Version 3.0
-</div>
+
+### Version 3.0 {.version}
 
 ## Purpose
 The purpose of this policy is to define the requirements and processes that a competition must meet and follow in order to be recognized as a WCA Competition.
