@@ -48,7 +48,7 @@ It can look like any of the three versions below.
 ![](images/cover.jpg){.centered height=200px}
 :::::
 
-- **Score sheet**: After a puzzle is scrambled, the scrambler signs for the correctnees on the score sheet. Additonally after each solve the judge writes down the result on the score sheet, signs it and has the competitor sign it, to acknowledge that the result is
+- **Score sheet**: After a puzzle is scrambled, the scrambler signs for the correctness on the score sheet. Additionally after each solve the judge writes down the result on the score sheet, signs it and has the competitor sign it, to acknowledge that the result is
   - 1) correct
   - 2) complete,
   - 3) properly formatted, and

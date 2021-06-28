@@ -42,7 +42,7 @@ Depending on who the owner is, or if issues arise, someone needs to be responsib
 
 ## Calling Volunteers
 
-One of the tasks for the organizers is calling volunteers (scramblers, judges, and possibly runners) for each group and making sure the group proceeds according to plan. The organizers need to always check if all the needed judging stations have judges. They also need to pay attention to whether all scramblers are in place and, if in use, the needed number of runners is present. If you are assigning duties, you can print out an overview of who is scramblind/judging/running for each group so you can quickly find them during the competition. If someone who is assigned to judge or scramble refuses to fulfill their task or is missing, notify your Delegate(s) of this and they will handle the case.
+One of the tasks for the organizers is calling volunteers (scramblers, judges, and possibly runners) for each group and making sure the group proceeds according to plan. The organizers need to always check if all the needed judging stations have judges. They also need to pay attention to whether all scramblers are in place and, if in use, the needed number of runners is present. If you are assigning duties, you can print out an overview of who is scrambling/judging/running for each group so you can quickly find them during the competition. If someone who is assigned to judge or scramble refuses to fulfill their task or is missing, notify your Delegate(s) of this and they will handle the case.
 
 ## Calling groups
 
