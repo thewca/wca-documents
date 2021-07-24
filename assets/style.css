@@ -5,6 +5,7 @@ a {
 body {
   margin: 0;
   padding: 0;
+  font-family: arial;
   font-size: 14pt;
 }
 
@@ -14,10 +15,17 @@ body > :last-child {
   padding-bottom: 0;
 }
 
+img {
+  max-width: 800px;
+}
+
 /* Make multiline tables look good (https://github.com/wkhtmltopdf/wkhtmltopdf/issues/3356#issuecomment-288837439). */
 
 table {
-  page-break-inside: auto;
+  page-break-inside: avoid;
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
 }
 
 tr {
@@ -25,12 +33,35 @@ tr {
   page-break-after: auto;
 }
 
+th {
+  font-weight: bold;
+}
+
+th, td {
+  font-size: 18px;
+  padding: 5px 10px;
+  border: 1px solid black;
+  vertical-align: top;
+}
+
+.bordered-image {
+  padding: 5px;
+  margin: 0 auto;
+  display:block;
+  border: 2px solid black;
+  box-sizing: border-box;
+}
+
 .version {
   color: gray;
 }
 
-.page-break {
+.page-break-before {
   page-break-before: always;
+}
+
+.page-break-after {
+  page-break-after: always;
 }
 
 .text-center {

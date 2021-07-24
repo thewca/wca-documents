@@ -1,7 +1,6 @@
 # WCA Board Attendance Policy
-<div class="version">
-Version 1.0
-</div>
+
+### Version 1.0 {.version}
 
 ## Purpose
 The purpose of this policy is to encourage regular attendance at WCA Board meetings and to provide procedures to address instances of unacceptable levels of attendance.

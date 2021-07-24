@@ -1,7 +1,6 @@
 # Code of Ethics
-<div class="version">
-### Version 2.3
-</div>
+
+### Version 2.3 {.version}
 
 The Code of Ethics must be considered by all Staff members of the World Cube Association (WCA), referred to in this document as “WCA Staff”, as a standard for actions and decisions they will be making when acting on behalf of the WCA within their role. “Listed Delegates” refers to WCA Delegates who are publicly displayed on the “General info” tab of an official WCA Competition.
 
@@ -11,7 +10,8 @@ This Code covers previously known issues, as well as issues that the WCA Ethics 
 
 The official communication channel for the WEC is via email. For any concerns about the ethical conduct of a WCA Staff member, contact the WEC: [ethics@worldcubeassociation.org](mailto:ethics@worldcubeassociation.org). If there are any concerns about the ethical conduct of the WCA Ethics Committee, either the Committee itself or an individual member, please contact the WCA Disciplinary Committee (WDC) at: [disciplinary@worldcubeassociation.org](mailto:disciplinary@worldcubeassociation.org).
 
-<div class="page-break"></div>
+::::: {.page-break-before}
+:::::
 
 1. **Finances**
    1. WCA Staff must not use money, discounts, or goods obtained from their role within the WCA for personal profit.

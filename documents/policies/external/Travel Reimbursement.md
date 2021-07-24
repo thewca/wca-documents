@@ -1,7 +1,6 @@
 # WCA Travel Reimbursement Policy
-<div class="version">
-### Version 1.2
-</div>
+
+### Version 1.2 {.version}
 
 ## Purpose
 The purpose of this policy is to define the conditions under which WCA Staff can be reimbursed their expenses originated from travels to assist in our nonprofit activities in support of our Mission.
@@ -128,9 +127,7 @@ We do not support expense reimbursements for car rentals, unless explicitly auth
    1. For rides to or from long distance transit stations (e.g. airport, train station), exceptions to taxi and rideshare reimbursement limit may be allowed when explicitly pre-approved in writing.
       1. Actual reimbursement amount must not exceed 150% of pre-approved estimate amount.
 
-<div class="page-break"></div>
-
-## Appendix A
+## Appendix A {.page-break-before}
 ### Application for Funding - Authorization Process
 This process needs to be followed when applying for funding to support travel to a WCA Competition
 

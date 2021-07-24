@@ -1,7 +1,6 @@
 # WCA Competition Safety Policy
-<div class="version">
-### Version 1.5
-</div>
+
+### Version 1.5 {.version}
 
 ## Purpose
 This policy provides a directive from the Board of Directors of The World Cube Association (WCA) to all WCA Staff and WCA Community Members on measures that must be abided by and recommendations with regard COVID-19 to ensure that WCA Competitions adhere to localized governmental policy and we minimize the spread of infection amongst not only our own WCA Community, but the wider public as we return to competitions.

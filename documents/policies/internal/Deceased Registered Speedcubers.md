@@ -1,7 +1,6 @@
 # WCA Deceased Registered Speedcubers Policy
-<div class="version">
-### Version 1.0
-</div>
+
+### Version 1.0 {.version}
 
 ## Purpose
 The purpose of this policy is to uniformly handle WCA profiles and announcements of deceased Registered Speedcubers.
