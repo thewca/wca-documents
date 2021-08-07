@@ -23,8 +23,7 @@ The WCA Dues System is a policy by which the WCA will collect revenue on a per-c
          1. Frequent late payments may result in disciplinary action.
    3. WCA Delegates or Regional Organizations may pay the Due amount using either PayPal, bank transfer or Stripe (card payment).
       1. Details for how to make these payments will be included in the invoice sent to the Delegate.
-4. The Due amount owed for a competition will be calculated on a
-per-competitor-per-competition basis.
+4. The Due amount owed for a competition will be calculated on a per-competitor-per-competition basis.
    1. Each competition will have a per-competitor Due amount owed.
    2. The total amount owed for the competition will be the per-competitor Due amount owed multiplied by the number of competitors who participated in the competition.
    3. The per-competitor Due amount will be the higher the Due amount based competition country the Due amount based on registration fees, see Appendix A
