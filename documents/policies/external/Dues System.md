@@ -53,7 +53,7 @@ To calculate the Due amount owed for a competition, the following procedure will
 1. Band 0 countries are countries which do not owe any Dues to the WCA for competitions held in their country.
    1. This only applies for competitions that were held in the country while the country maintained a Band 0 status.
 2. Countries who experience economic and/or currency instability or who have challenges making payments to the WCA due to their financial systems will be given Band 0.
-   1.This will be handled on a case-by-base basis at the discretion of the WFC.
+   1. This will be handled on a case-by-base basis at the discretion of the WFC.
    2. Once the country’s currency returns to a more normal level, and once economic indicators and/or world news report that the country is out of its period of financial instability, then the WFC will place the country into the proper band based on its Cost of Living (COL) value at that time.
 3. Countries who have newly joined the WCA will be placed into Band 0 for a limited period of time.
    1. New countries will keep their Band 0 status until the first of the following events occurs:
