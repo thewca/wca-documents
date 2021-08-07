@@ -46,7 +46,7 @@ To calculate the Due amount owed for a competition, the following procedure will
 4. The Due amount based on registration fees will be equal to 5% of the average registration fee per competitor.
    1. The average registration fee per competitor is equal to the total registration fees for the competition divided by the number of competitors.
       1. The total registration fees for the competition includes the base registration fee and any per-event registration fees.
-5. The final Due amount per competitor will be the higher of the Due amount based on the country and the Due amount based on the Due amount based on registration fees.
+5. The final Due amount per competitor will be the higher of the Due amount based on the country and the Due amount based on registration fees.
 
 ## Appendix B {.page-break-before}
 ### WFC Use of Band 0 for countries that do not owe Dues
