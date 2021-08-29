@@ -1,6 +1,6 @@
 # WCA Competition Safety Policy
 
-### Version 1.5 {.version}
+### Version 1.6 {.version}
 
 ## Purpose
 This policy provides a directive from the Board of Directors of The World Cube Association (WCA) to all WCA Staff and WCA Community Members on measures that must be abided by and recommendations with regard COVID-19 to ensure that WCA Competitions adhere to localized governmental policy and we minimize the spread of infection amongst not only our own WCA Community, but the wider public as we return to competitions.
@@ -24,7 +24,7 @@ In order for a competition to be approved and sanctioned by the WCA the WCA Dele
 4. There is no guidance from local governments that prohibits the running of the competition and;
 5. The WCA Delegate and Organizers produce a detailed risk management plan outlining all steps being taken to ensure that the competition is run as safely and efficiently as possible.
 
-Where cases in a Country or Region are both low and stable, the Board may delegate the responsibility of checking competition safety plans to a combination of the WCAT, Senior Delegate, and Regional Delegate.
+The Board may delegate the responsibility of checking competition safety plans to a combination of the WCAT, Senior Delegate, and Regional Delegate.
 
 The Board of Directors retains the right to require other conditions to be met in order for a competition to be recognized and sanctioned by the WCA. Additionally the Board has the right at any time to withdraw approval and cancel a competition where it may no longer be possible to hold safely.
 
@@ -93,7 +93,7 @@ The WCA recommends that the advice of the World Health Organization is read and 
 Please also refer to government resources in your own Country or Region. Be mindful of the amount of misinformation available on social media with regard to COVID-19 so use government recommended sites and advice.
 
 ## Conflict of Advice
-In the case where there is conflicting advice between the WCA and local governments it is required that the more restrictive requirement is followed.
+In the case where there is conflicting advice between the WCA and local governments it is required that the more restrictive requirement is followed unless explicitly approved prior to the competition announcement.
 
 ## Review
 This policy is considered permanently in effect until repealed by the Board of Directors. The Board will be responsible for reviewing the policy fortnightly and providing appropriate updates to the community.
