@@ -1,6 +1,6 @@
 # WCA Competition Requirements Policy
 
-### Version 3.0 {.version}
+### Version 4.0 {.version}
 
 ## Purpose
 The purpose of this policy is to define the requirements and processes that a competition must meet and follow in order to be recognized as a WCA Competition.
@@ -13,7 +13,8 @@ An official WCA Competition must:
    1. WCA Delegates should allow a suitable time frame for competitions to be announced after they are confirmed to the WCA Competition Announcement Team.
 2. Comply with the [WCA Regulations](wca{regulations}).
 3. Comply with all [WCA Policies](wca{documents}).
-4. Be open to all competitors and spectators who wish to attend, up to the maximum capacity stated on the website or otherwise permitted by the venue.
+4. Be open to all competitors and spectators who wish to attend, up to the maximum capacity stated on the website or otherwise permitted by the venue. 
+   1. Any restrictions placed on competitors and/or spectators who can attend must be publicly outlined in the competition information section and approved by the WCA Board or WCA Competition Announcement Team.
 5. Be held on a single date or on two or more consecutive days.
 6. Have at least one official event.
 7. Have at least one competitor.
@@ -30,6 +31,7 @@ An official WCA Competition must:
       4. Advising other competition officials when necessary.
       5. Deciding about disqualifying competitors during the competition.
       6. Generating, providing, and maintaining the security of the scramble sequences ([WCA Regulation 4b2)](wca{regulations/#4b2})).
+      7. Ensuring that all outstanding incidents after a competition are resolved.
    3. The WCA Delegate may delegate some of their responsibilities to the organization team or other officials.
 9. Comply with the rules of “qualified sponsorship” set forth by Publication 598 of the Internal Revenue Service (IRS), as well as any additional rules or laws in the local country of the competition.
    1. The competition website may announce and display the business name or logo in connection with the competition.
@@ -140,7 +142,7 @@ The WCA Delegate must submit the following information when requesting approval 
       3. A round may have a cutoff. A round with a cutoff is a cutoff round, with the formats as per [WCA Regulation 9b)](wca{regulations/#9b}).
    2. Only results from events that appear on the competition website in the Events tab and Schedule will be recognized.
       1. Other events may only be held unofficially.
-   3. If the main event of the competition is not the 3x3x3 Cube, it should be publicly mentioned in the competition's information section of the 'General info' tab.
+   3. The main event of the competition should be publicly mentioned on the competition website.
       1. The main event should be recognizable in the competition schedule and having an appropriate proportion of rounds and attempts.
       2. Only WCA sanctioned events may be considered the main event of the competition.
       3. There may be no main event of the competition.
@@ -184,5 +186,7 @@ The following information can be changed by the competition WCA Delegate without
 6. Scheduled time of a round
 
 Tabs on the competition website may be modified without the approval of the WCAT. This can be done as long as there is no contradicting information added. These tab edits may be modified without informing all registered competitors at the discretion of the Delegate.
+
+The main event may be rejected and set to "no main event" upon submitting results if it does not meet the suitable guidelines outlined.
 
 All other information submitted as part of the competition approval process may only be changed at the discretion of the WCA Competition Announcement Team or the WCA Board.
