@@ -1,6 +1,6 @@
 # WCA Competition Requirements Policy
 
-### Version 3.0 {.version}
+### Version 4.0 {.version}
 
 ## Purpose
 The purpose of this policy is to define the requirements and processes that a competition must meet and follow in order to be recognized as a WCA Competition.
@@ -13,7 +13,8 @@ An official WCA Competition must:
    1. WCA Delegates should allow a suitable time frame for competitions to be announced after they are confirmed to the WCA Competition Announcement Team.
 2. Comply with the [WCA Regulations](wca{regulations}).
 3. Comply with all [WCA Policies](wca{documents}).
-4. Be open to all competitors and spectators who wish to attend, up to the maximum capacity stated on the website or otherwise permitted by the venue.
+4. Be open to all competitors and spectators who wish to attend, up to the maximum capacity stated on the website or otherwise permitted by the venue. 
+   1. Any restrictions placed on competitors and/or spectators who can attend must be publicly outlined in the competition information section and approved by the WCA Board or WCA Competition Announcement Team.
 5. Be held on a single date or on two or more consecutive days.
 6. Have at least one official event.
 7. Have at least one competitor.
@@ -30,6 +31,7 @@ An official WCA Competition must:
       4. Advising other competition officials when necessary.
       5. Deciding about disqualifying competitors during the competition.
       6. Generating, providing, and maintaining the security of the scramble sequences ([WCA Regulation 4b2)](wca{regulations/#4b2})).
+      7. Ensuring that all outstanding incidents after a competition are resolved.
    3. The WCA Delegate may delegate some of their responsibilities to the organization team or other officials.
 9. Comply with the rules of “qualified sponsorship” set forth by Publication 598 of the Internal Revenue Service (IRS), as well as any additional rules or laws in the local country of the competition.
    1. The competition website may announce and display the business name or logo in connection with the competition.
@@ -38,7 +40,7 @@ An official WCA Competition must:
       2. The competition website cannot advertise any specific products or services of the sponsor, including any endorsements of quality or price.
    3. The competition website may acknowledge the sponsorship contribution.
 10. Competitions with proceeds going to a charity must indicate so on the competition website, preferably in the Information section of the 'General info' tab. The name of the charity must be included. Any such charity needs to be recognized in the country where the competition is held.
-   1. Having this indicated on the competition website must be done as soon as the charity of the proceeds for has been decided. This must be done prior to the competition taking place.
+    1. Having this indicated on the competition website must be done as soon as the charity of the proceeds for has been decided. This must be done prior to the competition taking place.
 
 If WCA Regulations are not correctly observed during a competition, results may be modified at the discretion of the WCA Delegate, WCA Regulations Committee, WCA Results Team, WCA Disciplinary Committee, WCA Ethics Committee, or the WCA Board.
 
@@ -83,12 +85,13 @@ The WCA Delegate must submit the following information when requesting approval 
             2. the other competition must not have the 3x3x3 Fewest Moves event.
       2. A 3x3x3 Fewest Moves simultaneous competition cannot be part of any other regular competition.
          1. Time frames when both are held cannot overlap.
-   5. Twin competitions
-      1. Twin competitions are WCA Competitions that are held less than 5 days apart for which the distance between them is less than 100 km, with the intention to accommodate more competitors to compete in one area.
-         1. Twin competitions may be accepted if the need for competitions in an area is so great that the community will benefit from having multiple competitions held in a short period of time.
-      2. Twin competitions are obliged to clearly and publicly state their condition of twin competitions and their special participation terms.
-         1. A competitor is only permitted to participate in one of the twin competitions.
-            1. If a competitor competes at more than one of the involved twin competitions, only the results from the competition that they compete in first will be kept.
+   5. Series competitions
+      1. Series competitions are a special classification that can be assigned to WCA Competitions that are held less than 33 days apart for which the distance between them is less than 100 km, with the intention to accommodate more competitors to compete in one area.
+         1. Series competitions may be accepted if the need for competitions in an area is so great that the community will benefit from having multiple competitions held in a short period of time. 
+         2. All competitions within the same series must be submitted and announced together.
+      2. Series competitions must clearly and publicly state their condition of series competitions and their special participation terms.
+         1. A competitor is only permitted to participate in one of the series competitions.
+            1. If a competitor competes at more than one of the involved series competitions, all of their results from the series will be removed and they may face disciplinary action.
 3. WCA Delegate(s)
 4. Organization team
    1. Organization teams can be specific persons and/or organizations.
@@ -139,7 +142,7 @@ The WCA Delegate must submit the following information when requesting approval 
       3. A round may have a cutoff. A round with a cutoff is a cutoff round, with the formats as per [WCA Regulation 9b)](wca{regulations/#9b}).
    2. Only results from events that appear on the competition website in the Events tab and Schedule will be recognized.
       1. Other events may only be held unofficially.
-   3. If the main event of the competition is not the 3x3x3 Cube, it should be publicly mentioned in the competition's information section of the 'General info' tab.
+   3. The main event of the competition should be publicly mentioned on the competition website.
       1. The main event should be recognizable in the competition schedule and having an appropriate proportion of rounds and attempts.
       2. Only WCA sanctioned events may be considered the main event of the competition.
       3. There may be no main event of the competition.
@@ -183,5 +186,7 @@ The following information can be changed by the competition WCA Delegate without
 6. Scheduled time of a round
 
 Tabs on the competition website may be modified without the approval of the WCAT. This can be done as long as there is no contradicting information added. These tab edits may be modified without informing all registered competitors at the discretion of the Delegate.
+
+The main event may be rejected and set to "no main event" upon submitting results if it does not meet the suitable guidelines outlined.
 
 All other information submitted as part of the competition approval process may only be changed at the discretion of the WCA Competition Announcement Team or the WCA Board.
