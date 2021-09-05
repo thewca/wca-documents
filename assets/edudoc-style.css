@@ -27,7 +27,6 @@ li {
   padding: 5px 0 5px 0;
 }
 
-/* The styling of table, tr, th and td should be the same as in style.css */
 table {
   page-break-inside: avoid;
   margin-left: auto;
@@ -44,7 +43,7 @@ th {
   font-weight: bold;
 }
 
-td, th {
+th, td {
   font-size: 18px;
   padding: 5px 10px;
   border: 1px solid black;
