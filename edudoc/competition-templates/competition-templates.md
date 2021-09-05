@@ -10,13 +10,13 @@ Here you can find printable templates for cube covers and clock covers, both of 
 
 1. If you would like to use the WCA designs, use the files in the folder for the language used in your region. **WARNING: Some of the PDF previews might have rendering artifacts, but these won't show up if you download the files.** If you would like to make custom designs, use the files in the `Editable Files` folder. **DO NOT** make colored clock cover designs, they must be in black and white (BW).
 
-2. The designs for paper clock covers and competition rules can be printed on a home printer; the clock covers need to be printed in BW and the competition rules need to be printed in color. The other designs **must** be printed using an industry-grade printer, so you will have to find a printing place in your area. They will require `.PDF` files to make your prints.
+2. The designs for paper clock covers and competition rules can be printed on a home printer; the clock covers need to be printed in BW and the competition rules need to be printed in color. The other designs **MUST** be printed using an industry-grade printer, so you will have to find a printing place in your area. They will require `.PDF` files to make your prints.
 
 3. If you are making **custom clock covers**, you will need to copy your finished design to a new A4-sized document (210\*297mm / 8.27\*11.69in), rotate the whole design 12 degrees counterclockwise and save the file as PDF. If you are printing them on a regular office printer that can’t print all the way to the edges, try selecting the setting “fit to printable area”.
 
 4. There are two 3D-printable clock cover designs: one made by Mitchell Lane and one made by Cady Shields. Mitchell's design can stack, while Cady's design does not stack, but is more sturdy and can fit clocks with a thicker outer shell (clocks like this have never been mass-produced, only custom made). Both of these 3D clock cover designs last much longer than the paper version. We recommend that you look for a 3D printing service in your area or try to find a 3D printing enthusiast who could make them for you.
 
-5. Please print all templates within the specifications shown in the table below. Cube covers and results boxes can fall apart quickly if printed on lighter paper, whereas clock covers can be too rigid if printed on denser paper (this leads to buttons being pressed when picking up the puzzle, which has led to results for clock being removed in the past, so please use the recommended density).
+5. Make sure you print all templates **STRICTLY** within the following specifications (**covers printed using different specifications can be unfit for WCA competitions to the extent of some results being removed afterwards**):
 
 | Template               | Paper size | Paper density  | Paper type |
 | ---------------------- | :--------: | :------------- | :--------- |
