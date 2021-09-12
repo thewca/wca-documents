@@ -16,7 +16,7 @@ Here you can find printable templates for cube covers and clock covers, both of 
 
 4. There are two 3D-printable clock cover designs: one made by Mitchell Lane and one made by Cady Shields. Mitchell's design can stack, while Cady's design does not stack, but is more sturdy and can fit clocks with a thicker outer shell (clocks like this have never been mass-produced, only custom made). Both of these 3D clock cover designs last much longer than the paper version. We recommend that you look for a 3D printing service in your area or try to find a 3D printing enthusiast who could make them for you.
 
-5. Make sure you print all templates **STRICTLY** within the following specifications (**covers printed using different specifications can be unfit for WCA competitions to the extent of some results being removed afterwards**):
+5. Make sure you print all templates **STRICTLY** within the following specifications:
 
 | Template               | Paper size | Paper density  | Paper type |
 | ---------------------- | :--------: | :------------- | :--------- |
