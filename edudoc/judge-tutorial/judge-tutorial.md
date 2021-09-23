@@ -58,6 +58,7 @@ Here are some common incidents that can result in +2 or DNF:
 Note: 180° turns (R2, U2, etc.) are considered one move.
 
 ::::: {.box .warning .page-break-before}
+
 #### This shows what kind of misalignments result in a +2 penalty:
 
 ![](images/misalignments.png){.centered}
@@ -72,3 +73,11 @@ Other incidents that can result in a penalty:
 ## Recording Results
 
 If any penalty was given, you should always write the original time, the penalties given and the final time. Penalties are also written before or after the original time depending on whether they happened before or after the attempt. For example, if a competitor finishes an attempt with a time of 17.65 and receives a +2 for not properly starting the timer, the final result should written as `2+17.65=19.65`, since the penalty occurred before the attempt started.
+
+<div style="margin-top: 200px"></div>
+
+## Translations
+
+Below you can find translations of the tutorial. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
+
+-   [Español (Spanish)](https://www.worldcubeassociation.org/edudoc/judge-tutorial/judge-tutorial-es.pdf)
