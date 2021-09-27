@@ -23,7 +23,7 @@ Serhii Koksharov, Somya Srivastava, Thaynara Santana de Oliveira, Tim Reynolds <
 Ulrik Bredland, Wilson Alvis <br>
 
 
-At the time of the meeting the World Cube Association had 151 voting members. With 22 voting members additionally represented by proxy a total of 75 voting members were represented at the meeting and as such a quorum was present.
+At the time of the meeting the World Cube Association had 151 voting members. With 21 voting members additionally represented by proxy a total of 75 voting members were represented at the meeting and as such a quorum was present.
 </div>
 
 
