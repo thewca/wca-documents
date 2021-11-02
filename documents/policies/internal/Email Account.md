@@ -42,3 +42,6 @@ Staff who do not adhere to this policy may face disciplinary action (including d
    - If an individual becomes a Staff member again, their account shall be reinstated.
 - The WCA G Suite administrator reserves the right to delete WCA accounts in certain circumstances.
    - After a period of 7 years after a Staff member’s access is revoked, their account (and all related account email) shall be deleted.
+
+### Password resets
+Staff requiring a password reset must contact the Executive Assistants.
