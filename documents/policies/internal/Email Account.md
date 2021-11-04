@@ -44,4 +44,4 @@ Staff who do not adhere to this policy may face disciplinary action (including d
    - After a period of 7 years after a Staff member’s access is revoked, their account (and all related account email) shall be deleted.
 
 ### Password resets
-Staff requiring a password reset must contact the Executive Assistants.
+Staff requiring a password reset must contact the WCA Executive Assistants Team.
