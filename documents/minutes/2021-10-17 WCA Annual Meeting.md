@@ -4,7 +4,7 @@ DRAFT MINUTES OF ANNUAL MEETING OF THE MEMBERS OF WORLD CUBE ASSOCIATION
 A California Nonprofit Public Benefit Corporation
 </div>
 
-On October 4, 2020 at 6:00 p.m. UTC, the Members of the World Cube Association met for an annual meeting via Zoom. The following voting Members were present at the meeting:
+On October 17, 2021 at 6:00 p.m. UTC, the Members of the World Cube Association met for an annual meeting via Zoom. The following voting Members were present at the meeting:
 
 <div class="text-center">
 Alexander Katyukov, Andreas Pung, António Gomes, Antoine Piau <br>
