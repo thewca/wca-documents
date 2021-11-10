@@ -1,6 +1,6 @@
 # WCA Email Account Policy
 
-### Version 1.1 {.version}
+### Version 1.2 {.version}
 
 ## Purpose
 The purpose of this policy is to outline the guidelines and requirements of individual user accounts and group accounts on the worldcubeassociation.org domain. This policy applies to all WCA Staff members and anyone else who is assigned (or given access to) a corporate email. Since Staff who use WCA email are representing the World Cube Association, they must be aware that they represent the WCA whenever they send emails from such an account.
@@ -42,3 +42,6 @@ Staff who do not adhere to this policy may face disciplinary action (including d
    - If an individual becomes a Staff member again, their account shall be reinstated.
 - The WCA G Suite administrator reserves the right to delete WCA accounts in certain circumstances.
    - After a period of 7 years after a Staff member’s access is revoked, their account (and all related account email) shall be deleted.
+
+### Password resets
+Staff requiring a password reset must contact the WCA Executive Assistants Team.
