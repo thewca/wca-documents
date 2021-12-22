@@ -127,11 +127,11 @@ Al final de la inspección, el competidor coloca el puzzle en el mat (orientado 
 Al colocar las manos sobre el timer, el competidor primero verá una luz roja y luego una verde. El timer estará listo para comenzar la resolución solo cuando la luz verde se encienda.
 :::::
 
-::::: {.box .attention}
+::::: {.box .attention .page-break-before}
 Recuerda que para iniciar la resolución, las manos del competidor deben estar planas, con las palmas hacia abajo y **los dedos** sobre los sensores del timer, ¡No las palmas! (Penalización: +2 segundos [A4b](http://wca.link/A4b))
 :::::
 
-### Terminando la resolución: {.page-break-before}
+### Terminando la resolución:
 Una vez que el puzzle está resuelto, el competidor detiene el timer colocando las manos en los sensores. No deben estar tocando el puzzle y sus manos deben estar planas, con las palmas hacia abajo.
 
 ::::: {.box .attention}
