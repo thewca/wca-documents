@@ -10,10 +10,10 @@ La World Cube Association es la organización que regula las competiciones de sp
 Este documento te guiará a través de los conocimientos básicos que debes tener a la hora de competir y juzgar. Leer este documento puede ser de mucha utilidad para conocer lo básico acerca de las competiciones oficiales de la WCA, pero aún así te recomendamos que leas las Reglas y Directrices de la WCA y que participes en el "Tutorial para Competidores" en la competición a la que asistas, si es que tiene uno.
 
 ## Roles en las competiciones
-- **Delegado**: Los Delegados son los oficiales de la WCA y son los responsables de asegurarse que se cumple con el Reglamento de la WCA durante la competición. También son los responsables de manejar los incidentes y de ocuparse de las mezclas y los resultados. Si en algún momento tienes una duda, el Delegado debería ser la primera opción para preguntar.
+- **Delegado**: Los Delegados son los oficiales de la WCA y son los responsables de asegurarse que se cumple con el Reglamento de la WCA durante la competición. También son los responsables de manejar los incidentes y de ocuparse de las mezclas y los resultados. Si en algún momento tienes una duda, deberías preguntarle al Delegado antes que a cualquier otra persona.
 
 ::::: {.box .important}
-¡Si no estás seguro de algo siempre pregúntale al Delegado!
+¡Si no estás seguro de algo pregúntale al Delegado!
 :::::
 
 - **Organizador**: Los organizadores son responsables de organizar la competición y de asegurarse que se desarrolla lo mejor posible. Generalmente, los organizadores son cuberos con experiencia, por lo que es probable que también te puedan ayudar. Simplemente recuerda que solo los Delegados pueden tomar decisiones oficiales.
@@ -24,7 +24,7 @@ Este documento te guiará a través de los conocimientos básicos que debes tene
 
 ## Materiales {.page-break-before}
 
-- **Temporizador Stackmat**: este es el dispositivo oficial para medir tiempos en las competiciones.
+- **Temporizador Stackmat**: este es el dispositivo oficial para medir los tiempos de resolución en las competiciones. Te puedes encontrar con cualquiera de las tres versiones que se ven abajo.
 
 ![](images/stackmat_timers.png){.centered height=200px}
 
@@ -36,11 +36,11 @@ Este documento te guiará a través de los conocimientos básicos que debes tene
 
 ![](images/stopwatch.jpg){.centered height=200px}
 
-- **Tapacubo**: los tapacubo se utilizan para cubrir el puzzle antes del intento, con el objetivo de que los competidores no puedan verlo.
+- **Tapacubos**: los tapacubos se utilizan para cubrir el puzzle antes del intento, con el objetivo de que los competidores no puedan verlo.
 
 ![](images/cover.jpg){.centered height=200px .page-break-after}
 
-- **Hoja de resultados**: luego de que se mezcla el puzzle, el mezclador firma en la hoja de resultados validando la mezcla. Adicionalmente, después de cada intento, el juez escribe el resultado en la hoja de resultados, la firma y le solicita al competidor que firme, reconociendo que el resultado:
+- **Hoja de resultados**: luego de mezclar el puzzle, el mezclador firma en la hoja de resultados confirmando que la mezcla es correcta. Adicionalmente, después de cada intento, el juez escribe el resultado en la hoja de resultados, la firma y le solicita al competidor que firme, reconociendo que el resultado:
   - 1) es correcto,
   - 2) está completo,
   - 3) tiene el formato adecuado,
@@ -90,6 +90,8 @@ Antes de cada intento, el juez debe asegurarse de que el temporizador está ence
 
 Cuando el competidor se sienta en la estación, el juez/runner coloca el puzzle cubierto sobre el mat y luego espera hasta que el competidor esté listo para iniciar el intento.
 
+El juez se asegura de que el competidor está listo para iniciar el intento preguntándole "¿Listo?".
+
 ::::: {.box .important}
 ¡El juez debe asegurarse de que el competidor está listo! Remover la cobertura del puzzle antes de tiempo puede derivar en un intento extra.
 :::::
@@ -99,7 +101,7 @@ Cuando el competidor se sienta en la estación, el juez/runner coloca el puzzle 
 :::::
 
 ### Inspección:
-La fase de inspección comienza cuando el competidor le confirma al juez de que está listo, diciendo "Sí" (o cualquier otro gesto entendible). En ese momento, el juez le quita la cobertura al puzzle y comienza a medir el tiempo de inspección en un cronómetro. Durante la inspección, el competidor tiene un máximo de 15 segundos para inspeccionar el puzzle. Puede tomar el puzzle y mirarlo por todos lados, pero no debe aplicar ninguna clase de movimiento. Si el competidor le aplica algún movimiento al puzzle, el juez descalifica la resolución y el intento termina. La siguiente tabla muestra qué acciones ocurren durante la inspección.
+La fase de inspección comienza cuando el competidor le confirma al juez de que está listo, diciendo "Sí" (o realizando cualquier otro gesto entendible). En ese momento, el juez le quita la cobertura al puzzle y comienza a medir el tiempo de inspección con un cronómetro. Durante la inspección, el competidor tiene un máximo de 15 segundos para inspeccionar el puzzle. Puede tomar el puzzle y mirarlo por todos lados, pero no debe aplicar ninguna clase de movimiento. Si el competidor le aplica algún movimiento al puzzle, el juez descalifica la resolución y el intento termina. La siguiente tabla muestra qué acciones ocurren durante la inspección.
 
 | Tiempo         | Acción                                    |
 | -------------- |:-----------------------------------------:|
@@ -109,7 +111,7 @@ La fase de inspección comienza cuando el competidor le confirma al juez de que 
 | 17 segundos    | El juez detiene el intento y aplica DNF |
 
 ::::: {.box .important}
-¡El competidor tiene hasta 15 segundos para inspeccionar el puzzle!
+¡El competidor tiene un máximo de 15 segundos para inspeccionar el puzzle!
 :::::
 
 ::::: {.box .attention}
@@ -151,14 +153,14 @@ Recuerda que las penalizaciones son acumulativas, por lo tanto, podrías tener m
 ### Administración:
 Una vez que la resolución terminó, el juez escribe el resultado en la hoja de resultados y luego la firma. El competidor, luego de corroborar que el resultado está correcta y claramente escrito y que el juez ha firmado, firma la hoja de resultados, aceptando el resultado.
 
-Si el competidor tiene más intentos por delante, debe volver a la zona de espera. El juez coloca el puzzle y la hoja de resultados en el tapacubo y luego el juez/runner lo devuelve a la estación de mezcla
+Si el competidor tiene más intentos por delante, debe volver a la zona de espera. El juez coloca el puzzle y la hoja de resultados en el tapacubos y luego el juez/runner lo devuelve a la estación de mezcla
 
 ::::: {.box .important}
-Tanto el juez como el competidor deben confirmar el resultado en la hoja de resultados con sus firmas.
+Tanto el juez como el competidor deben firmar la hoja de resultados para confirmar el resultado registrado.
 :::::
 
 ::::: {.box .attention}
-¡Recuerda que el competidor tiene que revisar que el resultado registrado es correcto y legible antes de firmar el intento!
+¡Recuerda que el competidor necesita asegurarse de que el resultado registrado es correcto y legible antes de firmar el intento!
 :::::
 
 ## Reglas importantes {.page-break-before}
