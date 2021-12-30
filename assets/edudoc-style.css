@@ -69,11 +69,6 @@ th, td {
   background: #d26d6a;
 }
 
-.important p::before {
-  font-family: monospace;
-  content: 'IMPORTANT: ';
-}
-
 .warning {
   background: #ffc0c0;
 }
