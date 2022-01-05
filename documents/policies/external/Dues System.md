@@ -26,7 +26,7 @@ The WCA Dues System is a policy by which the WCA will collect revenue on a per-c
 4. The Due amount owed for a competition will be calculated on a per-competitor-per-competition basis.
    1. Each competition will have a per-competitor Due amount owed.
    2. The total amount owed for the competition will be the per-competitor Due amount owed multiplied by the number of competitors who participated in the competition.
-   3. The per-competitor Due amount will be the higher the Due amount based competition country the Due amount based on registration fees, see Appendix A
+   3. The per-competitor Due amount will be the higher of the Due amount based on competition country the Due amount based on registration fees, see Appendix A
       1.  Exception: for countries in Band 0 the Dues will be waived and the Due amount based on registration fees will not be used.
 
 
