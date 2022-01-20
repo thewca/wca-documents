@@ -33,9 +33,9 @@ Here you can find printable templates for cube covers and clock covers, both of 
 
 \*\* Clock covers are printed on standard printing paper used in regular BW office printers. 80 gsm is the best option.
 
-| Template                           | Resolution     | Infill     |  Filament  | Rafts | Supports |
+| Template                           | Resolution     | Infill     | Filament   | Rafts | Supports |
 | ---------------------------------- | :------------- | :--------- | :--------: | :---: | :------- |
-| 3D clock cover (Cady's design)     | 0.2-0.3mm      | 15%        |    PLA     |  Any  | None \*  |
+| 3D clock cover (Cady's design)     | 0.2-0.3mm      | 15%        | PLA        | Any   | None \*  |
 | 3D clock cover (Mitchell's design) | 0.2-0.3mm \*\* | 15% \*\*\* | PLA / PETG | None  | None     |
 
 \* None are needed when printing upright
@@ -66,3 +66,10 @@ Paper templates - Deni Mintsaev<br/>
 3D clock cover - Cady Shields<br/>
 Stackable 3D clock cover - Mitchell Lane<br/>
 Competition rules image - Tom Nelson
+
+## Translations
+
+Below you can find translations of this document. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
+
+- [Español (Spanish)](https://www.worldcubeassociation.org/edudoc/competition-templates/competition-templates-es.pdf)
+
