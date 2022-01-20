@@ -16,7 +16,9 @@ Aquí podrás encontrar plantillas imprimibles para: tapacubos y coberturas para
 
 4. Hay dos diseños de coberturas para Clock para imprimir en 3D: una creada por Mitchell Lane y la otra por Cady Shields. El diseño de Mitchell se puede apilar, a diferencia del diseño de Cady. A pesar de esto, el diseño de Cady es más robusto y permite utilizar Clocks con una estructura externa más gruesa (este tipo de Clock nunca fue producido en masa, solo existen ejemplares hechos a mano). Ambos diseños tienen mayor durabilidad que la versión en papel. Te recomendamos que busques algún servicio de impresiones 3D o a algún entusiasta de las impresiones 3D que los pueda hacer por ti.
 
+::::: {.page-break-before}
 5. Asegúrate de imprimir todas las plantillas siguiendo **estrictamente** las siguientes especificaciones:
+:::::
 
 | Plantilla                       | Tamaño del papel | Densidad del papel  | Tipo de papel  |
 | ------------------------------- | :--------------: | :------------------ | :------------- |
@@ -60,7 +62,7 @@ Aquí podrás encontrar plantillas imprimibles para: tapacubos y coberturas para
 Por favor, comparte el enlace a ESTA página y no el enlace directamente a la carpeta.
 :::::
 
-## Créditos
+## Créditos {.page-break-before}
 
 Plantillas de papel - Deni Mintsaev<br/>
 Coberturas para Clock 3D - Cady Shields<br/>
