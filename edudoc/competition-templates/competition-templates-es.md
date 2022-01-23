@@ -10,7 +10,7 @@ Aquí podrás encontrar plantillas imprimibles para: tapacubos y coberturas para
 
 1. Si deseas utilizar los diseños de la WCA, busca los archivos en la carpeta/directorio que corresponda a tu idioma. **ADVERTENCIA: la vista previa de los archivos PDF pueden tener detalles de renderización. Si descargas el archivo, ya no se verán.** Si tienes pensado hacer diseños personalizados, utiliza los archivos en la carpeta llamada `Editable Files`. **NO** hagas coberturas para Clock a color, deben estar en blanco y negro (BW).
 
-2. Los diseños de las coberturas para Clock en papel y los folletos con las reglas para competir, pueden imprimirse en una impresora doméstica (las coberturas para Clock deben estar en blanco y negro y los folletos deben estar a color). Los demás diseños **DEBEN** imprimirse utilizando una impresora de grado industrial, así que deberás buscar un lugar donde tengan una (debes llevar los archivos `.PDF`).
+2. Los diseños de las coberturas para Clock en papel y los folletos con las reglas para competir, pueden imprimirse en una impresora doméstica (las coberturas para Clock deben estar en blanco y negro y los folletos deben estar a color). Los demás diseños **DEBEN** imprimirse utilizando una impresora de grado industrial, así que deberás buscar un lugar donde tengan una (debes llevar los archivos `PDF`).
 
 3. Si estás haciendo **coberturas para Clock personalizadas**, necesitarás copiar tu diseño terminado a una hoja formato A4 (210\*297mm / 8.27\*11.69in), rotar todo el diseño 12 grados en sentido anti-horario y guardar el archivo como PDF. Si piensas utilizar una impresora doméstica que no puede imprimir hasta los bordes de la hoja, prueba a seleccionar la opción "ajustar al área imprimible" ("fit to printable area").
 
@@ -22,12 +22,12 @@ Aquí podrás encontrar plantillas imprimibles para: tapacubos y coberturas para
 
 | Plantilla                       | Tamaño del papel | Densidad del papel  | Tipo de papel  |
 | ------------------------------- | :--------------: | :------------------ | :------------- |
-| Tapacubo                        |        A3        | 350-400 gsm \*      | Color          |
-| Cobertura de Clock (papel) \*\* |        A4        | 60-90 gsm           | Blanco y negro |
-| Caja de resultados (mesa)       |        A3        | 350-400 gsm \*      | Color          |
-| Caja de resultados (pared)      |        A4        | 250-400 gsm         | Color          |
-| Square-1 inserts                |        A4        | 250-400 gsm         | Color          |
-| Reglas para competir            |        A4        | Cualquiera          | Color          |
+| Tapacubo                        | A3               | 350-400 gsm \*      | Color          |
+| Cobertura de Clock (papel) \*\* | A4               | 60-90 gsm           | Blanco y negro |
+| Caja de resultados (mesa)       | A3               | 350-400 gsm \*      | Color          |
+| Caja de resultados (pared)      | A4               | 250-400 gsm         | Color          |
+| Square-1 inserts                | A4               | 250-400 gsm         | Color          |
+| Reglas para competir            | A4               | Cualquiera          | Color          |
 
 "gsm" quiere decir "grams per square meter" (gramos por metro cuadrado). Esta es la unidad estándar para medir densidad de papel.
 

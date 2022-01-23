@@ -10,7 +10,7 @@ Here you can find printable templates for cube covers and clock covers, both of 
 
 1. If you would like to use the WCA designs, use the files in the folder for the language used in your region. **WARNING: Some of the PDF previews might have rendering artifacts, but these won't show up if you download the files.** If you would like to make custom designs, use the files in the `Editable Files` folder. **DO NOT** make colored clock cover designs, they must be in black and white (BW).
 
-2. The designs for paper clock covers and competition rules can be printed on a home printer; the clock covers need to be printed in BW and the competition rules need to be printed in color. The other designs **MUST** be printed using an industry-grade printer, so you will have to find a printing place in your area. They will require `.PDF` files to make your prints.
+2. The designs for paper clock covers and competition rules can be printed on a home printer; the clock covers need to be printed in BW and the competition rules need to be printed in color. The other designs **MUST** be printed using an industry-grade printer, so you will have to find a printing place in your area. They will require `PDF` files to make your prints.
 
 3. If you are making **custom clock covers**, you will need to copy your finished design to a new A4-sized document (210\*297mm / 8.27\*11.69in), rotate the whole design 12 degrees counterclockwise and save the file as PDF. If you are printing them on a regular office printer that can’t print all the way to the edges, try selecting the setting “fit to printable area”.
 
@@ -20,12 +20,12 @@ Here you can find printable templates for cube covers and clock covers, both of 
 
 | Template               | Paper size | Paper density  | Paper type |
 | ---------------------- | :--------: | :------------- | :--------- |
-| Cube cover             |     A3     | 350-400 gsm \* | Color      |
-| Paper clock cover \*\* |     A4     | 60-90 gsm      | BW         |
-| Results box (table)    |     A3     | 350-400 gsm \* | Color      |
-| Results box (wall)     |     A4     | 250-400 gsm    | Color      |
-| Square-1 inserts       |     A4     | 250-400 gsm    | Color      |
-| Competition rules      |     A4     | Any            | Color      |
+| Cube cover             | A3         | 350-400 gsm \* | Color      |
+| Paper clock cover \*\* | A4         | 60-90 gsm      | BW         |
+| Results box (table)    | A3         | 350-400 gsm \* | Color      |
+| Results box (wall)     | A4         | 250-400 gsm    | Color      |
+| Square-1 inserts       | A4         | 250-400 gsm    | Color      |
+| Competition rules      | A4         | Any            | Color      |
 
 "gsm" stands for grams per square meter. This is the standard unit of measurement for paper density.
 
@@ -72,4 +72,5 @@ Competition rules image - Tom Nelson
 Below you can find translations of this document. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
 
 - [Español (Spanish)](https://www.worldcubeassociation.org/edudoc/competition-templates/competition-templates-es.pdf)
+- [Русский (Russian)](https://www.worldcubeassociation.org/edudoc/competition-templates/competition-templates-ru.pdf)
 
