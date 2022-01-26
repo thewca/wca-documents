@@ -95,6 +95,10 @@ th, td {
   text-align: left;
 }
 
+.text-center {
+  text-align: center;
+}
+
 .indent {
   text-indent: 3em;
 }
