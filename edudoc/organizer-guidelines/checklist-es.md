@@ -14,19 +14,19 @@ La **primera** página tiene una lista que detalla las tareas más importantes q
 :::::
 
 ::::: {.ident}
-La **segunda** página tiene una lista con todo el equipamiento y lo que necesitarás imprimir para la competición. Primero asegúrate de marcar como necesario o "Según lo requerido", los elementos de la lista que sean aplicables a tu competición.
+La **segunda** página tiene una lista con todo el equipamiento y lo que necesitarás imprimir para la competición. Primero asegúrate de marcar como necesario o "Según lo requerido", los elementos de la lista que sean necesarios para tu competición. Puedes escribir la cantidad de cada una de las cosas que necesitas. Puedes marcar las celdas de la cuarta columna a medida que vayas completando cada elemento de la lista.
 :::::
 
 ::::: {.ident}
-La **tercera** página.
+La **tercera** página es el presupuesto previsto para tu competición. Deberás completar esta página y enviársela a el/los Delegado/s. Puedes completarla con estimativos o valor reales basados en precios que ya conozcas. Al estimar costos es mejor considerar los precios más altos.
 :::::
 
 ::::: {.ident}
-La **cuarta** página.
+La **cuarta** página es el presupuesto real de tu competición. Deberás escribir los precios reales de cada elemento DESPUÉS de haber realizado el pago en cada caso. Esto representa la totalidad de los ingresos y gastos reales.
 :::::
 
 ::::: {.ident}
-La **quinta** y última página.
+La **quinta** y última página tiene la lista de voluntarios que te ayudarán a llevar a cabo la competición. Esto normalmente se refiere a las personas que NO aparecen listadas como organizadores o delegados en la página web de la WCA de la competición. Si no hay voluntarios asignados, puedes borrar esta página.
 :::::
 
 Sientete libre de descargar y editar esta hoja de cálculo para satisfacer tus necesidades específicas o las de tu región en general. La única finalidad de este checklist es servirte de ayuda para el proceso de organizar una competición y ayudarte a entenderlo mejor.
