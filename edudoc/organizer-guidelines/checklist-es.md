@@ -29,4 +29,4 @@ La **cuarta** página es el presupuesto real de tu competición. Deberás escrib
 La **quinta** y última página tiene la lista de voluntarios que te ayudarán a llevar a cabo la competición. Esto normalmente se refiere a las personas que NO aparecen listadas como organizadores o delegados en la página web de la WCA de la competición. Si no hay voluntarios asignados, puedes borrar esta página.
 :::::
 
-Sientete libre de descargar y editar esta hoja de cálculo para satisfacer tus necesidades específicas o las de tu región en general. La única finalidad de este checklist es servirte de ayuda para el proceso de organizar una competición y ayudarte a entenderlo mejor.
+Siéntete libre de descargar y editar esta hoja de cálculo para satisfacer tus necesidades específicas o las de tu región en general. La única finalidad de este checklist es servirte de ayuda para el proceso de organizar una competición y ayudarte a entenderlo mejor.
