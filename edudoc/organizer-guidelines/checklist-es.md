@@ -7,7 +7,7 @@ Este documento explica cómo los organizadores se pueden asegurar de que han hec
 Puedes acceder a la lista a través de [este enlace](https://docs.google.com/spreadsheets/d/17yBhWcetQ9UTKUVRvzJPFZ5DIpSZR7wmBxQW-EhqOwY/edit).
 :::::
 
-Tienes que descargar esta hoja de cálculo y añadirle los detalles que sean necesarios para tu competencia en específico (si es que los hay).
+Tienes que descargar esta hoja de cálculo y añadirle los detalles que sean necesarios para tu competición en específico (si es que los hay).
 
 ::::: {.indent}
 La **primera** página tiene una lista que detalla las tareas más importantes que debes llevar a cabo para asegurarte de que la competición se desarrolla lo mejor posible. La segunda columna determina si la tarea es obligatoria para todas las competiciones. Completa las celdas de la tercera columna a medida que vayas cumpliendo con las tareas.
