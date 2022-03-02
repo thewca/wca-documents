@@ -1,6 +1,6 @@
 # WCA Competition Requirements Policy
 
-### Version 4.1 {.version}
+### Version 4.2 {.version}
 
 ## Purpose
 The purpose of this policy is to define the requirements and processes that a competition must meet and follow in order to be recognized as a WCA Competition.
@@ -92,6 +92,7 @@ The WCA Delegate must submit the following information when requesting approval 
       2. Series competitions must clearly and publicly state their condition of series competitions and their special participation terms.
          1. A competitor is only permitted to participate in one of the series competitions.
             1. If a competitor competes at more than one of the involved series competitions, all of their results from the series will be removed and they may face disciplinary action.
+         2. A competition may only be part of one series.
 3. WCA Delegate(s)
 4. Organization team
    1. Organization teams can be specific persons and/or organizations.
