@@ -105,7 +105,7 @@ The WCA Delegate must submit the following information when requesting approval 
       1. Exception: for 3x3x3 Fewest Moves simultaneous competitions, the competitor limit is per location.
    4. The competitor limit is not greater than half the maximum number of people allowed at public gatherings in the competition venue.
       1. If such a maximum number is not available, the best estimate from a Delegate may be used.
-   6. The WCA Competition Announcement Team will review the competitor limit and/or qualification results or rankings to ensure that they are utilized properly.
+   5. The WCA Competition Announcement Team will review the competitor limit and/or qualification results or rankings to ensure that they are utilized properly.
 6. Registration requirements
    1. The registration requirements are the set of rules and procedures relevant to the registration process.
       1. The registration requirements must be clear and precise.
