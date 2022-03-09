@@ -1,6 +1,6 @@
 # WCA Competition Requirements Policy
 
-### Version 4.1 {.version}
+### Version 4.2 {.version}
 
 ## Purpose
 The purpose of this policy is to define the requirements and processes that a competition must meet and follow in order to be recognized as a WCA Competition.
@@ -104,6 +104,7 @@ The WCA Delegate must submit the following information when requesting approval 
    3. The competitor limit is per competition or per event. Per day competitor limits are not allowed.
       1. Exception: for 3x3x3 Fewest Moves simultaneous competitions, the competitor limit is per location.
    4. The competitor limit is not greater than half the maximum number of people allowed at public gatherings in the competition venue.
+      1. If such a maximum number is not available, the best estimate from a Delegate may be used.
    5. The WCA Competition Announcement Team will review the competitor limit and/or qualification results or rankings to ensure that they are utilized properly.
 6. Registration requirements
    1. The registration requirements are the set of rules and procedures relevant to the registration process.
