@@ -4,7 +4,7 @@
 Este documento explica cómo los organizadores se pueden asegurar de que han hecho todo lo necesario para la organización de una competición.
 
 ::::: {.box .important}
-Puedes acceder a la lista a través de [este enlace](https://docs.google.com/spreadsheets/d/17yBhWcetQ9UTKUVRvzJPFZ5DIpSZR7wmBxQW-EhqOwY/edit).
+Puedes acceder a la lista a través de [este enlace](https://docs.google.com/spreadsheets/d/17yBhWcetQ9UTKUVRvzJPFZ5DIpSZR7wmBxQW-EhqOwY).
 :::::
 
 Tienes que descargar esta hoja de cálculo y añadirle los detalles que sean necesarios para tu competición en específico (si es que los hay).
