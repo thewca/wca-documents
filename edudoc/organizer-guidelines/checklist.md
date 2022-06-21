@@ -4,7 +4,7 @@
 This document will outline how competition organizers can make sure they have done everything necessary for the organization of their competition.
 
 ::::: {.box .important}
-The checklist itself can be accessed through [this link](https://docs.google.com/spreadsheets/d/1i5QStai9sJSrST2EUPBNwfejI0QeW3ojDJ9Ok-GpFCY/edit).
+The checklist itself can be accessed through [this link](https://docs.google.com/spreadsheets/d/1i5QStai9sJSrST2EUPBNwfejI0QeW3ojDJ9Ok-GpFCY).
 :::::
 
 You will need to download this spreadsheet and add details that are necessary for your specific competition if there are any additional ones.
@@ -30,3 +30,12 @@ The **fifth** and final page is the list of volunteers that are helping you run 
 :::::
 
 Feel free to download and edit this spreadsheet to suit your personal needs or the needs of competition organizers in your region and feel free to translate it to your local language if necessary. This checklist is only meant to serve as a tool to help guide you in the organization process and to give you a better understanding of it.
+
+<div style="margin-top: 200px"></div>
+
+## Translations
+
+Below you can find translations of this document. Each of these also links to a checklist translated to the same language. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
+
+-   [Español (Spanish)](https://www.worldcubeassociation.org/edudoc/organizer-guidelines/checklist-es.pdf)
+
