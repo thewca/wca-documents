@@ -60,7 +60,7 @@ Notă: Virajele de 180° (R2, U2 etc.) sunt considerate o singură mișcare.
 
 ::::: {.box .warning .page-break-before}
 
-#### Aceasta arată ce fel de nealiniere duc la o penalizare de +2:
+#### Aceasta arată ce fel de nealiniere duce la o penalizare de +2:
 
 ![](images/misalignments.png){.centered}
 :::::
