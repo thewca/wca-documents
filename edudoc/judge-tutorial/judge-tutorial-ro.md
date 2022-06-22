@@ -66,6 +66,7 @@ Notă: Virajele de 180° (R2, U2 etc.) sunt considerate o singură mișcare.
 :::::
 
 Alte incidente care pot avea ca rezultat o penalizare:
+
 - În timpul inspectării sau rezolvării puzzle-ului, concurentul nu trebuie să comunice cu nimeni altul decât arbitrul sau delegatul WCA al competiției. (DNF)
 - În timpul inspectării sau rezolvării puzzle-ului, concurentul nu trebuie să primească asistență de la nimeni sau alt obiect altul decât suprafața. (DNF)
 - În timpul inspectării sau rezolvării puzzle-ului, concurentul nu trebuie să interacționeze cu sau să atingă niciun fel de dispozitiv de înregistrare sau dispozitiv. (DNF)
