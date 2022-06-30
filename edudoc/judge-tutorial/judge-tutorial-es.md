@@ -66,9 +66,9 @@ Nota: los giros de 180° (R2, U2, etc.) son considerados un solo movimiento.
 
 Otros incidentes que pueden resultar en una penalización:
 
--   Mientras inspecciona o resuelve el puzzle, el competidor no debe comunicarse con nadie que no sea el juez o el Delegado de la WCA designado. (DNF)
--   Mientras inspecciona o resuelve el puzzle, el competidor no debe recibir asistencia de nadie ni nada, aparte de la superficie. (DNF)
--   Mientras inspecciona o resuelve el puzzle, el competidor no debe tocar ni interactuar con dispositivos de grabación o cualquier otro dispositivo electrónico. (DNF)
+- Mientras inspecciona o resuelve el puzzle, el competidor no debe comunicarse con nadie que no sea el juez o el Delegado de la WCA designado. (DNF)
+- Mientras inspecciona o resuelve el puzzle, el competidor no debe recibir asistencia de nadie ni nada, aparte de la superficie. (DNF)
+- Mientras inspecciona o resuelve el puzzle, el competidor no debe tocar ni interactuar con dispositivos de grabación o cualquier otro dispositivo electrónico. (DNF)
 
 ## Registrando los resultados
 

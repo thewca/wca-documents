@@ -66,9 +66,9 @@ Note: 180° turns (R2, U2, etc.) are considered one move.
 
 Other incidents that can result in a penalty:
 
--   While inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge or the WCA Delegate of the competition. (DNF)
--   While inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface. (DNF)
--   While inspecting or solving the puzzle, the competitor must not interact with or touch any kind of recording device or electronics. (DNF)
+- While inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge or the WCA Delegate of the competition. (DNF)
+- While inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface. (DNF)
+- While inspecting or solving the puzzle, the competitor must not interact with or touch any kind of recording device or electronics. (DNF)
 
 ## Recording Results
 
@@ -80,4 +80,5 @@ If any penalty was given, you should always write the original time, the penalti
 
 Below you can find translations of the tutorial. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
 
+-   [Română (Romanian)](https://www.worldcubeassociation.org/edudoc/judge-tutorial/judge-tutorial-ro.pdf) - translated by porduska
 -   [Español (Spanish)](https://www.worldcubeassociation.org/edudoc/judge-tutorial/judge-tutorial-es.pdf)
