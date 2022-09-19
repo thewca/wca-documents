@@ -42,7 +42,7 @@ To calculate the Due amount owed for a competition, the following procedure will
    2. The Base Due amount is an amount set by the WFC that the countries in the most expensive band will pay. All other band Due amounts will be amounts less than this amount, and based on that country’s Cost of Living value (COL value) relative to the COL value of the countries in the most expensive band.
       1. Countries in Band 0 do not owe Dues to the WCA for any competitions held while that country maintains Band 0 status.
          1. See Appendix B for an explanation of how Band 0 will be used by the WFC.
-4. The Due amount based on registration fees will be equal to 5% of the average registration fee per competitor.
+4. The Due amount based on registration fees will be equal to 15% of the average registration fee per competitor.
    1. The average registration fee per competitor is equal to the total registration fees for the competition divided by the number of competitors.
       1. The total registration fees for the competition includes the base registration fee and any per-event registration fees.
 5. The final Due amount per competitor will be the higher of the Due amount based on the country and the Due amount based on registration fees.
