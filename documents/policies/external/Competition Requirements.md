@@ -73,7 +73,7 @@ The WCA Delegate must submit the following information when requesting approval 
 2. Location(s)
    1. A location consists of the country, city, and venue.
    2. The location should also include subregions of the country that are common to include with addresses (e.g. the state a U.S. city is located in).
-   3. Competitions will be accepted regarding proximity if there are no other competitions within 100 km driving distance and less than 19 days away.
+   3. Competitions will be accepted regarding proximity if there are no other competitions within 10 km driving distance and less than 19 days away.
       1. Otherwise, the WCA Competition Announcement Team should review the circumstances of the proposed competition. The WCA Delegate requesting approval for such a competition must provide further information on why the competition should still be accepted. Possible arguments that support such a competition being accepted include:
          1. The two competitions don’t have events in common.
          2. The two competitions take place in different countries.
