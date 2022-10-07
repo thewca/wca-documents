@@ -104,7 +104,7 @@ The WCA Delegate must submit the following information when requesting approval 
    2. If the competitor limit for a competition or an event is reached before the competition, the organization team must not approve any additional registrations for the competition or the event.
    3. The competitor limit is per competition or per event. Per day competitor limits are not allowed.
       1. Exception: for 3x3x3 Fewest Moves simultaneous competitions, the competitor limit is per location.
-   4. The competitor limit is not greater than half the maximum number of people allowed at public gatherings in the competition venue.
+   4. The competitor limit is not greater than half the maximum number of people allowed at public gatherings in the competition venue such that each competitor is able to bring 1 guest into the venue.
       1. If such a maximum number is not available, the best estimate from a Delegate may be used.
    5. The WCA Competition Announcement Team will review the competitor limit and/or qualification results or rankings to ensure that they are utilized properly.
 6. Registration requirements
