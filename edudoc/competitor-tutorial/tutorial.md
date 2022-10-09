@@ -291,6 +291,7 @@ Extra attempts can be given only by a Delegate!
 
 Below you can find translations of the tutorial. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
 
+- [Հայերեն (Armenian)](https://www.worldcubeassociation.org/edudoc/competitor-tutorial/am/tutorial.pdf) - translated by Mayis Jraghatspanyan
 - [Español (Spanish)](https://www.worldcubeassociation.org/edudoc/competitor-tutorial/tutorial_es.pdf)
 - [Svenska (Swedish)](https://www.worldcubeassociation.org/edudoc/competitor-tutorial/tutorial_se.pdf)
 
