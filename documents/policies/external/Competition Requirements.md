@@ -126,7 +126,8 @@ The WCA Delegate must submit the following information when requesting approval 
       1. The first registration period must be announced publicly on the WCA website at least 48 hours before it starts.
          1. An active registration period may be extended after request of the Delegate.
          2. The competition's WCA Delegate(s) and/or members of the organization team may register for the competition prior to the first registration period, however their registration(s) must not be approved until the first registration period has started.
-      2. Different registration periods may have different registration requirements (e.g. restricting which events a competitor can register for).
+      2. Additional registration periods may be added at least 24 hours before they start.
+      3. Different registration periods may have different registration requirements (e.g. restricting which events a competitor can register for).
    3. The registration requirements must include the procedure for completing a valid registration.
    4. The registration requirements must include the deadline for updating registered events for competitors with completed registrations.
       1. This deadline must not be earlier than the time registration is set to close. 
