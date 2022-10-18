@@ -102,6 +102,7 @@ The WCA Delegate must submit the following information when requesting approval 
       1. Qualification for an event must be based only on results from the same event.
       2. Qualification for an event must be based on one type of result only (i.e. average/mean or single).
          1. Exception: in case of using average/mean results, single results must be used to break ties.
+      3. The qualification result is based on the last day of the competition at which it was achieved.
    2. If the competitor limit for a competition or an event is reached before the competition, the organization team must not approve any additional registrations for the competition or the event.
    3. The competitor limit is per competition or per event. Per day competitor limits are not allowed.
       1. Exception: for 3x3x3 Fewest Moves simultaneous competitions, the competitor limit is per location.
