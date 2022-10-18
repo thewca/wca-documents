@@ -154,8 +154,8 @@ The WCA Delegate must submit the following information when requesting approval 
       2. Only WCA sanctioned events may be considered the main event of the competition.
       3. There may be no main event of the competition.
    4. An additional event may be added upon the WCA Delegate's request at the discretion of the WCAT. The competition must meet the following requirements for an additional event to be added:
-      1. The competition is at least 7 days away.
-      2. A registration period for the competition must have a minimum of 72 hours before it closes.
+      1. The competition is at least 5 days away.
+      2. A registration period for the competition must have a minimum of 24 hours before it closes.
       3. The competitor limit must not be completely filled.
 8. Schedule
    1. The schedule must be published on the WCA website using the WCA schedule tool.
