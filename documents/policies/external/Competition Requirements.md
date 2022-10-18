@@ -160,6 +160,9 @@ The WCA Delegate must submit the following information when requesting approval 
 8. Schedule
    1. The schedule must be published on the WCA website using the WCA schedule tool.
    2. The schedule should be manageable by the competition's WCA Delegate(s) and adhere to the WCA quality standards.
+   3. An additional day may be added to the competition after the originally planned days, if the orgnization team wants to offer additional events (see 7.4).
+      1. None of the originally announced events may be held on this new day.
+         2. Exception: A siginificant delay on the previous day, if every affected competitor agrees.
 9. Championships
    1. A championship type is assigned to competitions that are National, Continental, or World Championships.
       1. A competition must be located entirely within the region where the championship type is selected.
