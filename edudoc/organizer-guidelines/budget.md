@@ -7,6 +7,7 @@ Budgeting your competition properly is crucial to improving the overall quality 
 Making a list with all the expenses is a great way to start and get an estimate on how much you need to collect from registration fees (although a lower registration fee is always preferable) or if the venue is too expensive and you need to find a cheaper one.
 
 -   Is the venue free? If not, how much does it cost?
+    -   It may be worth mentioning to the venue that your event is a non-profit/community-oriented event, as some venues offer lower rent prices for such activities. Keep in mind that you may only mention that the *competition itself* is non-profit; **you may not use the WCA's non-profit status as a selling point for receiving a lower rent price during your negotiations!**
 -   Does the venue require an insurance fee? If so, how much does it cost?
 -   Do you need to pay the venue to set up anything?
 -   Is there any extra fee to have venue staff present on the competition day(s)? If yes, how much?
