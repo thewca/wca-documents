@@ -25,19 +25,19 @@ Om du är osäker på något, fråga alltid delegaten!
 - **Stackmat-timer**: Detta är den officiella enheten för tidtagning på tävlingar.
 Den kan se ut som någon av de tre versionerna nedan.
 
-![](images/stackmat_timers.png){.centered height=200px}
+![](../images/stackmat_timers.png){.centered height=200px}
 
 - **Matta**: Stackmat-timers måste användas tillsammans med tillhörande mattor. Mattan håller timern på plats, skyddar pusslen, och förhindrar dem från att glida iväg vid slutet av försöket.
 
-![](images/mat.png){.centered width=600px}
+![](../images/mat.png){.centered width=600px}
 
 - **Tidtagarur**: Tidtagarur används för att mäta inspektionstiden. De används även för att mäta tiden på försök över 10 minuter. Notera att tidtagarur kan vara av olika modeller, och de kan därför se ut och fungera annorlunda jämfört med det på bilden nedan.
 
-![](images/stopwatch.jpg){.centered height=200px}
+![](../images/stopwatch.jpg){.centered height=200px}
 
 - **Cube cover**: Cube covers används för att täcka över pusslet före ett försök, så att deltagare inte kan se blandningen i förväg.
 
-![](images/cover.jpg){.centered height=200px .page-break-after}
+![](../images/cover.jpg){.centered height=200px .page-break-after}
 
 - **Resultatkort**: När ett pussel blandats signerar blandaren på resultatkortet att det gjorts på korrekt sätt. Efter varje försök skriver domaren ner resultatet på resultatkortet och signerar. Därefter signerar deltagaren för att bekräfta att resultatet på resultatkortet är
   - 1) korrekt
@@ -45,7 +45,7 @@ Den kan se ut som någon av de tre versionerna nedan.
   - 3) korrekt formaterat
   - 4) tydligt läsbart
 
-![](images/scoresheet_se.png){.centered height=600px}
+![](images/scoresheet.png){.centered height=600px}
 
 ::::: {.box .attention}
 Om någon del av resultatkortet är oläsligt kommer den sämsta möjliga tolkningen registreras för det försöket. 
@@ -169,7 +169,7 @@ Deltagaren måste verifiera att resultatet är korrekt och läsbart innan hen si
 
 [Regel A4)](https://www.worldcubeassociation.org/regulations/#A4) reglerar hur timern ska startas.
 
-![](images/RegA4_se.png){.centered width=90%}
+![](images/RegA4.png){.centered width=90%}
 
 ::::: {.box .attention}
 Kom ihåg: Att starta lösningen på ett felaktigt sätt leder till tidsstraff!
@@ -184,7 +184,7 @@ Under hela lösningen får deltagaren bara prata med domaren och Delegaten. Du f
 
 [Regel A6)](https://www.worldcubeassociation.org/regulations/#A6) reglerar hur timern ska stoppas.
 
-![](images/RegA6_se.png){.centered width=90%}
+![](images/RegA6.png){.centered width=90%}
 
 ::::: {.box .attention .page-break-after}
 Kom ihåg: Att stoppa timern på ett felaktigt sätt leder till tidsstraff!
@@ -194,11 +194,11 @@ Kom ihåg: Att stoppa timern på ett felaktigt sätt leder till tidsstraff!
 
 | <!-- --> | <!-- --> ![](){width=650px} |
 | --- | --- |
-| ![](images/nopenalty.jpg){width=150px} | **Inget straff:** Kuben är löst, och alla lager är inom 45° jämfört med de andra lagren. |
-| ![](images/plus2.jpg){width=150px} | **+2:** Kuben är löst, men ett lager är vridet över 45°, vilket innebär att kuben är ett drag från att vara löst. Notera att WCA:s tävlingsregler betraktar pussel som ett drag ifrån löst om du bara behöver vrida en sida av pusslet för att lösa det – **även om det krävs en dubbelvridning.** |
-| ![](images/unclear.jpg){width=150px} | **Fråga Delegaten:** Om det är oklart om +2 ska utdelas eller inte, **rör inte pusslet** och tillkalla en delegat till lösningsstationen. |
-| ![](images/DNF2moves.jpg){width=150px} | **DNF:** Om mer än ett drag krävs för att lösa pusslet är resultatet DNF. |
-| ![](images/DNFslice.jpg){width=150px} | **DNF:** Om ett mellanlager av kuben inte är löst räknas det som at två drag krävs för att lösa pusslet, eftersom endast vridningar av yttre lager räknas. Därmed blir resultatet DNF. |
+| ![](../images/nopenalty.jpg){width=150px} | **Inget straff:** Kuben är löst, och alla lager är inom 45° jämfört med de andra lagren. |
+| ![](../images/plus2.jpg){width=150px} | **+2:** Kuben är löst, men ett lager är vridet över 45°, vilket innebär att kuben är ett drag från att vara löst. Notera att WCA:s tävlingsregler betraktar pussel som ett drag ifrån löst om du bara behöver vrida en sida av pusslet för att lösa det – **även om det krävs en dubbelvridning.** |
+| ![](../images/unclear.jpg){width=150px} | **Fråga Delegaten:** Om det är oklart om +2 ska utdelas eller inte, **rör inte pusslet** och tillkalla en delegat till lösningsstationen. |
+| ![](../images/DNF2moves.jpg){width=150px} | **DNF:** Om mer än ett drag krävs för att lösa pusslet är resultatet DNF. |
+| ![](../images/DNFslice.jpg){width=150px} | **DNF:** Om ett mellanlager av kuben inte är löst räknas det som at två drag krävs för att lösa pusslet, eftersom endast vridningar av yttre lager räknas. Därmed blir resultatet DNF. |
 
 ::::: {.box .important}
 Om du är osäker, fråga alltid en delegat!
@@ -283,4 +283,4 @@ Endast delegater kan dela ut extra försök!
   *Se till att följa tävlingsreglerna, och fråga en delegat om du är osäker!*
   :::
 
-![](images/coverInfographic_se.png){.centered width=90%}
+![](images/cover_infographic.png){.centered width=90%}

@@ -26,19 +26,19 @@ Este documento te guiará a través de los conocimientos básicos que debes tene
 
 - **Temporizador Stackmat**: este es el dispositivo oficial para medir los tiempos de resolución en las competiciones. Te puedes encontrar con cualquiera de las tres versiones que se ven abajo.
 
-![](images/stackmat_timers.png){.centered height=200px}
+![](../images/stackmat_timers.png){.centered height=200px}
 
 - **Mat**: Los temporizadores Stackmat deben ser usados con un mat (tapete). El mat ayuda a evitar que el puzzle se deslice al final de los intentos.
 
-![](images/mat.png){.centered width=600px}
+![](../images/mat.png){.centered width=600px}
 
 - **Cronómetro**: los cronómetros se utilizan para medir los tiempos de inspección. También se emplean para medir el tiempo de los intentos de más de 10 minutos. Se debe tener en cuenta que los cronómetros pueden ser de diferentes modelos, por lo tanto, su funcionamiento puede ser diferente al del cronómetro que se muestra en la imagen.
 
-![](images/stopwatch.jpg){.centered height=200px}
+![](../images/stopwatch.jpg){.centered height=200px}
 
 - **Tapacubos**: los tapacubos se utilizan para cubrir el puzzle antes del intento, con el objetivo de que los competidores no puedan verlo.
 
-![](images/cover.jpg){.centered height=200px .page-break-after}
+![](../images/cover.jpg){.centered height=200px .page-break-after}
 
 - **Hoja de resultados**: luego de mezclar el puzzle, el mezclador firma en la hoja de resultados confirmando que la mezcla es correcta. Adicionalmente, después de cada intento, el juez escribe el resultado en la hoja de resultados, la firma y le solicita al competidor que firme, reconociendo que el resultado:
   - 1) es correcto,
@@ -46,7 +46,7 @@ Este documento te guiará a través de los conocimientos básicos que debes tene
   - 3) tiene el formato adecuado,
   - 4) es legible.
 
-![](images/scoresheet_es.png){.centered height=600px}
+![](images/scoresheet.png){.centered height=600px}
 
 ::::: {.box .attention}
 Si un tiempo en tu hoja de resultados no es legible, se registrará el peor resultado que se pueda interpretar para ese intento.
@@ -169,7 +169,7 @@ Tanto el juez como el competidor deben firmar la hoja de resultados para confirm
 
 La [Regla A4)](https://www.worldcubeassociation.org/regulations/#A4) es la que indica la forma correcta de iniciar el timer.
 
-![](images/RegA4_es.png){.centered width=90%}
+![](images/RegA4.png){.centered width=90%}
 
 ::::: {.box .attention}
 ¡Recuerda que comenzar la resolución incorrectamente puede implicar penalizaciones!
@@ -184,7 +184,7 @@ Durante toda la resolución, solo puedes hablar con tu juez o el Delegado de la 
 
 La [Regla A6)](https://www.worldcubeassociation.org/regulations/#A6) es la que explica cómo se debe detener el timer correctamente.
 
-![](images/RegA6_es.png){.centered width=90%}
+![](images/RegA6.png){.centered width=90%}
 
 ::::: {.box .attention .page-break-after}
 ¡Recuerda que detener la resolución incorrectamente puede implicar penalizaciones!
@@ -194,11 +194,11 @@ La [Regla A6)](https://www.worldcubeassociation.org/regulations/#A6) es la que e
 
 | <!-- --> | <!-- --> ![](){width=650px} |
 | --- | --- |
-| ![](images/nopenalty.jpg){width=150px} | **Sin penalización:** el cubo está resuelto y las desalineaciones de todas las capas, comparado con sus capas adyacentes, son menores a 45°. |
-| ![](images/plus2.jpg){width=150px} | **+2:** el cubo está resuelto, pero la capa desalineada excede los 45°, lo que significa que el cubo se encuentra a un movimiento de estar oficialmente resuelto. Por favor, ten en cuenta que las Reglas de la WCA consideran que todos los estados del puzzle están a un movimiento del estado resuelto si tienes que girar una sola cara del puzzle para alcanzarlo – **incluso si es un giro doble.** |  
-| ![](images/unclear.jpg){width=150px} | **Pregúntale al Delegado:** en caso de que no esté claro si hay que aplicar una penalización de +2 o no, **no toques el puzzle** y pídele a un Delegado que vaya a la estación. |
-| ![](images/DNF2moves.jpg){width=150px} | **DNF:** cuando es necesario más de un movimiento para resolver el puzzle, el resultado del intento es DNF. |
-| ![](images/DNFslice.jpg){width=150px} | **DNF:** si una de las capas centrales está desalineada, se cuenta como dos movimientos restantes para llegar al estado resuelto, ya que solo se cuentan los giros de las capas externas. Entonces, el resultado del intento es DNF. |
+| ![](../images/nopenalty.jpg){width=150px} | **Sin penalización:** el cubo está resuelto y las desalineaciones de todas las capas, comparado con sus capas adyacentes, son menores a 45°. |
+| ![](../images/plus2.jpg){width=150px} | **+2:** el cubo está resuelto, pero la capa desalineada excede los 45°, lo que significa que el cubo se encuentra a un movimiento de estar oficialmente resuelto. Por favor, ten en cuenta que las Reglas de la WCA consideran que todos los estados del puzzle están a un movimiento del estado resuelto si tienes que girar una sola cara del puzzle para alcanzarlo – **incluso si es un giro doble.** |  
+| ![](../images/unclear.jpg){width=150px} | **Pregúntale al Delegado:** en caso de que no esté claro si hay que aplicar una penalización de +2 o no, **no toques el puzzle** y pídele a un Delegado que vaya a la estación. |
+| ![](../images/DNF2moves.jpg){width=150px} | **DNF:** cuando es necesario más de un movimiento para resolver el puzzle, el resultado del intento es DNF. |
+| ![](../images/DNFslice.jpg){width=150px} | **DNF:** si una de las capas centrales está desalineada, se cuenta como dos movimientos restantes para llegar al estado resuelto, ya que solo se cuentan los giros de las capas externas. Entonces, el resultado del intento es DNF. |
 
 ::::: {.box .important}
 ¡Si no estás seguro acerca de una penalización, siempre pregúntale a un Delegado!
@@ -282,5 +282,5 @@ La [Regla A6)](https://www.worldcubeassociation.org/regulations/#A6) es la que e
   *¡Asegúrate de adherirte a las Reglas de la WCA y pregúntale a un Delegado!*
   :::
 
-![](images/coverInfographic_es.png){.centered width=90%}
+![](images/cover_infographic.png){.centered width=90%}
 
