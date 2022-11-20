@@ -31,7 +31,7 @@ Cartazes podem ser usados ​​para dar informações aos competidores e espect
 - Rotular áreas de importância, ex. sala de espera de competidores, sala auxiliar silenciosa, assentos para espectadores.
 - Transmitir informações do grupos e/ou responsabilidades de staff aos competidores, listando as informações ou fornecendo um link e/ou código QR que os direcionar para as informações online.
 
-### Folhetos: {.page-break-before}
+### Folhetos:
 
 Os folhetos podem ser usados ​​para transmitir informações importantes sobre a sua competição para espectadores e competidores, para responder a algumas perguntas frequentes que a sua comunidade local possa ter, para alertar os competidores sobre futuras competições na área e/ou direcionar os competidores para recursos online.
 

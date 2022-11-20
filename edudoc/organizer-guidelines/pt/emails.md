@@ -21,10 +21,7 @@ Aqui está uma lista de coisas que podem ser úteis no pacote de informações, 
 - Um link para resultados ao vivo.
 - Os pais/responsáveis ​​tendem a preocupar-se com o bem-estar dos seus filhos, por isso é importante ajudar a aliviar as suas preocupações. Tente responder às perguntas mais comuns com o melhor de seu conhecimento no e-mail ou encaminhe-os para alguém (por exemplo, delegado(s)) que possa dar uma resposta melhor.
 - Qual o sistema de julgamento será usado durante a competição (Juízes corredores/Juízes sentados com corredores).
-
-::::: {.page-break-before}
 - Quaisquer práticas especiais na região que estrangeiros ou recém-chegados possam não estar cientes.
-:::::
 
 ::::: {.box .example}
 Exemplo: Usar o ID de registro em vez das iniciais como assinatura para embaralhar e julgar, seja para fazer o check-in no balcão de registo uma vez por dia ou uma vez em toda a competição, etc.
@@ -34,7 +31,10 @@ Exemplo: Usar o ID de registro em vez das iniciais como assinatura para embaralh
 - Estacionamento no local e se é necessário um passe.
 - Uma oportunidade de mencionar os patrocinadores.
 - Deixe detalhes de contato para que as pessoas possam enviar e-mails, ligar ou enviar mensagens se estiverem com dificuldades para chegar ao local da competição.
+
+::::: {.page-break-before}
 - Quaisquer atualizações/alterações finais. **Talvez uma programação revista se menos competidores se inscreveram do que o esperado.**
+:::::
 
 ::::: {.box .important}
 É altamente recomendável que partilhe o seu rascunho de e-mail com o(s) Delegado(s) e a equipa da organização antes de enviá-lo a todos os participantes.

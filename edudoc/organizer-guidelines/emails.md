@@ -101,7 +101,7 @@ _Your Name_
 Organization Team of XX Open 2020
 :::::
 
-<div style="margin-top: 200px"></div>
+<div style="margin-top: 120px"></div>
 
 ## Translations
 
