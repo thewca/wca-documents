@@ -65,7 +65,7 @@ Fitas separadoras podem ser extremamente úteis para o controlo de público! Alg
 
 Realizar eventos que não são reconhecidos oficialmente pode ser divertido para os competidores participarem e os espectadores assistirem. Alguns exemplos de eventos não oficiais que podem ser realizados são eventos de equipa, estafetas e eventos que usam quebra-cabeças não WCA. Isto também pode ajudar a WCA a testar como estes eventos não oficiais podem funcionar em ambientes oficiais no futuro.
 
-### Brindes: {.page-break-before}
+### Brindes:
 
 Dar brindes aos competidores é uma ótima maneira de melhorar a sua experiência de competição! Exemplos de brindes que pode dar aos concorrentes podem incluir, mas não estão limitados a: sacos com cordão, t-shirts, camisolas, bonés, pulseiras, autocolantes, pins, porta-chaves, crachás identificativos, imans, canetas, lápis, acessórios para telefone, óculos de sol e logótipos de cubo. Os brindes podem incluir uma marca relacionada com a competição, uma equipa de organização que realizou a competição ou patrocinadores da competição.
 

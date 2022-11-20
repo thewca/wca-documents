@@ -20,7 +20,7 @@ Se estiver com falta de pessoal para ajudar, pode ser benéfico também ter a me
 
 O responsável pelo check-in também deve certificar-se de que as nacionalidades e a data de nascimento dos competidores sejam verificadas e correspondam aos dados registados.
 
-Mais informações sobre a configuração do local podem ser encontradas no [Documento de configuração do local](https://www.worldcubeassociation.org/edudoc/organizer-guidelines/venue-setup-pt.pdf).
+Mais informações sobre a configuração do local podem ser encontradas no [Documento de configuração do local](https://www.worldcubeassociation.org/edudoc/organizer-guidelines/pt/venue-setup.pdf).
 
 ## Anotação de resultados
 

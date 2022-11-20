@@ -18,12 +18,12 @@ Embora fazer alterações seja às vezes uma possibilidade, isso só deve aconte
 
 Pode alterar os requisitos à medida que a competição se aproxima (por exemplo, aumentar as taxas de inscrição, restringir quais os eventos em que um concorrente se pode inscrever), mas deve informar os competidores sobre qualquer alteração pretendida com antecedência pelo site da competição ou por e-mail.
 
-::::: {.box .important}
+::::: {.box .important .page-break-before}
 As mudanças que afetam os competidores registrados _devem_ ser claramente anunciadas. Seja consistente com o que está no site da competição. Por exemplo, _não deve_ aceitar inscrições no local se o site da competição disser que estas não estarão disponíveis.
 :::::
 
 ## No dia da competição
 
-Você deve ter uma [tabela de registos](https://www.worldcubeassociation.org/edudoc/organizer-guidelines/venue-setup-pt.pdf) e seguir rigorosamente os requisitos de inscrição no site da competição. Dependendo dos requisitos de inscrição definidos antecipadamente, pode optar por aceitar inscrições no local apenas para determinadas modalidades, aceitar inscrições no local para todas as modalidades ou não ter inscrições no local. Caso esteja a aceitar inscrições in loco, ao registar novos competidores necessita obter a sua informação relevante (cidadania, endereço de e-mail, data de nascimento, nome e sexo) para que a informação possa ser atribuída aos seus resultados e ID do WCA. Certifique-se de que as informações relevantes coletadas de novos competidores estejam bem armazenadas em todos os momentos, pois são informações confidenciais e, como tal, outras pessoas não devem ter acesso às mesmas.
+Você deve ter uma [tabela de registos](https://www.worldcubeassociation.org/edudoc/organizer-guidelines/pt/venue-setup.pdf) e seguir rigorosamente os requisitos de inscrição no site da competição. Dependendo dos requisitos de inscrição definidos antecipadamente, pode optar por aceitar inscrições no local apenas para determinadas modalidades, aceitar inscrições no local para todas as modalidades ou não ter inscrições no local. Caso esteja a aceitar inscrições in loco, ao registar novos competidores necessita obter a sua informação relevante (cidadania, endereço de e-mail, data de nascimento, nome e sexo) para que a informação possa ser atribuída aos seus resultados e ID do WCA. Certifique-se de que as informações relevantes coletadas de novos competidores estejam bem armazenadas em todos os momentos, pois são informações confidenciais e, como tal, outras pessoas não devem ter acesso às mesmas.
 
 Para mais informações sobre como as inscrições devem ser tratadas, consulte a [Política de Requisitos para Competições da WCA](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Requirements.pdf).

@@ -68,7 +68,7 @@ _Your Name_
 
 Some variations like “Best Regards,” “Kind Regards,” “See you soon,” or “Thanks” are also acceptable if used appropriately.
 
-### CC or BCC
+### CC or BCC {.page-break-before}
 
 ::::: {.box .important}
 When handling group emails, you should always send it out as a **BCC** instead of a _CC_ for privacy reasons.

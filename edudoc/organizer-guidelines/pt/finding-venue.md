@@ -27,7 +27,7 @@ Idealmente, deve ter em mente um conjunto aproximado de datas que combinam consi
 Também deve seguir os requisitos estabelecidos na [Política de Requisitos de Competição da WCA](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Requirements.pdf). Deve garantir que as datas sejam realistas para que a competição possa ser anunciada sem grande pressão de tempo com pelo menos 28 dias de antecedência. Também deve dar tempo suficiente para que a competição complete a sua inscrição e para planear as viagens.
 :::::
 
-::::: {.box .important .page-break-after}
+::::: {.box .important .page-break-before}
 Por favor, verifique também com a comunidade local/delegados para evitar quebrar a política de proximidade declarada na Política de Requisitos de Competição da WCA.
 :::::
 

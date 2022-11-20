@@ -21,7 +21,10 @@ Aqui está uma lista de coisas que podem ser úteis no pacote de informações, 
 - Um link para resultados ao vivo.
 - Os pais/responsáveis ​​tendem a preocupar-se com o bem-estar dos seus filhos, por isso é importante ajudar a aliviar as suas preocupações. Tente responder às perguntas mais comuns com o melhor de seu conhecimento no e-mail ou encaminhe-os para alguém (por exemplo, delegado(s)) que possa dar uma resposta melhor.
 - Qual o sistema de julgamento será usado durante a competição (Juízes corredores/Juízes sentados com corredores).
+
+::::: {.page-break-before}
 - Quaisquer práticas especiais na região que estrangeiros ou recém-chegados possam não estar cientes.
+:::::
 
 ::::: {.box .example}
 Exemplo: Usar o ID de registro em vez das iniciais como assinatura para embaralhar e julgar, seja para fazer o check-in no balcão de registo uma vez por dia ou uma vez em toda a competição, etc.
@@ -68,7 +71,7 @@ _Seu Nome_
 
 Algumas variações como “Melhores Cumprimentos,” “Atenciosamente,” “Até breve,” ou “Obrigado” são também aceitáveis se usadas adequadamente.
 
-### CC ou BCC
+### CC ou BCC {.page-break-before}
 
 ::::: {.box .important}
 Ao lidar com e-mails de grupo, deve sempre enviá-los como **BCC** em vez de _CC_ por motivos de privacidade.

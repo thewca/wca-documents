@@ -25,7 +25,7 @@ A inscrição online do site da WCA permite que se possa perguntar aos competido
 
 ## Mesa de embaralhamento
 
-A mesa de embaralhamento deve estar razoavelmente perto das estações de resolução para que não demore muito tempo os juízes (ou “[corredores](https://www.worldcubeassociation.org/edudoc/organizer-guidelines/running-systems-pt.pdf)”) pegarem nos puzzles e transportá-los da mesa de embaralhamento para as estações de resolução e vice-versa. Também deve haver algum tipo de barreira visual para garantir que os competidores ou convidados não possam ver os embaralhamentos.
+A mesa de embaralhamento deve estar razoavelmente perto das estações de resolução para que não demore muito tempo os juízes (ou “[corredores](https://www.worldcubeassociation.org/edudoc/organizer-guidelines/pt/running-systems.pdf)”) pegarem nos puzzles e transportá-los da mesa de embaralhamento para as estações de resolução e vice-versa. Também deve haver algum tipo de barreira visual para garantir que os competidores ou convidados não possam ver os embaralhamentos.
 
 A mesa de entrega de puzzles pode ser simplesmente a mesa de embaralhamento (geralmente feita em competições menores). Se estiver a usar uma mesa de entrega de puzzles separada, certifique-se de que não está muito longe da mesa de embaralhamento para facilitar o transporte pelos corredores dos puzzles.
 
@@ -40,11 +40,3 @@ Para finais em que os competidores são chamados a competir em horários diferen
 É aqui que as resoluções ocorrerão, então precisa ter um cuidado extra com a iluminação. Certifique-se de que todas as estações estejam bem iluminadas e que a iluminação não afeta o reconhecimento de cores em nenhum puzzle. Também deve tentar manter essa área numa temperatura confortável (geralmente em torno de 20 a 25 graus Celsius) para evitar qualquer impacto negativo sobre os competidores. Além disso, as estações devem ser dispostas de forma a que a maioria possa ser vista pelo público. Se estiver a usar várias filas de estações, considere ter um pequeno palco elevado para as estações traseiras para que elas ainda sejam visíveis. Para os displays, se for usar cabos em vez de pilhas, deve colocar as estações perto das tomadas e também ter cabos de extensão suficientes, se necessário. Considere prender os cabos com fita adesiva para que as pessoas não tropecem neles durante a competição. Além disso, considere numerar todas as suas estações de resolução e colocar etiquetas em cada mesa com o seu número. Isto pode ser muito conveniente para organizadores, corredores, juízes e até competidores. Também pode ter um ecrã que mostre aos competidores onde eles irão resolver para tornar o processo mais tranquilo.
 
 Para 3x3x3 em Menos Movimentos, pode ter mais competidores por estação em comparação com eventos regulares de resolução em velocidade e como não é um evento que os espectadores vêem muito, não precisa de se preocupar com todos os competidores serem visíveis para o público. No entanto, ainda deve colocá-los de forma a que o(s) Delegado(s) e/ou o(s) juiz(es) da tentativa possam ver todos os competidores e certificar-se de que ninguém esteja perto o suficiente para copiar as soluções de outro competidor.
-
-<div style="margin-top: 200px"></div>
-
-## Translations
-
-Below you can find translations of this document. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
-
-- [Português Europeu (European Portuguese)](https://worldcubeassociation.org/edudoc/organizer-guidelines/pt/venue-setup.pdf) - translated by António Gomes
