@@ -2,10 +2,10 @@
 
 It is highly recommended to have an organization team consisting of more than one person. The size of the competition you are holding will influence how many people will be necessary to run and organize the competition well. Here are four options for people whom you should reach out to for help:
 
--   A friend who is also interested in organizing.
--   Someone who has organized competitions before.
--   Your regional cubing organization, if there is one.
--   A Delegate who might help you in organizing the competition directly or suggest someone who might be able to help.
+- A friend who is also interested in organizing.
+- Someone who has organized competitions before.
+- Your regional cubing organization, if there is one.
+- A Delegate who might help you in organizing the competition directly or suggest someone who might be able to help.
 
 The exact timing of when to contact other people to join your organization team may depend on many factors. The two most important factors are the current amount of competitions in the region and if you already have a suitable venue which could be used.
 
@@ -26,3 +26,11 @@ Please keep in mind that a Delegate has the authority to reject your competition
 If you have an organization team and a suitable venue, this is the best time to contact a Delegate as there is a great starting point.
 
 If you do not yet have an organization team but you have a venue, contacting a Delegate is still a good idea since they can likely help you with finding the appropriate people and advise you if you need more members of the organization team.
+
+<div style="margin-top: 200px"></div>
+
+## Translations
+
+Below you can find translations of this document. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
+
+- [Português Europeu (European Portuguese)](https://worldcubeassociation.org/edudoc/organizer-guidelines/pt/orga-team-delegate.pdf) - translated by António Gomes

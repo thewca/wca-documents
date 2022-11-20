@@ -6,20 +6,20 @@ Budgeting your competition properly is crucial to improving the overall quality 
 
 Making a list with all the expenses is a great way to start and get an estimate on how much you need to collect from registration fees (although a lower registration fee is always preferable) or if the venue is too expensive and you need to find a cheaper one.
 
--   Is the venue free? If not, how much does it cost?
--   Does the venue require an insurance fee? If so, how much does it cost?
--   Do you need to pay the venue to set up anything?
--   Is there any extra fee to have venue staff present on the competition day(s)? If yes, how much?
--   Does the venue demand any percentage of the money collected from the registrations?
--   Do the Delegate(s) live near the competition? Are you going to need to cover any of their expenses? If so, which ones?
-    -   You should always try to get the closest Delegate possible to lower the expenses. Nevertheless, Delegate expenses must only include costs incurred as a direct result of attending the competition as a listed Delegate. For more information on covering Delegates’ expenses, see the section on finances of the [Code of Ethics](https://www.worldcubeassociation.org/documents/Code%20of%20Ethics.pdf).
--   Do you need to rent tables/chairs?
--   Do you need to rent audio/visual equipment?
--   Are competitors receiving prizes? How much do those cost?
--   Are there any souvenirs for the competitors? (I.e. keychain, pens, etc.)
--   If selling merchandise is being considered to offset costs, how much will the merchandise cost to produce?
--   Printing costs
--   [WCA Dues](https://www.worldcubeassociation.org/documents/policies/external/Dues%20System.pdf)
+- Is the venue free? If not, how much does it cost?
+- Does the venue require an insurance fee? If so, how much does it cost?
+- Do you need to pay the venue to set up anything?
+- Is there any extra fee to have venue staff present on the competition day(s)? If yes, how much?
+- Does the venue demand any percentage of the money collected from the registrations?
+- Do the Delegate(s) live near the competition? Are you going to need to cover any of their expenses? If so, which ones?
+  - You should always try to get the closest Delegate possible to lower the expenses. Nevertheless, Delegate expenses must only include costs incurred as a direct result of attending the competition as a listed Delegate. For more information on covering Delegates’ expenses, see the section on finances of the [Code of Ethics](https://www.worldcubeassociation.org/documents/Code%20of%20Ethics.pdf).
+- Do you need to rent tables/chairs?
+- Do you need to rent audio/visual equipment?
+- Are competitors receiving prizes? How much do those cost?
+- Are there any souvenirs for the competitors? (I.e. keychain, pens, etc.)
+- If selling merchandise is being considered to offset costs, how much will the merchandise cost to produce?
+- Printing costs
+- [WCA Dues](https://www.worldcubeassociation.org/documents/policies/external/Dues%20System.pdf)
 
 ## What are the sources of income?
 
@@ -44,3 +44,11 @@ Here’s an example budget that could work for your competition. You need to be 
 
 ![](images/budget.png){.centered height=200px}
 :::::
+
+<div style="margin-top: 200px"></div>
+
+## Translations
+
+Below you can find translations of this document. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
+
+- [Português Europeu (European Portuguese)](https://worldcubeassociation.org/edudoc/organizer-guidelines/pt/budget.pdf) - translated by António Gomes

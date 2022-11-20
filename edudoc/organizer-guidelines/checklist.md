@@ -1,6 +1,5 @@
 # Competition checklist for organizers
 
-
 This document will outline how competition organizers can make sure they have done everything necessary for the organization of their competition.
 
 ::::: {.box .important}
@@ -37,5 +36,5 @@ Feel free to download and edit this spreadsheet to suit your personal needs or t
 
 Below you can find translations of this document. Each of these also links to a checklist translated to the same language. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
 
--   [Español (Spanish)](https://www.worldcubeassociation.org/edudoc/organizer-guidelines/checklist-es.pdf)
-
+- [Português Europeu (European Portuguese)](https://worldcubeassociation.org/edudoc/organizer-guidelines/pt/checklist.pdf) - translated by António Gomes
+- [Español (Spanish)](https://worldcubeassociation.org/edudoc/organizer-guidelines/es/checklist.pdf) - translated by Gennaro Monetti

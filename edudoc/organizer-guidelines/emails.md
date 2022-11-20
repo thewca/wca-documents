@@ -4,34 +4,34 @@ This might not be applicable to everyone or every competition, but it can give c
 
 Some benefits of sending this information packet include:
 
--   New competitors having a better knowledge of what is expected of them.
--   Parents/Guardians of new competitors feeling more comfortable with the new competitors staying at the competition by themselves.
--   Parents/Guardians gaining a better understanding of what’s going on at the competition.
--   Parents/Guardians and competitors being informed of the necessary information for the competition.
+- New competitors having a better knowledge of what is expected of them.
+- Parents/Guardians of new competitors feeling more comfortable with the new competitors staying at the competition by themselves.
+- Parents/Guardians gaining a better understanding of what’s going on at the competition.
+- Parents/Guardians and competitors being informed of the necessary information for the competition.
 
 ## What’s in it?
 
 Here’s a list of things that can be useful to be in the information packet but are **not necessarily needed in every competition**.
 
--   Reminder about groups/group information.
--   Reminder to get in touch if dropping out to recoup on possible refund, subject to registrations terms and conditions.
--   Reminder about competitor tutorials (if there are a lot of first-timers).
--   Reminder for first-timers to bring identification (which will be checked during registration).
--   A reminder of no flash photography.
--   A link to live results.
--   Parents/Guardians tend to worry about their child’s well being, so it’s important to help ease their worrying. Do try to answer their most common questions to the best of your knowledge in the email or direct them to someone (e.g. Delegate(s)) who can give a better answer.
--   Which judging system will be used during the competition (Running judges/Seated judges with runners).
--   Any special practices in the region which foreigners or newcomers might not be aware of.
+- Reminder about groups/group information.
+- Reminder to get in touch if dropping out to recoup on possible refund, subject to registrations terms and conditions.
+- Reminder about competitor tutorials (if there are a lot of first-timers).
+- Reminder for first-timers to bring identification (which will be checked during registration).
+- A reminder of no flash photography.
+- A link to live results.
+- Parents/Guardians tend to worry about their child’s well being, so it’s important to help ease their worrying. Do try to answer their most common questions to the best of your knowledge in the email or direct them to someone (e.g. Delegate(s)) who can give a better answer.
+- Which judging system will be used during the competition (Running judges/Seated judges with runners).
+- Any special practices in the region which foreigners or newcomers might not be aware of.
 
 ::::: {.box .example}
 Example: Using registration ID instead of initials for scrambling and judging signature, whether to check-in at the registration desk once a day or once across the whole competition, etc.
 :::::
 
--   Local amenities, cafe, food and drinks where guests and competitors can hang around while waiting for subsequent rounds.
--   Parking at the venue and whether a pass is needed.
--   An opportunity to mention the sponsors.
--   Leave your contact details so people can email, call, or message you if they’re struggling to get to the venue.
--   Any final updates/changes. **Maybe a revised schedule if fewer competitors registered than expected.**
+- Local amenities, cafe, food and drinks where guests and competitors can hang around while waiting for subsequent rounds.
+- Parking at the venue and whether a pass is needed.
+- An opportunity to mention the sponsors.
+- Leave your contact details so people can email, call, or message you if they’re struggling to get to the venue.
+- Any final updates/changes. **Maybe a revised schedule if fewer competitors registered than expected.**
 
 ::::: {.box .important}
 It is highly advisable that you share your email draft with the Delegate(s) and the organization team before sending it off to all competitors.
@@ -100,3 +100,11 @@ _Your Name_
 
 Organization Team of XX Open 2020
 :::::
+
+<div style="margin-top: 200px"></div>
+
+## Translations
+
+Below you can find translations of this document. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
+
+- [Português Europeu (European Portuguese)](https://worldcubeassociation.org/edudoc/organizer-guidelines/pt/emails.pdf) - translated by António Gomes

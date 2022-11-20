@@ -6,10 +6,10 @@ Since you are going to have dozens of people for several hours in the same place
 
 Before going through the details of each area, there are a few definitions you should be aware of:
 
--   The **score-taking table** is where results are going to be uploaded to [WCA Live](https://live.worldcubeassociation.org/) or entered in a spreadsheet for competitors to know their ranking and also for you to use the results to determine podiums, which competitors should advance to subsequent rounds, etc.
--   The **scrambling table** is where scramblers are seated to scramble the puzzles of the groups currently solving.
--   The **puzzle drop-off table** is where competitors submit their puzzles before the start of their group.
--   The **solving stations** are the tables where competitors will be doing their solves.
+- The **score-taking table** is where results are going to be uploaded to [WCA Live](https://live.worldcubeassociation.org/) or entered in a spreadsheet for competitors to know their ranking and also for you to use the results to determine podiums, which competitors should advance to subsequent rounds, etc.
+- The **scrambling table** is where scramblers are seated to scramble the puzzles of the groups currently solving.
+- The **puzzle drop-off table** is where competitors submit their puzzles before the start of their group.
+- The **solving stations** are the tables where competitors will be doing their solves.
 
 ## Registration table & score-taking
 

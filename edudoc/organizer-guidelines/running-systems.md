@@ -46,3 +46,11 @@ Example: In some competitions in China, running judges are preferred as competit
 The running system might also change as the competition progresses (e.g. Using seated judges with runners for first rounds and using running judges for final rounds where less competition staff might be available).
 
 A lot of factors play into the chosen system for a competition: A lack of staff, a lack of space for solving stations to have more chairs, a lack of chairs, etc. It is important to always listen to the advice from your Delegate(s) on which system is the most suitable for the competition you are organizing.
+
+<div style="margin-top: 200px"></div>
+
+## Translations
+
+Below you can find translations of this document. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
+
+- [Português Europeu (European Portuguese)](https://worldcubeassociation.org/edudoc/organizer-guidelines/pt/running-systems.pdf) - translated by António Gomes
