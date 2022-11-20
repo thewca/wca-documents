@@ -101,9 +101,7 @@ _Your Name_
 Organization Team of XX Open 2020
 :::::
 
-<div style="margin-top: 120px"></div>
-
-## Translations
+## Translations {.page-break-before}
 
 Below you can find translations of this document. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
 

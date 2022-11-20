@@ -59,7 +59,7 @@ Os certificados são uma das formas mais baratas de reconhecer as conquistas dos
 
 Fitas separadoras podem ser extremamente úteis para o controlo de público! Algumas maneiras de usar as fitas separadoras são impedir que as pessoas cheguem a 1,5 metros das estações de resolução enquanto estiverem a ser usadas, separar a área de competição das áreas das restantes áreas e criar uma linha para a mesa de registo, se a sua competição tiver uma.
 
-## Para Diversão
+## Para Diversão {.page-break-before}
 
 ### Eventos Não Oficiais:
 
