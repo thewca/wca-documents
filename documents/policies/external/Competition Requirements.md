@@ -110,6 +110,7 @@ The WCA Delegate must submit the following information when requesting approval 
       1. If such a maximum number is not available, the best estimate from a Delegate may be used.
    5. The WCA Competition Announcement Team will review the competitor limit and/or qualification results or rankings to ensure that they are utilized properly.
       1. The WCA Competition Announcement Team, together with the Senior Delegate, may set a minimum competitor limit per region and event list.
+         1. Where a minimum limit is used for series, the total of competitors across all competitions in the series is considered.
 6. Registration requirements
    1. The registration requirements are the set of rules and procedures relevant to the registration process.
       1. The registration requirements must be clear and precise.
