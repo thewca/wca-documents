@@ -1,8 +1,6 @@
 # Assigning staff
 
-
 Having reliable, competent, and trustworthy staff is essential for your competition to run smoothly and with as few incidents as possible. Here are some thoughts to have when assigning staff:
-
 
 ## Pre-assigning
 
@@ -24,13 +22,11 @@ The pre-assigned system is a better fit if the local community is relatively new
 
 If you assign staff at the competition, you will save time during the pre-comp work. However, you may have trouble finding people willing to help, and even if it only takes a couple of minutes to get enough volunteers, that can add up to a significant amount of time throughout the day. You need to take this into account when scheduling your competition. Keep in mind that some events will take longer to find staff than others (e.g. it’s harder to find scramblers for 7x7 than for 2x2). This approach is useful if your local community is familiar with the regulations and if there are many people willing to help without getting anything in exchange.
 
-
 ## At the competition
 
 Regardless of the approach you end up taking, it is good to do some quick recap on the competition day covering the competing procedure, the most common mistakes (e.g. judges lifting the cover before the competitor is ready), and an overview of the most important regulations, such as common penalties or what to be on the lookout for (e.g. competitors wearing headphones while solving). **Always** make it clear that if the staff member is unsure about any decision or the action that should be taken, they should call the Delegate to help resolve the issue.
 
 If you are going the dedicated staff path, you may consider using **staff groups** for the main event, or if you have many people registered in a round (that will usually be 3x3 round 1). A staff group is when all of the staff members compete at once just before the round is about to begin, that way you make them available to work on all the following groups for that round. However, you should avoid doing this for too many rounds in a single competition as that will most likely cost you more time than splitting the staff members across all the groups. On top of that, if staff groups are held at any time other than the regular groups for logistic purposes (e.g. during lunchtime), please make this clear on the competition schedule.
-
 
 ## Combining systems
 
@@ -44,3 +40,11 @@ Most of the time there will not be any major issue to assign staff for the first
 2. **Scramblers** should be trustworthy people in order to avoid incorrect scrambles, and, if possible, it is useful to get help from the faster people at the event, as they will be able to scramble the puzzle quicker, often with greater accuracy. Faster competitors are also helpful in case of an incorrect scramble because they can also solve the puzzle faster. You should let your Delegate review the list of scramblers before the competition.
 3. **Runners** should be people that are not too shy, as they might need to call the names a bit loud in noisier venues so that the competitors can hear them. Runners should also be attentive to competitors finishing their solves and puzzles being scrambled in order to efficiently transfer the puzzles between solving stations and the scrambling table. If possible, runners should also take multiple puzzles at once in order to avoid losing time. Being familiar with the community can help, but it’s in no way mandatory.
 4. **Score-taking** – It’s better to have someone who’s accurate, and attentive to details in order to spot missing signatures or digits and who is also relatively familiar with uploading results to [WCA Live](https://live.worldcubeassociation.org/). It is also beneficial to have someone with good typing skills so that they are able to keep up with all the results coming in and do not hold up subsequent rounds.
+
+<div style="margin-top: 200px"></div>
+
+## Translations
+
+Below you can find translations of this document. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
+
+- [Português Europeu (European Portuguese)](https://worldcubeassociation.org/edudoc/organizer-guidelines/pt/staff.pdf) - translated by António Gomes

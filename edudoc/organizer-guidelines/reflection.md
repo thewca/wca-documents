@@ -1,18 +1,14 @@
 # Reflection
 
-
 This is a guide to help organizers reflect on their competitions in order to improve the quality of future competitions.
-
 
 ## Recognizing Strengths:
 
 If you notice anything is running exceptionally well then be sure to take notes so that you can attempt to replicate it in the future. Be sure to note all the variables that you think may be applicable, this can include equipment in use, specific people fulfilling staffing roles, systems in use, competition layout, group organization, etc.
 
-
 ## Identifying Shortcomings:
 
 Being able to identify shortcomings is extremely important if you want to improve your competitions! Throughout your competitions be sure to be asking yourself these questions: Is there anything preventing us from running the competition more efficiently? Is there anything detracting from the enjoyment of competitors, staff, spectators, or Delegates? If you answer yes to these questions then take note of exactly what is happening (Note: you don’t necessarily need to come up with solutions or improvements on the spot, you can always come up with solutions in the time after your competition).
-
 
 ## Getting feedback:
 

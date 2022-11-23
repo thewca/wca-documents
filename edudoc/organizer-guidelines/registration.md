@@ -27,3 +27,11 @@ Changes that affect registered competitors _must_ be clearly announced. Be consi
 You should have a [registration table](https://www.worldcubeassociation.org/edudoc/organizer-guidelines/venue-setup.pdf) and strictly follow the registration requirements on the competition website. Depending on the registration requirements set in advance, you may choose to accept on the spot registrations only for certain events , to accept on the spot registrations for all the events, or to not have on the spot registrations at all. In case you are accepting on the spot registrations, when registering new-comers you need to get their relevant information (citizenship, e-mail address, date of birth, name, and gender) so that the information can be assigned to their results and WCA ID. Make sure that the relevant information gathered from new-comers is well stored at all times since it is sensitive information and as such other people should not have access to them.
 
 For more information on how registrations should be handled, see the [WCA Competitions Requirement Policy](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Requirements.pdf).
+
+<div style="margin-top: 200px"></div>
+
+## Translations
+
+Below you can find translations of this document. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
+
+- [Português Europeu (European Portuguese)](https://worldcubeassociation.org/edudoc/organizer-guidelines/pt/registration.pdf) - translated by António Gomes

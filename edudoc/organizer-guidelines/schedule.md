@@ -1,8 +1,6 @@
 # Scheduling a competition
 
-
 Creating a reasonable schedule is one of the most essential things for your competition to run properly. In order to make it accurate, there are some key factors you must consider.
-
 
 ## Venue details
 
@@ -29,18 +27,13 @@ Knowing how many solving stations can be set up tells you how many people can co
 
 You need to be aware that while some may go to eat lunch by car, other competitors and spectators may have to go by walking, meaning you have to consider the time it takes for one to walk to a restaurant and then back to the competition venue. Be sure to check more than one option in the area since not everyone wants to or can eat at the same place.
 
-::::: {.page-break-before}
-:::::
-
 Keep in mind that some people may opt for food delivery (especially if the lunch options are too far to go by walking), so you should also consider that possibility when scheduling lunch time. In case eating inside the venue is not allowed, make that clear in the competition website, as many people may choose to bring snacks or lunch to eat at the venue.
 
 If lunch is provided to competitors, make sure to schedule enough time for people to collect their food from the organizational staff and have lunch before the competition starts again. If the only lunch option available is the one provided by the organizational team, make sure people with dietary restrictions can request special food in advance.
 
-
 ## Announcements, tutorials, and awards
 
 Throughout the day you will have to make some announcements that need to be included on the schedule. This could be a talk about the sponsors, some relevant information about the competition, a competitor/judge tutorial, etc. The latter will usually be either at the start of the competition, just before the main event, or even both. Always be direct and don’t make the announcements unnecessarily long, both to avoid taking up too much time and to improve competitors’ and spectators’ experience. Keep in mind that many people would be annoyed by long, tedious talks. After all finals are done, you still need to account for the awards ceremony. Especially if the competition is holding many events, this can add 20+ minutes to your competition.
-
 
 ## Building the schedule
 
@@ -74,14 +67,20 @@ Once you have an initial draft of the schedule, you should work in conjunction w
 
 Always communicate with the Delegate(s) if there are any changes you believe to be necessary or if you have information relevant to the schedule (e.g. A high number of expected new-comers). Make sure that both you and the Delegate(s) know the progress of the schedule draft at all times in order to prevent anyone from losing time working on or trying to improve a schedule that is not accurate. Make sure that between two rounds of the same event you have enough time for entering the results of the previous round and for any preparation you might need (e.g. Making groups for the next round).
 
-
 ## Simultaneous events
 
 Holding multiple events at the same time is an option you may choose, but it’s not recommended if you don’t have much experience with competition organization. Most of the time, a side room will be used to hold FMC or a BLD event simultaneously to the main area of the competition. Although simultaneous events can be useful in order to hold more events in less time, it also requires a larger venue, more equipment, more staff, and (since there must be a Delegate overseeing all the areas in which an official event is taking place) you need multiple Delegates if you are using separate rooms.
-
 
 ## Making adjustments to the schedule
 
 It’s possible that after the registration period closes you may have more or less competitors than you expected. If that’s the case, you may consider changing the schedule in order to better accommodate the new amount of competitors you are expecting by adjusting cutoffs and time limits, adding/removing rounds, changing the advancement requirements for subsequent rounds, etc.
 
 Keep in mind that any changes to the schedule must be notified to all competitors in advance and should be discussed with the other organizers (if any) and with the Delegate(s) of the competition. In case you want to add or remove an event after the competition has been announced, you should request that as early as possible since it requires approval from the Delegate(s) **and** from the WCA Competition Announcement Team. If you are unsure about any possible changes or if anything unexpected comes up on the day of the competition, you should discuss it with the Delegate(s) as they will be able to advise you on the best options for each scenario.
+
+<div style="margin-top: 150px"></div>
+
+## Translations
+
+Below you can find translations of this document. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
+
+- [Português Europeu (European Portuguese)](https://worldcubeassociation.org/edudoc/organizer-guidelines/pt/schedule.pdf) - translated by António Gomes

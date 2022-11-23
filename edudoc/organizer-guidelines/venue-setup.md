@@ -6,10 +6,10 @@ Since you are going to have dozens of people for several hours in the same place
 
 Before going through the details of each area, there are a few definitions you should be aware of:
 
--   The **score-taking table** is where results are going to be uploaded to [WCA Live](https://live.worldcubeassociation.org/) or entered in a spreadsheet for competitors to know their ranking and also for you to use the results to determine podiums, which competitors should advance to subsequent rounds, etc.
--   The **scrambling table** is where scramblers are seated to scramble the puzzles of the groups currently solving.
--   The **puzzle drop-off table** is where competitors submit their puzzles before the start of their group.
--   The **solving stations** are the tables where competitors will be doing their solves.
+- The **score-taking table** is where results are going to be uploaded to [WCA Live](https://live.worldcubeassociation.org/) or entered in a spreadsheet for competitors to know their ranking and also for you to use the results to determine podiums, which competitors should advance to subsequent rounds, etc.
+- The **scrambling table** is where scramblers are seated to scramble the puzzles of the groups currently solving.
+- The **puzzle drop-off table** is where competitors submit their puzzles before the start of their group.
+- The **solving stations** are the tables where competitors will be doing their solves.
 
 ## Registration table & score-taking
 
@@ -40,3 +40,11 @@ For finals where competitors are called to compete at different times but compet
 This is where solves will take place, so you need to be extra careful with the lighting. Make sure all the stations are well lit and that the lighting does not affect the color recognition on any puzzle. You should also try to keep this area in a comfortable temperature (usually around 20 to 25 degrees Celsius) to avoid any negative impact on the competitors. Besides that, the stations should be arranged in such a way that most of them can be seen by the audience. If you are using several rows of stations, consider having a small, elevated stage for the back stations so that they are still visible. For the displays, if you are going to use cables instead of batteries, you should place the stations near the power sockets and also have enough extension leads if needed. Consider taping the cables down so people do not trip over them during the competition. Also, consider numbering all of your solving stations and putting labels on each table with its number. This can be very convenient for organizers, runners, judges and even competitors. You could also have a screen that shows the competitors where they will be solving to make the process smoother.
 
 For 3x3x3 Fewest Moves, you may have more competitors per station compared to regular speedsolving events, and since it is not an event where spectators get to see much, you do not have to worry about all the competitors being visible to the audience. However, you should still place them in a way that the Delegate(s) and/or the judge(s) for the attempt can see all the competitors, and make sure no one is close enough to copy solutions from another competitor.
+
+<div style="margin-top: 200px"></div>
+
+## Translations
+
+Below you can find translations of this document. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
+
+- [Português Europeu (European Portuguese)](https://worldcubeassociation.org/edudoc/organizer-guidelines/pt/venue-setup.pdf) - translated by António Gomes

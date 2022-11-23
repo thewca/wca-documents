@@ -1,8 +1,6 @@
 # Enhancing Competitor and Staff Experience
 
-
 This is a guide to help organizers identify some quality of life items, resources, and small things they can do as organizers to enhance competitor, spectator, and staff experience at their competitions.
-
 
 ## Communication
 
@@ -41,7 +39,6 @@ Fliers can be used to convey important information about your competition to spe
 An example flier can be found [here](https://docs.google.com/document/d/1cjlvbTQ-e8_TzviEfQ_OUggNtEh-1R7GhKWMU-7IW28/edit?usp=sharing).
 :::::
 
-
 ## Competitor Recognition
 
 We highly recommend taking the efforts of recognizing competitors’ achievements and work by giving awards, prizes, or honors. Some achievements to qualify for awards, prizes, or honors could include achieving a podium in an event, achieving notable results, valuable staff contributions, the best sum of ranks/Kinch ranks at the competition, fastest new competitor, and participation.
@@ -56,13 +53,11 @@ Prizes are a great way to recognize competitors’ achievements. Sponsors should
 
 Certificates are one of the least expensive ways to recognize competitors' achievements but can leave competitors with something to remember. It is recommended that you give competitors certificates even when you give prizes for the competition. You can find templates for certificates of volunteering, merit, and participation [here](https://drive.google.com/drive/folders/1jrMWgOgNscPDqoxzgnEQ1bnV9D4FDzLj).
 
-
 ## Venue Layout
 
 ### Stanchions:
 
 Stanchions can be extremely helpful for crowd control! Some ways that you can use stanchions are to prevent people from coming within 1.5 meters of solving stations while they are in use, to separate the competition area from non-competition areas, and create a line for the registration table if your competition has one.
-
 
 ## For Fun
 
@@ -74,7 +69,14 @@ Holding events that aren’t recognized officially can be fun for competitors to
 
 Giving competitors “goodies” is a great way to enhance their competition experience! Examples of goodies that you could give to competitors can include but are not limited to: drawstring bags, T-shirts, hoodies, hats, bracelets, stickers, pins, keychains, lanyards, magnets, badges, pens, pencils, phone accessories, sunglasses, and cube logos. Goodies can include branding related to the competition, an organization that held the competition, or sponsors of the competition.
 
-
 ## Staff Rewards/Incentives
 
 In order to incentivize competitors to join a dedicated staff, there are several things you can provide for free or a discounted price for them. This can include free or discounted registration fees, meals, apparel, or lodging. Staff incentives should be made known to the public in advance of the competition for transparency and to enroll a higher number of staff members.
+
+<div style="margin-top: 200px"></div>
+
+## Translations
+
+Below you can find translations of this document. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
+
+- [Português Europeu (European Portuguese)](https://worldcubeassociation.org/edudoc/organizer-guidelines/pt/enhancing-experience.pdf) - translated by António Gomes
