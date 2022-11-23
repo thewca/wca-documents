@@ -43,3 +43,11 @@ Here are some questions that you should try to get an answer to:
 - What things that were tried out for the first time did or didn’t work? What caused them to fail or succeed?
 - Were there any issues with first-time competitors? Can we prevent that issue at future competitions?
 - What changes will be made for the next competition organized?
+
+<div style="margin-top: 200px"></div>
+
+## Translations
+
+Below you can find translations of this document. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
+
+- [Português Europeu (European Portuguese)](https://worldcubeassociation.org/edudoc/organizer-guidelines/pt/reflection.pdf) - translated by António Gomes
