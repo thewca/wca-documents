@@ -1,12 +1,12 @@
 # WCA Delegate Crash Course
 
-"*Given the many times we see ourselves in the need to explain the things in this document to new Delegates, I have found some time to draft it so that some time may be saved. Still, I believe it is the responsibility of the recommending Delegate and/or the Senior Delegate to instruct Candidate Delegates in these matters. Feel free to use a link to this document to save yourselves some time.*" - Natán Riggenbach, former WCA Board member, January 2014
+"_Given the many times we see ourselves in the need to explain the things in this document to new Delegates, I have found some time to draft it so that some time may be saved. Still, I believe it is the responsibility of the recommending Delegate and/or the Senior Delegate to instruct Candidate Delegates in these matters. Feel free to use a link to this document to save yourselves some time._" - Natán Riggenbach, former WCA Board member, January 2014
 
 This document is supposed to provide a lot of important information for your job as a WCA Delegate. The Delegate Crash Course was initially started as a Google Document by Natán Riggenbach in January 2014 and has since grown and evolved with the addition and contribution of the WCA Board, the WCA Committees and Teams, and the WCA Senior Delegates.
 
 ## On the Delegate candidateship
 
-*(updated on January 30, 2020)*
+_(updated on January 30, 2020)_
 
 A Delegate starts off as a Junior Delegate and keeps that status until, after overseeing/running some competitions, it is considered by the Senior Delegate that full status is warranted. However, a Junior Delegate has the same obligations and prerogatives as a Full Delegate. The candidateship serves, then, as a testing period that should confirm that the appointment was indeed appropriate.
 
@@ -30,7 +30,7 @@ In some cases, a Delegate may start off as a Trainee Delegate instead, during a 
 
 ## On accepting to delegate a competition {.page-break-before}
 
-*(added on Sep. 20, 2016)*
+_(added on Sep. 20, 2016)_
 
 - The Delegate must make sure that the organization team is able to hold the competition with all the guarantees
   - A suitable venue is correctly booked
@@ -48,12 +48,12 @@ In some cases, a Delegate may start off as a Trainee Delegate instead, during a 
     - The Delegate must inform the rest of Delegates in his/her country about his/her plans on known upcoming competitions
     - In case of delegating in another country, the Delegate must make sure that
       - local Delegates are aware and
-         - none of them is available to Delegate or
-         - they are OK with a foreign delegation
+        - none of them is available to Delegate or
+        - they are OK with a foreign delegation
 
 ## Requesting a competition
 
-*(updated on January 2, 2019)*
+_(updated on January 2, 2019)_
 
 To request an official competition you first need to create a new competition by going to the “[New Competition](https://www.worldcubeassociation.org/competitions/new)” page. This provides a form with all the necessary information to submit a competition. To speed up this process, you have the option to clone an existing competition; this is useful for you, in case a lot of the information from that competition is reusable. Cloning can be done by going to the page of the desired competition and pressing the “Clone” button on the left sidebar.
 
@@ -125,7 +125,7 @@ All request for changes to an existing competition must be made using “Reply A
 
 ## Administering competition results
 
-*(updated on November 10th, 2019)*
+_(updated on November 10th, 2019)_
 
 ### Preparation and score taking tools
 
@@ -184,7 +184,7 @@ Scoretakers should be instructed to alert a Delegate if any of the following hap
 
 ### Compiling Competition Results
 
-The [WCA Scrambles Matcher](https://scrambles-matcher.worldcubeassociation.org/) should be used to match scrambles with the competition results. If using WCA Live, you must synchronize the results before using the WCA Scramble Matcher by clicking the synchronize button on the admin page.
+The [WCA Scrambles Matcher](https://scrambles-matcher.worldcubeassociation.org/) should be used to match scrambles with the competition results. If using WCA Live, you must synchronize the results before using the WCA Scramble Matcher by clicking the synchronize button on the admin page. The synchronize button must also be used if any subsequent changes have been made to registration data, otherwise they will not be included in the results submission.
 
 The Scrambles Matcher allows you to import results from a multitude of resources, including a workbook, WCA Live, or WCIF. Once the competition’s results are opened, you can then upload the scrambles for the competition. This can be done by selecting “Upload Scrambles JSON” and going inside the unzipped scrambles folder and in the “Interchange” folder to select the .json file. If multiple scramble files were used, you can upload each of them. Once uploaded, select each event to assign scrambles to specific rounds and remove any unused scrambles. **Make sure to double-check the assignments for every event to ensure that all the scrambles that were used are assigned correctly!**
 
@@ -248,7 +248,7 @@ Here is an example of a proper change request corresponding to the list above:
 
 ## Requesting changes to person data
 
-*(updated on January 26, 2019)*
+_(updated on January 26, 2019)_
 
 There are several cases for change requests concerning person data. The Results Team has different requisites depending on different circumstances.
 
@@ -278,7 +278,7 @@ Final remark: the rules for competitor names described in the Administering regi
 
 ## On submitting competition reports
 
-*(updated on March 1, 2019)*
+_(updated on March 1, 2019)_
 
 We believe that reports are a valuable learning opportunity for new Delegates and therefore ask for them to be sent to the Delegates’ mailing list. Since all Board members are in said mailing list, this complies with regulation 1c1). Competition reports must filled out and submitted via the WCA website within one week of the competition. The link to the competition report form is: [https://www.worldcubeassociation.org/competitions/YOUR-COMPETITION-ID/report](https://www.worldcubeassociation.org/competitions/YOUR-COMPETITION-ID/report) where you replace YOUR-COMPETITION-ID with the ID of your competition. You can also easily access the form over the "My competitions" page.\
 This form sends an email to [reports@worldcubeassociation.org](mailto:reports@worldcubeassociation.org) with the competition report.\
@@ -302,7 +302,7 @@ If you ever have any doubts, questions, etc. then feel free to send an email to 
 
 ## Administering WCA user accounts
 
-*(updated on November 10th, 2019)*
+_(updated on November 10th, 2019)_
 
 A while ago, the WCA Software Team introduced WCA website accounts. All WCA Delegates have the authority to manage WCA website accounts, which can be done via "Manage users" in your user menu. These accounts must not be confused with the WCA profiles that contain a person's results (although there is some connection as described later) and mainly fulfil the following purposes:
 
@@ -314,7 +314,7 @@ It is important to differentiate between WCA user accounts without assigned WCA-
 
 ### Handling WCA-ID claim requests
 
-Every WCA member can get their WCA-ID assigned to their WCA user account by claiming it. To affect a claim request, the WCA member has to enter the date of birth stored in the WCA database and to select a WCA Delegate who shall take care of this request. If the entered date of birth is incorrect that means that the data stored in the WCA database is either missing or false and this requires a change request to the WCA Results Team (see again section *Requesting changes to person data* above).
+Every WCA member can get their WCA-ID assigned to their WCA user account by claiming it. To affect a claim request, the WCA member has to enter the date of birth stored in the WCA database and to select a WCA Delegate who shall take care of this request. If the entered date of birth is incorrect that means that the data stored in the WCA database is either missing or false and this requires a change request to the WCA Results Team (see again section _Requesting changes to person data_ above).
 
 **Note:** Even though WCA Delegates are able to edit user account data (via [Manage users](https://www.worldcubeassociation.org/users)), assigning a WCA-ID directly is only possible if the account data matches the profile data of the WCA-ID. Apart from preventing WCA-IDs assigned to wrong use accounts, this ensures that WCA Delegates cannot bypass a change request to the WCA Results Team which is an opportunity for the WCA to correct missing or incorrect data of our members.
 
@@ -330,7 +330,7 @@ It is important to handle these requests as expeditiously as you can. You may ei
 
 ## Acquiring competition equipment
 
-*(updated on February 23, 2020)*
+_(updated on February 23, 2020)_
 
 The WCA has negotiated discounted prices for competition equipment from Speed Stacks. Here is the current price list:
 
@@ -349,7 +349,7 @@ To place an order, submit the [application](https://docs.google.com/forms/d/e/1F
 
 ## Recommending a Delegate
 
-*(updated on January 30, 2020)*
+_(updated on January 30, 2020)_
 
 For becoming a WCA Delegate, the following steps should be taken:
 
@@ -366,7 +366,7 @@ For becoming a WCA Delegate, the following steps should be taken:
 
 ## Important Links
 
-*(updated on May 19th, 2021)*
+_(updated on May 19th, 2021)_
 
 - [Create competition page](https://www.worldcubeassociation.org/competitions/new)
 - [Delegates Google Group](https://groups.google.com/a/worldcubeassociation.org/forum/#!forum/delegates)
