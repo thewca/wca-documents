@@ -125,7 +125,7 @@ All request for changes to an existing competition must be made using “Reply A
 
 ## Administering competition results
 
-_(updated on November 10th, 2019)_
+_(updated on December 22, 2022)_
 
 ### Preparation and score taking tools
 
@@ -302,7 +302,7 @@ If you ever have any doubts, questions, etc. then feel free to send an email to 
 
 ## Administering WCA user accounts
 
-_(updated on November 10th, 2019)_
+_(updated on November 10, 2019)_
 
 A while ago, the WCA Software Team introduced WCA website accounts. All WCA Delegates have the authority to manage WCA website accounts, which can be done via "Manage users" in your user menu. These accounts must not be confused with the WCA profiles that contain a person's results (although there is some connection as described later) and mainly fulfil the following purposes:
 
@@ -366,7 +366,7 @@ For becoming a WCA Delegate, the following steps should be taken:
 
 ## Important Links
 
-_(updated on May 19th, 2021)_
+_(updated on May 19, 2021)_
 
 - [Create competition page](https://www.worldcubeassociation.org/competitions/new)
 - [Delegates Google Group](https://groups.google.com/a/worldcubeassociation.org/forum/#!forum/delegates)
