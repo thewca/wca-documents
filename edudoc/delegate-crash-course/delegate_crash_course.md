@@ -334,11 +334,11 @@ _(updated on February 23, 2020)_
 
 The WCA has negotiated discounted prices for competition equipment from Speed Stacks. Here is the current price list:
 
-- Tournament Display (includes cord and adapter): $81.31
-- StackMat G4 (timer, mat, bag): $21.68
-- G4 Timer only: $16.08
-- Mat only: $8.80
-- Extra data cord: $2.00
+- Tournament Display (includes cord and adapter): $90.00
+- StackMat G5 (timer, mat, bag): $24.50
+- G5 Timer only: $18.00
+- G5 Mat only: $8.80
+- Extra data cord: $3.00
 - Extra AC Adapter: $2.00
 
 Prices do not include taxes and shipping, which would add somewhere around $15-30 per box (their largest box fits 5 display sets).
