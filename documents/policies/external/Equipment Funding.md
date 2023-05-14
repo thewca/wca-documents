@@ -67,7 +67,7 @@ Failure to return the equipment in a timely fashion upon request or returning th
 ### Application Process
 This process will be followed when applying for equipment funding:
 
-1. When an Equipment Funding application period is active, submit an application through the [funding application form](https://docs.google.com/forms/d/15ynls43scoUg3qTO57sMWWgw3LSt3JXeLAKNJplKqn4/edit). At the end of the form, you will agree to the terms and conditions set forth in this policy.
+1. When an Equipment Funding application period is active, submit an application through the [funding application form](https://docs.google.com/forms/d/e/1FAIpQLSebkWMyG2kRzR3cDm3jXFVMFCwd5u4XI6Yt35givu0SOidpHg/viewform). At the end of the form, you will agree to the terms and conditions set forth in this policy.
 2. A member of the WCA Financial Committee (WFC) will review the application and reach out to confirm that it is complete and correct.
 3. After the end of the Equipment Funding application period, the WFC will evaluate all applications received during the application period based on the merits of the application.
 4. The WFC will create and approve a spending plan to allocate the total funding available for the application period. Some applications may only receive partial funding in the spending plan in order to provide funding to more applicants.
