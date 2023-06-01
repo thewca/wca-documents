@@ -1,6 +1,6 @@
 # WCA Travel Reimbursement Policy
 
-### Version 1.2 {.version}
+### Version 1.3 {.version}
 
 ## Purpose
 The purpose of this policy is to define the conditions under which WCA Staff can be reimbursed their expenses originated from travels to assist in our nonprofit activities in support of our Mission.
