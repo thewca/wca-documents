@@ -29,11 +29,11 @@ All expenses must be approved in writing by the WCA Board of Directors in accord
 3. Out of pocket expenses
    1. All out of pocket expense reimbursement requests must be filed with the WFC within 30 days of the transaction, with supporting receipts.
 4. Delegated reimbursement
-   1. The WFC, Committee/Team Leaders, and Senior Delegates may assist the WCA Treasurer with reimbursements by aggregating expense requests from multiple WCA Staff.
+   1. The WFC, Committee/Team Leaders, and Senior Delegates may assist the WCA Treasurer (or WFC Senior Member) with reimbursements by aggregating expense requests from multiple WCA Staff.
       1. The applicant must present all relevant receipts to the WFC, with the names of the people who incurred each expense.
       2. The applicant would then be responsible for properly distributing reimbursements they receive from the Treasurer, on behalf of the WCA.
 5. Advance payment
-   1. The WCA Treasurer may provide an advance from the WCA to help pay for expenses that cannot be directly paid by the WCA for some reason.
+   1. The WCA Treasurer (or WFC Senior Member) may provide an advance from the WCA to help pay for expenses that cannot be directly paid by the WCA for some reason.
       1. Receipts should be submitted for all usage of advance funds within 30 days* of the transaction(s).
       2. All excess funds not documented by receipts must be returned to the WCA within 60 days* of receiving the advance.
 
@@ -134,7 +134,7 @@ This process needs to be followed when applying for funding to support travel to
 1. Approach your Senior Delegate or a member of the WCA Board of Directors if more appropriate. You will need their agreement to submit the application for funding and you will need to submit their name on the application form as a sponsor.
 2. Please complete the funding application form [here](https://docs.google.com/forms/d/12tz2I_EeBORm14kQO6ZB5TOp321YbXkIXvrxUNIHxN0). This form will be automatically submitted to the WCA Financial Committee.
 3. A member of the WFC will review the form and may liaise with you to ensure the application is complete and correct.
-4. The application will be reviewed by the WFC Leader or Deputy Leader.
+4. The application will be reviewed by the WFC Leader or a WFC Senior Member.
 5. The application will be submitted to the WCA Board of Directors and again may contact you to clarify any points.
 6. The WCA Board of Directors will vote on the application and inform the WFC of their decision.
 7. The WFC will inform the applicant of the result of the approval process.
