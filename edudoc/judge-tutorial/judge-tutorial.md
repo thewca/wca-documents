@@ -81,5 +81,6 @@ If any penalty was given, you should always write the original time, the penalti
 Below you can find translations of the tutorial. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
 
 - [Հայերեն (Armenian)](https://www.worldcubeassociation.org/edudoc/judge-tutorial/judge-tutorial-am.pdf) - translated by Mayis Jraghatspanyan
+- [Português Europeu (European Portuguese)](https://www.worldcubeassociation.org/edudoc/judge-tutorial/judge-tutorial-pt.pdf) - translated by António Gomes
 - [Română (Romanian)](https://www.worldcubeassociation.org/edudoc/judge-tutorial/judge-tutorial-ro.pdf) - translated by porduska
-- [Español (Spanish)](https://www.worldcubeassociation.org/edudoc/judge-tutorial/judge-tutorial-es.pdf)
+- [Español (Spanish)](https://www.worldcubeassociation.org/edudoc/judge-tutorial/judge-tutorial-es.pdf) - translated by Gennaro Monetti
