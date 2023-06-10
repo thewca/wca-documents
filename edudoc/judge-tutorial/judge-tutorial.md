@@ -83,3 +83,4 @@ Below you can find translations of the tutorial. Contact quality@worldcubeassoci
 - [Հայերեն (Armenian)](https://www.worldcubeassociation.org/edudoc/judge-tutorial/judge-tutorial-am.pdf) - translated by Mayis Jraghatspanyan
 - [Română (Romanian)](https://www.worldcubeassociation.org/edudoc/judge-tutorial/judge-tutorial-ro.pdf) - translated by porduska
 - [Español (Spanish)](https://www.worldcubeassociation.org/edudoc/judge-tutorial/judge-tutorial-es.pdf)
+- [Polski (Polish)](https://www.worldcubeassociation.org/edudoc/judge-tutorial/judge-tutorial-pl.pdf) - translated by Stan U.
