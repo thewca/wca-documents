@@ -8,7 +8,7 @@ Oto główne wyposażenie i narzędzia wymagane do podjęcia próby rozwiązania
 
 **Stackmat timer**: Jest to oficjalne urządzenie do pomiaru czasu na zawodach WCA. Na zdjęciu poniżej widać najnowszą wersją timera, poprzednie wersje timera są nadal akceptowane do użytku w zawodach.
 
-![](images/timer.png){.centered}
+![](images/timer-pl.png){.centered}
 
 **Stoper**: Służy do pomiaru czasu preinspekcji. Stopery służą również do mierzenia czasu ułożenia układanki podczas rundy trwającej powyżej 10 minut. **Uwaga: Nie mylić z Stackmat timer.**
 
