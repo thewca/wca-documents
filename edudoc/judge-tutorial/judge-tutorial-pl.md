@@ -14,7 +14,7 @@ Oto główne wyposażenie i narzędzia wymagane do podjęcia próby rozwiązania
 
 ## Procedura sędziowania
 
-    1. Umieść pomieszaną układankę na macie i trzymaj ją pod przykryciem przed rozpoczęciem każdej próby w rundzie.
+1. Umieść pomieszaną układankę na macie i trzymaj ją pod przykryciem przed rozpoczęciem każdej próby w rundzie.
 2. Zresetuj stackmat timer i stoper.
 3. Zawodnik, gdy zostanie o to poproszony, ma minutę na przygotowanie się do podjęcia proby rozwiązania układanki w danej rundzie. 
 4. Gdy zawodnik jest gotowy, jednocześnie odkryj układankę i uruchom stoper, aby rozpocząć preinspekcję. 
