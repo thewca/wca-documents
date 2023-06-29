@@ -1,6 +1,6 @@
 # WCA Dues System Policy
 
-### Version 1.5 {.version}
+### Version 1.6 {.version}
 
 ## Purpose
 The WCA Dues System is a policy by which the WCA will collect revenue on a per-competitor-per-competition basis from WCA Delegates and/or Regional Organizations in order to further the Mission and the Spirit of the WCA. The policy intends that WCA Delegates and/or Regional Organizations will fund the amount owed either by charging registration fees to their competitors, soliciting competition sponsors, or by using some other means of collecting money on behalf of their respective countries.
@@ -17,7 +17,7 @@ The WCA Dues System is a policy by which the WCA will collect revenue on a per-c
    2. If payment is not received by 30 days, the Delegate or Regional Organization is considered late on their dues payment.
       1. Delegates or Regional Organizations who are not able to pay their Dues within 30 days should contact the WFC with a reason why payment cannot be made on time. 
          1. Invoices not paid within 60 days of the date issued may be subject to disciplinary action.
-            1. On a case-by-case basis the WFC will evaluate if the Delegate is experiencing an exceptional circumstance for why payment cannot be made on time. In such cases, special accommodations may be made on a one-time basis.
+            1. On a case-by-case basis the WFC will evaluate if the Delegate is experiencing an exceptional circumstance for why payment cannot be made on time. In such cases, special accommodations may be made on a one-time basis including but not limited to: delaying the due date for payment, or waiving the Dues amount in part or in full.
             2. If Delegates do not have a valid reason for the late payment (i.e. an exceptional circumstance), then the Delegates will not be allowed to announce any new competitions or place any new gear orders as Delegate until their outstanding balance is paid.
       2. Delegates with chronically late payments will be referred to their Senior Delegates for follow-up to ensure that future Dues are received on time.
          1. Frequent late payments may result in disciplinary action.
@@ -26,26 +26,26 @@ The WCA Dues System is a policy by which the WCA will collect revenue on a per-c
 4. The Due amount owed for a competition will be calculated on a per-competitor-per-competition basis.
    1. Each competition will have a per-competitor Due amount owed.
    2. The total amount owed for the competition will be the per-competitor Due amount owed multiplied by the number of competitors who participated in the competition.
-   3. The per-competitor Due amount will be the higher of the Due amount based on competition country the Due amount based on registration fees, see Appendix A
-      1.  Exception: for countries in Band 0 the Dues will be waived and the Due amount based on registration fees will not be used.
+   3. The per-competitor Due amount will be the higher of the Due amount based on the country band and the Due amount based on registration fees, see Appendix A
 
 
 ## Appendix A {.page-break-before}
 ### Detailed description of how per-competitor due amounts are calculated
 To calculate the Due amount owed for a competition, the following procedure will be used:
 
-1. The country used to determine the Due amount based on country is the country in which the competition takes place.
+1. The country used to determine the Due amount is the country in which the competition takes place.
    1. For 3x3x3 Fewest Moves simultaneous competitions that take place in more than one country, the Due amount will be waived.
-2. Countries will be grouped together into 6 Bands based on their Cost of Living values. <br> Countries are assigned to a band according to [this list](https://www.worldcubeassociation.org/wfc/country-bands).
-3. To determine the price per-competitor for a competition based on the competition country, look up the competition’s band, then find its per-competitor price using [this list](https://www.worldcubeassociation.org/wfc/country-bands).
+2. Countries will be grouped together into 6 Bands based on their Cost of Living values. <br> Countries are assigned to a band according to [this list](https://www.worldcubeassociation.org/wfc/country-bands) with updates made periodically at the discretion of the WFC.
+3. To determine the per-competitor Due amount based on the country band, look up the competition’s band, then find its per-competitor price using [this list](https://www.worldcubeassociation.org/wfc/country-bands).
    1. The per-competitor price for Band 5 is called the Base Due amount. The per-competitor price for all other bands is a fraction of the Base Due amount.
-   2. The Base Due amount is an amount set by the WFC that the countries in the most expensive band will pay. All other band Due amounts will be amounts less than this amount, and based on that country’s Cost of Living value (COL value) relative to the COL value of the countries in the most expensive band.
+   2. The Base Due amount is an amount set per this policy at USD $3. All other band Due amounts will be amounts less than this amount as determined by the WFC.
       1. Countries in Band 0 do not owe Dues to the WCA for any competitions held while that country maintains Band 0 status.
          1. See Appendix B for an explanation of how Band 0 will be used by the WFC.
-4. The Due amount based on registration fees will be equal to 15% of the average registration fee per competitor.
-   1. The average registration fee per competitor is equal to the total registration fees for the competition divided by the number of competitors.
-      1. The total registration fees for the competition includes the base registration fee and any per-event registration fees.
-5. The final Due amount per competitor will be the higher of the Due amount based on the country and the Due amount based on registration fees.
+4. The Due amount based on registration fees will be: 
+   1. For bands 3, 4, and 5 countries: equal to 15% of base registration fee as stated on the WCA website, converted to US Dollars.
+   2. For bands 1 and 2 countries: equal to 5% of the base registration fee as stated on the WCA website, converted to US Dollars.
+   3. For band 0 countries: zero
+5. The final Due amount per competitor will be the higher of the Due amount based on the country band and the Due amount based on registration fees.
 
 ## Appendix B {.page-break-before}
 ### WFC Use of Band 0 for countries that do not owe Dues
