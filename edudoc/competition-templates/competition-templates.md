@@ -86,5 +86,6 @@ Competition rules image - Tom Nelson
 
 Below you can find translations of this document. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
 
+- [Polski (Polish)](https://www.worldcubeassociation.org/edudoc/competition-templates/competition-templates-pl.pdf) - translated by Stanislaw Ulbrych
 - [Русский (Russian)](https://www.worldcubeassociation.org/edudoc/competition-templates/competition-templates-ru.pdf) - translated by Deni Mintsaev
 - [Español (Spanish)](https://www.worldcubeassociation.org/edudoc/competition-templates/competition-templates-es.pdf) - translated by Gennaro Monetti
