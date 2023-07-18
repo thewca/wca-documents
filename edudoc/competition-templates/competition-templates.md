@@ -74,7 +74,7 @@ Brendan's 3D multipurpose cover
 Please only share the link to THIS page and not the direct link to the folder.
 :::::
 
-## Credits
+## Credits{.page-break-before}
 
 Paper/card templates - Deni Mintsaev<br/>
 Multipurpose cover - Brendan Bakker and Patrick Dwyer<br/>
@@ -82,7 +82,7 @@ Stackable 3D Clock cover - Francisco Montañés Barbudo and Mitchell Lane<br/>
 3D Clock cover - Cady Shields<br/>
 Competition rules image - Tom Nelson
 
-## Translations{.page-break-before}
+## Translations
 
 Below you can find translations of this document. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
 

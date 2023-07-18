@@ -74,7 +74,7 @@ Do złożenia wydruków papierowych potrzebne będą następujące narzędzia:
 Udostępnij link tylko do tej strony, a nie bezpośredni link do folderu.
 :::::
 
-## Napisy
+## Napisy{.page-break-before}
 
 Szablony papieru/kartki - Deni Mintsaev<br/>
 Uniwersalna okładka — Brendan Bakker i Patrick Dwyer<br/>
