@@ -28,6 +28,31 @@ In some cases, a Delegate may start off as a Trainee Delegate instead, during a 
 - A reasonable response rate is generally expected from Delegates. A reasonable response rate is usually within 48 hours and at most within a week, unless special circumstances arise.
 - The information exchanged over the Delegates' mailing list is confidential. These are conversations among Delegates and there is no reason for them to leave the list except as part of official announcements by the Board or the Committees/Teams.
 
+## Table of contents {.page-break-before}
+- [On accepting to delegate a competition](#on-accepting-to-delegate-a-competition)
+- [Requesting a competition](#requesting-a-competition)
+    - [Some general rules about requesting a competition](#some-general-rules-about-requesting-a-competition)
+    - [How to fill out the new competition page](#how-to-fill-out-the-new-competition-page)
+    - [Adding events and a schedule](#adding-events-and-a-schedule)
+    - [Requesting a Fewest Moves Simultaneous Competition](#requesting-a-fewest-moves-simultaneous-competition)
+    - [Making changes to an existing competition](#making-changes-to-an-existing-competition)
+- [Administering competition results](#administering-competition-results)
+    - [Preparation and score taking tools](#preparation-and-score-taking-tools)
+    - [Administering registration data](#administering-registration-data)
+    - [Scoretaking during the competition](#scoretaking-during-the-competition)
+    - [Checking competition results before submission](#checking-competition-results-before-submission)
+    - [Compiling Competition Results](#compiling-competition-results)
+    - [Submitting competition results](#submitting-competition-results)
+    - [Requesting changes to competition results](#requesting-changes-to-competition-results)
+- [Requesting changes to person data](#requesting-changes-to-person-data)
+- [On submitting competition reports](#on-submitting-competition-reports)
+- [Paying competition Dues](#paying-competition-dues)
+- [Administering WCA user accounts](#administering-wca-user-accounts)
+    - [Handling WCA-ID claim requests](#handling-wca-id-claim-requests)
+- [Acquiring competition equipment](#acquiring-competition-equipment)
+- [Recommending a Delegate](#recommending-a-delegate)
+- [Important Links](#important-links)
+
 ## On accepting to delegate a competition {.page-break-before}
 
 _(added on Sep. 20, 2016)_
