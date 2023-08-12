@@ -8,7 +8,7 @@ On October 8, 2022 at 6:00 p.m. UTC, the Members of the World Cube Association m
 
 <div class="text-center">
 Antoine Piau, Arthur Garcin, Blake Thompson, Bob Burton <br>
-Caleb Hoover, Callum James Goodyear, Daniel Vædele Egdal, Edward Hollingdale <br>
+Cailyn Hoover, Callum James Goodyear, Daniel Vædele Egdal, Edward Hollingdale <br>
 Ethan Pride, Finn Ickler, Georel Ulangkaya, Gregor Billing <br>
 Henrik Buus Aagaard, Ilya Tsiareshka, Jānis Zirnis, Jules Desjardin <br>
 Kristopher De Asis, Laura Ohrndorf, Liam Orovec, Manu Vereecken <br>
