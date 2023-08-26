@@ -4,14 +4,22 @@
 DO NOT use any templates before reading this entire document!
 :::::
 
-Here you can find printable templates for cube covers and Clock covers, both of which are stackable; 3D-printable cover designs for Square-1, Clock and Skewb puzzles; results boxes for scorecards: a design that can be hung on a wall and another that can be put on a table; Square-1 inserts (21 per page) and an outline of some important competition rules.
+Here you can find the following printable templates that can be used for WCA competitions:
+
+- Cube covers and Clock covers, both stackable
+- 3D-printable cover designs for Square-1, Clock and Skewb puzzles
+- Results boxes for scorecards: one that can be put on a table and another that can be hung on a wall
+- Square-1 inserts (21 per page)
+- Competing guide infographic with illustrations of the most important rules
+- Multi-Blind scrambling infographic, with illustrations that show best practices
+- Sheet with cube outlines for tracking Multi-Blind scrambles (14 cubes per page)
 
 ![](images/results_boxes_and_cube_cover.jpg){.centered width=600px}
 
 ## Instructions
 
-1. If you would like to use the WCA designs, use the files in the folder for the language used in your region. **WARNING: Some of the PDF previews might have rendering artifacts, but these won't show up if you download the files.** If you would like to make custom designs, use the files in the `Editable Files` folder. **DO NOT** make colored Clock cover designs, they must be in black and white (BW).
-2. The designs for paper Clock covers and competition rules can be printed on a home printer; the Clock covers need to be printed in BW and the competition rules need to be printed in color. The other designs **MUST** be printed using an industry-grade printer, so you will have to find a printing place in your area. They will require `PDF` files to make your prints.
+1. If you would like to use the WCA designs, use the files in the folder for the language used in your region. **WARNING: Some of the PDF previews might have rendering artifacts, but these won't show up if you download the files.** If you would like to make custom designs, use the files in the `Editable Files` folder. **DO NOT** make colored Clock cover designs, they must be in black and white (BW) in order to avoid affecting Clock pins.
+2. The template for paper Clock covers, the infographics, and the Multi-Blind cube outline sheet can be printed on a home printer. The infographics need to be printed in color, and the other two files need to be printed in BW. All other templates **MUST** be printed using an industry-grade printer, so you will have to find a printing service in your area. They will require `.pdf` files to make your prints.
 
 ![](images/paper_clock_covers.jpg){.centered width=450px}
 
@@ -35,14 +43,15 @@ Brendan's 3D multipurpose cover
 5. Make sure you print all templates **STRICTLY** within the following specifications:
 :::::
 
-| Template               | Paper size | Paper density  | Paper type |
-| ---------------------- | :--------: | :------------- | :--------: |
-| Cube cover             |     A3     | 350-400 gsm \* |   Color    |
-| Paper Clock cover \*\* |     A4     | 60-90 gsm      |     BW     |
-| Results box (table)    |     A3     | 350-400 gsm \* |   Color    |
-| Results box (wall)     |     A4     | 250-400 gsm    |   Color    |
-| Square-1 inserts       |     A4     | 250-400 gsm    |   Color    |
-| Competition rules      |     A4     | Any            |   Color    |
+| Template                                | Paper size | Paper density  | Color / BW |
+| --------------------------------------- | :--------: | :------------- | :--------: |
+| Cube cover                              |     A3     | 350-400 gsm \* |   Color    |
+| Paper Clock cover \*\*                  |     A4     | 60-90 gsm      |     BW     |
+| Results box (table)                     |     A3     | 350-400 gsm \* |   Color    |
+| Results box (wall)                      |     A4     | 250-400 gsm    |   Color    |
+| Square-1 inserts                        |     A4     | 250-400 gsm    |   Color    |
+| Competitor/Multi-Blind scrambling guide |     A4     | Any            |   Color    |
+| Multi-Blind cube outline sheet          |     A4     | Any            |     BW     |
 
 "gsm" stands for grams per square meter. This is the standard unit of measurement for paper density.
 
@@ -68,6 +77,10 @@ Brendan's 3D multipurpose cover
 
 7. On all templates except for the Clock covers, make all cuts on the **INNER** side of the black lines, leaving no black color visible after the cuts are done. On the Clock cover the cuts need to be made **THROUGH** the black lines.
 
+8. The Multi-Blind cube outline file has multiple pages, each of them with numbered spots for 14 cubes (two TNoodle scramble sets). The first page is for scrambles 1-14, the second is for 15-28, and so on, all the way up to scramble 84. You can print out as many of these as you require for your competition. Consider how many scramblers you will have, and how many cubes your competitors will be attempting. You can continue reusing these sheets for future competitions so as not to waste paper.
+
+When scrambling a Multi-Blind attempt, place each cube on the number of the scramble that was applied to it. Also make sure you never have two people scrambling cubes using the same sheet (remember that one of these sheets always corresponds to two TNoodle scramble sheets, since those have 7 scrambles per page). All of this greatly reduces the risk of applying the same scramble twice, which could result in the competitor receiving an extra, which is a big hindrance to the flow of a competition.
+
 ::::: {.box .warning}
 [Link to the templates folder](https://drive.google.com/drive/folders/1EVqEWSqruZ8_vEJpUmqhFUqaikzgUkkP?usp=sharing)
 
@@ -80,7 +93,7 @@ Paper/card templates - Deni Mintsaev<br/>
 Multipurpose cover - Brendan Bakker and Patrick Dwyer<br/>
 Stackable 3D Clock cover - Francisco Montañés Barbudo and Mitchell Lane<br/>
 3D Clock cover - Cady Shields<br/>
-Competition rules image - Tom Nelson
+Competition rules and Multi-Blind scrambling guide illustrations - Tom Nelson
 
 ## Translations
 

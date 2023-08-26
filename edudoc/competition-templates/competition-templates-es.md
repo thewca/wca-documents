@@ -11,7 +11,7 @@ Aquí podrás encontrar: plantillas imprimibles de tapacubos y coberturas para C
 ## Instrucciones
 
 1. Si deseas utilizar los diseños de la WCA, busca los archivos en la carpeta/directorio que corresponda a tu idioma. **ADVERTENCIA: la vista previa de los archivos PDF pueden tener detalles de renderización. Si descargas el archivo, ya no se verán.** Si tienes pensado hacer diseños personalizados, utiliza los archivos en la carpeta llamada `Editable Files`. **NO** hagas coberturas para Clock a color, deben estar en blanco y negro (BW).
-2. Los diseños de las coberturas para Clock en papel y los folletos con las reglas para competir, pueden imprimirse en una impresora doméstica (las coberturas para Clock deben estar en blanco y negro y los folletos deben estar a color). Los demás diseños **DEBEN** imprimirse utilizando una impresora de grado industrial, así que deberás buscar un lugar donde tengan una (debes llevar los archivos `PDF`).
+2. Los diseños de las coberturas para Clock en papel y los folletos con las reglas para competir, pueden imprimirse en una impresora doméstica (las coberturas para Clock deben estar en blanco y negro y los folletos deben estar a color). Los demás diseños **DEBEN** imprimirse utilizando una impresora de grado industrial, así que deberás buscar un lugar donde tengan una (debes llevar los archivos `.pdf`).
 
 ![](images/paper_clock_covers.jpg){.centered width=450px}
 

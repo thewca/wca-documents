@@ -11,7 +11,7 @@ Tutaj możesz znaleźć szablony do druku dla osłonek na kostki i osłonek na z
 ## Instrukcje
 
 1. Jeśli chcesz korzystać z projektów WCA, użyj plików w folderze dla języka używanego w Twoim regionie. **OSTRZEŻENIE: Niektóre podglądy plików PDF mogą zawierać artefakty renderowania, ale nie pojawią się one po pobraniu plików.** Jeśli chcesz tworzyć niestandardowe projekty, użyj plików w folderze `Pliki edytowalne`. **NIE** twórz kolorowych projektów okładek zegarów, muszą być one czarno-białe (BW).
-2. Projekty papierowych okładek zegarów i regulaminów zawodów można wydrukować na domowej drukarce; okładki zegarów muszą być wydrukowane czarno-białe, a regulamin zawodów w kolorze. Pozostałe projekty **MUSZĄ** zostać wydrukowane przy użyciu drukarki klasy branżowej, więc musisz znaleźć drukarnię w swojej okolicy. Do wykonania tych wydruków będą wymagać plików `PDF`.
+2. Projekty papierowych okładek zegarów i regulaminów zawodów można wydrukować na domowej drukarce; okładki zegarów muszą być wydrukowane czarno-białe, a regulamin zawodów w kolorze. Pozostałe projekty **MUSZĄ** zostać wydrukowane przy użyciu drukarki klasy branżowej, więc musisz znaleźć drukarnię w swojej okolicy. Do wykonania tych wydruków będą wymagać plików `.pdf`.
 
 ![](images/paper_clock_covers.jpg){.centered width=450px}
 
