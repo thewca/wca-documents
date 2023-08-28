@@ -4,31 +4,12 @@
 
 This document is supposed to provide a lot of important information for your job as a WCA Delegate. The Delegate Crash Course was initially started as a Google Document by Natán Riggenbach in January 2014 and has since grown and evolved with the addition and contribution of the WCA Board, the WCA Committees and Teams, and the WCA Senior Delegates.
 
-## On the Delegate candidateship
 
-_(updated on January 30, 2020)_
+## Table of contents
 
-A Delegate starts off as a Junior Delegate and keeps that status until, after overseeing/running some competitions, it is considered by the Senior Delegate that full status is warranted. However, a Junior Delegate has the same obligations and prerogatives as a Full Delegate. The candidateship serves, then, as a testing period that should confirm that the appointment was indeed appropriate.
-
-In some cases, a Delegate may start off as a Trainee Delegate instead, during a time in which they have some limitations while they learn how to handle the position.
-
-### The roles of a WCA Delegate include, but not limited to:
-
-- Keeping up to date on this Delegate crash course
-- Being responsible for your community and for closer areas as well, where support is needed
-- Delegating official WCA Competitions
-- Submitting the competition report, results, and scrambles within a week of the competition
-- Being an active member on the WCA Staff and Delegate mailing lists: pay attention to the conversations, feel free to join one if you have something valuable to add and also feel free to start one if you think it is appropriate. There will be a lot of emails, but the info there will be useful.
-
-### General Advice
-
-- When communicating via email, Reply-All should be used at all times except when sensitive issues require leaving someone out of the conversation.
-- The interested party should follow up on requests and inquiries if a response is not received within 48 hours. The Board has many things to attend to and sometimes messages slip by and go without a response. It is the responsibility of the Delegate to follow things through to completion.
-- When reporting incidents and important issues to the Board, the senior Delegate should be cc’ed.
-- A reasonable response rate is generally expected from Delegates. A reasonable response rate is usually within 48 hours and at most within a week, unless special circumstances arise.
-- The information exchanged over the Delegates' mailing list is confidential. These are conversations among Delegates and there is no reason for them to leave the list except as part of official announcements by the Board or the Committees/Teams.
-
-## Table of contents {.page-break-before}
+- [On the Delegate candidateship](#on-the-delegate-candidateship)
+    - [The roles of a WCA Delegate](#the-roles-of-a-wca-delegate)
+    - [General Advice](#general-advice)
 - [On accepting to delegate a competition](#on-accepting-to-delegate-a-competition)
 - [Requesting a competition](#requesting-a-competition)
     - [Some general rules about requesting a competition](#some-general-rules-about-requesting-a-competition)
@@ -52,6 +33,34 @@ In some cases, a Delegate may start off as a Trainee Delegate instead, during a 
 - [Acquiring competition equipment](#acquiring-competition-equipment)
 - [Recommending a Delegate](#recommending-a-delegate)
 - [Important Links](#important-links)
+
+
+## On the Delegate candidateship {.page-break-before}
+
+_(updated on January 30, 2020)_
+
+A Delegate starts off as a Junior Delegate and keeps that status until, after overseeing/running some competitions, it is considered by the Senior Delegate that full status is warranted. However, a Junior Delegate has the same obligations and prerogatives as a Full Delegate. The candidateship serves, then, as a testing period that should confirm that the appointment was indeed appropriate.
+
+In some cases, a Delegate may start off as a Trainee Delegate instead, during a time in which they have some limitations while they learn how to handle the position.
+
+### The roles of a WCA Delegate
+
+The roles of a WCA Delegate include, but are not limited to:
+
+- Keeping up to date on this Delegate crash course
+- Being responsible for your community and for closer areas as well, where support is needed
+- Delegating official WCA Competitions
+- Submitting the competition report, results, and scrambles within a week of the competition
+- Being an active member on the WCA Staff and Delegate mailing lists: pay attention to the conversations, feel free to join one if you have something valuable to add and also feel free to start one if you think it is appropriate. There will be a lot of emails, but the info there will be useful.
+
+### General Advice
+
+- When communicating via email, Reply-All should be used at all times except when sensitive issues require leaving someone out of the conversation.
+- The interested party should follow up on requests and inquiries if a response is not received within 48 hours. The Board has many things to attend to and sometimes messages slip by and go without a response. It is the responsibility of the Delegate to follow things through to completion.
+- When reporting incidents and important issues to the Board, the senior Delegate should be cc’ed.
+- A reasonable response rate is generally expected from Delegates. A reasonable response rate is usually within 48 hours and at most within a week, unless special circumstances arise.
+- The information exchanged over the Delegates' mailing list is confidential. These are conversations among Delegates and there is no reason for them to leave the list except as part of official announcements by the Board or the Committees/Teams.
+
 
 ## On accepting to delegate a competition {.page-break-before}
 
