@@ -1,16 +1,21 @@
 # WCA Delegate Crash Course
 
-"_Given the many times we see ourselves in the need to explain the things in this document to new Delegates, I have found some time to draft it so that some time may be saved. Still, I believe it is the responsibility of the recommending Delegate and/or the Senior Delegate to instruct Candidate Delegates in these matters. Feel free to use a link to this document to save yourselves some time._" - Natán Riggenbach, former WCA Board member, January 2014
+"_Given the many times we see ourselves in the need to explain the things in this document to new Delegates, I have found some time to draft it so that some time may be saved. Still, I believe it is the responsibility of the recommending Delegate and/or the Senior Delegate to instruct [Trainee] Delegates in these matters. Feel free to use a link to this document to save yourselves some time._" - Natán Riggenbach, former WCA Board member, January 2014
 
 This document is supposed to provide a lot of important information for your job as a WCA Delegate. The Delegate Crash Course was initially started as a Google Document by Natán Riggenbach in January 2014 and has since grown and evolved with the addition and contribution of the WCA Board, the WCA Committees and Teams, and the WCA Senior Delegates.
 
-## On the Delegate candidateship
+## On the Trainee Delegateship
 
-_(updated on January 30, 2020)_
+_(updated on September 9, 2023)_
 
-A Delegate starts off as a Junior Delegate and keeps that status until, after overseeing/running some competitions, it is considered by the Senior Delegate that full status is warranted. However, a Junior Delegate has the same obligations and prerogatives as a Full Delegate. The candidateship serves, then, as a testing period that should confirm that the appointment was indeed appropriate.
+A Delegate starts off as a Trainee Delegate and keeps that status until, after overseeing/running some competitions, it is considered by the Regional or Senior Delegate that Junior status is warranted. The traineeship serves as a testing period that should confirm that the appointment was indeed appropriate for both the Trainee Delegate and the WCA.
 
-In some cases, a Delegate may start off as a Trainee Delegate instead, during a time in which they have some limitations while they learn how to handle the position.
+Although a Trainee Delegate has the same responsibilities as a Junior or Full Delegate at a competition, there are some restrictions to the Trainee Delegate status:
+
+- Trainee Delegates cannot post delegate reports or submit results, but are still allowed to write reports and compile results for another Delegate to submit
+- Trainee Delegates cannot delegate a competition without the supervision of a Junior or Full Delegate, except under emergency circumstances which must be approved by the WCA Board
+- Trainee Delegates do not have a WCA email address, nor access to internal resources such as the WCA Google Drive
+- Trainee Delegates do not have access to the Panel or Poll areas of the WCA website
 
 ### The roles of a WCA Delegate include, but not limited to:
 
