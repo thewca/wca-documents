@@ -58,14 +58,14 @@ _(added on Sep. 20, 2016)_
 
 ## Requesting a competition
 
-_(updated on January 2, 2019)_
+_(updated on September 11, 2023)_
 
 To request an official competition you first need to create a new competition by going to the “[New Competition](https://www.worldcubeassociation.org/competitions/new)” page. This provides a form with all the necessary information to submit a competition. To speed up this process, you have the option to clone an existing competition; this is useful for you, in case a lot of the information from that competition is reusable. Cloning can be done by going to the page of the desired competition and pressing the “Clone” button on the left sidebar.
 
 ### Some general rules about requesting a competition:
 
 - The competition must be announced **at least 28 days** before the scheduled start of the competition. You should **submit the competition earlier than this** as a safety measure so that if there is an issue with the competition, then the competition will likely still be announced before the 28-day deadline.
-- The competition must comply with the [Competition Requirements Policy](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Requirements.pdf). This means your competition should be at least 100 kilometers or 19 days away from all other competitions. There can be exceptions made to the Proximity Policy if the Delegate has valid arguments. Examples can be found in the policy.
+- The competition must comply with the [Competition Requirements Policy](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Requirements.pdf). This means your competition should be at least 10 kilometers and 5 days away from all other competitions. There can be exceptions made to the Proximity Policy if the Delegate has valid arguments. Examples can be found in the policy.
 
 ### How to fill out the new competition page: {.page-break-before}
 
@@ -95,7 +95,7 @@ A Fewest Moves Simultaneous Competition is a competition taking place in differe
 
 There are differences in the [Competition Requirements Policy](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Requirements.pdf) which apply to Fewest Moves Simultaneous Competitions. These competitions can be held as long as:
 
-- None of the locations are closer than 100 kilometers to a regular competition.
+- None of the locations are closer than 10 kilometers to a regular competition.
 - There can be made exceptions if both competitions are least 5 days apart, or the other competition must not have 3x3x3 Fewest Moves as an event.
 
 Keep these points in mind when requesting a Fewest Moves Simultaneous Competition. The points listed either supersede the listed point for regular competitions or are additions to the regular competition form.
