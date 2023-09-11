@@ -335,26 +335,30 @@ It is important to handle these requests as expeditiously as you can. You may ei
 
 ## Acquiring competition equipment
 
-_(updated on February 23, 2020)_
+_(updated on September 11, 2023)_
 
-The WCA has negotiated discounted prices for competition equipment from Speed Stacks. Here is the current price list:
+The WCA has negotiated discounted prices for competition equipment from Speed Stacks. All delegates (including Trainee Delegates) as well as [WCA-recognized Regional Organizations](https://www.worldcubeassociation.org/organizations), are permitted to place and receive equipment orders. Here is the current price list:
 
-- Tournament Display (includes cord and adapter): $81.31
-- StackMat G4 (timer, mat, bag): $21.68
-- G4 Timer only: $16.08
-- Mat only: $8.80
-- Extra data cord: $2.00
-- Extra AC Adapter: $2.00
+- Tournament Display (includes stand, cord, and AC adapter): $90.00
+- StackMat G5 (timer, mat, bag): $24.50
+- G5 Timer Only: $18.00
+- G5 Mat Only: $8.80
+- Extra Data Cord: $3.00
+- Extra AC Adapter: $3.00
 
 Prices do not include taxes and shipping, which would add somewhere around $15-30 per box (their largest box fits 5 display sets).
 
-Speed Stacks ships only within the US. We are able to directly ship international orders, but they will incur additional shipping costs.
+Speed Stacks ships only within the US and Canada. Delegates in other countries can use a third-party mail forwarding service to send the equipment to their country. If you need the invoice for customs purposes, please let WMT know and one will be provided.
 
-To place an order, submit the [application](https://docs.google.com/forms/d/e/1FAIpQLSfyOMy9TtOIeIz7N8_4hPXNA6ScKVIzi11BmLWVx0-ovQnsWQ/viewform?usp=sf_link) with the equipment you want and the shipping address you want it sent to. A member of the WCA Marketing Team will make the order and let you know the final cost of the order after it goes through at Speed Stacks. You will receive an invoice from the WFC, which you can pay via Stripe, PayPal, or bank transfer.
+To place an order, submit the [application](https://docs.google.com/forms/d/e/1FAIpQLSc594bJA55CahKr7F8P-oHK44tn0cZ9NBZst0H5udwKnmh9Og/viewform) with the equipment you want, the shipping address you want it sent to, and the person or organization who will be invoiced for the equipment. After placing the order, a member of the WCA Marketing Team will contact you to confirm the order contents and the recipient's mailing address, and then place the order with Speed Stacks on your behalf. Once the order ships, You will receive an invoice from the WFC, which you can pay via Stripe, PayPal, or bank transfer.
+
+Once you receive your equipment, and before using it in a competition, you should check that everything is in working order. If there are any issues, respond in the email thread with WMT. Once equiment has been used in a competition, it is harder to get a replacement.
+
+Finally, respond to the email thread with WMT to confirm that you have received the equipment and that everything is in working order, so that they can close out your order.
 
 ## Recommending a Delegate
 
-_(updated on January 30, 2020)_
+_(updated on September 11, 2023)_
 
 For becoming a WCA Delegate, the following steps should be taken:
 
