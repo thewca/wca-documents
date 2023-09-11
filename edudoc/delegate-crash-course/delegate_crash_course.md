@@ -369,6 +369,33 @@ For becoming a WCA Delegate, the following steps should be taken:
   - The new Junior Delegate has to fill up their Delegate details in [their profile](https://www.worldcubeassociation.org/profile/edit).
 - After all the above steps are taken, we officially have a new Junior Delegate!
 
+## Business Cards
+
+_(updated on September 8, 2023)_
+
+Delegates are the face of the WCA, and are the staff members whom most members of the public will interact with. A WCA Delegate often needs to introduce themselves to new people both inside and outside of a competition, and it is useful to have business cards to hand out. The WCA has a business card template that Delegates can use to print their own business cards, and includes a QR code that links to a LinkTree page with various WCA resources.
+
+The templates are designed for use with VistaPrint, which is available in the US, Canada, and many countries in Europe. If you are in a country where VistaPrint is not available, you can use the template to create your own business cards with a local printing service.
+
+The following are steps to create a business card using VistaPrint. Screenshots of each step are available [here](https://imgur.com/a/i28RZmo).
+
+1. Download the business card assets from the [WMT Google Drive](https://drive.google.com/drive/folders/1QG4Zg5vGTzxzwMxEkLmFvtM0iV_KhIC1). _Note: only staff members with a WCA email address can access this link._
+1. Go to [https://www.vistaprint.com/business-cards](https://www.vistaprint.com/business-cards)
+1. Go to "Upload Design", choose "Standard Horizontal" for style, and upload "wcaCardBackground.png"
+1. Click "Make more edits" on the bottom
+1. Using the font Catamaran and the reference images as a guide, position four text boxes with the following text:
+
+   World Cube Association _(Size 8, Bolded)_  
+   [Delegate Name] _(Size 11, Bolded)_  
+   Junior/Full Delegate _(Size 8, Not Bolded)_  
+   [Delegate's WCA Email] _(Size 8, Not Bolded)_
+
+   If the font Catamaran does not support your language, you can use a different font. The font should be sans-serif and legible. Contact WMT if you need assistance choosing an appropriate font.
+
+1. Add "wcaLogo.png" as an image and position it using the reference image as a guide
+1. Add local/regional information on the back (optional)
+1. Once purchased, this cost can be reimbursed using competition funds
+
 ## Important Links
 
 _(updated on May 19, 2021)_
