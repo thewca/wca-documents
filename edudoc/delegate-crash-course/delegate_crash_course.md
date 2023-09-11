@@ -358,16 +358,13 @@ _(updated on January 30, 2020)_
 
 For becoming a WCA Delegate, the following steps should be taken:
 
-- Recommend a person to the Senior Delegate with a reason why this person should be a Delegate and why the region the person is located needs a Delegate
-- If the Senior Delegate agrees, then the Senior Delegate will fill out the application form.
-- If the Board agrees, then the following steps should be taken:
-  - The WCA Executive Assistants Team will create a G Suite account for the new Junior Delegate
-  - The Junior Delegate needs to create a WCA user account, link it to their WCA profile, and upload a nice photo of themself
-  - The Senior Delegate will update the Junior Delegate's status on the website
-  - The Junior Delegate must agree to the Code of Ethics and disclose any potential conflicts of interest
-  - The Junior Delegate needs to send a short self-introduction to the Board (and the Delegates group if they want to)
-  - The new Junior Delegate has to fill up their Delegate details in [their profile](https://www.worldcubeassociation.org/profile/edit).
-- After all the above steps are taken, we officially have a new Junior Delegate!
+1. Recommend a person to your Senior and Regional Delegate with a reason why this person should be a Delegate and why the region needs a Delegate
+1. If the Senior Delegate and Regional Delegate agree, then the Senior Delegate will fill out the application form and submit it to the WCA Board
+1. If the Board approves the application, the Senior Delegate will have the new Trainee Delegate agree to and sign the [Code of Conduct](https://www.worldcubeassociation.org/documents/Code%20of%20Conduct.pdf) and [Code of Ethics](https://www.worldcubeassociation.org/documents/Code%20of%20Ethics.pdf), as well as disclose any potential conflicts of interest
+1. The Senior Delegate will then update the new Trainee Delegate's status on the WCA website
+1. The Trainee Delegate must then send a short introduction email to the Board (and their regional delegate mailing list if they want to)
+
+After all the above steps are taken, we officially have a new Trainee Delegate!
 
 ## Business Cards
 
