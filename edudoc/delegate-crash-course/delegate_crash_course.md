@@ -360,15 +360,16 @@ Finally, respond to the email thread with WMT to confirm that you have received 
 
 _(updated on September 11, 2023)_
 
-For becoming a WCA Delegate, the following steps should be taken:
+The following steps should be completed to appoint a new WCA Delegate:
 
-1. Recommend a person to your Senior and Regional Delegate with a reason why this person should be a Delegate and why the region needs a Delegate
+1. Recommend a person to your Senior and Regional Delegate with a reason for why this person should be a Delegate and why the region needs a Delegate
 1. If the Senior Delegate and Regional Delegate agree, then the Senior Delegate will fill out the application form and submit it to the WCA Board
 1. If the Board approves the application, the Senior Delegate will have the new Trainee Delegate agree to and sign the [Code of Conduct](https://www.worldcubeassociation.org/documents/Code%20of%20Conduct.pdf) and [Code of Ethics](https://www.worldcubeassociation.org/documents/Code%20of%20Ethics.pdf), as well as disclose any potential conflicts of interest
+1. The Trainee Delegate must add a profile picture to their WCA account, if they do not already have one
 1. The Senior Delegate will then update the new Trainee Delegate's status on the WCA website
 1. The Trainee Delegate must then send a short introduction email to the Board (and their regional delegate mailing list if they want to)
 
-After all the above steps are taken, we officially have a new Trainee Delegate!
+After all the above steps are completed, the new Trainee Delegate can begin their duties!
 
 ## Business Cards
 
