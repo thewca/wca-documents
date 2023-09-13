@@ -58,14 +58,14 @@ _(added on Sep. 20, 2016)_
 
 ## Requesting a competition
 
-_(updated on January 2, 2019)_
+_(updated on September 11, 2023)_
 
 To request an official competition you first need to create a new competition by going to the “[New Competition](https://www.worldcubeassociation.org/competitions/new)” page. This provides a form with all the necessary information to submit a competition. To speed up this process, you have the option to clone an existing competition; this is useful for you, in case a lot of the information from that competition is reusable. Cloning can be done by going to the page of the desired competition and pressing the “Clone” button on the left sidebar.
 
 ### Some general rules about requesting a competition:
 
 - The competition must be announced **at least 28 days** before the scheduled start of the competition. You should **submit the competition earlier than this** as a safety measure so that if there is an issue with the competition, then the competition will likely still be announced before the 28-day deadline.
-- The competition must comply with the [Competition Requirements Policy](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Requirements.pdf). This means your competition should be at least 100 kilometers or 19 days away from all other competitions. There can be exceptions made to the Proximity Policy if the Delegate has valid arguments. Examples can be found in the policy.
+- The competition must comply with the [Competition Requirements Policy](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Requirements.pdf). This means your competition should be at least 10 kilometers and 5 days away from all other competitions. There can be exceptions made to the Proximity Policy if the Delegate has valid arguments. Examples can be found in the policy.
 
 ### How to fill out the new competition page: {.page-break-before}
 
@@ -95,7 +95,7 @@ A Fewest Moves Simultaneous Competition is a competition taking place in differe
 
 There are differences in the [Competition Requirements Policy](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Requirements.pdf) which apply to Fewest Moves Simultaneous Competitions. These competitions can be held as long as:
 
-- None of the locations are closer than 100 kilometers to a regular competition.
+- None of the locations are closer than 10 kilometers to a regular competition.
 - There can be made exceptions if both competitions are least 5 days apart, or the other competition must not have 3x3x3 Fewest Moves as an event.
 
 Keep these points in mind when requesting a Fewest Moves Simultaneous Competition. The points listed either supersede the listed point for regular competitions or are additions to the regular competition form.
@@ -335,39 +335,41 @@ It is important to handle these requests as expeditiously as you can. You may ei
 
 ## Acquiring competition equipment
 
-_(updated on February 23, 2020)_
+_(updated on September 11, 2023)_
 
-The WCA has negotiated discounted prices for competition equipment from Speed Stacks. Here is the current price list:
+The WCA has negotiated discounted prices for competition equipment from Speed Stacks. All delegates (including Trainee Delegates) as well as [WCA-recognized Regional Organizations](https://www.worldcubeassociation.org/organizations), are permitted to place and receive equipment orders. Here is the current price list:
 
-- Tournament Display (includes cord and adapter): $81.31
-- StackMat G4 (timer, mat, bag): $21.68
-- G4 Timer only: $16.08
-- Mat only: $8.80
-- Extra data cord: $2.00
-- Extra AC Adapter: $2.00
+- Tournament Display (includes stand, cord, and AC adapter): $90.00
+- StackMat G5 (timer, mat, bag): $24.50
+- G5 Timer Only: $18.00
+- G5 Mat Only: $8.80
+- Extra Data Cord: $3.00
+- Extra AC Adapter: $3.00
 
 Prices do not include taxes and shipping, which would add somewhere around $15-30 per box (their largest box fits 5 display sets).
 
-Speed Stacks ships only within the US. We are able to directly ship international orders, but they will incur additional shipping costs.
+Speed Stacks ships only within the US and Canada. Delegates in other countries can use a third-party mail forwarding service to send the equipment to their country. If you need the invoice for customs purposes, please let WMT know and one will be provided.
 
-To place an order, submit the [application](https://docs.google.com/forms/d/e/1FAIpQLSfyOMy9TtOIeIz7N8_4hPXNA6ScKVIzi11BmLWVx0-ovQnsWQ/viewform?usp=sf_link) with the equipment you want and the shipping address you want it sent to. A member of the WCA Marketing Team will make the order and let you know the final cost of the order after it goes through at Speed Stacks. You will receive an invoice from the WFC, which you can pay via Stripe, PayPal, or bank transfer.
+To place an order, submit the [application](https://docs.google.com/forms/d/e/1FAIpQLSc594bJA55CahKr7F8P-oHK44tn0cZ9NBZst0H5udwKnmh9Og/viewform) with the equipment you want, the shipping address you want it sent to, and the person or organization who will be invoiced for the equipment. After placing the order, a member of the WCA Marketing Team will contact you to confirm the order contents and the recipient's mailing address, and then place the order with Speed Stacks on your behalf. Once the order ships, You will receive an invoice from the WFC, which you can pay via Stripe, PayPal, or bank transfer.
+
+Once you receive your equipment, and before using it in a competition, you should check that everything is in working order. If there are any issues, respond in the email thread with WMT. Once equiment has been used in a competition, it is harder to get a replacement.
+
+Finally, respond to the email thread with WMT to confirm that you have received the equipment and that everything is in working order, so that they can close out your order.
 
 ## Recommending a Delegate
 
-_(updated on January 30, 2020)_
+_(updated on September 11, 2023)_
 
-For becoming a WCA Delegate, the following steps should be taken:
+The following steps should be completed to appoint a new WCA Delegate:
 
-- Recommend a person to the Senior Delegate with a reason why this person should be a Delegate and why the region the person is located needs a Delegate
-- If the Senior Delegate agrees, then the Senior Delegate will fill out the application form.
-- If the Board agrees, then the following steps should be taken:
-  - The WCA Executive Assistants Team will create a G Suite account for the new Junior Delegate
-  - The Junior Delegate needs to create a WCA user account, link it to their WCA profile, and upload a nice photo of themself
-  - The Senior Delegate will update the Junior Delegate's status on the website
-  - The Junior Delegate must agree to the Code of Ethics and disclose any potential conflicts of interest
-  - The Junior Delegate needs to send a short self-introduction to the Board (and the Delegates group if they want to)
-  - The new Junior Delegate has to fill up their Delegate details in [their profile](https://www.worldcubeassociation.org/profile/edit).
-- After all the above steps are taken, we officially have a new Junior Delegate!
+1. Recommend a person to your Senior and Regional Delegate with a reason for why this person should be a Delegate and why the region needs a Delegate
+1. If the Senior Delegate and Regional Delegate agree, then the Senior Delegate will fill out the application form and submit it to the WCA Board
+1. If the Board approves the application, the Senior Delegate will have the new Trainee Delegate agree to and sign the [Code of Conduct](https://www.worldcubeassociation.org/documents/Code%20of%20Conduct.pdf) and [Code of Ethics](https://www.worldcubeassociation.org/documents/Code%20of%20Ethics.pdf), as well as disclose any potential conflicts of interest
+1. The Trainee Delegate must add a profile picture to their WCA account, if they do not already have one
+1. The Senior Delegate will then update the new Trainee Delegate's status on the WCA website
+1. The Trainee Delegate must then send a short introduction email to the Board (and their regional delegate mailing list if they want to)
+
+After all the above steps are completed, the new Trainee Delegate can begin their duties!
 
 ## Business Cards
 
