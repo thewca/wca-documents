@@ -59,13 +59,10 @@ The WCA Disciplinary Committee (WDC) is entitled to apply bans and other discipl
 * If an organizer has done something outside of the scope of the Code of Conduct that you feel could be problematic, then it is up to discretion of the Delegate to work with that organizer or not. For example, if an organizer has made racist comments on a non-WCA online forum, then the Delegate can choose to not work with that organizer. 
 * Carefully keep track of competition budgets and actual expenditures that take place, documenting expenditures with receipts when possible. If you believe that an organizer or legal entity is retaining leftover money from competitions for personal gain then please contact the WDC.
 
-# WCA Staff Members
+# WCA Staff Members {.page-break-before}
 
 * Like any other competitors, report any violations of the Code of Conduct of WCA Staff to the WDC. Be sure to also use ‘CC’ to include the WCA Ethics Committee (WEC) in your email.
 * If you need to report a violation of the Code of Conduct or Code of Ethics of a Staff member who is a member of the WDC or the WEC, then please report this behavior in one of the following ways:
-
-# {.page-break-before}
-
   * Contact the Leader and/or Senior members of the Committee usually responsible for handling the infraction.
     * E.g. If a WDC member has violated the Code of Conduct, then contact the WDC leader and/or senior members of the WDC.
   * Contact the WDC if a WEC member has committed a violation of the Code of Ethics.
@@ -82,11 +79,10 @@ The WCA Disciplinary Committee (WDC) is entitled to apply bans and other discipl
 # Incidents Outside the Scope of the Code of Conduct
 The Code of Conduct is limited in scope to WCA Competitions and online on official WCA platforms. As a result, the WDC cannot take any action in response to incidents that happen outside of this scope. If concerning behavior happens outside of this scope, below are some recommendations.
 * Contact authority figures that may be able to resolve the situation, such as parents, school administrators, or moderators of a social media group.
-* If the situation is serious enough (e.g. physical threats, bullying, abusive behavior, sexual harassment) then contact local law enforcement.
-* If you feel it is necessary, communicate with the individual about their behavior and contact the WDC, keeping in mind that the WDC may not be able to apply sanctions. In your communications make it clear that you are contacting them as a concerned individual and not a representative of the WCA. For example, do not threaten disciplinary action from the WCA, such as removal from competitions.
-
 # {.page-break-before}
 
+* If the situation is serious enough (e.g. physical threats, bullying, abusive behavior, sexual harassment) then contact local law enforcement.
+* If you feel it is necessary, communicate with the individual about their behavior and contact the WDC, keeping in mind that the WDC may not be able to apply sanctions. In your communications make it clear that you are contacting them as a concerned individual and not a representative of the WCA. For example, do not threaten disciplinary action from the WCA, such as removal from competitions.
   * If harassment/bullying is occurring online, advise the competitor to block the perpetrator(s).
 
 # Managing Difficult Situations
