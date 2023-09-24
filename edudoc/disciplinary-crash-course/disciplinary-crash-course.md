@@ -1,4 +1,4 @@
-# Guidelines for Addressing Behavioral Problems and Cheating
+# Guidelines for Disciplinary Incidents
 
 ## Disciplinary
 
