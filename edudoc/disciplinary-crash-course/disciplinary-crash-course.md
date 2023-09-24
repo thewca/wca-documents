@@ -1,4 +1,4 @@
-# WCA Disciplinary Crash Course
+# Guidelines for Addressing Behavioral Problems and Cheating
 
 ## Disciplinary
 
@@ -48,6 +48,7 @@ The WCA Disciplinary Committee (WDC) is entitled to apply bans and other discipl
 * Contact local law enforcement immediately if there is extreme behavior that may threaten competitor safety. Once the immediate concerns of safety have been addressed, contact the WDC to report the details of what happened.
 
 ## Online Interactions (WCA Forum/Official WCA Platforms)
+The Code of Conduct is limited in scope to WCA Competitions and online on official WCA platforms. As a result, the WDC cannot take any action in response to online incidents that happen outside of official WCA platforms.
 
 * If competitors/parents/others are being impolite or inappropriate in their online interactions related to competitions, then please do your best to respectfully handle the situation (please keep in mind that you are a representative of the WCA). You may reach out to the WDC for advice on how to best handle the situation if the problem persists or you are unsure of how to proceed.
 * If you feel a person may engage in disruptive actions or pose a threat to the safety or well-being or anyone during a WCA-sanctioned competition based on their online behavior, then please contact the WDC.
