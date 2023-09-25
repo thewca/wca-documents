@@ -1,7 +1,5 @@
 # Guidelines for Disciplinary Incidents
 
-## Disciplinary
-
 The WCA Disciplinary Committee (WDC) is entitled to apply bans and other disciplinary action as a result of violation of the [WCA Code of Conduct](https://www.worldcubeassociation.org/documents/Code%20of%20Conduct.pdf), based on the motion [Suspensions and other Sanctions](https://www.worldcubeassociation.org/documents/motions/15.2022.1%20-%20Suspensions%20and%20other%20Sanctions.pdf). However, the Committee is not able to handle difficult situations quickly during a competition, especially if communication with multiple involved parties is required. Cooperation with competition Delegates is often necessary. This document contains a collection of guidelines to instruct new Delegates on how to handle common disciplinary incidents, what disciplinary measures they can take, and what they should report to the WDC.
 
 ## Disciplinary Log and Banned Competitors
@@ -17,9 +15,6 @@ The WCA Disciplinary Committee (WDC) is entitled to apply bans and other discipl
 * If any extraordinary cases occur, please describe them in the Delegate Report.
   * Please be aware the WDC will likely contact you for further information regarding the case.
   * If an incident is discovered after the competition, this should be added to the Delegate Report, or emailed to the Delegate Report thread.
-
-## {.page-break-before}
-
   * If the case contains information of a sensitive or private nature, it is acceptable to exclude these details from the Delegate Report. However, it is important that the WDC is contacted directly with these details.
 * Please contact the WDC (tagging in the Delegate Report or directly):
   * If the conflict cannot be resolved locally.
