@@ -15,7 +15,7 @@ Although a Trainee Delegate has the same responsibilities as a Junior or Full De
 - Trainee Delegates cannot post delegate reports or submit results, but are still allowed to write reports and compile results for another Delegate to submit
 - Trainee Delegates cannot delegate a competition without the supervision of a Junior or Full Delegate, except under emergency circumstances which must be approved by the WCA Board
 - Trainee Delegates do not have a WCA email address, nor access to internal resources such as the WCA Google Drive
-- Trainee Delegates do not have access to the Panel or Poll areas of the WCA website
+- Trainee Delegates do not have access to the Poll area of the WCA website
 
 ### The roles of a WCA Delegate include, but not limited to:
 
