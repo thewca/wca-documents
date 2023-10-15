@@ -253,23 +253,29 @@ Here is an example of a proper change request corresponding to the list above:
 
 ## Requesting changes to person data
 
-_(updated on January 26, 2019)_
+_(updated on October 15, 2023)_
 
-There are several cases for change requests concerning person data. The Results Team has different requisites depending on different circumstances.
+There are several cases for change requests concerning person data (which involves name, gender, date of birth and citizenship of a competitor). The Results Team has different requirements depending on different circumstances.
 
-There are 2 types of data changes: a fix and an update.
+There are two different types of data changes:
 
-- **Fix**: A correction of incorrect data. These are applied for all the records for the Person, from the very first to the more recent results.
-- **Update**: A change in data where the previous version is still valid in the past. These do not affect old records, and only change per the future. This is what creates a dual profile as seen [here](https://www.worldcubeassociation.org/persons/1982FRID01).
+1. **Fix**: A fix changes a person's data for all past and future competitions and is not visible on a competitor’s profile. This form of data change is commonly applied for:
+- Correction of previously incorrect data.
+- Minor nickname changes (e.g. removal/addition of middle names, changing a legal first name to a reasonable nickname, …)
+- Changes of sensitive nature where displaying the previous data is understandably not desirable (e.g. name/gender changes related to gender identity)
+
+2. **Update**: An update internally creates a new sub-profile, so that the previous data remains unchanged for all past competitions and is also shown on the competitor’s profile. One famous example of this can be found [here](https://www.worldcubeassociation.org/persons/1982FRID01). This form of data change is commonly applied for:
+- Changes of citizenship
+- Major name changes of non-sensitive nature (e.g. last name changes due to marriage)
 
 Changes in a competitor’s information can be requested directly by the competitor or through the WCA Delegate. If the competitor contacts the Results Team directly, a legal document of identification must be provided. If the Delegate is making the request, the Delegate must verify the competitor is the correct person and that the information provided is correct (e.g. dates of birth, last names) or at least sensible (e.g. first name or gender changes). Moreover:
 
 - Date of birth fixes can be requested by the competitor through the [Birthday Change Request Form](https://www.worldcubeassociation.org/contact/dob).
-- Name changes: be sure to request the correct type (fix or update) as per the description above.
-- Changes in gender: the Results Team is more lenient with these and only requires proof of identity. Note: As gender changes are mostly sensitive, the Results Team executes such changes (that are technically updates) as fixes.
-- All changes should be sent to the Results Team with the **WCA-ID, old data, and new data**.
+- Name changes: be sure to request the correct type (*fix* or *update*) as per the description above.
+- Changes in gender: the Results Team is more lenient with these and only requires proof of identity. Note: As described earlier, since gender changes are mostly sensitive, the Results Team executes such changes (that are technically updates) as fixes.
+- All changes sent to the Results Team must at least include **WCA-ID, old data, and new data** and should also contain a concise explanation of the circumstances of the request (if not obvious).
 
-Changes requests in country are particularly delicate as they affects rankings and possibly records. Therefore, such requests must include the following:
+Changes in citizenship are particularly delicate as they affect rankings, and possibly records. Therefore, such requests must include the following:
 
 - Documentation of the old nationality (if available)
 - Documentation of the new nationality
