@@ -23,7 +23,7 @@ The purpose of this policy is to provide guidelines for the formation and operat
    2. The leader should determine the most appropriate membership for the specific working group.  The leader should consider if there should be representation from particular WCA teams or committees or if membership should be open to all WCA staff.
    3. Priority may be given to individuals with relevant expertise or experience. 
 6. Diversity and Inclusion
-   1. The WCA is committed to fostering a diverse and inclusive environment. When forming working groups, efforts should be made to ensure representation from individuals from diverse backgrounds, with a wide range perspectives, and experiences. This includes but is not limited to factors such as race, ethnicity, gender, age, sexual orientation, abilities, and socio-economic status. 
+   1. The WCA is committed to fostering a diverse and inclusive environment. When forming working groups, efforts should be made to ensure representation from individuals from diverse backgrounds, with a wide range of perspectives, and experiences. This includes but is not limited to factors such as race, ethnicity, gender, age, sexual orientation, abilities, and socio-economic status. 
 7. Responsibilities of Working Group Members
    1. Members are expected to actively participate in meetings, contribute ideas and insights, and complete assigned tasks in a timely manner.
    2. Members should communicate regularly with the working group leader and fellow members to ensure progress and address any challenges.
