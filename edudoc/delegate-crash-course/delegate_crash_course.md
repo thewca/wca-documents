@@ -261,12 +261,12 @@ There are two different types of data changes:
 
 1. **Fix**: A fix changes a person's data for all past and future competitions and is not visible on a competitor’s profile. This form of data change is commonly applied for:
 - Correction of previously incorrect data.
-- Minor nickname changes (e.g. removal/addition of middle names, changing a legal first name to a reasonable nickname, …)
-- Changes of sensitive nature where displaying the previous data is understandably not desirable (e.g. name/gender changes related to gender identity)
+- Minor nickname changes (e.g. removal/addition of middle names, changing a legal first name to a reasonable nickname, etc.)
+- Changes of a sensitive nature where displaying the previous data is understandably not desirable (e.g. name/gender changes related to gender identity)
 
 2. **Update**: An update internally creates a new sub-profile, so that the previous data remains unchanged for all past competitions and is also shown on the competitor’s profile. One famous example of this can be found [here](https://www.worldcubeassociation.org/persons/1982FRID01). This form of data change is commonly applied for:
 - Changes of citizenship
-- Major name changes of non-sensitive nature (e.g. last name changes due to marriage)
+- Major name changes of a non-sensitive nature (e.g. last name changes due to marriage)
 
 Changes in a competitor’s information can be requested directly by the competitor or through the WCA Delegate. If the competitor contacts the Results Team directly, a legal document of identification must be provided. If the Delegate is making the request, the Delegate must verify the competitor is the correct person and that the information provided is correct (e.g. dates of birth, last names) or at least sensible (e.g. first name or gender changes). Moreover:
 
