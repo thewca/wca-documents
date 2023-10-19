@@ -28,7 +28,7 @@ The purpose of this policy is to provide guidelines for the formation and operat
    1. Members are expected to actively participate in meetings, contribute ideas and insights, and complete assigned tasks in a timely manner.
    2. Members should communicate regularly with the working group leader and fellow members to ensure progress and address any challenges.
 8. Terms of Reference 
-   1. The working group must have a Terms of Reference (ToR) that is shared with the Board of Directors. The ToR is a crucial document that outlines the purpose, scope, and responsibilities of a working group. An example template can be found here.
+   1. The working group must have a Terms of Reference (ToR) that is shared with the Board of Directors. The ToR is a crucial document that outlines the purpose, scope, and responsibilities of a working group. An example template can be found [here](https://docs.google.com/document/d/1du0LKmBeJlBNbzRjCoqmfEI5ILDNQ6FJYT9eowGLZGM/edit).
 9. Duration
    1. Working groups will have a defined term, typically not exceeding 12 months.
    2. At the end of the term, the working group's progress and contributions will be evaluated, and a decision will be made regarding its continuation, modification, or dissolution.
