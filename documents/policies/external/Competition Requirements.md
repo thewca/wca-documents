@@ -172,7 +172,7 @@ The WCA Delegate must submit the following information when requesting approval 
          1. Exception: Two competitions may have the same Championship status if one of the competitions has only 3x3x3 Fewest Moves as an event and the other competition does not hold the event 3x3x3 Fewest Moves. The two competitions must be held in the same calendar year.
       4. An additional selection process is conducted by the WCA Board for organizing Continental and World Championships.
    2. Naming
-      1. Continental and World Championships names shall be as agreed between the Organizing team and the WCA Board.
+      1. Continental and World Championships names must begin with "WCA".
       2. If used, the word "Championship" must be singular in the competition name.
       3. Competitions which are not National, Continental, or World championships should avoid names that are similar to championship names.
    3. Date(s)
