@@ -10,7 +10,7 @@ The purpose of this policy is to provide guidelines for the formation and operat
    1. A working group is a temporary team of WCA Staff and/or community members established to address a specific project or area of interest within the organization. Working groups are tasked with generating ideas, providing recommendations, and executing initiatives related to their assigned focus area
 2. Formation
    1. Working groups may be proposed by any WCA Staff member.
-   2. The Working group must be sponsored by a team leader, a Senior Delegate or an Officer.
+   2. The Working group must be sponsored by a team leader, a Senior Delegate, a Director or an Officer.
    3.  Proposals for working groups should be submitted in writing to the Board of Directors for review and approval.
 3. Approval Process
    1. The Board of Directors will review proposed working groups and assess their alignment with the organization's mission, goals, and available resources.
