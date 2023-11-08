@@ -77,7 +77,7 @@ Here you can find the following printable templates that can be used for WCA com
 
 8. The Multi-Blind cube outlines file has multiple pages, each of them with numbered spots for 14 cubes (two TNoodle scramble sets). The first page is for scrambles 1-14, the second is for 15-28, and so on, all the way up to scramble 84. You can print out as many of these as you require for your competition. Consider how many scramblers you will have, and how many cubes your competitors will be attempting. You can continue reusing these sheets for future competitions so as not to waste paper.
 
-When scrambling a Multi-Blind attempt, place each cube on the number of the scramble that was applied to it. Also make sure you never have two people scrambling cubes using the same sheet (remember that one of these sheets corresponds to two TNoodle scramble sheets, since those have 7 scrambles per page). All of this greatly reduces the risk of applying the same scramble twice, which could result in the competitor receiving an extra, which is a big hindrance to the flow of a competition.
+When scrambling a Multi-Blind attempt, place each cube on the number of the scramble that was applied to it. Also make sure you never have two people scrambling cubes using the same cube outlines sheet (remember that one of these sheets corresponds to two TNoodle scramble sheets, since those have 7 scrambles per page). All of this greatly reduces the risk of applying the same scramble twice, which could result in the competitor receiving an extra, which is a big hindrance to the flow of a competition.
 
 ::::: {.box .warning}
 [Link to the templates folder](https://drive.google.com/drive/folders/1EVqEWSqruZ8_vEJpUmqhFUqaikzgUkkP?usp=sharing)
