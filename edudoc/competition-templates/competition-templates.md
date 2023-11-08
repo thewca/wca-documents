@@ -7,12 +7,12 @@ DO NOT use any templates before reading this entire document!
 Here you can find the following printable templates that can be used for WCA competitions:
 
 - Cube covers and Clock covers, both stackable
-- 3D-printable cover designs for Square-1, Clock and Skewb puzzles
+- 3D-printable cover designs for Square-1, Clock, and Skewb puzzles
 - Results boxes for scorecards: one that can be put on a table and another that can be hung on a wall
 - Square-1 inserts (21 per page)
 - Competitor guide infographic with illustrations of the most important rules
 - Multi-Blind scrambling infographic, with illustrations that show best practices
-- Sheet with cube outlines for tracking Multi-Blind scrambles (14 cubes per page)
+- Sheets with cube outlines for tracking Multi-Blind scrambles (14 cubes per page)
 
 ![](images/results_boxes_and_cube_cover.jpg){.centered width=600px}
 
@@ -23,7 +23,7 @@ Here you can find the following printable templates that can be used for WCA com
 
 ![](images/paper_clock_covers.jpg){.centered width=450px}
 
-3. If you are making **custom Clock covers**, you will need to copy your finished design to a new A4-sized document (210\*297mm / 8.27\*11.69in), rotate the whole design 12 degrees counterclockwise and save the file as PDF. If you are printing them on a regular office printer that can’t print all the way to the edges, try selecting the setting “fit to printable area”.
+3. If you are making **custom Clock covers**, you will need to copy your finished design to a new A4-sized document (210\*297mm / 8.27\*11.69in), rotate the whole design 12 degrees counterclockwise and save the file as `.pdf`. If you are printing them on a regular office printer that can’t print all the way to the edges, try selecting the setting “fit to printable area”.
 
 ![](images/clock_in_3d_cover.jpg){.centered width=450px}
 
@@ -58,10 +58,10 @@ Here you can find the following printable templates that can be used for WCA com
 \* Thicker is better.<br/>
 \*\* Clock covers are printed on standard printing paper used for regular BW office printers. 80 gsm is the best option.
 
-| Template               | Resolution |  Infill  |  Filament  | Rafts | Supports |
-| ---------------------- | :--------: | :------: | :--------: | :---: | :------: |
-| 3D multipurpose cover  | 0.2-0.3mm  |   15%    | PLA / PETG | None  |   None   |
-| 3D Clock cover         |   0.4mm    | 15% \* | PLA / PETG | None  |   None   |
+| Template              | Resolution | Infill |  Filament  | Supports |
+| --------------------- | :--------: | :----: | :--------: | :------: |
+| 3D multipurpose cover | 0.2-0.3mm  |  15%   | PLA / PETG |   None   |
+| 3D Clock cover        |   0.4mm    | 15% \* | PLA / PETG |   None   |
 
 \* If needed.
 
@@ -77,7 +77,7 @@ Here you can find the following printable templates that can be used for WCA com
 
 8. The Multi-Blind cube outlines file has multiple pages, each of them with numbered spots for 14 cubes (two TNoodle scramble sets). The first page is for scrambles 1-14, the second is for 15-28, and so on, all the way up to scramble 84. You can print out as many of these as you require for your competition. Consider how many scramblers you will have, and how many cubes your competitors will be attempting. You can continue reusing these sheets for future competitions so as not to waste paper.
 
-When scrambling a Multi-Blind attempt, place each cube on the number of the scramble that was applied to it. Also make sure you never have two people scrambling cubes using the same sheet (remember that one of these sheets always corresponds to two TNoodle scramble sheets, since those have 7 scrambles per page). All of this greatly reduces the risk of applying the same scramble twice, which could result in the competitor receiving an extra, which is a big hindrance to the flow of a competition.
+When scrambling a Multi-Blind attempt, place each cube on the number of the scramble that was applied to it. Also make sure you never have two people scrambling cubes using the same sheet (remember that one of these sheets corresponds to two TNoodle scramble sheets, since those have 7 scrambles per page). All of this greatly reduces the risk of applying the same scramble twice, which could result in the competitor receiving an extra, which is a big hindrance to the flow of a competition.
 
 ::::: {.box .warning}
 [Link to the templates folder](https://drive.google.com/drive/folders/1EVqEWSqruZ8_vEJpUmqhFUqaikzgUkkP?usp=sharing)
@@ -88,7 +88,7 @@ Please only share the link to THIS page and not the direct link to the folder.
 ## Credits{.page-break-before}
 
 Paper/card templates - Deni Mintsaev<br/>
-3D multipurpose cover - Brendan Bakker, Patrick Dwyer, YouBeen Lee (이유빈) and KCCU<br/>
+3D multipurpose cover - Brendan Bakker, Patrick Dwyer, YouBeen Lee (이유빈), and KCCU<br/>
 3D Clock cover - Francisco Montañés Barbudo and Mitchell Lane<br/>
 Competitor guide and Multi-Blind scrambling guide illustrations - Tom Nelson<br/>
 Multi-Blind cube outlines sheet - Callum Goodyear
@@ -97,6 +97,6 @@ Multi-Blind cube outlines sheet - Callum Goodyear
 
 Below you can find translations of this document. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
 
-- [Polski (Polish)](https://www.worldcubeassociation.org/edudoc/competition-templates/competition-templates-pl.pdf) - translated by Stanislaw Ulbrych
+- [Polski (Polish)](https://www.worldcubeassociation.org/edudoc/competition-templates/competition-templates-pl.pdf) - translated by Stanislaw Ulbrych and Tomasz Stawowy
 - [Русский (Russian)](https://www.worldcubeassociation.org/edudoc/competition-templates/competition-templates-ru.pdf) - translated by Deni Mintsaev
 - [Español (Spanish)](https://www.worldcubeassociation.org/edudoc/competition-templates/competition-templates-es.pdf) - translated by Gennaro Monetti

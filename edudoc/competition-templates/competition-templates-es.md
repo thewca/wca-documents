@@ -15,7 +15,7 @@ Aquí podrás encontrar: plantillas imprimibles de tapacubos y coberturas para C
 
 ![](images/paper_clock_covers.jpg){.centered width=450px}
 
-3. Si estás haciendo **coberturas para Clock personalizadas**, necesitarás copiar tu diseño terminado a una hoja formato A4 (210\*297mm / 8.27\*11.69in), rotar todo el diseño 12 grados en sentido anti-horario y guardar el archivo como PDF. Si piensas utilizar una impresora doméstica que no puede imprimir hasta los bordes de la hoja, prueba a seleccionar la opción "ajustar al área imprimible" ("fit to printable area").
+3. Si estás haciendo **coberturas para Clock personalizadas**, necesitarás copiar tu diseño terminado a una hoja formato A4 (210\*297mm / 8.27\*11.69in), rotar todo el diseño 12 grados en sentido anti-horario y guardar el archivo como `.pdf`. Si piensas utilizar una impresora doméstica que no puede imprimir hasta los bordes de la hoja, prueba a seleccionar la opción "ajustar al área imprimible" ("fit to printable area").
 
 ![](images/clock_in_3d_cover.jpg){.centered width=450px}
 
@@ -49,11 +49,11 @@ Cobertura multipropósito 3D de Brendan
 \* Más grueso es mejor.<br/>
 \*\* Las coberturas para Clock se imprimen en el papel estándar que se utiliza en impresoras domésticas (blanco y negro). La mejor opción es el papel de 80 gsm.
 
-| Plantilla                           | Resolución |  Infill  | Filamento  |   Rafts    |  Soportes  |
-| ----------------------------------- | :--------: | :------: | :--------: | :--------: | :--------: |
-| Cobertura 3D multipropósito         | 0.2-0.3mm  |   15%    | PLA / PETG |  Ninguno   |  Ninguno   |
-| Cobertura 3D para Clock (Francisco) |   0.4mm    | 15% \*\* | PLA / PETG |  Ninguno   |  Ninguno   |
-| Cobertura 3D para Clock (Cady)      | 0.2-0.3mm  |   15%    |    PLA     | Cualquiera | Ninguno \* |
+| Plantilla                           | Resolución |  Infill  | Filamento  |  Soportes  |
+| ----------------------------------- | :--------: | :------: | :--------: | :--------: |
+| Cobertura 3D multipropósito         | 0.2-0.3mm  |   15%    | PLA / PETG |  Ninguno   |
+| Cobertura 3D para Clock (Francisco) |   0.4mm    | 15% \*\* | PLA / PETG |  Ninguno   |
+| Cobertura 3D para Clock (Cady)      | 0.2-0.3mm  |   15%    |    PLA     | Ninguno \* |
 
 \* No es necesario cuando se imprime en vertical.<br/>
 \*\* En caso de ser necesario.
