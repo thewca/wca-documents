@@ -71,13 +71,14 @@ Ask yourself: How will competitors get to the venue?
 Some questions to consider for the venue are:
 
 - Who is providing the chairs and tables? Do they have enough of them for the competition?
-- Is WiFi or reliable data connection available for score-taking?
+- Is Wi-Fi or a reliable cellular connection available for score-taking?
 - Are the power sockets in a good spot/if you will need an extension?
 - Does the venue have restrooms?
 - Does the venue have food or drink available nearby?
 - Who will cover cleaning? Is this included in the cost?
 - Is there a side room that can be used for simultaneous events or as an extra guest area?
-- White lighting/daylight and avoid venues with yellow-ish lighting.
+- Is the temperature inside the venue suitable (not too cold and not too hot)?
+- Prefer white lighting/daylight and avoid venues with yellow-ish lighting.
 
 ## What comes after?
 
