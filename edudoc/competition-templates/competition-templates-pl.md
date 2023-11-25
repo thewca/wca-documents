@@ -33,15 +33,13 @@ Pokrywka na Clocka wydrukowana w 3D
 
 ![](images/sq1_in_3d_cover.jpg){.centered width=450px}
 
-::::: {.text-center}
+::::: {.text-center .page-break-after}
 Wielofunkcyjna pokrywka wydrukowana w 3D
 :::::
 
 4. Istnieją dwa projekty pokrywek do wydrukowania w 3D: jeden dla Clocka i jeden, który pasuje do układanek Square-1, Clock i Skewb. Oba można układać w stos. Uniwersalna osłona pasuje do każdego Clocka o grubości <= 24 mm (0,94 cala) i dowolnego Square-1/Skewb <= 57 mm (2,24 cala) oraz zapobiega przypadkowej zmianie stanu układanki podczas transportu. Pokrywki drukowane w 3D są znacznie trwalsze i działają lepiej niż alternatywy z papieru/kartki, ale są trudniejsze i droższe w produkcji. Zalecamy wyszukanie usługi drukowania 3D w Twojej okolicy lub znalezienie entuzjasty druku 3D, który mógłby je dla Ciebie wydrukować.
 
-::::: {.page-break-before}
 5. Upewnij się, że wszystkie szablony zostały wydrukowane **WYŁĄCZNIE** zgodnie z następującymi specyfikacjami:
-:::::
 
 | Szablon                                   | Rozmiar papieru | Grubość papieru |  Rodzaj druku  |
 | ----------------------------------------- | :-------------: | :-------------- | :------------: |
@@ -73,7 +71,9 @@ Wielofunkcyjna pokrywka wydrukowana w 3D
 - Taśma dwustronna o szerokości do 1 cm (tylko do pudełek na wyniki i pokrywek na kostki)
 - Ostrze (nóż, nóż do tapet itp.) (tylko do pudełek na wyniki i pokrywek na kostki)
 
+::::: {.page-break-after}
 7. Na wszystkich szablonach z pokrywek na Clocka wykonaj wszystkie nacięcia po **WEWNĘTRZNEJ** stronie czarnych linii, tak aby po wykonaniu nacięć nie było widać czarnego koloru. Na pokrywce na Clocka nacięcia należy wykonać **PRZEZ** czarne linie.
+:::::
 
 8. Plik arkuszy z konturami kostek do Multi-Blind ma wiele stron, z których każda zawiera ponumerowane miejsca dla 14 kostek (dwie strony scrambli TNoodle). Pierwszy arkusz jest przeznaczona dla sekwencji mieszających 1-14, druga dla 15-28 i tak dalej, aż do sekwencji 84. Możesz wydrukować ich tyle, ile potrzebujesz na zawody. Weź pod uwagę, ilu będziesz mieć mieszaczy i ile kostek będą próbowali ułożyć twoi zawodnicy. Aby nie marnować papieru, możesz ponownie wykorzystać te arkusze w przyszłych zawodach.
 

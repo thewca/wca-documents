@@ -33,15 +33,13 @@ Cobertura 3D para Clock
 
 ![](images/sq1_in_3d_cover.jpg){.centered width=450px}
 
-::::: {.text-center}
+::::: {.text-center .page-break-after}
 Cobertura multipropósito 3D
 :::::
 
 4. Hay dos diseños de coberturas para imprimir en 3D: uno para Clock y otro que también sirve para Square-1 y Skewb (ambos son apilables). La cobertura multipropósito sirve para cualquier Clock con <= 24mm de grosor y cualquier Square-1/Skewb <= 57mm. Además, evita movimientos en el puzzle mientras es transportado. Las coberturas para imprimir en 3D tienen una duración y rendimiento mucho mayor que las coberturas de papel/cartón, pero son más caras de producir. Es recomendable que busques algún servicio de impresiones 3D o a algún entusiasta de las impresiones 3D que los pueda hacer por ti.
 
-::::: {.page-break-before}
 5. Asegúrate de imprimir todas las plantillas siguiendo **estrictamente** las siguientes especificaciones:
-:::::
 
 | Plantilla                         | Tamaño del papel | Densidad del papel | Tipo de papel  |
 | --------------------------------- | :--------------: | :----------------- | :------------: |
@@ -56,6 +54,7 @@ Cobertura multipropósito 3D
 "gsm" quiere decir "grams per square meter" (gramos por metro cuadrado). Esta es la unidad estándar para medir densidad de papel.
 
 \* Más grueso es mejor.<br/>
+\*\* Las coberturas para Clock se imprimen en papel de impresión estándar utilizado para impresoras de oficina BW normales. 80 gsm es la mejor opción.
 
 | Plantilla                           | Resolución |  Infill  | Filamento  |  Soportes  |
 | ----------------------------------- | :--------: | :------: | :--------: | :--------: |
@@ -72,7 +71,9 @@ Cobertura multipropósito 3D
 - Cinta adhesiva de doble cara (solo para las cajas de resultados y los tapacubos)
 - Cúter (cuchilla, trincheta, etc.) (solo para las cajas de resultados y los tapacubos)
 
+::::: {.page-break-after}
 7. A excepción de las coberturas para Clock, los cortes en todas las plantillas se deben hacer en la parte **INTERNA** de las líneas negras, de manera que no quede nada negro luego de realizar el recorte. En las coberturas para Clock, los cortes deben hacerse **SOBRE** las líneas negras.
+:::::
 
 8. La hoja para mezclar Múltiples Cubos a Ciegas tiene varias páginas, cada una de ellas con lugares numerados para 14 cubos (dos sets de mezclas de TNoodle). La primera página es para las mezclas 1-14, la segunda para las mezclas 15-28, y así sucesivamente hasta la 84. Puedes imprimir tantas como necesites para tu competición. Deberías considerar cuántos participantes tendrás y cuántos cubos intentarán los competidores. Puedes seguir reutilizando estas hojas en futuras competiciones para no malgastar el papel.
 

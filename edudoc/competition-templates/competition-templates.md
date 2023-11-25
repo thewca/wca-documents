@@ -33,15 +33,13 @@ Here you can find the following printable templates that can be used for WCA com
 
 ![](images/sq1_in_3d_cover.jpg){.centered width=450px}
 
-::::: {.text-center}
+::::: {.text-center .page-break-after}
 3D multipurpose cover
 :::::
 
 4. There are two 3D-printable cover designs: one for Clock and one that fits Square-1, Clock and Skewb puzzles. Both are stackable. The multipurpose cover fits any Clock <= 24mm (0.94in) in thickness and any Square-1/Skewb <= 57mm (2.24in), and prevents accidental turns being applied to the puzzle during transit. 3D-printed covers last much longer and work better than the paper/card alternatives, but are more expensive to produce. It is recommended that you look for a 3D printing service in your area or try to find a 3D printing enthusiast who could print them for you.
 
-::::: {.page-break-before}
 5. Make sure you print all templates **STRICTLY** within the following specifications:
-:::::
 
 | Template                                | Paper size | Paper density  | Color / BW |
 | --------------------------------------- | :--------: | :------------- | :--------: |
@@ -73,7 +71,9 @@ Here you can find the following printable templates that can be used for WCA com
 - Double-sided tape up to 1cm in width (only for results boxes and cube covers)
 - Blade (knife, box cutter, etc.) (only for results boxes and cube covers)
 
+::::: {.page-break-after}
 7. On all templates except for the Clock covers, make all cuts on the **INNER** side of the black lines, leaving no black color visible after the cuts are done. On the Clock cover the cuts need to be made **THROUGH** the black lines.
+:::::
 
 8. The Multi-Blind cube outlines file has multiple pages, each of them with numbered spots for 14 cubes (two TNoodle scramble sets). The first page is for scrambles 1-14, the second is for 15-28, and so on, all the way up to scramble 84. You can print out as many of these as you require for your competition. Consider how many scramblers you will have, and how many cubes your competitors will be attempting. You can continue reusing these sheets for future competitions so as not to waste paper.
 
