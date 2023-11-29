@@ -85,7 +85,7 @@ Al mezclar para un intento de Múltiples Cubos a Ciegas, se debe colocar cada cu
 Por favor, comparte el enlace a ESTA página y no el enlace directamente a la carpeta.
 :::::
 
-## Créditos{.page-break-before}
+## Créditos
 
 Plantillas de papel/cartón - Deni Mintsaev<br/>
 Cobertura 3D multipropósito - Brendan Bakker, Patrick Dwye, YouBeen Lee (이유빈) y la KCCU<br/>

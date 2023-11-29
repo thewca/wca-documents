@@ -85,7 +85,7 @@ Podczas mieszania Multi-Blinda, umieść każdą kostkę na numerze scrambla, kt
 Udostępnij link tylko do tej strony, a nie bezpośredni link do folderu.
 :::::
 
-## Napisy{.page-break-before}
+## Napisy
 
 Szablony papierowych pudełek - Deni Mintsaev<br/>
 Uniwersalna pokrywka - Brendan Bakker, Patrick Dwyer, YouBeen Lee (이유빈) i KCCU<br/>

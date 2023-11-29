@@ -85,7 +85,7 @@ When scrambling a Multi-Blind attempt, place each cube on the number of the scra
 Please only share the link to THIS page and not the direct link to the folder.
 :::::
 
-## Credits{.page-break-before}
+## Credits
 
 Paper/card templates - Deni Mintsaev<br/>
 3D multipurpose cover - Brendan Bakker, Patrick Dwyer, YouBeen Lee (이유빈), and KCCU<br/>
