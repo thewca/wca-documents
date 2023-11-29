@@ -16,6 +16,10 @@ Example: `documents/policies/external/Competition Requirements.md` gets converte
 | `bin/build.sh` | Builds PDF files into `build` directory. |
 | `bin/deploy.sh` | WCA deployment script used by GitHub. You don't need to use this. |
 
+## Writing and translating documents
+
+[This document](https://github.com/thewca/wca-documents/blob/master/documents-guide.md) explains everything necessary to create a new document or translate an Educational Resources document.
+
 ## Detailed Explanation
 
 The build script (`bin/build.sh`) works in the following steps:
