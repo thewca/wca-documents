@@ -4,7 +4,7 @@ Official Documents of the World Cube Association.
 
 ## Process
 
-Whenever changes are made, GitHub builds PDF files out of each Markdown document, pushes the generated files to the [build branch](https://github.com/thewca/wca-documents/tree/build) and deploys them to the website. Documents in `documents` then become available at `worldcubeassociation.org/documents/[path to doc]`, and documents in `edudoc` become available at `worldcubeassociation.org/edudoc/[path to doc]`. Pre-rendered PDFs are simply copied into `build` during the build process.
+Whenever changes are made, GitHub builds PDF files out of each Markdown document, pushes the generated files to the [build branch](https://github.com/thewca/wca-documents/tree/build) and deploys them to the website. Documents in `documents` then become available at `worldcubeassociation.org/documents/[path to doc].pdf`, and documents in `edudoc` become available at `worldcubeassociation.org/edudoc/[path to doc].pdf`. Pre-rendered PDFs are simply copied into `build` during the build process.
 
 Example: `documents/policies/external/Competition Requirements.md` gets converted to PDF and becomes available at `https://www.worldcubeassociation.org/documents/policies/external/Competition Requirements.pdf`.
 

@@ -168,7 +168,7 @@ This is how you can get a preview of the rendered documents:
 5. Unzip the downloaded file, find the file(s) that you are working on, and make sure everything was rendered as expected. Pay especially close attention to the alignment of the content, and make sure there are no unexpected page breaks. If you are adding a translation, make sure things are consistent with the original English version.
 6. You can continue iterating, making additional PRs, until the rendered documents look correct.
 
-Once you have finalized everything and received an approving review, a WCA staff member will merge your PR, and eventually you will see your changes on the WCA website. The URL for a given document will be https://www.worldcubeassociation.org/ + the path to the file in this repo, starting from the project's root directory, except with `.md` replaced by `.pdf`. Example: the URL for the Russian translation of the competition templates is https://www.worldcubeassociation.org/edudoc/competition-templates/competition-templates-ru.pdf.
+Once you have finalized everything and received an approving review, a WCA staff member will merge your PR, and eventually you will see your changes on the WCA website.
 
 ## Classes
 
