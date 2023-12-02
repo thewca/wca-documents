@@ -1,0 +1,7 @@
+SEE documents-guide.md FOR AN EXPLANATION OF WHAT THIS FILE IS
+
+Timer (see timer.png):
+
+On/Off button - 
+Time - 
+Reset button - 

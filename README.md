@@ -4,7 +4,7 @@ Official Documents of the World Cube Association.
 
 ## Process
 
-Whenever changes are made, GitHub builds PDF files out of each Markdown document, pushes the generated files to the [build branch](https://github.com/thewca/wca-documents/tree/build) and deploys them to the website. Documents in `documents` then become available at `worldcubeassociation.org/documents/[path to doc]`, and documents in `edudoc` become available at `worldcubeassociation.org/edudoc/[path to doc]`. Pre-rendered PDFs are simply copied into `build` during the build process.
+Whenever changes are made, GitHub builds PDF files out of each Markdown document, pushes the generated files to the [build branch](https://github.com/thewca/wca-documents/tree/build) and deploys them to the website. Documents in `documents` then become available at `worldcubeassociation.org/documents/[path to doc].pdf`, and documents in `edudoc` become available at `worldcubeassociation.org/edudoc/[path to doc].pdf`. Pre-rendered PDFs are simply copied into `build` during the build process.
 
 Example: `documents/policies/external/Competition Requirements.md` gets converted to PDF and becomes available at `https://www.worldcubeassociation.org/documents/policies/external/Competition Requirements.pdf`.
 
@@ -15,6 +15,10 @@ Example: `documents/policies/external/Competition Requirements.md` gets converte
 | `bin/install_dependencies.sh` | Installs dependencies necessary to generate PDFs. Run this once. |
 | `bin/build.sh` | Builds PDF files into `build` directory. |
 | `bin/deploy.sh` | WCA deployment script used by GitHub. You don't need to use this. |
+
+## Writing and translating documents
+
+[This document](https://github.com/thewca/wca-documents/blob/master/documents-guide.md) explains everything necessary to create a new document or translate an Educational Resources document.
 
 ## Detailed Explanation
 
