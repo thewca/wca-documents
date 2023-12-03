@@ -37,7 +37,7 @@ Here you can find the following printable templates that can be used for WCA com
 3D multipurpose cover
 :::::
 
-4. There are two 3D-printable cover designs: one for Clock and one that fits Square-1, Clock and Skewb puzzles. Both are stackable. The multipurpose cover fits any Clock <= 24mm (0.94in) in thickness and any Square-1/Skewb <= 57mm (2.24in), and prevents accidental turns being applied to the puzzle during transit. 3D-printed covers last much longer and work better than the paper/card alternatives, but are more expensive to produce. It is recommended that you look for a 3D printing service in your area or try to find a 3D printing enthusiast who could print them for you.
+4. There are two 3D-printable cover designs: one for Clock and one that fits Square-1, Clock and Skewb puzzles. Both are stackable. The multipurpose cover fits any Clock ≤ 24mm (0.94in) in thickness and any Square-1/Skewb ≤ 57mm (2.24in), and prevents accidental turns being applied to the puzzle during transit. 3D-printed covers last much longer and work better than the paper/card alternatives, but are more expensive to produce. It is recommended that you look for a 3D printing service in your area or try to find a 3D printing enthusiast who could print them for you.
 
 5. Make sure you print all templates **STRICTLY** within the following specifications:
 
@@ -80,7 +80,7 @@ Here you can find the following printable templates that can be used for WCA com
 When scrambling a Multi-Blind attempt, place each cube on the number of the scramble that was applied to it. Also make sure you never have two people scrambling cubes using the same cube outlines sheet (remember that one of these sheets corresponds to two TNoodle scramble sheets, since those have 7 scrambles per page). All of this greatly reduces the risk of applying the same scramble twice, which could result in the competitor receiving an extra, which is a big hindrance to the flow of a competition.
 
 ::::: {.box .warning}
-[Link to the templates folder](https://drive.google.com/drive/folders/1EVqEWSqruZ8_vEJpUmqhFUqaikzgUkkP?usp=sharing)
+[Link to the templates folder](https://drive.google.com/drive/folders/1EVqEWSqruZ8_vEJpUmqhFUqaikzgUkkP)
 
 Please only share the link to THIS page and not the direct link to the folder.
 :::::

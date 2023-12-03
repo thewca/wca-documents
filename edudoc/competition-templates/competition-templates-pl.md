@@ -18,7 +18,7 @@ Tutaj możesz znaleźć następujące szablony:
 
 ## Instrukcje
 
-1. Jeśli chcesz korzystać z projektów WCA, użyj plików w folderze dla języka używanego w Twoim regionie, jeśli są one dostępne. Jeśli chcesz tworzyć niestandardowe projekty, użyj plików w folderze `Pliki edytowalne`. **NIE** twórz projektów pokrywek na zegary które zużywają dużo tuszu, ponieważ wpłynie to na sztywność papieru, co może powodować łatwiejszą zmianę stanu pinów. Lepiej jest użyć minimalistycznego czarno-białego projektu (BW).
+1. Jeśli chcesz korzystać z projektów WCA, użyj plików w folderze dla języka używanego w Twoim regionie, jeśli są one dostępne. Jeśli chcesz tworzyć niestandardowe projekty, użyj plików w folderze `Pliki edytowalne`. **NIE** twórz projektów pokrywek na zegary które zużywają dużo tuszu, ponieważ wpłynie to na sztywność papieru, co może powodować łatwiejszą zmianę stanu pinów. Lepiej jest użyć minimalistycznego czarno-białego projektu.
 2. Projekty papierowych pokrywek na Clocka, infografik oraz arkuszy do mieszania Multi-Blinda można wydrukować na domowej drukarce; Infografiki muszą być wydrukowane w kolorze, pokrywki oraz arkusze muszą być wydrukowane czarno-białe. Pozostałe projekty **MUSZĄ** zostać wydrukowane przy użyciu profesjonalnej drukarki, więc będziesz musiał znaleźć drukarnię w swojej okolicy. Do wykonania tych wydruków będą wymagać plików `.pdf`.
 
 ![](images/paper_clock_covers.jpg){.centered width=450px}
@@ -37,7 +37,7 @@ Pokrywka na Clocka wydrukowana w 3D
 Wielofunkcyjna pokrywka wydrukowana w 3D
 :::::
 
-4. Istnieją dwa projekty pokrywek do wydrukowania w 3D: jeden dla Clocka i jeden, który pasuje do układanek Square-1, Clock i Skewb. Oba można układać w stos. Uniwersalna osłona pasuje do każdego Clocka o grubości <= 24 mm (0,94 cala) i dowolnego Square-1/Skewb <= 57 mm (2,24 cala) oraz zapobiega przypadkowej zmianie stanu układanki podczas transportu. Pokrywki drukowane w 3D są znacznie trwalsze i działają lepiej niż alternatywy z papieru/kartki, ale są trudniejsze i droższe w produkcji. Zalecamy wyszukanie usługi drukowania 3D w Twojej okolicy lub znalezienie entuzjasty druku 3D, który mógłby je dla Ciebie wydrukować.
+4. Istnieją dwa projekty pokrywek do wydrukowania w 3D: jeden dla Clocka i jeden, który pasuje do układanek Square-1, Clock i Skewb. Oba można układać w stos. Uniwersalna osłona pasuje do każdego Clocka o grubości ≤ 24 mm (0,94 cala) i dowolnego Square-1/Skewb ≤ 57 mm (2,24 cala) oraz zapobiega przypadkowej zmianie stanu układanki podczas transportu. Pokrywki drukowane w 3D są znacznie trwalsze i działają lepiej niż alternatywy z papieru/kartki, ale są trudniejsze i droższe w produkcji. Zalecamy wyszukanie usługi drukowania 3D w Twojej okolicy lub znalezienie entuzjasty druku 3D, który mógłby je dla Ciebie wydrukować.
 
 5. Upewnij się, że wszystkie szablony zostały wydrukowane **WYŁĄCZNIE** zgodnie z następującymi specyfikacjami:
 
@@ -80,7 +80,7 @@ Wielofunkcyjna pokrywka wydrukowana w 3D
 Podczas mieszania Multi-Blinda, umieść każdą kostkę na numerze scrambla, który został na niej zastosowany. Upewnij się również, że nigdy nie ma dwóch osób mieszających kostki przy użyciu takiego samego arkusza (pamiętaj, że jeden z tych arkuszy odpowiada dwóm kartkom ze scramblami TNoodle, ponieważ mają one 7 scrambli na stronę). Wszystko to znacznie zmniejsza ryzyko duplikata, który mógłby skutkować otrzymaniem przez zawodnika dodatkowej próby, co znacznie utrudnia przebieg zawodów.
 
 ::::: {.box .warning}
-[Link do folderu z szablonami ](https://drive.google.com/drive/folders/1EVqEWSqruZ8_vEJpUmqhFUqaikzgUkkP?usp=sharing)
+[Link do folderu z szablonami ](https://drive.google.com/drive/folders/1EVqEWSqruZ8_vEJpUmqhFUqaikzgUkkP)
 
 Udostępnij link tylko do tej strony, a nie bezpośredni link do folderu.
 :::::
