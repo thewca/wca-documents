@@ -88,7 +88,7 @@ Please only share the link to THIS page and not the direct link to the folder.
 ## Credits
 
 Paper/card templates - Deni Mintsaev<br/>
-3D multipurpose cover - Brendan Bakker, Patrick Dwyer, YouBeen Lee (이유빈), and KCCU<br/>
+3D multipurpose cover - Brendan Bakker, Patrick Dwyer, YouBeen Lee, and KCCU<br/>
 3D Clock cover - Francisco Montañés Barbudo and Mitchell Lane<br/>
 Competitor guide and Multi-Blind scrambling guide illustrations - Tom Nelson<br/>
 Multi-Blind cube outlines sheet - Callum Goodyear

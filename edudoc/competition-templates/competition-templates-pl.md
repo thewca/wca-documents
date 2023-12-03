@@ -88,7 +88,7 @@ Udostępnij link tylko do tej strony, a nie bezpośredni link do folderu.
 ## Napisy
 
 Szablony papierowych pudełek - Deni Mintsaev<br/>
-Uniwersalna pokrywka - Brendan Bakker, Patrick Dwyer, YouBeen Lee (이유빈) i KCCU<br/>
+Uniwersalna pokrywka - Brendan Bakker, Patrick Dwyer, YouBeen Lee i KCCU<br/>
 Pokrywka do Clocka - Francisco Montañés Barbudo i Mitchell Lane<br/>
 Infografiki z zasadami zawodów oraz do Multi-Blinda - Tom Nelson
 Arkusze z konturami kostek - Callum Goodyear
