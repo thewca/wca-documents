@@ -4,12 +4,12 @@
 
 ## Purpose
 The purpose of this policy is to outline the procedures for the WCA to provide funding to support Regional Organizations to develop cubing in their regions, establish improved governance and processes, deliver high quality competitions and promote the sport of speedcubing in their region. 
-## Policy
 
+## Policy
 1. Annual budget allocation
    1. The WCA Board will approve as part of the annual budget a total maximum budget for Regional Organization support for the year.
 2. Application
-   1. Regional Organizations, Sub-Regional Organizations or WCA Delegates may apply for funding grants via the process as determined by the Finance Committee (WFC).
+   1. Regional Organizations (including organizations recognised to act on behalf of a Regional Organization in a subsection of the area which a Regional Organization covers, hereafter referred to as Sub-Regional Organizations) or WCA Delegates may apply for funding grants via the process as determined by the Finance Committee (WFC).
 3. Funding Grant Eligibility and Purposes
    1. Regional Organizations, Sub-Regional Organizations or WCA Delegates may apply for funding grants for the following purposes:
       1. To cover costs associated with establishing a Regional Organization for an area and/or to register that organization with the appropriate local authorities;
