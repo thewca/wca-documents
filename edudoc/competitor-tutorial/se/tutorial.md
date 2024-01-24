@@ -25,7 +25,7 @@ Om du är osäker på något, fråga alltid delegaten!
 - **Stackmat-timer**: Detta är den officiella enheten för tidtagning på tävlingar.
 Den kan se ut som någon av de tre versionerna nedan.
 
-![](../images/stackmat_timers.png){.centered height=200px}
+![](../images/stackmat-timers.png){.centered height=200px}
 
 - **Matta**: Stackmat-timers måste användas tillsammans med tillhörande mattor. Mattan håller timern på plats, skyddar pusslen, och förhindrar dem från att glida iväg vid slutet av försöket.
 
@@ -283,4 +283,4 @@ Endast delegater kan dela ut extra försök!
   *Se till att följa tävlingsreglerna, och fråga en delegat om du är osäker!*
   :::
 
-![](images/cover_infographic.png){.centered width=90%}
+![](images/competitor-guide.png){.centered width=90%}

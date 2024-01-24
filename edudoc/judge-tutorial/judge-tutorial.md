@@ -6,16 +6,16 @@ This document is intended for those who have not been a judge before, and will h
 
 This is the main equipment and tools required to proceed with a speedsolving attempt:
 
-**Stackmat timer**: This is the official device for measuring times at a WCA competition. The image below is the latest version of the timer, previous versions of the timer are still accepted to be used in competitions.
+**Stackmat timer**: This is the official device for measuring times at a WCA competition. The image below is the latest version of the timer, but the Gen 4 and Pro versions of the timer are also accepted for use at competitions.
 
 ![](images/timer.png){.centered}
 
-**Stopwatch**: This is used for measuring the inspection time. Stopwatches are also used to measure time for attempts over 10 minutes. **Note: Not to be confused with a stackmat timer.**
+**Stopwatch**: This is used for measuring the inspection time. Stopwatches are also used to measure time for attempts over 10 minutes. **Note: Not to be confused with a Stackmat timer.**
 
 ## Judging Procedure
 
 1. Place the scrambled puzzle on the mat and keep it covered before the start of every attempt.
-2. Reset both the stackmat timer and stopwatch.
+2. Reset both the Stackmat timer and stopwatch.
 3. The competitor has one minute to get ready when asked.
 4. Once the competitor is ready, uncover the puzzle and start the stopwatch simultaneously to time the inspection. This starts the attempt.
 5. After 8 seconds of inspection have elapsed you must call “8 seconds”. After 12 seconds of inspection have elapsed, you must call “12 seconds”.
