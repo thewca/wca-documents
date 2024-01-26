@@ -34,5 +34,6 @@ jobs:
       - name: Trigger website deployment
         env:
           DOCUMENTS_BUCKET: wca-documents
+          DISTRIBUTION_ID: E31ELE3W069ZX7
         run: |
           bin/deploy.sh
