@@ -24,10 +24,15 @@ jobs:
           branch: build
           folder: build
 
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.CI_CD_AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.CI_CD_AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_DEFAULT_REGION }}
+
       - name: Trigger website deployment
         env:
-          WCA_HOST: 34.208.140.116
+          DOCUMENTS_BUCKET: wca-documents
         run: |
-          mkdir -p $HOME/.ssh
-          echo "${{ secrets.DEPLOY_PRIVATE_KEY }}" > /tmp/deploy_rsa
           bin/deploy.sh
