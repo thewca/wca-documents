@@ -1,2 +1,4 @@
 # Generated PDF files.
 build/
+# Version of the generated pdfs
+**/version
