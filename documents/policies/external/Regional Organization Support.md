@@ -1,6 +1,6 @@
 # WCA Regional Organization Support Policy
 
-### Version 1.0 {.version}
+### Version 1.1 {.version}
 
 ## Purpose
 The purpose of this policy is to outline the procedures for the WCA to provide funding to support Regional Organizations to develop cubing in their regions, establish improved governance and processes, deliver high quality competitions and promote the sport of speedcubing in their region. 
