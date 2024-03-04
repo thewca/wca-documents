@@ -14,7 +14,7 @@ The purpose of this policy is to list the financial and other restrictions which
 2. Regional restrictions impact how the WCA operates in, interacts with residents of, or recognises competitions in particular regions.
 3. Financial restrictions applied have the following implications for the region:
    1. Competitions in this region, if they are permitted, are not able to use integrated payment via the WCA Website;
-   2. Regions are not elibigle to host a WCA Continental or World Championship competition;
+   2. Regions are not eligible to host a WCA Continental or World Championship competition;
    3. The region will be placed in Band 0 for the purposes of the WCA Dues System Policy;
    4. The region is ineligible to receive funding per the WCA Equipment Funding Policy or WCA Regional Organization Support Policy;
    5. Residents of the region are ineligible to receive funding per the WCA Travel Reimbursement Policy; and,
