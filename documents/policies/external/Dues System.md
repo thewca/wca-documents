@@ -1,6 +1,6 @@
 # WCA Dues System Policy
 
-### Version 1.6 {.version}
+### Version 1.7 {.version}
 
 ## Purpose
 The WCA Dues System is a policy by which the WCA will collect revenue on a per-competitor-per-competition basis from WCA Delegates and/or Regional Organizations in order to further the Mission and the Spirit of the WCA. The policy intends that WCA Delegates and/or Regional Organizations will fund the amount owed either by charging registration fees to their competitors, soliciting competition sponsors, or by using some other means of collecting money on behalf of their respective countries.
