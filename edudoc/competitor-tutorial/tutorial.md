@@ -28,7 +28,7 @@ If you are not sure about something, always ask the Delegate!
 - **Stackmat timer**: This is the official device for measuring times at a competition.
   It can look like any of the three versions below.
 
-![](images/stackmat-timers.png){.centered height=200px}
+![](images/stackmat_timers.png){.centered height=200px}
 
 - **Mat**: Stackmat timers must be used with accompanying mats. The mat helps prevent puzzles from sliding at the end of the attempt.
 
@@ -294,7 +294,7 @@ Extra attempts can be given only by a Delegate!
   _Make sure to adhere with the WCA Regulations and ask a Delegate!_
   :::
 
-![](images/competitor-guide.png){.centered width=90%}
+![](images/cover_infographic.png){.centered width=90%}
 
 <div style="margin-top: 200px"></div>
 

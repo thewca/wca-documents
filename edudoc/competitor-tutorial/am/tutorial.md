@@ -27,7 +27,7 @@
 - **Stackmat ժամաչափ**: Սա առաջնություններին ժամանակ պահելու համար պաշտոնական սարքն է։
 Այն կարող է լինել ստորև նշված տարբերակներից որևէ մեկը։
 
-![](../images/stackmat-timers.png){.centered height=200px}
+![](../images/stackmat_timers.png){.centered height=200px}
 
 - **Գորգ**: Stackmat ժամաչափերը պետք է օգտագործվեն գորգերով։ Գորգի հետ շփումը թույլ չի տալիս փազլները սահեն փարձի վերջում։
 
@@ -283,4 +283,4 @@
   *Համոզվեք որ գործում եք ըստ կանոնակարգի, և րմոռանաք հարցնել պատվիրակին!*
   :::
 
-![](images/competitor-guide.png){.centered width=90%}
+![](images/cover_infographic.png){.centered width=90%}
