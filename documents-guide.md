@@ -56,7 +56,9 @@ We also have a couple custom shortcuts in our repo:
 ![WCA Logo]({logo})
 ```
 
-wca{...} - inserts URL to a page on the WCA website. Example: wca{regulations/guidelines} gets converted to https://www.worldcubeassociation.org/regulations/guidelines/. This shortcut is not necessary to use, but it can make your Markdown look cleaner.
+wca{...} - inserts URL to a page on the WCA website. Example: `wca{regulations/guidelines}` gets converted to `https://www.worldcubeassociation.org/regulations/guidelines/`.
+
+wcadoc{...} - inserts URL to a document page on the WCA website (any page with `documents.` as the subdomain). Example: `wcadoc{documents/policies/external/Competition Requirements.pdf}` gets converted to `https://documents.worldcubeassociation.org/documents/policies/external/Competition Requirements.pdf`.
 
 ### Commonly-used elements
 
