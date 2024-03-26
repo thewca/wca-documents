@@ -1,12 +1,14 @@
 # Tutorial de Ajuizamento para Iniciantes
 
+### Version 1.0 {.version}
+
 Este documento destina-se àqueles que nunca foram juízes e destacará alguns dos principais regulamentos a serem seguidos durante o processo de julgamento. O procedimento descrito destina-se a eventos regulares de resolução em velocidade. Para eventos de os olhos vendados, existem algumas diferenças importantes não destacadas neste documento.
 
 ## Equipamento
 
 Este é o principal equipamento e ferramentas necessárias para realizar uma tentativa de resolução em velocidade:
 
-**Cronómetro Stackmat**: Este é o dispositivo oficial para medir tempos numa competição WCA. A imagem abaixo é a versão mais recente do cronómetro, versões anteriores do cronómetro ainda são aceites em competições.
+**Cronómetro Stackmat**: Este é o dispositivo oficial para medir tempos numa competição WCA. A imagem abaixo é a versão mais recente do cronómetro, mas as versões 4 e 3 do cronómetro são também aceites em competições.
 
 ![](images/timer-pt.png){.centered}
 
@@ -27,33 +29,33 @@ Este é o principal equipamento e ferramentas necessárias para realizar uma ten
 
 ## Penalidades {.page-break-before}
 
-**+2** é uma penalidade onde 2 segundos são adicionados ao resultado final da tentativa. As penalidades de **+2** são cumulativas, o que significa que o competidor pode potencialmente receber uma penalidade total de **+4** ou até mais. **Did Not Finish** (DNF) é uma penalidade que resulta na desqualificação da tentativa. Se não tem a certeza do que deve ser feito num incidente, deve sempre pedir um conselho ao Delegado da WCA da competição.
+**+2**: é uma penalidade onde 2 segundos são adicionados ao resultado final da tentativa. As penalidades de **+2** são cumulativas, o que significa que o competidor pode potencialmente receber uma penalidade total de **+4** ou até mais. **Did Not Finish** (DNF) é uma penalidade que resulta na desqualificação da tentativa. Se não tem a certeza do que deve ser feito num incidente, deve sempre pedir um conselho ao Delegado da WCA da competição.
 
 Aqui estão alguns incidentes comuns que podem resultar em +2 ou DNF:
 
 ![](images/penalty1.png){.centered}
 
-**+2** é dado quando o competidor excede 15 segundos de tempo de inspeção e inicia a resolução antes de 17 segundos.
+**+2**: é dado quando o competidor excede 15 segundos de tempo de inspeção e inicia a resolução antes de 17 segundos.
 
-**DNF** é dado quando o competidor não consegue iniciar a resolução dentro de 17 segundos do tempo de inspeção.
+**DNF**: é dado quando o competidor não consegue iniciar a resolução dentro de 17 segundos do tempo de inspeção.
 
 ![](images/penalty2.png){.centered}
 
-**+2** é dado quando o competidor está a tocar no puzzle ao iniciar o Cronómetro.
+**+2**: é dado quando o competidor está a tocar no puzzle ao iniciar o Cronómetro.
 
-**+2** é dado quando o competidor para o cronómetro sem liberar totalmente o puzzle.
+**+2**: é dado quando o competidor para o cronómetro sem liberar totalmente o puzzle.
 
-**+2** é dado quando o competidor toca no puzzle antes que o juiz inspecione o estado de resolução.
+**+2**: é dado quando o competidor toca no puzzle antes que o juiz inspecione o estado de resolução.
 
 ![](images/penalty3.png){.centered .page-break-before}
 
-**+2** é dado quando o competidor falha em iniciar o Cronómetro com as palmas das mãos voltadas para baixo.
+**+2**: é dado quando o competidor falha em iniciar o Cronómetro com as palmas das mãos voltadas para baixo.
 
-**+2** é dado quando o competidor não consegue parar o Cronómetro com as palmas das mãos voltadas para baixo.
+**+2**: é dado quando o competidor não consegue parar o Cronómetro com as palmas das mãos voltadas para baixo.
 
 ![](images/penalty4.png){.centered}
 
-**+2** é dado se o puzzle estiver a um movimento de distância do estado resolvido no final da tentativa.
+**+2**: é dado se o puzzle estiver a um movimento de distância do estado resolvido no final da tentativa.
 
 Nota: movimentos de 180° (R2, U2, etc.) são considerados um movimento.
 

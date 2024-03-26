@@ -93,9 +93,9 @@ Create a folder called `images` in the same folder as your document, and put you
 ![](images/my-image2.jpg){.centered}
 ```
 
-3. **Version labels** (documents folder only)
+3. **Version labels**
 
-If you are making a document that needs a version label (e.g. a policy document), use this:
+If you are making a document that needs a version label, use this:
 
 ```md
 ### Version 1.0 {.version}
