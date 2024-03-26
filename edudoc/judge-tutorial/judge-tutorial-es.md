@@ -47,7 +47,7 @@ Algunos incidentes comunes que pueden resultar en +2 o DNF:
 
 **DNF**: el competidor toca el puzzle antes de que el juez haya revisado el estado resuelto. Si estás seguro de que el competidor no aplicó ningún movimiento o cambio en la alineación del puzzle al tocarlo, puedes asignar una penalización de **+2** en su lugar.
 
-![](images/penalty3.png){.centered .page-break-before}
+![](images/penalty3.png){.centered}
 
 **+2**: el competidor no inicia el temporizador usando los dedos, con las palmas de las manos hacia abajo.
 
