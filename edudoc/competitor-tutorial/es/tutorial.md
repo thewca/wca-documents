@@ -5,7 +5,7 @@ Para hacer este documento más fácil de leer, se usa el masculino (él) en ocas
 ## Organización de la WCA - Introducción General
 
 ![WCA logo]({logo}){.logo height=133px}
-La World Cube Association es la organización que regula las competiciones de speedcubing en todo el mundo. Toda competición aprobada por la WCA debe cumplir con las [Reglas](https://www.worldcubeassociation.org/regulations/) y [Directrices](https://www.worldcubeassociation.org/regulations/guidelines.html) de la WCA. Por esta razón, es muy importante que estés familiarizado con estos documentos antes de asistir a una competición.
+La World Cube Association es la organización que regula las competiciones de speedcubing en todo el mundo. Toda competición aprobada por la WCA debe cumplir con las [Reglas](wca{regulations}) y [Directrices](wca{regulations/guidelines.html}) de la WCA. Por esta razón, es muy importante que estés familiarizado con estos documentos antes de asistir a una competición.
 
 Este documento te guiará a través de los conocimientos básicos que debes tener a la hora de competir y juzgar. Leer este documento puede ser de mucha utilidad para conocer lo básico acerca de las competiciones oficiales de la WCA, pero aún así te recomendamos que leas las Reglas y Directrices de la WCA y que participes en el "Tutorial para Competidores" en la competición a la que asistas, si es que tiene uno.
 
@@ -167,7 +167,7 @@ Tanto el juez como el competidor deben firmar la hoja de resultados para confirm
 
 - **Al comenzar la resolución**:
 
-La [Regla A4)](https://www.worldcubeassociation.org/regulations/#A4) es la que indica la forma correcta de iniciar el timer.
+La [Regla A4)](wca{regulations/#A4}) es la que indica la forma correcta de iniciar el timer.
 
 ![](images/RegA4.png){.centered width=90%}
 
@@ -177,12 +177,12 @@ La [Regla A4)](https://www.worldcubeassociation.org/regulations/#A4) es la que i
 
 - **Durante la resolución**:
 
-La [Regla A5)](https://www.worldcubeassociation.org/regulations/#A5) explica las reglas que aplican durante la resolución.
+La [Regla A5)](wca{regulations/#A5}) explica las reglas que aplican durante la resolución.
 Durante toda la resolución, solo puedes hablar con tu juez o el Delegado de la WCA, no puedes recibir ninguna ayuda externa de objetos ni personas. La penalización por cualquiera de dichas infracciones es un DNF.
 
 - **Al detener el timer**:
 
-La [Regla A6)](https://www.worldcubeassociation.org/regulations/#A6) es la que explica cómo se debe detener el timer correctamente.
+La [Regla A6)](wca{regulations/#A6}) es la que explica cómo se debe detener el timer correctamente.
 
 ![](images/RegA6.png){.centered width=90%}
 

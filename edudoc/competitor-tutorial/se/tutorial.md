@@ -3,7 +3,7 @@
 ## WCA som organisation - Generell Introduktion
 
 ![WCA logo]({logo}){.logo height=133px}
-WCA (World Cube Association) är organisationen som ansvarar för arrangerande av tävlingar i Speedcubing över hela världen. Alla WCA-tävlingar måste följa WCA:s [Tävlingsregler](https://www.worldcubeassociation.org/regulations/) och [Riktlinjer]((https://www.worldcubeassociation.org/regulations/guidelines.html)), därför är det viktigt att du är bekant med dessa innan du deltar.
+WCA (World Cube Association) är organisationen som ansvarar för arrangerande av tävlingar i Speedcubing över hela världen. Alla WCA-tävlingar måste följa WCA:s [Tävlingsregler](wca{regulations}) och [Riktlinjer]((wca{regulations/guidelines.html})), därför är det viktigt att du är bekant med dessa innan du deltar.
 
 Detta dokument guidar dig genom grunderna i att tävla och döma. Att läsa detta dokument kan vara väldigt nyttigt för att få en grundförståelse för WCA-tävlingar, men vi rekommenderar ändå att du läser WCA:s tävlingsregler och riktlinjer, samt deltar i deltagarinstruktionen om tävlingen har en sådan.
 
@@ -167,7 +167,7 @@ Deltagaren måste verifiera att resultatet är korrekt och läsbart innan hen si
 
 - **Starta lösningen**:
 
-[Regel A4)](https://www.worldcubeassociation.org/regulations/#A4) reglerar hur timern ska startas.
+[Regel A4)](wca{regulations/#A4}) reglerar hur timern ska startas.
 
 ![](images/RegA4.png){.centered width=90%}
 
@@ -177,12 +177,12 @@ Kom ihåg: Att starta lösningen på ett felaktigt sätt leder till tidsstraff!
 
 - **Under lösningen**:
 
-[Regel A5)](https://www.worldcubeassociation.org/regulations/#A5) förklarar reglerna under lösningen.
+[Regel A5)](wca{regulations/#A5}) förklarar reglerna under lösningen.
 Under hela lösningen får deltagaren bara prata med domaren och Delegaten. Du får inte få någon hjälp från något föremål eller person. Straff för båda dessa är DNF.
 
 - **Stoppa timern**:
 
-[Regel A6)](https://www.worldcubeassociation.org/regulations/#A6) reglerar hur timern ska stoppas.
+[Regel A6)](wca{regulations/#A6}) reglerar hur timern ska stoppas.
 
 ![](images/RegA6.png){.centered width=90%}
 

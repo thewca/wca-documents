@@ -17,14 +17,14 @@ Normalmente, pode encontrar uma variedade de locais através de uma pesquisa no 
 
 **Não é o fim do mundo se ainda não tiver respostas para todas as perguntas abaixo.** Poderá resolver muitos detalhes mais à frente por meio de comunicações essenciais entre si, o(s) Delegado(s) e o local. **É importante que permaneça proativo durante esse processo e não deixe perguntas sem resposta até ao último minuto.** Se for menor de idade, tente reunir os seus pais/responsáveis ​​para ajudar a organizar o evento. De qualquer forma, é ideal ter alguém que possa dividir a carga de trabalho, portanto, é sempre recomendável ter um ou mais co-organizadores.
 
-Ajuda/assistência adicional pode estar disponível se existir uma [organização regional reconhecida pela WCA](https://www.worldcubeassociation.org/organizations) que cubra a área. Certifique-se de verificar os requisitos legais diretamente com o local, pois pode ser necessário assinar um contrato para alugá-lo. Alguns locais podem precisar de um seguro de responsabilidade civil. Deve verificar com um representante local se há um no local ou se precisa de comprar um. Em geral, uma cobertura de seguro fará sempre mais bem do que mal, logo deve considerá-la se for uma opção viável a ser seguida.
+Ajuda/assistência adicional pode estar disponível se existir uma [organização regional reconhecida pela WCA](wca{organizations}) que cubra a área. Certifique-se de verificar os requisitos legais diretamente com o local, pois pode ser necessário assinar um contrato para alugá-lo. Alguns locais podem precisar de um seguro de responsabilidade civil. Deve verificar com um representante local se há um no local ou se precisa de comprar um. Em geral, uma cobertura de seguro fará sempre mais bem do que mal, logo deve considerá-la se for uma opção viável a ser seguida.
 
 ## Data(s) da Competição
 
 Idealmente, deve ter em mente um conjunto aproximado de datas que combinam consigo, o local e um Delegado local da WCA. Depois de encontrar um local apropriado para a competição que pretende organizar e estiver disponível, deve entrar em contato com um ou mais Delegado da WCA para decidir sobre uma(s) data(s) específica(s).
 
 ::::: {.box .attention}
-Também deve seguir os requisitos estabelecidos na [Política de Requisitos de Competição da WCA](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Requirements.pdf). Deve garantir que as datas sejam realistas para que a competição possa ser anunciada sem grande pressão de tempo com pelo menos 28 dias de antecedência. Também deve dar tempo suficiente para que a competição complete a sua inscrição e para planear as viagens.
+Também deve seguir os requisitos estabelecidos na [Política de Requisitos de Competição da WCA](wcadoc{documents/policies/external/Competition%20Requirements.pdf}). Deve garantir que as datas sejam realistas para que a competição possa ser anunciada sem grande pressão de tempo com pelo menos 28 dias de antecedência. Também deve dar tempo suficiente para que a competição complete a sua inscrição e para planear as viagens.
 :::::
 
 ::::: {.box .important .page-break-before}

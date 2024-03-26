@@ -4,7 +4,7 @@ To handle the registrations, you can either use the WCA website or an external t
 
 ## Registration requirements
 
-It is important that you make the registration requirements clear on the competition website and that every competitor is subject to the same requirements. A registration is only considered complete if the competitor fulfilled **all** of the requirements established (e.g. Paying the registration fee). A competitor is **not** eligible to compete if the registration is not complete (see Regulation [2c1](https://www.worldcubeassociation.org/regulations/#2c1)). If something weird occurs with a competitor's registration, contact your Delegate to find a solution.
+It is important that you make the registration requirements clear on the competition website and that every competitor is subject to the same requirements. A registration is only considered complete if the competitor fulfilled **all** of the requirements established (e.g. Paying the registration fee). A competitor is **not** eligible to compete if the registration is not complete (see Regulation [2c1](wca{regulations/#2c1})). If something weird occurs with a competitor's registration, contact your Delegate to find a solution.
 
 Once the registration period starts, the registrations will have to be manually approved. You will see an extra list on the registration tab with all the registrations pending approval. Be aware that taking too long to accept registrations once the requirements have been met can reflect badly on the organizational team and may lead competitors (especially new-comers) to believe they have done something incorrectly or that something went wrong with their registration. You do not have to accept every registration within minutes, but be sure to accept them in two days at most in order to avoid any issue.
 
@@ -24,9 +24,9 @@ Changes that affect registered competitors _must_ be clearly announced. Be consi
 
 ## On the competition day
 
-You should have a [registration table](https://www.worldcubeassociation.org/edudoc/organizer-guidelines/venue-setup.pdf) and strictly follow the registration requirements on the competition website. Depending on the registration requirements set in advance, you may choose to accept on the spot registrations only for certain events , to accept on the spot registrations for all the events, or to not have on the spot registrations at all. In case you are accepting on the spot registrations, when registering new-comers you need to get their relevant information (citizenship, e-mail address, date of birth, name, and gender) so that the information can be assigned to their results and WCA ID. Make sure that the relevant information gathered from new-comers is well stored at all times since it is sensitive information and as such other people should not have access to them.
+You should have a [registration table](wcadoc{edudoc/organizer-guidelines/venue-setup.pdf}) and strictly follow the registration requirements on the competition website. Depending on the registration requirements set in advance, you may choose to accept on the spot registrations only for certain events , to accept on the spot registrations for all the events, or to not have on the spot registrations at all. In case you are accepting on the spot registrations, when registering new-comers you need to get their relevant information (citizenship, e-mail address, date of birth, name, and gender) so that the information can be assigned to their results and WCA ID. Make sure that the relevant information gathered from new-comers is well stored at all times since it is sensitive information and as such other people should not have access to them.
 
-For more information on how registrations should be handled, see the [WCA Competitions Requirement Policy](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Requirements.pdf).
+For more information on how registrations should be handled, see the [WCA Competitions Requirement Policy](wcadoc{documents/policies/external/Competition%20Requirements.pdf}).
 
 <div style="margin-top: 200px"></div>
 

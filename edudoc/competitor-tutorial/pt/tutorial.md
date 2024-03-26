@@ -5,7 +5,7 @@ Consulte o final deste documento para ver outras traduções.
 ## Organização WCA - Introdução Geral
 
 ![Logo WCA]({logo}){.logo height=133px}
-A World Cube Association é a organização que rege as competições de speedcubing em todo o mundo. Todas as competições sancionadas pela WCA devem seguir os seus [Regulamentos](https://www.worldcubeassociation.org/regulations/) e as [Orientações](https://www.worldcubeassociation.org/regulations/guidelines.html), por isso é muito importante que os conheça antes de ir a uma competição.
+A World Cube Association é a organização que rege as competições de speedcubing em todo o mundo. Todas as competições sancionadas pela WCA devem seguir os seus [Regulamentos](wca{regulations}) e as [Orientações](wca{regulations/guidelines.html}), por isso é muito importante que os conheça antes de ir a uma competição.
 
 Este documento irá guiá-lo através dos fundamentos de como competir e ajuizar. A leitura deste documento pode ser muito útil para obter uma visão básica sobre as competições oficiais da WCA, mas ainda recomendamos que leia os Regulamentos e Orientações da WCA e participe do evento "Tutorial da Competição" na competição, se a sua competição tiver um.
 
@@ -179,7 +179,7 @@ Lembre-se que o competidor precisa de verificar se o tempo escrito está correto
 
 - **Iniciando a resolução**:
 
-[Regulamento A4)](https://www.worldcubeassociation.org/regulations/#A4) é o regulamento que indica como iniciar o Cronómetro corretamente.
+[Regulamento A4)](wca{regulations/#A4}) é o regulamento que indica como iniciar o Cronómetro corretamente.
 
 ![](images/RegA4.png){.centered width=90%}
 
@@ -189,12 +189,12 @@ Lembre-se de que iniciar a resolução incorretamente leva a penalidades!
 
 - **Durante a resolução**:
 
-[Regulamento A5)](https://www.worldcubeassociation.org/regulations/#A5) explica as regras durante a resolução.
+[Regulamento A5)](wca{regulations/#A5}) explica as regras durante a resolução.
 Durante toda a resolução, só pode falar com o seu juiz ou com o Delegado da WCA, não pode receber ajuda externa de nenhum objeto ou pessoa. A penalidade para qualquer destas infrações é um DNF.
 
 - **Parando o Cronómetro**:
 
-[Regulamento A6)](https://www.worldcubeassociation.org/regulations/#A6) é o regulamento que explica como parar o Cronómetro Stackmat corretamente.
+[Regulamento A6)](wca{regulations/#A6}) é o regulamento que explica como parar o Cronómetro Stackmat corretamente.
 
 ![](images/RegA6.png){.centered width=90%}
 
