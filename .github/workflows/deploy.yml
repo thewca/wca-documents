@@ -18,16 +18,18 @@ jobs:
       - name: Run the PDF compilation process
         run: bin/build.sh
 
-      - name: Push to GitHub build branch
-        uses: JamesIves/github-pages-deploy-action@4.1.4
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
         with:
-          branch: build
-          folder: build
+          aws-access-key-id: ${{ secrets.CI_CD_AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.CI_CD_AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_DEFAULT_REGION }}
 
-      - name: Trigger website deployment
-        env:
-          WCA_HOST: 34.208.140.116
+      - name: Trigger S3 deployment
         run: |
-          mkdir -p $HOME/.ssh
-          echo "${{ secrets.DEPLOY_PRIVATE_KEY }}" > /tmp/deploy_rsa
-          bin/deploy.sh
+          aws s3 sync build s3://wca-documents/ --acl public-read
+          # Update version file so the website will update its cache
+          git_hash=$(git rev-parse --short "$GITHUB_SHA")
+          echo "$git_hash" > version
+          aws s3 cp version s3://wca-documents/version
+          aws cloudfront create-invalidation --distribution-id E31ELE3W069ZX7 --paths "/*" --output text

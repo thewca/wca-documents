@@ -28,7 +28,7 @@ Se tiver dúvidas sobre algo, pergunte sempre ao Delegado!
 - **Cronómetro Stackmat**: Este é o dispositivo oficial para medir tempos numa competição.
   Pode parecer-se com qualquer uma das três versões abaixo.
 
-![](../images/stackmat-timers.png){.centered height=200px}
+![](../images/stackmat_timers.png){.centered height=200px}
 
 - **Tapete**: Cronómetros Stackmat timers têm de ser usados com os tapetes que os acompanham. O tapete ajuda a evitar que os puzzles deslizem no final da tentativa.
 
@@ -294,4 +294,4 @@ Tentativas extras apenas podem ser dadas por um Delegado!
   _Certifique-se de que cumpre os Regulamentos da WCA e pergunte a um Delegado!_
   :::
 
-![](images/competitor-guide.png){.centered width=90%}
+![](images/cover_infographic.png){.centered width=90%}

@@ -1,6 +1,6 @@
 # WCA Dues System Policy
 
-### Version 1.6 {.version}
+### Version 1.7 {.version}
 
 ## Purpose
 The WCA Dues System is a policy by which the WCA will collect revenue on a per-competitor-per-competition basis from WCA Delegates and/or Regional Organizations in order to further the Mission and the Spirit of the WCA. The policy intends that WCA Delegates and/or Regional Organizations will fund the amount owed either by charging registration fees to their competitors, soliciting competition sponsors, or by using some other means of collecting money on behalf of their respective countries.
@@ -51,7 +51,7 @@ To calculate the Due amount owed for a competition, the following procedure will
 ### WFC Use of Band 0 for countries that do not owe Dues
 1. Band 0 countries are countries which do not owe any Dues to the WCA for competitions held in their country.
    1. This only applies for competitions that were held in the country while the country maintained a Band 0 status.
-2. Countries who experience economic and/or currency instability or who have challenges making payments to the WCA due to their financial systems will be given Band 0.
+2. Countries placed on a restricted region list per the Regional Restriction Policy, who experience economic and/or currency instability, or who have challenges making payments to the WCA due to their financial systems will be given Band 0.
    1. This will be handled on a case-by-base basis at the discretion of the WFC.
    2. Once the country’s currency returns to a more normal level, and once economic indicators and/or world news report that the country is out of its period of financial instability, then the WFC will place the country into the proper band based on its Cost of Living (COL) value at that time.
 3. Countries who have newly joined the WCA will be placed into Band 0 for a limited period of time.
