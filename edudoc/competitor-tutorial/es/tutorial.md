@@ -26,7 +26,7 @@ Este documento te guiará a través de los conocimientos básicos que debes tene
 
 - **Temporizador Stackmat**: este es el dispositivo oficial para medir los tiempos de resolución en las competiciones. Te puedes encontrar con cualquiera de las tres versiones que se ven abajo.
 
-![](../images/stackmat_timers.png){.centered height=200px}
+![](../images/stackmat-timers.png){.centered height=200px}
 
 - **Mat**: Los temporizadores Stackmat deben ser usados con un mat (tapete). El mat ayuda a evitar que el puzzle se deslice al final de los intentos.
 
@@ -282,5 +282,5 @@ La [Regla A6)](wca{regulations/#A6}) es la que explica cómo se debe detener el 
   *¡Asegúrate de adherirte a las Reglas de la WCA y pregúntale a un Delegado!*
   :::
 
-![](images/cover_infographic.png){.centered width=90%}
+![](images/competitor-guide.png){.centered width=90%}
 

@@ -12,7 +12,7 @@ This is the main equipment and tools required to proceed with a speedsolving att
 
 ![](images/timer.png){.centered}
 
-**Stopwatch**: This is used for measuring the inspection time. Stopwatches are also used to measure time for attempts over 10 minutes. **Note: Not to be confused with a stackmat timer.**
+**Stopwatch**: This is used for measuring the inspection time. Stopwatches are also used to measure time for attempts over 10 minutes. **Note: Not to be confused with a Stackmat timer.**
 
 ## Judging Procedure
 
