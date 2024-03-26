@@ -8,12 +8,12 @@ They will be glad to help you out.
 
 ## Important Documents
 
-WCA Staff should be familiar with all the documents related to their work as WCA Staff. All relevant documents can be found on [the documents page](https://www.worldcubeassociation.org/documents) and on [the Staff panel](https://www.worldcubeassociation.org/panel). The Staff panel section is available only to WCA Staff and contains Staff exclusive knowledge. Therefore, all documents on that page should be read. The documents section contains various knowledge regarding how the WCA functions and is available to the public. Not all documents in this section are necessary to know by heart, however here are the ones that are absolutely necessary to know well:
+WCA Staff should be familiar with all the documents related to their work as WCA Staff. All relevant documents can be found on [the documents page](wca{documents}) and on [the Staff panel](wca{panel}). The Staff panel section is available only to WCA Staff and contains Staff exclusive knowledge. Therefore, all documents on that page should be read. The documents section contains various knowledge regarding how the WCA functions and is available to the public. Not all documents in this section are necessary to know by heart, however here are the ones that are absolutely necessary to know well:
 
-  - [The Code of Ethics](https://www.worldcubeassociation.org/documents/Code%20of%20Ethics.pdf); This describes how all WCA Staff must act and what they must abide by.
-  - [The Spirit of the WCA](https://www.worldcubeassociation.org/documents/motions/01.2021.1%20-%20Spirit.pdf).
-  - If you are a member of a committee or team; [The Committees and Teams Motion](https://www.worldcubeassociation.org/documents/motions/10.2022.0%20-%20Committees%20and%20Teams.pdf). This will explain how committees and teams operate. Additionally, you will find the relevant motion for your committee or team amongst the other listed motions on the documents page.
-  - If you are a Delegate; [The Delegates Motion](https://www.worldcubeassociation.org/documents/motions/08.2022.1%20-%20Delegates.pdf). This will explain how your work as a Delegate will be conducted. There is also a specific Crash Course for Delegates that you should familiarize yourself with.
+  - [The Code of Ethics](wcadoc{documents/Code%20of%20Ethics.pdf}); This describes how all WCA Staff must act and what they must abide by.
+  - [The Spirit of the WCA](wcadoc{documents/motions/01.2021.1%20-%20Spirit.pdf}).
+  - If you are a member of a committee or team; [The Committees and Teams Motion](wcadoc{documents/motions/10.2022.0%20-%20Committees%20and%20Teams.pdf}). This will explain how committees and teams operate. Additionally, you will find the relevant motion for your committee or team amongst the other listed motions on the documents page.
+  - If you are a Delegate; [The Delegates Motion](wcadoc{documents/motions/08.2022.1%20-%20Delegates.pdf}). This will explain how your work as a Delegate will be conducted. There is also a specific Crash Course for Delegates that you should familiarize yourself with.
 
 ## Email
 
@@ -50,11 +50,11 @@ This account must always be used when sending WCA-related emails. Exceptions may
 
 Configure your new GSuite account to include a signature that comprises your name and your position (and nothing else, like 3x3 PBs or YouTube channels!). Be aware that this signature will be visible to **any recipient, along with a legal disclaimer for recipients outside of the** *@worldcubeassociation.org* domain.
 
-Think twice before sending any form of private messages through this account. You should never use this email for any work that is not related to the WCA. Please refer to the [WCA Email Account Policy](https://www.worldcubeassociation.org/documents/policies/internal/Email%20Account.pdf) for details.
+Think twice before sending any form of private messages through this account. You should never use this email for any work that is not related to the WCA. Please refer to the [WCA Email Account Policy](wcadoc{documents/policies/internal/Email%20Account.pdf}) for details.
 
 ## Mailing Lists
 
-There are several mailing lists which all have their dedicated audience and purposes. All team and committee addresses can be found on the [contact page of the WCA](https://www.worldcubeassociation.org/contact), along with a brief description of their scope of work.\
+There are several mailing lists which all have their dedicated audience and purposes. All team and committee addresses can be found on the [contact page of the WCA](wca{contact}), along with a brief description of their scope of work.\
 Other significant mailing lists include:
 
   - [reports@worldcubeassociation.org](mailto:reports@worldcubeassociation.org) - Recipient channel for all Delegate reports, worldwide. You can opt-in on your WCA profile settings page.
@@ -66,10 +66,10 @@ In general, consider that any communication sent through these lists may be conf
 
 ## Delegate Reports
 
-Every WCA Staff member can opt-in to receive Delegate Reports. To do this, the Staff member goes to the "[Edit Profile](https://www.worldcubeassociation.org/profile/edit)" page, and scrolls to the bottom where they can check off the box labeled “I would like to receive Delegate Reports of WCA Competitions by email.” Every Staff member with valuable input is welcome to join in on discussions for Delegate Reports, even if they are not Delegates.
+Every WCA Staff member can opt-in to receive Delegate Reports. To do this, the Staff member goes to the "[Edit Profile](wca{profile/edit})" page, and scrolls to the bottom where they can check off the box labeled “I would like to receive Delegate Reports of WCA Competitions by email.” Every Staff member with valuable input is welcome to join in on discussions for Delegate Reports, even if they are not Delegates.
 
 ## Public Appearance
-Every Staff member is associated with their team on the WCA website. You will therefore have to exhibit a certain kind of professionalism if someone were to navigate to your WCA Page. Consequently, please make sure to upload a nice picture of yourself as your avatar. You can upload an avatar [here](https://www.worldcubeassociation.org/profile/edit?section=avatar), as well as seeing all the guidelines which apply to WCA Staff.
+Every Staff member is associated with their team on the WCA website. You will therefore have to exhibit a certain kind of professionalism if someone were to navigate to your WCA Page. Consequently, please make sure to upload a nice picture of yourself as your avatar. You can upload an avatar [here](wca{profile/edit?section=avatar}), as well as seeing all the guidelines which apply to WCA Staff.
 
 Staff members should also consider how they appear on online forums in regards to WCA and cubing in general. As well, Staff members should be careful when speaking about internal matters to make sure no confidential information is leaked.
 

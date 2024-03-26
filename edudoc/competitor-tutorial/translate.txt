@@ -12,12 +12,13 @@ Scorecard (see scoresheet.png):
 Name of the competition - 
 Name of the event - 
 Name of the competitor - 
-Signatures of the judges - 
+Signatures of the scramblers - 
 Recorded results - 
+Signatures of the judges - 
 Signatures/initials of the competitor - 
 Place for an extra attempt (if required) - 
 
-Competitor Guide (see cover_infographic.png):
+Competitor Guide (see competitor-guide.png):
 
 No electronic headphones - 
 Point camera screen away - 

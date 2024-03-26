@@ -17,14 +17,14 @@ You can usually find a range of venues through a search on Google. **[Name of ci
 
 **It isn’t the end of the world if you don’t have answers to all the questions below yet.** You’ll be able to iron out a lot of the details down the road through essential communications between yourself, Delegate(s), and the venue. **It is important that you remain proactive during this process and not leave queries unanswered until the last minute.** If you’re a minor, please try to get your parents/guardians on board to help co-organize the event. Either way, it is ideal to have someone who could share the workload, so having a co-organizer(s) is always recommended.
 
-Additional help/assistance might be available if there’s a [regional organisation acknowledged by the WCA](https://www.worldcubeassociation.org/organizations) that covers the area. Be sure to verify legal requirements directly with the venue, as signing a contract may be needed to rent it. Some venues might need a public liability insurance. You should double check with a local delegate if there’s one in place or if you have to purchase one. In general, an insurance cover will always do more good than harm so you should consider it if it is a feasible option to pursue.
+Additional help/assistance might be available if there’s a [regional organisation acknowledged by the WCA](wca{organizations}) that covers the area. Be sure to verify legal requirements directly with the venue, as signing a contract may be needed to rent it. Some venues might need a public liability insurance. You should double check with a local delegate if there’s one in place or if you have to purchase one. In general, an insurance cover will always do more good than harm so you should consider it if it is a feasible option to pursue.
 
 ## Competition date(s)
 
 Ideally you should have a rough set of dates in mind that suits you, the venue, and a local WCA Delegate. Once you find a venue that is appropriate for the competition you’re intending to organize and is available, you should get in touch with a WCA Delegate(s) to decide on a specific/rough date(s).
 
 ::::: {.box .attention}
-You must also follow the requirements set out in the [WCA Competition Requirement Policy](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Requirements.pdf). You must make sure the dates are realistic that the competition can without great time pressure be announced at least 28 days in advance of the competition. You should also allow enough time for competitors to complete their registration and to plan their trip.
+You must also follow the requirements set out in the [WCA Competition Requirement Policy](wcadoc{documents/policies/external/Competition%20Requirements.pdf}). You must make sure the dates are realistic that the competition can without great time pressure be announced at least 28 days in advance of the competition. You should also allow enough time for competitors to complete their registration and to plan their trip.
 :::::
 
 ::::: {.box .important .page-break-after}

@@ -12,7 +12,7 @@ This is the main equipment and tools required to proceed with a speedsolving att
 
 ![](images/timer.png){.centered}
 
-**Stopwatch**: This is used for measuring the inspection time. Stopwatches are also used to measure time for attempts over 10 minutes. **Note: Not to be confused with a stackmat timer.**
+**Stopwatch**: This is used for measuring the inspection time. Stopwatches are also used to measure time for attempts over 10 minutes. **Note: Not to be confused with a Stackmat timer.**
 
 ## Judging Procedure
 
@@ -70,7 +70,7 @@ Other incidents that can result in a penalty include the following:
 
 **DNF**: while inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface.
 
-**DNF**: while inspecting or solving the puzzle, the competitor must not use any kind of recording device or electronics (see [Guideline 2i++++](https://www.worldcubeassociation.org/regulations/guidelines.html#2i++++) for clarification).
+**DNF**: while inspecting or solving the puzzle, the competitor must not use any kind of recording device or electronics (see [Guideline 2i++++](wca{regulations/guidelines.html#2i++++}) for clarification).
 
 ## Recording Results
 
@@ -83,8 +83,8 @@ If any penalty was given, you should always write the original time, the penalti
 
 Below you can find translations of the tutorial. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
 
-- [Հայերեն (Armenian)](https://www.worldcubeassociation.org/edudoc/judge-tutorial/judge-tutorial-am.pdf) - translated by Mayis Jraghatspanyan
-- [Polski (Polish)](https://www.worldcubeassociation.org/edudoc/judge-tutorial/judge-tutorial-pl.pdf) - translated by Stanislaw Ulbrych
-- [Português Europeu (European Portuguese)](https://www.worldcubeassociation.org/edudoc/judge-tutorial/judge-tutorial-pt.pdf) - translated by António Gomes
-- [Română (Romanian)](https://www.worldcubeassociation.org/edudoc/judge-tutorial/judge-tutorial-ro.pdf) - translated by porduska
-- [Español (Spanish)](https://www.worldcubeassociation.org/edudoc/judge-tutorial/judge-tutorial-es.pdf) - translated by Gennaro Monetti
+- [Հայերեն (Armenian)](wcadoc{edudoc/judge-tutorial/judge-tutorial-am.pdf}) - translated by Mayis Jraghatspanyan
+- [Polski (Polish)](wcadoc{edudoc/judge-tutorial/judge-tutorial-pl.pdf}) - translated by Stanislaw Ulbrych
+- [Português Europeu (European Portuguese)](wcadoc{edudoc/judge-tutorial/judge-tutorial-pt.pdf}) - translated by António Gomes
+- [Română (Romanian)](wcadoc{edudoc/judge-tutorial/judge-tutorial-ro.pdf}) - translated by porduska
+- [Español (Spanish)](wcadoc{edudoc/judge-tutorial/judge-tutorial-es.pdf}) - translated by Gennaro Monetti

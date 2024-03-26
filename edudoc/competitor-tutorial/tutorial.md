@@ -5,7 +5,7 @@ Scroll to the bottom of the document for translations.
 ## WCA Organization - General Introduction
 
 ![WCA logo]({logo}){.logo height=133px}
-The World Cube Association is the organization governing speedcubing competitions all around the world. Every competition that is sanctioned by the WCA has to follow the WCA [Regulations](https://www.worldcubeassociation.org/regulations/) and [Guidelines](https://www.worldcubeassociation.org/regulations/guidelines.html), so it's very important that you are familiar with them before going to a competition.
+The World Cube Association is the organization governing speedcubing competitions all around the world. Every competition that is sanctioned by the WCA has to follow the WCA [Regulations](wca{regulations}) and [Guidelines](wca{regulations/guidelines.html}), so it's very important that you are familiar with them before going to a competition.
 
 This document will guide you through the basics of competing and judging. Reading this document can be very helpful to get a basic picture about official WCA competitions, but we still recommend you to read the WCA Regulations and Guidelines and participate in the "Competition Tutorial" event at the competition if your competition has one.
 
@@ -28,7 +28,7 @@ If you are not sure about something, always ask the Delegate!
 - **Stackmat timer**: This is the official device for measuring times at a competition.
   It can look like any of the three versions below.
 
-![](images/stackmat_timers.png){.centered height=200px}
+![](images/stackmat-timers.png){.centered height=200px}
 
 - **Mat**: Stackmat timers must be used with accompanying mats. The mat helps prevent puzzles from sliding at the end of the attempt.
 
@@ -179,7 +179,7 @@ Remember that the competitor needs to check that the written time is correct and
 
 - **Starting the solve**:
 
-[Regulation A4)](https://www.worldcubeassociation.org/regulations/#A4) is the rule which indicates how to start the timer correctly.
+[Regulation A4)](wca{regulations/#A4}) is the rule which indicates how to start the timer correctly.
 
 ![](images/RegA4.png){.centered width=90%}
 
@@ -189,12 +189,12 @@ Remember that starting the solve incorrectly leads to penalties!
 
 - **During the solve**:
 
-[Regulation A5)](https://www.worldcubeassociation.org/regulations/#A5) explains the rules during the solve.
+[Regulation A5)](wca{regulations/#A5}) explains the rules during the solve.
 During the whole solve, you can only talk to your judge or to the WCA Delegate, you can’t receive any external help from any objects or person. Penalty for either infraction is a DNF.
 
 - **Stopping the timer**:
 
-[Regulation A6)](https://www.worldcubeassociation.org/regulations/#A6) is the rule which explains how to stop the timer correctly.
+[Regulation A6)](wca{regulations/#A6}) is the rule which explains how to stop the timer correctly.
 
 ![](images/RegA6.png){.centered width=90%}
 
@@ -294,7 +294,7 @@ Extra attempts can be given only by a Delegate!
   _Make sure to adhere with the WCA Regulations and ask a Delegate!_
   :::
 
-![](images/cover_infographic.png){.centered width=90%}
+![](images/competitor-guide.png){.centered width=90%}
 
 <div style="margin-top: 200px"></div>
 
@@ -302,7 +302,7 @@ Extra attempts can be given only by a Delegate!
 
 Below you can find translations of the tutorial. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
 
-- [Հայերեն (Armenian)](https://www.worldcubeassociation.org/edudoc/competitor-tutorial/am/tutorial.pdf) - translated by Mayis Jraghatspanyan
-- [Português Europeu (European Portuguese)](https://www.worldcubeassociation.org/edudoc/competitor-tutorial/pt/tutorial.pdf) - translated by António Gomes
-- [Español (Spanish)](https://www.worldcubeassociation.org/edudoc/competitor-tutorial/es/tutorial.pdf) - translated by Gennaro Monetti
-- [Svenska (Swedish)](https://www.worldcubeassociation.org/edudoc/competitor-tutorial/se/tutorial.pdf)
+- [Հայերեն (Armenian)](wcadoc{edudoc/competitor-tutorial/am/tutorial.pdf}) - translated by Mayis Jraghatspanyan
+- [Português Europeu (European Portuguese)](wcadoc{edudoc/competitor-tutorial/pt/tutorial.pdf}) - translated by António Gomes
+- [Español (Spanish)](wcadoc{edudoc/competitor-tutorial/es/tutorial.pdf}) - translated by Gennaro Monetti
+- [Svenska (Swedish)](wcadoc{edudoc/competitor-tutorial/se/tutorial.pdf})

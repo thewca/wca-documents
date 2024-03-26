@@ -19,13 +19,13 @@ Uma abordagem útil para competições mais pequenas (por exemplo, 20 a 60 compe
 
 ## Área de espectadores
 
-É importante que os espectadores possam ter uma visão boa e clara da maioria das estações e displays de resolução. Deve tentar manter o público razoavelmente próximo das estações de resolução, mas lembre-se de que deve haver uma distância mínima de 1,5 metros conforme o Regulamento [7b](https://www.worldcubeassociation.org/regulations/#7b). Além disso, esteja ciente de que, além do público geral, também haverá muitos competidores a assistir, portanto, certifique-se de ter cadeiras suficientes.
+É importante que os espectadores possam ter uma visão boa e clara da maioria das estações e displays de resolução. Deve tentar manter o público razoavelmente próximo das estações de resolução, mas lembre-se de que deve haver uma distância mínima de 1,5 metros conforme o Regulamento [7b](wca{regulations/#7b}). Além disso, esteja ciente de que, além do público geral, também haverá muitos competidores a assistir, portanto, certifique-se de ter cadeiras suficientes.
 
 A inscrição online do site da WCA permite que se possa perguntar aos competidores quantos convidados vão trazer, isso pode ser útil para ter uma ideia melhor de quantos espectadores pode ter no dia da competição.
 
 ## Mesa de embaralhamento
 
-A mesa de embaralhamento deve estar razoavelmente perto das estações de resolução para que não demore muito tempo os juízes (ou “[corredores](https://www.worldcubeassociation.org/edudoc/organizer-guidelines/pt/running-systems.pdf)”) pegarem nos puzzles e transportá-los da mesa de embaralhamento para as estações de resolução e vice-versa. Também deve haver algum tipo de barreira visual para garantir que os competidores ou convidados não possam ver os embaralhamentos.
+A mesa de embaralhamento deve estar razoavelmente perto das estações de resolução para que não demore muito tempo os juízes (ou “[corredores](wcadoc{edudoc/organizer-guidelines/pt/running-systems.pdf})”) pegarem nos puzzles e transportá-los da mesa de embaralhamento para as estações de resolução e vice-versa. Também deve haver algum tipo de barreira visual para garantir que os competidores ou convidados não possam ver os embaralhamentos.
 
 A mesa de entrega de puzzles pode ser simplesmente a mesa de embaralhamento (geralmente feita em competições menores). Se estiver a usar uma mesa de entrega de puzzles separada, certifique-se de que não está muito longe da mesa de embaralhamento para facilitar o transporte pelos corredores dos puzzles.
 

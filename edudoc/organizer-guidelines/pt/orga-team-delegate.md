@@ -15,7 +15,7 @@ Depois de juntar uma equipa de organização, deve escolher um organizador princ
 
 ## Contactar com um Delegado
 
-A lista completa de todos os delegados da WCA pode ser encontrada [aqui](https://www.worldcubeassociation.org/delegates). É importante que encontre o mais adequado para si, dependendo da localização da competição. Se já houver um Delegado na sua região próxima, deve começar entrando em contato com ele. Se o Delegado local não estiver disponível para a competição, ele provavelmente irá indica os próximos passos apropriados ou outro Delegado que possa ajudar, caso contrário, entre em contato com o Delegado Sénior da região.
+A lista completa de todos os delegados da WCA pode ser encontrada [aqui](wca{delegates}). É importante que encontre o mais adequado para si, dependendo da localização da competição. Se já houver um Delegado na sua região próxima, deve começar entrando em contato com ele. Se o Delegado local não estiver disponível para a competição, ele provavelmente irá indica os próximos passos apropriados ou outro Delegado que possa ajudar, caso contrário, entre em contato com o Delegado Sénior da região.
 
 Infelizmente, pode não haver um Delegado na sua região. Nesse caso, entrar em contato com o Delegado Sénior da região é a solução mais adequada para que ele possa tentar ajudá-lo a encontrar um Delegado para oficializar a sua competição.
 

@@ -35,8 +35,8 @@ To calculate the Due amount owed for a competition, the following procedure will
 
 1. The country used to determine the Due amount is the country in which the competition takes place.
    1. For 3x3x3 Fewest Moves simultaneous competitions that take place in more than one country, the Due amount will be waived.
-2. Countries will be grouped together into 6 Bands based on their Cost of Living values. <br> Countries are assigned to a band according to [this list](https://www.worldcubeassociation.org/wfc/country-bands) with updates made periodically at the discretion of the WFC.
-3. To determine the per-competitor Due amount based on the country band, look up the competition’s band, then find its per-competitor price using [this list](https://www.worldcubeassociation.org/wfc/country-bands).
+2. Countries will be grouped together into 6 Bands based on their Cost of Living values. <br> Countries are assigned to a band according to [this list](wca{wfc/country-bands}) with updates made periodically at the discretion of the WFC.
+3. To determine the per-competitor Due amount based on the country band, look up the competition’s band, then find its per-competitor price using [this list](wca{wfc/country-bands}).
    1. The per-competitor price for Band 5 is called the Base Due amount. The per-competitor price for all other bands is a fraction of the Base Due amount.
    2. The Base Due amount is an amount set per this policy at USD $3. All other band Due amounts will be amounts less than this amount as determined by the WFC.
       1. Countries in Band 0 do not owe Dues to the WCA for any competitions held while that country maintains Band 0 status.

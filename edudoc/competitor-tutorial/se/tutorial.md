@@ -3,7 +3,7 @@
 ## WCA som organisation - Generell Introduktion
 
 ![WCA logo]({logo}){.logo height=133px}
-WCA (World Cube Association) är organisationen som ansvarar för arrangerande av tävlingar i Speedcubing över hela världen. Alla WCA-tävlingar måste följa WCA:s [Tävlingsregler](https://www.worldcubeassociation.org/regulations/) och [Riktlinjer]((https://www.worldcubeassociation.org/regulations/guidelines.html)), därför är det viktigt att du är bekant med dessa innan du deltar.
+WCA (World Cube Association) är organisationen som ansvarar för arrangerande av tävlingar i Speedcubing över hela världen. Alla WCA-tävlingar måste följa WCA:s [Tävlingsregler](wca{regulations}) och [Riktlinjer]((wca{regulations/guidelines.html})), därför är det viktigt att du är bekant med dessa innan du deltar.
 
 Detta dokument guidar dig genom grunderna i att tävla och döma. Att läsa detta dokument kan vara väldigt nyttigt för att få en grundförståelse för WCA-tävlingar, men vi rekommenderar ändå att du läser WCA:s tävlingsregler och riktlinjer, samt deltar i deltagarinstruktionen om tävlingen har en sådan.
 
@@ -25,7 +25,7 @@ Om du är osäker på något, fråga alltid delegaten!
 - **Stackmat-timer**: Detta är den officiella enheten för tidtagning på tävlingar.
 Den kan se ut som någon av de tre versionerna nedan.
 
-![](../images/stackmat_timers.png){.centered height=200px}
+![](../images/stackmat-timers.png){.centered height=200px}
 
 - **Matta**: Stackmat-timers måste användas tillsammans med tillhörande mattor. Mattan håller timern på plats, skyddar pusslen, och förhindrar dem från att glida iväg vid slutet av försöket.
 
@@ -167,7 +167,7 @@ Deltagaren måste verifiera att resultatet är korrekt och läsbart innan hen si
 
 - **Starta lösningen**:
 
-[Regel A4)](https://www.worldcubeassociation.org/regulations/#A4) reglerar hur timern ska startas.
+[Regel A4)](wca{regulations/#A4}) reglerar hur timern ska startas.
 
 ![](images/RegA4.png){.centered width=90%}
 
@@ -177,12 +177,12 @@ Kom ihåg: Att starta lösningen på ett felaktigt sätt leder till tidsstraff!
 
 - **Under lösningen**:
 
-[Regel A5)](https://www.worldcubeassociation.org/regulations/#A5) förklarar reglerna under lösningen.
+[Regel A5)](wca{regulations/#A5}) förklarar reglerna under lösningen.
 Under hela lösningen får deltagaren bara prata med domaren och Delegaten. Du får inte få någon hjälp från något föremål eller person. Straff för båda dessa är DNF.
 
 - **Stoppa timern**:
 
-[Regel A6)](https://www.worldcubeassociation.org/regulations/#A6) reglerar hur timern ska stoppas.
+[Regel A6)](wca{regulations/#A6}) reglerar hur timern ska stoppas.
 
 ![](images/RegA6.png){.centered width=90%}
 
@@ -283,4 +283,4 @@ Endast delegater kan dela ut extra försök!
   *Se till att följa tävlingsreglerna, och fråga en delegat om du är osäker!*
   :::
 
-![](images/cover_infographic.png){.centered width=90%}
+![](images/competitor-guide.png){.centered width=90%}

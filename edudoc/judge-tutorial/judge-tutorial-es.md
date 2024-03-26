@@ -70,7 +70,7 @@ Otros ejemplos de incidentes que pueden resultar en una penalización son:
 
 - **DNF**: mientras inspecciona o resuelve el puzzle, el competidor no debe recibir asistencia de nadie ni de ningún objeto, aparte de la superficie.
 
-- **DNF**: mientras inspecciona o resuelve el puzzle, el competidor no debe utilizar ningún tipo de dispositivo electrónico (ver [Directriz 2i++++](https://www.worldcubeassociation.org/regulations/guidelines.html#2i++++)).
+- **DNF**: mientras inspecciona o resuelve el puzzle, el competidor no debe utilizar ningún tipo de dispositivo electrónico (ver [Directriz 2i++++](wca{regulations/guidelines.html#2i++++})).
 
 ## Registrando los resultados
 
