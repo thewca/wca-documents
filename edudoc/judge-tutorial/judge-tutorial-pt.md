@@ -27,7 +27,7 @@ Este é o principal equipamento e ferramentas necessárias para realizar uma ten
 9. O competidor vai parar o cronómetro assim que resolver o puzzle para terminar a tentativa. Inspecione o puzzle sem tocá-lo (exceto para o evento Clock) e diga “OK”, “PENALIDADE” ou “DNF”.
 10. Um resultado final (juntamente com penalidades, se aplicável) é registado na folha de resultados antes do juiz e o competidor assinarem a tentativa para verificar que o resultado está correto e aceite.
 
-## Penalidades {.page-break-before}
+## Penalidades
 
 **+2**: é uma penalidade onde 2 segundos são adicionados ao resultado final da tentativa. As penalidades de **+2** são cumulativas, o que significa que o competidor pode potencialmente receber uma penalidade total de **+4** ou até mais. **Did Not Finish** (DNF) é uma penalidade que resulta na desqualificação da tentativa. Se não tem a certeza do que deve ser feito num incidente, deve sempre pedir um conselho ao Delegado da WCA da competição.
 
@@ -47,7 +47,7 @@ Aqui estão alguns incidentes comuns que podem resultar em +2 ou DNF:
 
 **+2**: é dado quando o competidor toca no puzzle antes que o juiz inspecione o estado de resolução.
 
-![](images/penalty3.png){.centered .page-break-before}
+![](images/penalty3.png){.centered}
 
 **+2**: é dado quando o competidor falha em iniciar o Cronómetro com as palmas das mãos voltadas para baixo.
 

@@ -28,7 +28,7 @@ Acesta este echipamentul principal si instrumentele necesare pentru a continua c
 9. Concurentul oprește cronometrul odată ce a rezolvat puzzle-ul pentru a opri încercarea. Inspectați puzzle fără a-l atinge (cu excepția evenimentului Clock) și spune „OK”, „PENALITATE” sau „DNF”.
 10. Un rezultat final (împreună cu penalizările, dacă este cazul) este înregistrat pe tabelul de punctaj înaintea judecătorului ți concurentul semnează încercarea de a verifica dacă rezultatul este correct și acceptat.
 
-## Penalizări {.page-break-before}
+## Penalizări
 
 **+2**: este o penalizare în care se adaugă 2 secunde la rezultatul final al încercării. **+2** penalitățile sunt cumulative, ceea ce înseamnă că concurentul ar putea primi o penalizare totală de **+4** sau chiar mai mare. **Nu a terminat** (DNF) este o penalizare care duce la descalificarea încercării. Dacă nu ești sigur ce ar trebui făcut într-un incident, trebuie să întrebați întotdeauna delegatul WCA al competiției pentru un sfat.
 
@@ -48,7 +48,7 @@ Iată câteva incidente comune care pot duce la +2 sau DNF:
 
 **+2**: este dat atunci când concurentul atinge puzzle-ul înainte ca judecătorul să fi inspectat starea rezolvată.
 
-![](images/penalty3.png){.centered .page-break-before}
+![](images/penalty3.png){.centered}
 
 **+2**: este dat atunci când concurentul nu reușește să pornească cronometrul cu palmele îndreptate în jos.
 
