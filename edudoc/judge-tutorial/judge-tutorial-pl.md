@@ -1,12 +1,14 @@
 # Sędziowanie dla nowicjuszy
 
+### Version 1.0 {.version}
+
 Ten dokument jest dla osób, które wcześniej nie były sędziami i przedstawi niektóre z kluczowych przepisów, których należy przestrzegać podczas procesu sędziowania. Opisana procedura jest przeznaczona dla regularnych zawodów Speedcubingu. W przypadku zawodów z zawiązanymi oczami istnieje kilka kluczowych różnic, które nie zostały wyróżnione w tym dokumencie.
 
 ## Sprzęt
 
 Oto główne wyposażenie i narzędzia wymagane do podjęcia próby rozwiązania układanki:
 
-**Stackmat timer**: Jest to oficjalne urządzenie do pomiaru czasu na zawodach WCA. Na zdjęciu poniżej widać najnowszą wersją timera, poprzednie wersje timera są nadal akceptowane do użytku w zawodach.
+**Stackmat timer**: Jest to oficjalne urządzenie do pomiaru czasu na zawodach WCA. Na zdjęciu poniżej widać najnowszą wersją timera, ale timery Gen 4 oraz Gen 3 są nadal akceptowane do użytku w zawodach.
 
 ![](images/timer-pl.png){.centered}
 
@@ -27,33 +29,33 @@ Oto główne wyposażenie i narzędzia wymagane do podjęcia próby rozwiązania
 
 ## Kary {.page-break-before}
 
-**+2** to kara, w której 2 sekundy są dodawane do końcowego wyniku próby. Kary kumulują się, co oznacza, że zawodnik może potencjalnie otrzymać łączną karę w wysokości **+4** lub nawet wyższą. **Did Not Finish (PL: Nie ukończył)** (DNF) to kara, która skutkuje dyskwalifikacją próby. Jeśli nie jesteś pewien, co należy zrobić w danym przypadku, zawsze powinieneś poprosić o radę Delegata WCA konkursu.
+**+2**: to kara, w której 2 sekundy są dodawane do końcowego wyniku próby. Kary kumulują się, co oznacza, że zawodnik może potencjalnie otrzymać łączną karę w wysokości **+4** lub nawet wyższą. **Did Not Finish (PL: Nie ukończył)** (DNF) to kara, która skutkuje dyskwalifikacją próby. Jeśli nie jesteś pewien, co należy zrobić w danym przypadku, zawsze powinieneś poprosić o radę Delegata WCA konkursu.
 
 Oto kilka typowych zdarzeń, które mogą skutkować +2 lub DNF:
 
 ![](images/penalty1.png){.centered}
 
-**+2** kara jest dawana, gdy zawodnik przekroczy 15 sekund czasu kontroli i rozpocznie rozwiązanie przed 17 sekundami.
+**+2**: kara jest dawana, gdy zawodnik przekroczy 15 sekund czasu kontroli i rozpocznie rozwiązanie przed 17 sekundami.
 
-**DNF** kara jest dawana, gdy zawodnik nie rozpocznie rozwiązania w ciągu 17 sekund od czasu inspekcji.
+**DNF**: kara jest dawana, gdy zawodnik nie rozpocznie rozwiązania w ciągu 17 sekund od czasu inspekcji.
 
 ![](images/penalty2.png){.centered}
 
-**+2** kara jest dawana, gdy zawodnik dotknie układanki podczas uruchamiania zegara.
+**+2**: kara jest dawana, gdy zawodnik dotknie układanki podczas uruchamiania zegara.
 
-**+2** kara jest dawana, gdy zawodnik zatrzymuje zegar bez całkowitego zwolnienia układanki.
+**+2**: kara jest dawana, gdy zawodnik zatrzymuje zegar bez całkowitego zwolnienia układanki.
 
-**+2** kara jest dawana, gdy zawodnik dotknie układanki, zanim sędzia sprawdzi jej rozwiązanie.
+**+2**: kara jest dawana, gdy zawodnik dotknie układanki, zanim sędzia sprawdzi jej rozwiązanie.
 
 ![](images/penalty3.png){.centered .page-break-before}
 
-**+2** kara jest dawana, gdy zawodnik nie uruchamia zegara z dłońmi skierowanymi w dół.
+**+2**: kara jest dawana, gdy zawodnik nie uruchamia zegara z dłońmi skierowanymi w dół.
 
-**+2** kara jest dawana, gdy zawodnik nie zatrzymuje zegara z dłońmi skierowanymi w dół.
+**+2**: kara jest dawana, gdy zawodnik nie zatrzymuje zegara z dłońmi skierowanymi w dół.
 
 ![](images/penalty4.png){.centered}
 
-**+2** kara jest dawana, jeśli w układance brakuje jednego ruchu do stanu rozwiązanego na końcu próby.
+**+2**: kara jest dawana, jeśli w układance brakuje jednego ruchu do stanu rozwiązanego na końcu próby.
 
 Uwaga: obrót o 180° (R2, U2 itd.) jest uważany za jeden ruch.
 
