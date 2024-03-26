@@ -79,8 +79,6 @@ If any penalty was given, you should always write the original time, the penalti
 - If a competitor finishes a solve with a time of 17.65 and receives a +2 for not properly starting the timer, the final result should be written as `17.65+2=19.65`. 
 - If a competitor finishes a 3x3x3 solve with a time of 12.19 and receives a +2 for inspecting for 16 seconds and a +2 for a 60° misalignment at the end, the final result should be written as `12.19+4=16.19`.
 
-<div style="margin-top: 200px"></div>
-
 ## Translations
 
 Below you can find translations of the tutorial. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.

@@ -27,7 +27,7 @@ Estas son las principales herramientas y equipamiento requeridos para proceder c
 9. El competidor detendrá el temporizador para terminar con la etapa de resolución. Debes revisar el puzzle sin tocarlo (excepto en la categoría Clock) y decir el tiempo y las penalizaciones (si las hay).
 10. El resultado final (junto con las penalizaciones, si las hay) es registrado en la hoja de resultados antes de que el juez y el competidor firmen el intento para confirmar que el resultado es correcto y aceptado por ambos.
 
-## Penalizaciones {.page-break-before}
+## Penalizaciones
 
 **+2**: es una penalización que suma dos segundos al resultado final del intento. Las penalizaciones **+2** son acumulativas, lo que significa que el competidor podría llegar a recibir una penalización total de **+4** o incluso mayor. **Did Not Finish** (DNF) es una penalización que descalifica el intento. Si no estás seguro de lo que deberías hacer en un incidente, siempre deberías preguntarle al Delegado de la WCA.
 
