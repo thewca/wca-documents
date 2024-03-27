@@ -68,7 +68,7 @@ Algunos incidentes comunes que pueden resultar en +2 o DNF:
 
 Otros ejemplos de incidentes que pueden resultar en una penalización son:
 
-**DNF**: mientras inspecciona o resuelve el puzzle, el competidor no debe comunicarse con nadie que no sea el juez o el delegado de la WCA designado. Si tal interacción con una persona que no sea el juez o el delegado de la WCA designado no implica ningún tipo de ventaja para el competidor, la penalización puede ser ignorada, a discreción del delegado de la WCA.
+**DNF**: mientras inspecciona o resuelve el puzzle, el competidor no debe comunicarse con nadie que no sea el juez o el delegado de la WCA designado. Si tal interacción con una persona que no sea el juez o el delegado de la WCA designado no implica una ventaja para el competidor, la penalización puede ser ignorada, a discreción del delegado de la WCA.
 
 **DNF**: mientras inspecciona o resuelve el puzzle, el competidor no debe recibir asistencia de nadie ni de ningún objeto, aparte de la superficie.
 
