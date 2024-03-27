@@ -45,7 +45,7 @@ Here are some common incidents that can result in +2 or DNF:
 
 **+2**: the competitor stops the timer without fully releasing the puzzle.
 
-**DNF**: the competitor touches the puzzle before the judge has inspected the solved state. If you are certain that no change in alignment of the puzzle was done as a result of this, **+2** can be given instead.
+**DNF**: the competitor touches the puzzle before the judge has inspected the solved state. If you are certain that no change in alignment of the puzzle was done as a result of this, **+2** can be given instead. Exception: if immediately after stopping the timer, the competitor **briefly** touches the puzzle without affecting its state, the time penalty may be lifted, at the discretion of the judge
 
 ![](images/penalty3.png){.centered .page-break-before}
 
@@ -66,11 +66,11 @@ Here are some common incidents that can result in +2 or DNF:
 
 Other incidents that can result in a penalty include the following:
 
-**DNF**: while inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge or the WCA Delegate of the competition.
+**DNF**: while inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge or the WCA Delegate of the competition. Exception: If the competitor does not gain an advantage by communicating with anyone other than the judge or the WCA Delegate, the result may stand, at the discretion of the WCA Delegate.
 
 **DNF**: while inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface.
 
-**DNF**: while inspecting or solving the puzzle, the competitor must not use any kind of recording device or electronics (see [Guideline 2i++++](wca{regulations/guidelines.html#2i++++}) for clarification).
+**DNF**: while inspecting or solving the puzzle, the competitor must not use any kind of electronic device (see [Guideline 2i++++](wca{regulations/guidelines.html#2i++++}) for clarification).
 
 ## Recording Results
 

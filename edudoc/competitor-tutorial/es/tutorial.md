@@ -1,6 +1,6 @@
-# Tutorial de Competiciones de la WCA
+# Tutorial para Competiciones de la WCA
 
-Para hacer este documento más fácil de leer, se usa el masculino (él) en ocasiones donde tanto el término masculino como el femenino (él / ella) son aplicables.
+Para facilitar la lectura de este documento, se utiliza el masculino (el) en ocasiones donde tanto el término masculino como el femenino (el/la) son aplicables.
 
 ## Organización de la WCA - Introducción General
 
