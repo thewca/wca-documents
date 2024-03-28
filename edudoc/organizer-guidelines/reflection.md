@@ -50,4 +50,4 @@ Here are some questions that you should try to get an answer to:
 
 Below you can find translations of this document. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
 
-- [Português Europeu (European Portuguese)](https://worldcubeassociation.org/edudoc/organizer-guidelines/pt/reflection.pdf) - translated by António Gomes
+- [Português Europeu (European Portuguese)](wcadoc{edudoc/organizer-guidelines/pt/reflection.pdf}) - translated by António Gomes

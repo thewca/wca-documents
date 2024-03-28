@@ -51,4 +51,4 @@ Here’s an example budget that could work for your competition. You need to be 
 
 Below you can find translations of this document. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
 
-- [Português Europeu (European Portuguese)](https://worldcubeassociation.org/edudoc/organizer-guidelines/pt/budget.pdf) - translated by António Gomes
+- [Português Europeu (European Portuguese)](wcadoc{edudoc/organizer-guidelines/pt/budget.pdf}) - translated by António Gomes

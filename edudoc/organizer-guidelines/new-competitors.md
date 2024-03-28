@@ -33,4 +33,4 @@ Most of the time, the parents or guardians will have some queries about somethin
 
 Below you can find translations of this document. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
 
-- [Português Europeu (European Portuguese)](https://worldcubeassociation.org/edudoc/organizer-guidelines/pt/new-competitors.pdf) - translated by António Gomes
+- [Português Europeu (European Portuguese)](wcadoc{edudoc/organizer-guidelines/pt/new-competitors.pdf}) - translated by António Gomes

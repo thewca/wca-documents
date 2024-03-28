@@ -65,11 +65,11 @@ To request an official competition you first need to create a new competition by
 ### Some general rules about requesting a competition:
 
 - The competition must be announced **at least 28 days** before the scheduled start of the competition. You should **submit the competition earlier than this** as a safety measure so that if there is an issue with the competition, then the competition will likely still be announced before the 28-day deadline.
-- The competition must comply with the [Competition Requirements Policy](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Requirements.pdf). This means your competition should be at least 10 kilometers and 5 days away from all other competitions. There can be exceptions made to the Proximity Policy if the Delegate has valid arguments. Examples can be found in the policy.
+- The competition must comply with the [Competition Requirements Policy](https://documents.worldcubeassociation.org/documents/policies/external/Competition%20Requirements.pdf). This means your competition should be at least 10 kilometers and 5 days away from all other competitions. There can be exceptions made to the Proximity Policy if the Delegate has valid arguments. Examples can be found in the policy.
 
 ### How to fill out the new competition page: {.page-break-before}
 
-- The name of the competition must follow the [Competition Requirements Policy](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Requirements.pdf). Even if you are choosing a name which is obvious for you why it complies with the policy, you must still give an explanation of the name in the “The reason for the name” field.
+- The name of the competition must follow the [Competition Requirements Policy](https://documents.worldcubeassociation.org/documents/policies/external/Competition%20Requirements.pdf). Even if you are choosing a name which is obvious for you why it complies with the policy, you must still give an explanation of the name in the “The reason for the name” field.
   - The competition nickname should be the same as the actual name of the competition if it is 32 or fewer characters with few exceptions. If the name of the competition is over 32 characters, you should pick a nickname which is as close as possible to the actual name. The nickname is only used for display purposes and is what will be shown on the “[Competitions](https://www.worldcubeassociation.org/competitions)” page and in the “[Rankings](https://www.worldcubeassociation.org/results/events.php)” page.
   - The ID should be the same as the name or nickname with few exceptions.
 - When writing the location of the venue, please be sure to write with the correct formatting. The country should not be written in the “City name” field. If you are from a country with subregions/states like the United States, you must write the city name first, and then the state in full. For example, this would look like “Portland, Oregon”, Note: NOT “Portland, OR”.
@@ -93,7 +93,7 @@ After you have followed all the steps and double-checked that everything is corr
 
 A Fewest Moves Simultaneous Competition is a competition taking place in different venues at the same time. At such a competition ONLY 3x3x3 Fewest Moves is held and all competitors get the same scrambles. These competitions are made to make it easier for competitors to compete in a less popular event which is not very regularly held.
 
-There are differences in the [Competition Requirements Policy](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Requirements.pdf) which apply to Fewest Moves Simultaneous Competitions. These competitions can be held as long as:
+There are differences in the [Competition Requirements Policy](https://documents.worldcubeassociation.org/documents/policies/external/Competition%20Requirements.pdf) which apply to Fewest Moves Simultaneous Competitions. These competitions can be held as long as:
 
 - None of the locations are closer than 10 kilometers to a regular competition.
 - There can be made exceptions if both competitions are least 5 days apart, or the other competition must not have 3x3x3 Fewest Moves as an event.
@@ -299,7 +299,7 @@ We encourage Delegates to write careful, detailed reports for the benefit of all
 
 (added on April 10, 2019)
 
-All competitions that are WCA official must (bar some exceptions) pay a small fee as part of the [Dues System](https://www.worldcubeassociation.org/documents/policies/external/Dues%20System.pdf).
+All competitions that are WCA official must (bar some exceptions) pay a small fee as part of the [Dues System](https://documents.worldcubeassociation.org/documents/policies/external/Dues%20System.pdf).
 
 Before the competition, both the Delegates and organisers should be aware of the cost and can therefore budget for an estimated fee that they will be liable to pay once results are uploaded.
 
@@ -370,7 +370,7 @@ The following steps should be completed to appoint a new WCA Delegate:
 
 1. Recommend a person to your Senior and Regional Delegate with a reason for why this person should be a Delegate and why the region needs a Delegate
 1. If the Senior Delegate and Regional Delegate agree, then the Senior Delegate will fill out the application form and submit it to the WCA Board
-1. If the Board approves the application, the Senior Delegate will have the new Trainee Delegate agree to and sign the [Code of Conduct](https://www.worldcubeassociation.org/documents/Code%20of%20Conduct.pdf) and [Code of Ethics](https://www.worldcubeassociation.org/documents/Code%20of%20Ethics.pdf), as well as disclose any potential conflicts of interest
+1. If the Board approves the application, the Senior Delegate will have the new Trainee Delegate agree to and sign the [Code of Conduct](https://documents.worldcubeassociation.org/documents/Code%20of%20Conduct.pdf) and [Code of Ethics](https://documents.worldcubeassociation.org/documents/Code%20of%20Ethics.pdf), as well as disclose any potential conflicts of interest
 1. The Trainee Delegate must add a profile picture to their WCA account, if they do not already have one
 1. The Senior Delegate will then update the new Trainee Delegate's status on the WCA website
 1. The Trainee Delegate must then send a short introduction email to the Board (and their regional delegate mailing list if they want to)
