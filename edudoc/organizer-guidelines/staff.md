@@ -47,4 +47,4 @@ Most of the time there will not be any major issue to assign staff for the first
 
 Below you can find translations of this document. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
 
-- [Português Europeu (European Portuguese)](https://worldcubeassociation.org/edudoc/organizer-guidelines/pt/staff.pdf) - translated by António Gomes
+- [Português Europeu (European Portuguese)](wcadoc{edudoc/organizer-guidelines/pt/staff.pdf}) - translated by António Gomes

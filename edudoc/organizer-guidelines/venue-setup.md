@@ -47,4 +47,4 @@ For 3x3x3 Fewest Moves, you may have more competitors per station compared to re
 
 Below you can find translations of this document. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
 
-- [Português Europeu (European Portuguese)](https://worldcubeassociation.org/edudoc/organizer-guidelines/pt/venue-setup.pdf) - translated by António Gomes
+- [Português Europeu (European Portuguese)](wcadoc{edudoc/organizer-guidelines/pt/venue-setup.pdf}) - translated by António Gomes
