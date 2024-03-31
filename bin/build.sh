@@ -4,7 +4,7 @@
 set -x
 
 # WCA url and absolute path to WCA logo file
-wca_url="https://worldcubeassociation.org/"
+wca_url="https://www.worldcubeassociation.org/"
 wca_docs_url="https://documents.worldcubeassociation.org/"
 logo=$(realpath "./assets/WCAlogo_notext.svg")
 # Absolute paths to the stylesheets and the edudoc header
