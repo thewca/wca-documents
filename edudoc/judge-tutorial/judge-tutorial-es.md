@@ -19,7 +19,7 @@ Estas son las principales herramientas y equipamiento requeridos para proceder c
 ## Procedimiento
 
 1. Colocar el puzzle mezclado en el tapete del Stackmat y mantenerlo cubierto hasta el comienzo de cada intento.
-2. Reiniciar el temporizador Stackmat y el cronómetro de mano. Si tu estación cuenta con un timer Gen 5, necesitarás mantener presionado el botón de reinicio durante un poco menos de un segundo y deberías asegurarte que el mismo se encuentre en el modo de 2 sensores (la luz del timer debería estar en amarillo y **no** en azul).
+2. Reiniciar el temporizador Stackmat y el cronómetro de mano. Si tu estación cuenta con un timer Gen 5, necesitarás mantener presionado el botón de reinicio durante un poco más de tiempo y deberías asegurarte de que el mismo se encuentra en el modo de 2 sensores (la luz del timer debería estar en amarillo y **no** en azul).
 3. Pregúntale al competidor si está listo. El competidor tiene hasta un minuto para confirmar que está listo.
 4. Cuando el competidor está listo, se quita la cobertura del puzzle y al mismo tiempo se inicia el cronómetro para medir la inspección. Esto marca el comienzo del intento.
 5. Una vez que hayan transcurrido 8 segundos de inspección, debes decir "8 segundos". Luego de transcurridos 12 segundos, debes decir "12 segundos".
