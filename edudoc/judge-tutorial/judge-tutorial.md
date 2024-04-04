@@ -8,7 +8,7 @@ This document is intended for those who have not been a judge before, and will h
 
 This is the main equipment and tools required to proceed with a speedsolving attempt:
 
-**Stackmat timer**: This is the official device for measuring times at a WCA competition. The image below is the latest version of the timer, but the Gen 3 and Gen 4 versions of the timer are also accepted for use at competitions.
+**Stackmat timer**: This is the official device for measuring times at a WCA competition. The image below is the latest version of the timer (Gen 5), but the Gen 3 and Gen 4 versions of the timer are also accepted for use at competitions.
 
 ![](images/timer.png){.centered}
 
@@ -17,7 +17,7 @@ This is the main equipment and tools required to proceed with a speedsolving att
 ## Judging Procedure
 
 1. Place the scrambled puzzle on the mat and keep it covered before the start of every attempt.
-2. Reset both the Stackmat timer and stopwatch.
+2. Reset both the Stackmat timer and the stopwatch. If your station has a Gen 5 timer, you will need to press the reset button a bit longer than usual and you should also check that the timer is in 2-pad mode (the light should be yellow, **not** blue).
 3. Ask the competitor if they are ready; they have one minute to get ready.
 4. Once the competitor is ready, uncover the puzzle and start the stopwatch simultaneously to time the inspection. This starts the attempt.
 5. After 8 seconds of inspection have elapsed you must call “8 seconds”. After 12 seconds of inspection have elapsed, you must call “12 seconds”.
@@ -45,7 +45,7 @@ Here are some common incidents that can result in +2 or DNF:
 
 **+2**: the competitor stops the timer without fully releasing the puzzle.
 
-**DNF**: the competitor touches the puzzle before the judge has inspected the solved state. If you are certain that no change in alignment of the puzzle was done as a result of this, **+2** can be given instead. Exception: if immediately after stopping the timer, the competitor **briefly** touches the puzzle without affecting its state, the time penalty may be lifted, at the discretion of the judge
+**DNF**: the competitor touches the puzzle before the judge has inspected the solved state. If you are certain that no change in alignment of the puzzle was done as a result of this, **+2** can be given instead. Exception: if immediately after stopping the timer, the competitor **briefly** touches the puzzle without affecting its state, the time penalty may be lifted, at the discretion of the judge.
 
 ![](images/penalty3.png){.centered .page-break-before}
 
