@@ -17,7 +17,7 @@ This is the main equipment and tools required to proceed with a speedsolving att
 ## Judging Procedure
 
 1. Place the scrambled puzzle on the mat and keep it covered before the start of every attempt.
-2. Reset both the Stackmat timer and the stopwatch. If your station has a Gen 5 timer, you will need to press the reset button a bit longer than usual and you should also check that the timer is in 2-pad mode (the light should be yellow, **not** blue).
+2. Reset both the Stackmat timer and the stopwatch. If your station has a Gen 5 timer, you will need to press the reset button for a bit longer than usual, and you should also check that the timer is in 2-pad mode (the light should be yellow, **not** blue).
 3. Ask the competitor if they are ready; they have one minute to get ready.
 4. Once the competitor is ready, uncover the puzzle and start the stopwatch simultaneously to time the inspection. This starts the attempt.
 5. After 8 seconds of inspection have elapsed you must call “8 seconds”. After 12 seconds of inspection have elapsed, you must call “12 seconds”.
