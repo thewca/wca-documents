@@ -16,7 +16,7 @@ An official WCA Competition must:
 4. Be open to all competitors and spectators who wish to attend, up to the maximum capacity stated on the website or otherwise permitted by the venue. 
    1. Any restrictions placed on competitors and/or spectators who can attend must be publicly outlined in the competition information section and approved by the WCA Board or WCA Competition Announcement Team.
    2. Individuals suspended from attending WCA sanctioned competitions may not attend any WCA sanctioned competitions until the period of their suspension has expired (see 1.1 of Suspensions and other Sanctions).
-   3. A WCA Delegate may require individuals to leave the competition venue for behavior that is unlawful/violent/indecent/unsafe, or intentionally damages venue facilities or personal property within the venue. Delegates must take into account the seriousness of the situation and the best possible course of action. Delegates must also report any such incidents to the WDC to investigate the need for disciplinary action.
+   3. A WCA Delegate may require individuals to leave the competition venue for behavior that is unlawful/violent/indecent/unsafe, or intentionally damages venue facilities or personal property within the venue. Delegates must take into account the seriousness of the situation and the best possible course of action. Delegates must also report any such incidents to the WDC to determine the need for disciplinary action.
 5. Be held on a single date or on two or more consecutive days.
 6. Have at least one official event.
 7. Have at least two competitors.
@@ -32,6 +32,7 @@ An official WCA Competition must:
             1. Physical records (e.g. score sheets, written solutions from 3x3x3 Fewest Moves) must be retained for a minimum of 90 days.
                  1. Scanned copies may be kept instead of the physical records.
             2. Digital records (e.g. scramble sequences, results) must be retained for a minimum of 7 years.
+                 1. Results and scramble sequences are automatically retained once uploaded to the WCA website.
       3. Sending corrections of competition results to the WCA Results Team.
       4. Advising other competition officials when necessary.
       5. Deciding whether to disqualify competitors during the competition per ([WCA Regulation 2k)](wca{regulations/#2k})).
@@ -138,8 +139,8 @@ The WCA Delegate must submit the following information when requesting approval 
       1. If such a maximum number is not available, the best estimate from a Delegate may be used.
    5. The WCA Competition Announcement Team will review the competitor limit and/or qualification results or rankings to ensure that they are utilized properly.
       1. The WCA Competition Announcement Team, together with the Senior Delegate, may set a minimum competitor limit per region and event list.
-      2. Competitions with a low expected competitor turnout may be rejected at the discretion of the Senior Delegate for the region.
          1. Where a minimum limit is used for series, the total of competitors across all competitions in the series is considered.
+      2. Competitions with a low expected competitor turnout may be rejected at the discretion of the Senior Delegate for the region.
 6. Registration requirements
    1. The registration requirements are the set of rules and procedures relevant to the registration process.
       1. The registration requirements must be clear and precise.
@@ -162,13 +163,12 @@ The WCA Delegate must submit the following information when requesting approval 
         1. A registration period may be extended and active immediately, at the discretion of WCAT. 
       3. Different registration periods may have different registration requirements (e.g. restricting which events a competitor can register for).
    3. The registration requirements must include the procedure for completing a valid registration.
-   4. The registration requirements must include the deadline for adding registered events for competitors with completed registrations.
-      1. This deadline must not be earlier than the time registration is set to close. 
-         1. The default deadline is the same as the time at which registration closes.
-         2. The deadline for adding registered events may be left blank, in which competitors may add registered events up until an event takes place.
-      2. Competitors may choose not to compete in an event they are registered for.
-      3. Exception: for competitions with only one event, the deadline for adding registered events may be omitted.
-      4. At the discretion of the WCA Delegate(s), a competitor who is deemed to have made a mistake with the user interface during the registration process (e.g. registering for the inverse list of events that they intended) can be granted an exception to the deadline for adding registered events.
+   4. The registration requirements may include the deadline for adding registered events for competitors with completed registrations.
+      1. If there is a deadline, it must not be earlier than the time registration is set to close.
+      2. The deadline for adding registered events may be left blank, in which competitors may add registered events up until an event takes place.
+      3. Competitors may choose not to compete in an event they are registered for.
+      4. Exception: for competitions with only one event, the deadline for adding registered events may be omitted.
+      5. At the discretion of the WCA Delegate(s), a competitor who is deemed to have made a mistake with the user interface during the registration process (e.g. registering for the inverse list of events that they intended) can be granted an exception to the deadline for adding registered events.
    5. The registration requirements may include the conditions of the waiting list if one is to be used. Competitions are expected to use a waiting list unless specified by the organization team.
       1. Registrants will be placed on the waiting list if they have completed all requirements for a valid registration, but the competitor limit has been filled. Registrants from the waiting list will be accepted in the order that their registration was completed once a spot becomes available.
       2. It must be stated what the deadline is for accepting a registrant on the waiting list.
@@ -180,7 +180,7 @@ The WCA Delegate must submit the following information when requesting approval 
       2. There must be a deadline after which refunds are not issued.
          1. This deadline should be the same as the deadline to add registered events except if the deadline to add registered events is during the competition.
       3. Under force majeure, a full refund of their registration fee may be issued beyond the deadline at the delegate’s discretion.
-      4. Competitors who cancel their registration while on the waiting list should be given a full refund of their registration fee.
+      4. Competitors who cancel their registration while on the waiting list must be given a full refund of their registration fee.
       5. Competitors who are still on the waiting list at the deadline for accepting competitors from the waiting list should be given a full refund of their registration fee.
    7. Different locations for multi-location competitions may have different registration requirements (e.g. competitor limit).
    8. The organization team must consider whether a registration fee is affordable to those living in the region.
@@ -228,7 +228,7 @@ The WCA Delegate must submit the following information when requesting approval 
       3. Continental Championships must not be held on the same date(s) as World Championships.
    4. Championships should have all the officially recognized WCA events.
    5. Championships must recognize and award champion titles and their respective prizes to the winners in the region.
-   6. Organization teams of National Championships should involve all the WCA Delegates of the respective countries and the regional organization, at the discretion of the Senior Delegate.
+   6. Organization teams of National Championships should involve all the WCA Delegates of the respective countries and/or the regional organization, at the discretion of the Senior Delegate.
 10. Optional requirements
     1. The organization team may request to require competitors to submit puzzles at a specific time before an event is scheduled to begin.
     2. The organization team may request to prohibit competitors from participating in specific combinations of events.
