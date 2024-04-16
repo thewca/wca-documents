@@ -104,7 +104,7 @@ The WCA Delegate must submit the following information when requesting approval 
       2. Every location must clearly state who is the WCA Delegate for the venue.
             1. There must be a listed non-Trainee Delegate at each venue.
       3. A 3x3x3 Fewest Moves simultaneous competition cannot be part of any other regular competition.
-         1. Time frames when both are held cannot overlap. There must be at least one hour scheduled between the final scheduled event of one competition and the next scheduled event of the other.
+         1. Competitions held alongside 3x3x3 Fewest Moves simultaneous competitions should have a break around the simultaneous competition in case of schedule delays.
       4. A National Championship holding only 3x3x3 Fewest Moves may be a part of a simultaneous competition alongside a competition holding the National Championship status of another country.
          1. 3x3x3 Fewest Moves simultaneous competitions holding the National Championship status of two or more countries must recognize and award champion titles and their respective prizes to the winners in all the regions that take part.
    6. Series
@@ -179,7 +179,7 @@ The WCA Delegate must submit the following information when requesting approval 
       1. A full refund may deduct any necessary transaction fees from the registration fee.
       2. There must be a deadline after which refunds are not issued.
          1. This deadline should be the same as the deadline to add registered events except if the deadline to add registered events is during the competition.
-      3. Under force majeure, a full refund of their registration fee may be issued beyond the deadline at the delegate’s discretion.
+      3. Under force majeure, a full refund of their registration fee may be issued beyond the deadline at the organization team's discretion.
       4. Competitors who cancel their registration while on the waiting list must be given a full refund of their registration fee.
       5. Competitors who are still on the waiting list at the deadline for accepting competitors from the waiting list should be given a full refund of their registration fee.
    7. Different locations for multi-location competitions may have different registration requirements (e.g. competitor limit).
