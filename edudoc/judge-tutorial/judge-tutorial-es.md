@@ -1,6 +1,6 @@
 # Tutorial para Jueces Nuevos
 
-### Version 2.0 {.version}
+### Version 2.1 {.version}
 
 Este documento está dirigido a aquellos que nunca han sido jueces. Se resaltarán las reglas clave que se deben seguir en los intentos oficiales. El procedimiento descrito a continuación está pensado para eventos de speedsolving normales; los eventos de resolución a ciegas tienen algunas diferencias importantes que no serán tratadas en este documento.
 

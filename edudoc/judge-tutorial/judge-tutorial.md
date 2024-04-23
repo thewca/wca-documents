@@ -1,6 +1,6 @@
 # Judging Tutorial for Newcomers
 
-### Version 2.0 {.version}
+### Version 2.1 {.version}
 
 This document is intended for those who have not been a judge before, and will highlight some of the key regulations to follow during the judging process. The procedure described is intended for regular speedsolving events. For blindfolded events there are a few key differences not highlighted in this document.
 
