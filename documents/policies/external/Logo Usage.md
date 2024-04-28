@@ -14,6 +14,10 @@ The logo covered by this policy is the [logo registered with the US Patent and T
 
 The registered symbol (®) must be included in all contexts and jurisdictions where the logo is used.
 
+### WCA Staff
+
+Members of WCA Staff may use the WCA logo on internal documents, presentations, and other materials related to their work for the WCA.
+
 ### WCA Competitions
 
 Organizers and/or Delegates may use the logo on the website, printings, and apparel of competitions that have been approved by the World Cube Association.
