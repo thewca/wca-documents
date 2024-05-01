@@ -12,7 +12,9 @@ There is a lot of information that is relevant to all WCA Staff, not simply Dele
 
 # Table of Contents {.page-break-before}
 
-- [Introduction to Delegating](#introduction-to-delegating)
+- [Delegate Handbook](#delegate-handbook)
+- [Table of Contents {.page-break-before}](#table-of-contents-page-break-before)
+- [Introduction to Delegating {.page-break-before}](#introduction-to-delegating-page-break-before)
   - [The Roles of a WCA Delegate](#the-roles-of-a-wca-delegate)
   - [How to Become a Delegate](#how-to-become-a-delegate)
   - [Delegate Tiers](#delegate-tiers)
@@ -24,7 +26,7 @@ There is a lot of information that is relevant to all WCA Staff, not simply Dele
   - [Email](#email)
   - [Confidentiality](#confidentiality)
   - [Probation](#probation)
-- [Before the Competition](#before-the-competition)
+- [Before the Competition {.page-break-before}](#before-the-competition-page-break-before)
   - [Competitions and Your Community](#competitions-and-your-community)
     - [Competition Frequency](#competition-frequency)
     - [Competition Size](#competition-size)
@@ -43,7 +45,7 @@ There is a lot of information that is relevant to all WCA Staff, not simply Dele
   - [Communicating with Competitors and their Families](#communicating-with-competitors-and-their-families)
   - [Generating Scrambles](#generating-scrambles)
   - [Generating Groups](#generating-groups)
-- [Day of the Competition](#day-of-the-competition)
+- [Day of the Competition {.page-break-before}](#day-of-the-competition-page-break-before)
   - [Setup and Environment](#setup-and-environment)
   - [Check-In and Registration](#check-in-and-registration)
     - [On-the-Spot Registration](#on-the-spot-registration)
@@ -57,8 +59,8 @@ There is a lot of information that is relevant to all WCA Staff, not simply Dele
     - [Records and Notable Solves](#records-and-notable-solves)
       - [World Record Social Media Posts](#world-record-social-media-posts)
     - [Missing Competitor Results](#missing-competitor-results)
-  - [+2 Calls and Penalties](#2-calls-and-penalties)
-    - [Square-1 Misalignments](#square-1-misalignments)
+  - [+2 Calls and Penalties {#plus2-calls-and-penalties}](#2-calls-and-penalties-plus2-calls-and-penalties)
+      - [Square-1 Misalignments](#square-1-misalignments)
   - [Regulation 3j: Reasonable Wear](#regulation-3j-reasonable-wear)
   - [Regulation 5b5: Popped Puzzles](#regulation-5b5-popped-puzzles)
   - [Incidents](#incidents)
@@ -72,7 +74,7 @@ There is a lot of information that is relevant to all WCA Staff, not simply Dele
   - [Modifications to the Schedule or Events](#modifications-to-the-schedule-or-events)
     - [Running Behind Schedule](#running-behind-schedule)
     - [Running Ahead of Schedule](#running-ahead-of-schedule)
-- [After the Competition](#after-the-competition)
+- [After the Competition {.page-break-before}](#after-the-competition-page-break-before)
   - [Competition Results](#competition-results)
     - [Double-checking Registration Data](#double-checking-registration-data)
     - [Submitting Results](#submitting-results)
@@ -86,9 +88,9 @@ There is a lot of information that is relevant to all WCA Staff, not simply Dele
     - [Responses to Your Report](#responses-to-your-report)
   - [Paying Competition Dues](#paying-competition-dues)
   - [Lost and Found](#lost-and-found)
-- [Delegates Outside of the Competition](#delegates-outside-of-the-competition)
+- [Delegates Outside of the Competition {.page-break-before}](#delegates-outside-of-the-competition-page-break-before)
   - [Managing WCA User Accounts](#managing-wca-user-accounts)
-    - [Accounts vs. Profiles (WCA IDs)](#accounts-vs-profiles-wca-ids)
+    - [Accounts vs. Profiles (WCA IDs)  {#accounts-vs-profiles-wca-ids}](#accounts-vs-profiles-wca-ids--accounts-vs-profiles-wca-ids)
     - [Handling WCA ID Claims](#handling-wca-id-claims)
     - [Requesting Changes to Personal Data](#requesting-changes-to-personal-data)
   - [Acquiring Competition Equipment](#acquiring-competition-equipment)
@@ -96,6 +98,7 @@ There is a lot of information that is relevant to all WCA Staff, not simply Dele
     - [WCA Travel Funding](#wca-travel-funding)
   - [Engaging in Internal Discussions](#engaging-in-internal-discussions)
     - [Replying to Delegate Reports](#replying-to-delegate-reports)
+    - [Disputes and Appeals](#disputes-and-appeals)
   - [Recommending a Delegate](#recommending-a-delegate)
   - [Supporting Your Local Community](#supporting-your-local-community)
     - [Business Cards](#business-cards)
@@ -703,7 +706,7 @@ When the data for a round is fully entered, you may have competitors without res
 
 Scorecards that are pre-labeled with the competitor’s name are highly recommended for all WCA competitions, as a blank scorecard with the competitor’s name after the round is complete is very strong evidence that the competitor did not compete. Once you have their blank scorecard, you can safely drop them from the round from WCA Live. If a blank scorecard cannot be found, it is likely that their results were misplaced. Scorecards can get stuck together or lost inside cube covers, and sometimes the competitor will take the scorecard without realizing its importance in scoretaking. If you still cannot locate the scorecard and the competitor can verify that they did their attempts, grant the competitor provisional extra attempts for the entire round and enter those as the result. If the original scorecard reappears, replace the provisional extra attempts with the original times.
 
-## +2 Calls and Penalties
+## +2 Calls and Penalties {#plus2-calls-and-penalties}
 
 A competitor or judge should call over a Delegate when they are unable to determine whether the resting state of a puzzle at the end of the solve is a penalty. Usually, this is because the puzzle is very close to the halfway threshold for penalties. Observe the puzzle from multiple angles and use multiple pieces and reference points to try and determine the most accurate ruling. If you still cannot determine the penalty state, this is generally considered no penalty, as the sub-regulations of [Regulation 10f](https://www.worldcubeassociation.org/regulations/#10f) state maximum offset amount, and a resting state on the threshold of the penalty does not explicitly exceed that limit.
 
@@ -1119,7 +1122,7 @@ This section covers the responsibilities of a Delegate outside of directly deleg
 
 ## Managing WCA User Accounts
 
-### Accounts vs. Profiles (WCA IDs)
+### Accounts vs. Profiles (WCA IDs)  {#accounts-vs-profiles-wca-ids}
 
 The difference between accounts (WCA accounts, website accounts, users) and WCA IDs (profiles, IDs, persons) is a common source of confusion, as they share a number of key items of personal data:
 
