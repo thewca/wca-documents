@@ -15,25 +15,24 @@ Saransh Grover <br>
 </div>
 
 
-<b class="text-center">WCA ADVISORY COUNCIL LEADER</b>
+#### **WCA ADVISORY COUNCIL LEADER** {.text-center}
 
 RESOLVED, that Zachary Miller be accepted as the leader of the WCA Advisory Council.
 
-<b class="text-center">SENIOR DELEGATE LATIN AMERICA</b>
+#### **SENIOR DELEGATE LATIN AMERICA** {.text-center}
 
 RESOLVED, that the term of Natán Riggenbach as Senior Delegate of Latin America be extended by one month.
 
-<b class="text-center">WCA REGULATIONS AMENDMENT</b>
+#### **WCA REGULATIONS AMENDMENT** {.text-center}
 
 RESOLVED, that the term of May 2021 Regulations Amendment proposed by the WCA Regulations Committee is approved.
 
-<b class="text-center">ADJOURNMENT</b>
+#### **ADJOURNMENT** {.text-center}
 
 There being no further business, the meeting was adjourned at 6:13 p.m. UTC.
 
-<div style="text-align: right;">
-<span style="text-decoration: underline;">/s/ Ethan Pride</span>
-
+::::: {.text-right}
+<u>/s/ Ethan Pride</u>
 
 Secretary of the WCA
-</div>
+:::::

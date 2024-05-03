@@ -23,7 +23,7 @@ At the time of the meeting the World Cube Association had 162 voting members. Wi
 </div>
 
 
-<b class="text-center">APPROVAL OF THE MINUTES OF THE PREVIOUS ANNUAL MEETING</b>
+#### **APPROVAL OF THE MINUTES OF THE PREVIOUS ANNUAL MEETING** {.text-center}
 
 There being no questions regarding the minutes of the 2021 annual members meeting the chair called for a vote for the acceptance of the minutes.
 
@@ -35,7 +35,7 @@ Opposed: 0
 
 Abstain: 5
 
-<b class="text-center">EXECTUTIVE DIRECTOR'S ACTIVITY STATEMENT</b>
+#### **EXECTUTIVE DIRECTOR'S ACTIVITY STATEMENT** {.text-center}
 
 The Executive Director thanked all members for their attendance, as well as community members watching via stream.
 
@@ -47,7 +47,7 @@ The WCA looks forward to continuing a strong relationship that has been formed i
 
 The Board looks forward to being able to welcoming all Staff and community members in Seoul in 2023 for the first WCA World Championship since 2019. The return of a place for cubers from around the world to gather is an event we are very much looking forward to.
 
-<b class="text-center">FINANCIAL REPORT FOR 2020</b>
+#### **FINANCIAL REPORT FOR 2020** {.text-center}
 
 Edward Hollingdale was invited to present the financial report of the organization for the 2021 fiscal year. He noted due to a return to competitions later in the year that the financial situation is much better than last year, as well as sponsorships from championship support, and merchandise sales from the new WCA store.
 
@@ -63,16 +63,16 @@ Opposed: 0
 
 Abstain: 0
 
-<b class="text-center">DATE AND PLACE OF THE NEXT MEETING</b>
+#### **DATE AND PLACE OF THE NEXT MEETING** {.text-center}
 
 The next meeting shall be conducted in 2023, potentially at the World Championship in Korea, and be made available by online means.
 
-<b class="text-center">ADJOURNMENT</b>
+#### **ADJOURNMENT** {.text-center}
 
 There being no further business the meeting was closed at 6:25 p.m. UTC.
 
-<div style="text-align: right;">
-<span style="text-decoration: underline;">/s/ Callum James Goodyear </span>
+::::: {.text-right}
+<u>/s/ Callum James Goodyear </u>
 
 Secretary of the WCA
-</div>
+:::::

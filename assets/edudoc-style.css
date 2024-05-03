@@ -1,53 +1,56 @@
-/* If this is updated, update the styling of the body in edudoc-header.html too */
-body {
-  margin: 0;
-  padding: 0;
-  font-family: arial;
-  font-size: 18px;
+/* This is used by weasyprint */
+@page {
+  margin: 13mm 15mm;
+  padding: 2mm 0;
+  border-top: black solid 1px;
+
+  @top-left {
+    content: element(headerTitle);
+  }
+
+  @top-center {
+    content: element(headerLogo);
+  }
+
+  @top-right {
+    content: element(headerDate);
+  }
+
+  @bottom-center {
+    content: counter(page);
+  }
+}
+
+@media print {
+  #header_title,
+  #header_logo,
+  #header_date {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  #header_title {
+    position: running(headerTitle);
+    padding-top: 18px;
+  }
+
+  #header_logo {
+    position: running(headerLogo);
+    height: 40px;
+    width: 40px;
+    margin-top: 4px;
+  }
+
+  #header_date {
+    position: running(headerDate);
+    padding-top: 18px;
+  }
 }
 
 h1 {
   text-align: center;
-}
-
-h2 {
-  text-decoration: underline black;
-}
-
-img {
-  max-width: 800px;
-}
-
-img.logo {
-  float: left;
-  padding: 20px;
-}
-
-li {
-  padding: 5px 0 5px 0;
-}
-
-table {
-  page-break-inside: avoid;
-  margin-left: auto;
-  margin-right: auto;
-  border-collapse: collapse;
-}
-
-tr {
-  page-break-inside: avoid;
-  page-break-after: auto;
-}
-
-th {
-  font-weight: bold;
-}
-
-th,
-td {
-  font-size: 18px;
-  padding: 5px 10px;
-  border: 1px solid black;
 }
 
 .box {
@@ -72,38 +75,4 @@ td {
 
 .warning {
   background: #ffc0c0;
-}
-
-.centered {
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-}
-
-.version {
-  color: gray;
-}
-
-.page-break-before {
-  page-break-before: always;
-}
-
-.page-break-after {
-  page-break-after: always;
-}
-
-.text-right {
-  text-align: right;
-}
-
-.text-left {
-  text-align: left;
-}
-
-.text-center {
-  text-align: center;
-}
-
-.indent {
-  text-indent: 3em;
 }

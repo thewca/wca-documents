@@ -4,7 +4,7 @@ Scroll to the bottom of the document for translations.
 
 ## WCA Organization - General Introduction
 
-![WCA logo]({logo}){.logo height=133px}
+![WCA logo]({logo}){.logo width=14%}
 The World Cube Association is the organization governing speedcubing competitions all around the world. Every competition that is sanctioned by the WCA has to follow the WCA [Regulations](wca{regulations}) and [Guidelines](wca{regulations/guidelines.html}), so it's very important that you are familiar with them before going to a competition.
 
 This document will guide you through the basics of competing and judging. Reading this document can be very helpful to get a basic picture about official WCA competitions, but we still recommend you to read the WCA Regulations and Guidelines and participate in the "Competition Tutorial" event at the competition if your competition has one.
@@ -28,19 +28,19 @@ If you are not sure about something, always ask the Delegate!
 - **Stackmat timer**: This is the official device for measuring times at a competition.
   It can look like any of the three versions below.
 
-![](images/stackmat-timers.png){.centered height=200px}
+![](images/stackmat-timers.png){.centered width=30%}
 
 - **Mat**: Stackmat timers must be used with accompanying mats. The mat helps prevent puzzles from sliding at the end of the attempt.
 
-![](images/mat.png){.centered width=600px}
+![](images/mat.png){.centered width=70%}
 
 - **Stopwatch**: Stopwatches are used for measuring the inspection time. They are also used to measure time for attempts over 10 minutes. Note that stopwatches can be of different models and hence their functioning can be different from the one shown in the picture.
 
-![](images/stopwatch.jpg){.centered height=200px}
+![](images/stopwatch.jpg){.centered width=24%}
 
 - **Cover**: Covers are used to cover a puzzle before an attempt, so competitors cannot see the scrambles.
 
-![](images/cover.jpg){.centered height=200px .page-break-after}
+![](images/cover.jpg){.centered width=24% .page-break-after}
 
 - **Score sheet**: After a puzzle is scrambled, the scrambler signs for the correctness on the score sheet. Additionally after each solve the judge writes down the result on the score sheet, signs it and has the competitor sign it, to acknowledge that the result is
   - 1. correct
@@ -48,7 +48,7 @@ If you are not sure about something, always ask the Delegate!
   - 3. properly formatted, and
   - 4. clearly readable.
 
-![](images/scoresheet.png){.centered height=600px}
+![](images/scoresheet.png){.centered}
 
 ::::: {.box .attention}
 If a time on your score sheet is illegible, the worst interpretable result will be entered for that attempt.
@@ -204,13 +204,13 @@ Remember that stopping the solve incorrectly leads to penalties!
 
 - **Misalignments**:
 
-| <!-- -->                               | <!-- --> ![](){width=650px}                                                                                                                                                                                                                                                                                                                             |
+| <!-- -->                               | <!-- --> ![](){width=75%}                                                                                                                                                                                                                                                                                                                             |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](images/nopenalty.jpg){width=150px} | **No penalty:** the cube is solved and the misalignments of all layers compared with their adjacent layers are below 45°.                                                                                                                                                                                                                               |
-| ![](images/plus2.jpg){width=150px}     | **+2:** the cube is solved, but the misaligned layer exceeds 45°, which means the cube is one move away from being solved. Please note that the WCA Regulations consider all states of the puzzle to be one move away from the solved state if you have to turn only one side of the puzzle to reach the solved state – **even if it’s a double turn.** |
-| ![](images/unclear.jpg){width=150px}   | **Ask the Delegate:** If it’s not clear whether a +2 penalty should be applied or not, **don’t touch the puzzle** and call a Delegate to the station.                                                                                                                                                                                                   |
-| ![](images/DNF2moves.jpg){width=150px} | **DNF:** When more than one move is required to solve the puzzle, the result of the attempt is DNF.                                                                                                                                                                                                                                                     |
-| ![](images/DNFslice.jpg){width=150px}  | **DNF:** If a middle layer of the puzzle is misaligned, this counts as two moves required to solve, as only outer layer turns are counted. Therefore, the result of the attempt is DNF.                                                                                                                                                                 |
+| ![](images/nopenalty.jpg){width=17%} | **No penalty:** the cube is solved and the misalignments of all layers compared with their adjacent layers are below 45°.                                                                                                                                                                                                                               |
+| ![](images/plus2.jpg){width=17%}     | **+2:** the cube is solved, but the misaligned layer exceeds 45°, which means the cube is one move away from being solved. Please note that the WCA Regulations consider all states of the puzzle to be one move away from the solved state if you have to turn only one side of the puzzle to reach the solved state – **even if it’s a double turn.** |
+| ![](images/unclear.jpg){width=17%}   | **Ask the Delegate:** If it’s not clear whether a +2 penalty should be applied or not, **don’t touch the puzzle** and call a Delegate to the station.                                                                                                                                                                                                   |
+| ![](images/DNF2moves.jpg){width=17%} | **DNF:** When more than one move is required to solve the puzzle, the result of the attempt is DNF.                                                                                                                                                                                                                                                     |
+| ![](images/DNFslice.jpg){width=17%}  | **DNF:** If a middle layer of the puzzle is misaligned, this counts as two moves required to solve, as only outer layer turns are counted. Therefore, the result of the attempt is DNF.                                                                                                                                                                 |
 
 ::::: {.box .important}
 If you are unsure about penalties, always ask a Delegate!

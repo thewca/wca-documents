@@ -27,7 +27,7 @@ At the time of the meeting the World Cube Association had 154 voting members. Wi
 </div>
 
 
-<b class="text-center">APPROVAL OF THE MINUTES OF THE PREVIOUS ANNUAL MEETING</b>
+#### **APPROVAL OF THE MINUTES OF THE PREVIOUS ANNUAL MEETING** {.text-center}
 
 There being no questions regarding the minutes of the 2020 annual members meeting the chair called for a vote for the acceptance of the minutes.
 
@@ -39,7 +39,7 @@ Opposed: 0
 
 Abstain: 3
 
-<b class="text-center">EXECTUTIVE DIRECTOR'S ACTIVITY STATEMENT</b>
+#### **EXECTUTIVE DIRECTOR'S ACTIVITY STATEMENT** {.text-center}
 
 The Executive Director thanked all members for their attendance at the annual members meeting. He noted that the last year has been a year of rebuilding after all competitions were halted following the COVID-19 pandemic.
 
@@ -48,7 +48,7 @@ As restrictions are lifting around the world the organization is looking forward
 The Board looks forward to a successful 2022 with the hopeful addition of having a continental championship on all 6 continents for the first time along with the world championship to be hosted in Korea in 2023.
 
 
-<b class="text-center">FINANCIAL REPORT FOR 2020</b>
+#### **FINANCIAL REPORT FOR 2020** {.text-center}
 
 The treasurer was invited to present the financial report of the organization for the 2020 fiscal year. He noted due to a decrease in competitions the organization suffered a decrease in income.
 
@@ -64,7 +64,7 @@ Opposed: 0
 
 Abstain: 1
 
-<b class="text-center">ADOPTION OF A WCA Anti-Doping Program</b>
+#### **ADOPTION OF A WCA Anti-Doping Program** {.text-center}
 
 The Board had presented a proposal for the WCA to register as an official sports organization with the Global Association of International Sports Federations of which the next step is the implementation of an anti-doping program.
 
@@ -80,16 +80,16 @@ Opposed: 10
 
 Abstain: 0
 
-<b class="text-center">DATE AND PLACE OF THE NEXT MEETING</b>
+#### **DATE AND PLACE OF THE NEXT MEETING** {.text-center}
 
 The next meeting shall be conducted in October of 2022 and be made available by online means.
 
-<b class="text-center">ADJOURNMENT</b>
+#### **ADJOURNMENT** {.text-center}
 
 There being no further business the meeting was closed at 7:58 p.m. UTC.
 
-<div style="text-align: right;">
-<span style="text-decoration: underline;">/s/ Ethan Pride</span>
+::::: {.text-right}
+<u>/s/ Ethan Pride</u>
 
 Secretary of the WCA
-</div>
+:::::

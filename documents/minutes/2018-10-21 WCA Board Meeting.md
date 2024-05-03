@@ -13,20 +13,20 @@ Olivér Perge <br>
 Robert Burton <br>
 </div>
 
-<b class="text-center">AFRICA SENIOR DELEGATE APPOINTMENT</b>
+#### **AFRICA SENIOR DELEGATE APPOINTMENT** {.text-center}
 
 RESOLVED, that Philippe Virouleau hereby is appointed as Senior Delegate for the Africa region, effective immediately.
 
-<b class="text-center">DELEGATE PROBATIONARY STATUS POLICY</b>
+#### **DELEGATE PROBATIONARY STATUS POLICY** {.text-center}
 
 RESOLVED, that the WCA Delegate Probationary Status Policy v1.0 be, and they hereby are, ratified and approved as an official, internal policy of this corporation and that such motion be inserted in the Minute Book of this corporation.
 
-<b class="text-center">ADJOURNMENT</b>
+#### **ADJOURNMENT** {.text-center}
 
 There being no further business, the meeting was adjourned at 10:02 a.m. PST
 
-<div style="text-align: right;">
-<span style="text-decoration: underline;">/s/ Alberto Pérez de Rada Fiol</span>
+::::: {.text-right}
+<u>/s/ Alberto Pérez de Rada Fiol</u>
 
 Secretary of the WCA
-</div>
+:::::

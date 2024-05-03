@@ -14,25 +14,24 @@ Michael Chai <br>
 </div>
 
 
-<b class="text-center">SELECTION OF WCA QUALITY ASSURANCE COMMITTEE LEADER</b>
+#### **SELECTION OF WCA QUALITY ASSURANCE COMMITTEE LEADER** {.text-center}
 
 RESOLVED, that Deni Mintsaev be accepted as the leader of the WCA Quality Assurance Committee pending vote of the Leaders and Seniors.
 
-<b class="text-center">OPENING OF NEW WCA BANK ACCOUNT</b>
+#### **OPENING OF NEW WCA BANK ACCOUNT** {.text-center}
 
 RESOLVED, that Raymond Goslow, WCA Treasurer, is authorized to create an account with Bank of America on behalf of the WCA. The approved authorized signatories to this account are Blake Thompson and Raymond Goslow.
 
-<b class="text-center">RESOLUTION OF AUTHORIZED BOARD MEMBERS</b>
+#### **RESOLUTION OF AUTHORIZED BOARD MEMBERS** {.text-center}
 
 RESOLVED, that the authorized number of Board Members shall be five (5) with there being two (2) vacant terms starting in 2024. There are no current vacancies.
 
-<b class="text-center">ADJOURNMENT</b>
+#### **ADJOURNMENT** {.text-center}
 
 There being no further business, the meeting was adjourned at 12:31 p.m. UTC.
 
-<div style="text-align: right;">
-<span style="text-decoration: underline;">/s/ Blake Thompson</span>
-
+::::: {.text-right}
+<u>/s/ Blake Thompson</u>
 
 Secretary of the WCA
-</div>
+:::::

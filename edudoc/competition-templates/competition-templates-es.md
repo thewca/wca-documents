@@ -14,24 +14,24 @@ Aquí podrás encontrar las siguientes plantillas imprimibles que pueden ser uti
 - Folleto con buenas prácticas para mezclar los puzzles en la categoría Múltiples Cubos a Ciegas.
 - Hojas para no perderse a la hora de mezclar los puzzles en la categoría Múltiples Cubos a Ciegas.
 
-![](images/results_boxes_and_cube_cover.jpg){.centered width=600px}
+![](images/results_boxes_and_cube_cover.jpg){.centered width=60%}
 
 ## Instrucciones
 
 1. Si deseas utilizar los diseños de la WCA, busca los archivos en la carpeta/directorio que corresponda a la versión en español. Si tienes pensado hacer diseños personalizados, utiliza los archivos en la carpeta llamada `Editable Files`. **NO** hagas coberturas para Clock con diseños que hagan que el papel quede muy rígido, porque podría afectar a los botones (o "pines") del puzzle. Es mejor utilizar un diseño minimalista en blanco y negro (BN).
 2. Los diseños de las coberturas para Clock en papel, los folletos con las reglas para competir y las hojas para mezclar en la categoría Múltiples Cubos a Ciegas, pueden imprimirse en una impresora doméstica. Los demás diseños **DEBEN** imprimirse utilizando una impresora de grado industrial, así que deberás buscar un lugar donde tengan una (debes llevar los archivos `.pdf`).
 
-![](images/paper_clock_covers.jpg){.centered width=450px}
+![](images/paper_clock_covers.jpg){.centered width=50%}
 
 3. Si estás haciendo **coberturas para Clock personalizadas**, necesitarás copiar tu diseño terminado a una hoja formato A4 (210\*297mm / 8.27\*11.69in), rotar todo el diseño 12 grados en sentido anti-horario y guardar el archivo como `.pdf`. Si piensas utilizar una impresora doméstica que no puede imprimir hasta los bordes de la hoja, prueba a seleccionar la opción "ajustar al área imprimible" ("fit to printable area").
 
-![](images/clock_in_3d_cover.jpg){.centered width=450px}
+![](images/clock_in_3d_cover.jpg){.centered width=50%}
 
 ::::: {.text-center}
 Cobertura 3D para Clock
 :::::
 
-![](images/sq1_in_3d_cover.jpg){.centered width=450px}
+![](images/sq1_in_3d_cover.jpg){.centered width=50%}
 
 ::::: {.text-center .page-break-after}
 Cobertura multipropósito 3D

@@ -15,29 +15,28 @@ Saransh Grover <br>
 </div>
 
 
-<b class="text-center">COMPETITION SAFETY POLICY REVIEW</b>
+#### **COMPETITION SAFETY POLICY REVIEW** {.text-center}
 
 The Board discussed a review of the WCA Competition Safety Policy and decided that at the current time no amendments are necessary. The Board shall continue to review the document every fortnight for any changes that may be required.
 
-<b class="text-center">WCA ANNUAL BUDGET</b>
+#### **WCA ANNUAL BUDGET** {.text-center}
 
 RESOLVED, that the WCA Budget 2021/2022 presented by the WCA Financial Committee shall be accepted by the WCA Board.
 
-<b class="text-center">WCA DISCIPLINARY LEADER</b>
+#### **WCA DISCIPLINARY LEADER** {.text-center}
 
 RESOLVED, that Sebastiano Tronto be accepted as the nominee for WCA Disciplinary Leader position pending a further vote from the Leaders and Seniors of the WCA.
 
-<b class="text-center">AMENDMENTS TO THE MOTIONS</b>
+#### **AMENDMENTS TO THE MOTIONS** {.text-center}
 
 The Board discussed and agreed upon a set of changes to be made to the WCA Motions which shall go into effect on February 28 2021 pending approval from a vote of voting members.
 
-<b class="text-center">ADJOURNMENT</b>
+#### **ADJOURNMENT** {.text-center}
 
 There being no further business, the meeting was adjourned at 7:09 p.m. UTC.
 
-<div style="text-align: right;">
-<span style="text-decoration: underline;">/s/ Ethan Pride</span>
-
+::::: {.text-right}
+<u>/s/ Ethan Pride</u>
 
 Secretary of the WCA
-</div>
+:::::

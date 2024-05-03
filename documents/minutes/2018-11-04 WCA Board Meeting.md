@@ -12,20 +12,20 @@ Christopher Wright <br>
 Olivér Perge <br>
 </div>
 
-<b class="text-center">COMPETITION ANNOUNCEMENT POLICY</b>
+#### **COMPETITION ANNOUNCEMENT POLICY** {.text-center}
 
 RESOLVED, that the WCA Competition Announcement Policy v1.0 be, and they hereby are, revoked as an official policy of this corporation.
 
-<b class="text-center">WCA REGULATIONS COMMITTEE LEADER APPOINTMENT</b>
+#### **WCA REGULATIONS COMMITTEE LEADER APPOINTMENT** {.text-center}
 
 RESOLVED, that Lucas Garron hereby is chosen as Committee Leader for the WCA Regulations Committee. The Board will submit its selection for the sitting Senior Delegates and Committee/Team Leaders to confirm or reject it.
 
-<b class="text-center">ADJOURNMENT</b>
+#### **ADJOURNMENT** {.text-center}
 
 There being no further business, the meeting was adjourned at 10:17 a.m. PST
 
-<div style="text-align: right;">
-<span style="text-decoration: underline;">/s/ Alberto Pérez de Rada Fiol</span>
+::::: {.text-right}
+<u>/s/ Alberto Pérez de Rada Fiol</u>
 
 Secretary of the WCA
-</div>
+:::::

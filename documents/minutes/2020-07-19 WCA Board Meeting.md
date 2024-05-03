@@ -13,15 +13,15 @@ Robert Burton <br>
 </div>
 
 
-<b class="text-center">FILLING VACANCIES WITHIN THE BOARD</b>
+#### **FILLING VACANCIES WITHIN THE BOARD** {.text-center}
 
 The Board discussed filling vacancies within the Board as required by section 4.1 of the WCA Bylaws. The Board noted that at the expiration of the term of Christopher Wright there shall be two vacancies within the Board. The process of an election has begun to fill these vacancies.
 
-<b class="text-center">COMPETITION SAFETY POLICY REVIEW</b>
+#### **COMPETITION SAFETY POLICY REVIEW** {.text-center}
 
 The Board discussed a review of the WCA Competition Safety Policy and concluded that no updates are required at this time. The Board shall review the policy for any amendments in one fortnight.
 
-<b class="text-center">SELECTION OF WCA CHAMPIONSHIPS</b>
+#### **SELECTION OF WCA CHAMPIONSHIPS** {.text-center}
 
 RESOLVED, that Almere, Netherlands shall be the host city of the WCA World Championship 2021 on July 22-25 2021.
 
@@ -31,20 +31,20 @@ RESOLVED, that Copenhagen, Denmark shall be the host city of the WCA European Ch
 
 RESOLVED, that Toronto Canada shall be the host city of the WCA North American Championship 2022 on dates TBC.
 
-<b class="text-center">AMENDMENTS TO THE WCA REGULATIONS </b>
+#### **AMENDMENTS TO THE WCA REGULATIONS ** {.text-center}
 
 RESOLVED, that the amendments to the WCA Regulations as proposed by the WRC are approved and shall go into effect from August 1, 2020.
 
-<b class="text-center">ANNUAL MEETING</b>
+#### **ANNUAL MEETING** {.text-center}
 
 The Board discussed planning and preparations for the 2020 Annual Meeting. Further information will be delivered to the relevant members at a later date.
 
-<b class="text-center">ADJOURNMENT</b>
+#### **ADJOURNMENT** {.text-center}
 
 There being no further business, the meeting was adjourned at 7:56 p.m. UTC.
 
-<div style="text-align: right;">
-<span style="text-decoration: underline;">/s/ Ethan Pride</span>
+::::: {.text-right}
+<u>/s/ Ethan Pride</u>
 
 Secretary of the WCA
-</div>
+:::::

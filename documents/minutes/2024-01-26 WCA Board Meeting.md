@@ -15,17 +15,16 @@ Somya Srivastava <br>
 </div>
 
 
-<b class="text-center">REMOVE SOMYA SRIVASTAVA AS A DIRECTOR AND VICE CHAIR OF THE WCA</b>
+#### **REMOVE SOMYA SRIVASTAVA AS A DIRECTOR AND VICE CHAIR OF THE WCA** {.text-center}
 
 RESOLVED, that Somya Srivastava be removed as a Director and Vice Chair of the WCA.
 
-<b class="text-center">ADJOURNMENT</b>
+#### **ADJOURNMENT** {.text-center}
 
 There being no further business, the meeting was adjourned at 3:18 a.m. UTC.
 
-<div style="text-align: right;">
-<span style="text-decoration: underline;">/s/ Blake Thompson</span>
-
+::::: {.text-right}
+<u>/s/ Blake Thompson</u>
 
 Secretary of the WCA
-</div>
+:::::

@@ -14,17 +14,16 @@ Robert Burton <br>
 </div>
 
 
-<b class="text-center">WCA MARKETING TEAM LEADER</b>
+#### **WCA MARKETING TEAM LEADER** {.text-center}
 
 RESOLVED, that Saransh Grover be accepted as the nominee for WCA Marketing Team Leader position pending a further vote from the Leaders and Seniors of the WCA.
 
-<b class="text-center">ADJOURNMENT</b>
+#### **ADJOURNMENT** {.text-center}
 
 There being no further business, the meeting was adjourned at 7:01 p.m. UTC.
 
-<div style="text-align: right;">
-<span style="text-decoration: underline;">/s/ Ethan Pride</span>
-
+::::: {.text-right}
+<u>/s/ Ethan Pride</u>
 
 Secretary of the WCA
-</div>
+:::::

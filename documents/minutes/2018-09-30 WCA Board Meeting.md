@@ -12,18 +12,18 @@ Olivér Perge <br>
 Robert Burton <br>
 </div>
 
-<b class="text-center">SENIOR DELEGATE APPOINTMENTS</b>
+#### **SENIOR DELEGATE APPOINTMENTS** {.text-center}
 
 RESOLVED, that Yohei Suzuki hereby is appointed as Senior Delegate for the Asia Japan region, effective October 1, 2018.
 
 RESOLVED, that Laura Ohrndorf hereby is appointed as Senior Delegate for the Europe West region, effective October 1, 2018.
 
-<b class="text-center">ADJOURNMENT</b>
+#### **ADJOURNMENT** {.text-center}
 
 There being no further business, the meeting was adjourned at 10:17 a.m. PST
 
-<div style="text-align: right;">
-<span style="text-decoration: underline;">/s/ Alberto Pérez de Rada Fiol</span>
+::::: {.text-right}
+<u>/s/ Alberto Pérez de Rada Fiol</u>
 
 Secretary of the WCA
-</div>
+:::::

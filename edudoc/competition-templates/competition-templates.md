@@ -14,24 +14,24 @@ Here you can find the following printable templates that can be used for WCA com
 - Multi-Blind scrambling infographic, with illustrations that show best practices
 - Sheets with cube outlines for tracking Multi-Blind scrambles (14 cubes per page)
 
-![](images/results_boxes_and_cube_cover.jpg){.centered width=600px}
+![](images/results_boxes_and_cube_cover.jpg){.centered width=70%}
 
 ## Instructions
 
 1. If you would like to use the WCA designs, use the files in the folder for the language used in your region, if available. If you would like to make custom designs, use the files in the `Editable Files` folder. **DO NOT** make Clock cover designs that use a lot of ink, because that makes the paper more rigid, which can affect Clock pins. It is preferable to have a minimal design in Black and White (BW).
 2. The template for paper Clock covers, the infographics, and the Multi-Blind cube outlines sheet can be printed on a home printer. The infographics need to be printed in color, and the other two files need to be printed in BW. All other templates **MUST** be printed using an industry-grade printer, so you will have to find a printing service in your area. They will require `.pdf` files to make your prints.
 
-![](images/paper_clock_covers.jpg){.centered width=450px}
+![](images/paper_clock_covers.jpg){.centered width=50%}
 
 3. If you are making **custom Clock covers**, you will need to copy your finished design to a new A4-sized document (210\*297mm / 8.27\*11.69in), rotate the whole design 12 degrees counterclockwise and save the file as `.pdf`. If you are printing them on a regular office printer that can’t print all the way to the edges, try selecting the setting “fit to printable area”.
 
-![](images/clock_in_3d_cover.jpg){.centered width=450px}
+![](images/clock_in_3d_cover.jpg){.centered width=50%}
 
 ::::: {.text-center}
 3D Clock cover
 :::::
 
-![](images/sq1_in_3d_cover.jpg){.centered width=450px}
+![](images/sq1_in_3d_cover.jpg){.centered width=50%}
 
 ::::: {.text-center .page-break-after}
 3D multipurpose cover

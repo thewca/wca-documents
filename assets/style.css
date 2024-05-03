@@ -1,12 +1,16 @@
-a {
-  color: black;
+/* This is used by weasyprint */
+@page {
+  margin: 12mm 15mm;
+}
+
+:root {
+  font-family: Arial;
+  font-size: 11pt;
 }
 
 body {
   margin: 0;
   padding: 0;
-  font-family: arial;
-  font-size: 14pt;
 }
 
 /* Remove unnecessary spacing at the end that sometimes causes an empty page to be generated. */
@@ -15,8 +19,19 @@ body > :last-child {
   padding-bottom: 0;
 }
 
+code {
+  background-color: #eee;
+  border-radius: 3px;
+  font-family: courier, monospace;
+  padding: 0 3px;
+}
+
 img {
-  max-width: 800px;
+  max-width: 100%;
+}
+
+li {
+  padding: 5px 0 5px 0;
 }
 
 /* Make multiline tables look good (https://github.com/wkhtmltopdf/wkhtmltopdf/issues/3356#issuecomment-288837439). */
@@ -37,19 +52,17 @@ th {
   font-weight: bold;
 }
 
-th, td {
-  font-size: 18px;
+th,
+td {
   padding: 5px 10px;
   border: 1px solid black;
   vertical-align: top;
 }
 
-.bordered-image {
-  padding: 5px;
-  margin: 0 auto;
-  display:block;
-  border: 2px solid black;
-  box-sizing: border-box;
+.centered {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 .version {
@@ -64,36 +77,26 @@ th, td {
   page-break-after: always;
 }
 
+.text-left {
+  text-align: left;
+}
+
 .text-center {
-  display: block;
   text-align: center;
 }
 
-/* Fancy numeration of nested numeric lists. (Based on https://stackoverflow.com/a/26245056) */
-
-ol[type="1"] {
-  list-style-type: none;
-  counter-reset: item;
-  padding-left: 0.5em;
+.text-right {
+  text-align: right;
 }
 
-ol[type="1"] > li {
-  display: table;
-  counter-increment: item;
-  width: 100%;
+.indent {
+  text-indent: 3em;
 }
 
-ol[type="1"] > li:before {
-  content: counters(item, ".") ". ";
-  display: table-cell;
-  padding-right: 0.5em;
-  width: 1px;
-}
-
-li ol[type="1"] > li:before {
-  content: counters(item, ".") " ";
-}
-
-li + li {
-  margin-top: 0.25em;
+.bordered-image {
+  padding: 5px;
+  margin: 0 auto;
+  display: block;
+  border: 2px solid black;
+  box-sizing: border-box;
 }
