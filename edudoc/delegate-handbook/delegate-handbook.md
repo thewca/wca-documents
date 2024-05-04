@@ -718,7 +718,7 @@ Square-1 misalignments are handled slightly differently than other puzzles. Alth
 
 One side effect of these regulations is that there are certain Square-1 states that may appear to be a DNF at first glance but are actually only a penalty. The most extreme case of this is in the following image:
 
-![](images/sq1-plus-2.png)
+![](images/sq1-plus-2.png) {.centered width=50%}
 
 In this example, a (1, 0) / (-1, -1), and then a partial slice under 90 degrees has been applied to the puzzle. This is only a +2 penalty because the (1, 0) is under the misalignment threshold of 45 degrees for (U, D) moves, and so is not a penalty. The slice is over the misalignment threshold of 90 degrees, and incurs a +2 penalty. The (-1, -1) once again is under the misalignment threshold, as U and D moves are considered separately according to [Guideline 10f4+](https://www.worldcubeassociation.org/regulations/guidelines.html#10f4+). Finally, the partial slice is under the 90 degree threshold. In conclusion, only 1 move has been made above the penalty threshold, so the final ruling is that this is a +2 penalty.
 
@@ -758,7 +758,7 @@ When an incident arises, encourage competitors to stop the attempt immediately b
 
 The following is a general decision tree for handling incidents, and gives you a general idea of what to consider and what the outcome usually is for an incident. However, **this decision tree is always welcome to be overruled by the Delegate if they believe their decision is more fair.**
 
-![](images/extra-decision-tree.png)
+![](images/extra-decision-tree.png) {.centered width=90%}
 
 #### Provisional Extras
 
@@ -1141,7 +1141,7 @@ A competitor's personal information is verified at their first competition (see 
 
 A WCA ID is associated with a profile page, which looks like this:
 
-![](images/profile-page.png)
+![](images/profile-page.png) {.centered width=60%}
 
 All competition results in the WCA’s database are associated with a WCA ID, and this page provides access to all results for an individual competitor, along with other interesting results information.
 
@@ -1149,7 +1149,7 @@ Delegates and WCA Staff with access rights can access the account page for a com
 
 The account page looks like this:
 
-![](images/account-page.png)
+![](images/account-page.png) {.centered width=60%}
 
 Personal information can be edited by Delegates and organizers for an account without a WCA ID, but for accounts with a linked ID, only the WCA Results Team can make such changes (see the Requesting Changes to Personal Data section, below). Delegates can remove the linked WCA ID from one account (with some exceptions, which WRT must handle) and assign it to another account. In order for a WCA ID to be linked to an account the personal data fields in both must match.
 
@@ -1298,15 +1298,15 @@ The following are steps to create a business card using VistaPrint. Screenshots 
 4. Click "Make more edits" on the bottom
 5. Using the font Catamaran and the reference images as a guide, position four text boxes with the following text:
 
-   World Cube Association (Size 8, Bolded)
+::::: {.indent} World Cube Association (Size 8, Bolded)
 
-   [Delegate Name] (Size 11, Bolded)
+[Delegate Name] (Size 11, Bolded)
 
-   Junior/Full Delegate (Size 8, Not Bolded)
+Junior/Full Delegate (Size 8, Not Bolded)
 
-   [Delegate’s WCA Email] (Size 8, Not Bolded)
+[Delegate’s WCA Email] (Size 8, Not Bolded) :::::
 
-   If the font Catamaran does not support your language, you can use a different font as long as it is sans-serif and legible. Contact the WCA Marketing Team at [marketing@worldcubeassociation.org](mailto:marketing@worldcubeassociation.org) if you need assistance choosing an appropriate font.
+If the font Catamaran does not support your language, you can use a different font as long as it is sans-serif and legible. Contact the WCA Marketing Team at [marketing@worldcubeassociation.org](mailto:marketing@worldcubeassociation.org) if you need assistance choosing an appropriate font.
 
 6. Add "wcaLogo.png" as an image and position it using the reference image as a guide
 7. Add local/regional information on the back (optional)
