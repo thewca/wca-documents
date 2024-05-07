@@ -11,7 +11,7 @@ Badges and lanyards can be used to give competitors group and staffing informati
 ::::: {.box .example}
 An example lanyard from Perfect Vision Provo 2020 can be found below.
 
-![](images/lanyard.png){.centered height=200px}
+![](images/lanyard.png){.centered width=30%}
 :::::
 
 ### Online resources:
@@ -73,7 +73,7 @@ Giving competitors “goodies” is a great way to enhance their competition exp
 
 In order to incentivize competitors to join a dedicated staff, there are several things you can provide for free or a discounted price for them. This can include free or discounted registration fees, meals, apparel, or lodging. Staff incentives should be made known to the public in advance of the competition for transparency and to enroll a higher number of staff members.
 
-<div style="margin-top: 200px"></div>
+<div class="spacer"></div>
 
 ## Translations
 

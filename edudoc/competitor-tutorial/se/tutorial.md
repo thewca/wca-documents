@@ -2,7 +2,7 @@
 
 ## WCA som organisation - Generell Introduktion
 
-![WCA logo]({logo}){.logo height=133px}
+![WCA logo]({logo}){.logo width=15%}
 WCA (World Cube Association) är organisationen som ansvarar för arrangerande av tävlingar i Speedcubing över hela världen. Alla WCA-tävlingar måste följa WCA:s [Tävlingsregler](wca{regulations}) och [Riktlinjer]((wca{regulations/guidelines.html})), därför är det viktigt att du är bekant med dessa innan du deltar.
 
 Detta dokument guidar dig genom grunderna i att tävla och döma. Att läsa detta dokument kan vara väldigt nyttigt för att få en grundförståelse för WCA-tävlingar, men vi rekommenderar ändå att du läser WCA:s tävlingsregler och riktlinjer, samt deltar i deltagarinstruktionen om tävlingen har en sådan.
@@ -25,19 +25,19 @@ Om du är osäker på något, fråga alltid delegaten!
 - **Stackmat-timer**: Detta är den officiella enheten för tidtagning på tävlingar.
 Den kan se ut som någon av de tre versionerna nedan.
 
-![](../images/stackmat-timers.png){.centered height=200px}
+![](../images/stackmat-timers.png){.centered width=30%}
 
 - **Matta**: Stackmat-timers måste användas tillsammans med tillhörande mattor. Mattan håller timern på plats, skyddar pusslen, och förhindrar dem från att glida iväg vid slutet av försöket.
 
-![](../images/mat.png){.centered width=600px}
+![](../images/mat.png){.centered width=70%}
 
 - **Tidtagarur**: Tidtagarur används för att mäta inspektionstiden. De används även för att mäta tiden på försök över 10 minuter. Notera att tidtagarur kan vara av olika modeller, och de kan därför se ut och fungera annorlunda jämfört med det på bilden nedan.
 
-![](../images/stopwatch.jpg){.centered height=200px}
+![](../images/stopwatch.jpg){.centered width=24%}
 
 - **Cube cover**: Cube covers används för att täcka över pusslet före ett försök, så att deltagare inte kan se blandningen i förväg.
 
-![](../images/cover.jpg){.centered height=200px .page-break-after}
+![](../images/cover.jpg){.centered width=24% .page-break-after}
 
 - **Resultatkort**: När ett pussel blandats signerar blandaren på resultatkortet att det gjorts på korrekt sätt. Efter varje försök skriver domaren ner resultatet på resultatkortet och signerar. Därefter signerar deltagaren för att bekräfta att resultatet på resultatkortet är
   - 1) korrekt
@@ -45,7 +45,7 @@ Den kan se ut som någon av de tre versionerna nedan.
   - 3) korrekt formaterat
   - 4) tydligt läsbart
 
-![](images/scoresheet.png){.centered height=600px}
+![](images/scoresheet.png){.centered width=70%}
 
 ::::: {.box .attention}
 Om någon del av resultatkortet är oläsligt kommer den sämsta möjliga tolkningen registreras för det försöket. 
@@ -192,13 +192,28 @@ Kom ihåg: Att stoppa timern på ett felaktigt sätt leder till tidsstraff!
 
 - **Feljusteringar**:
 
-| <!-- --> | <!-- --> ![](){width=650px} |
-| --- | --- |
-| ![](../images/nopenalty.jpg){width=150px} | **Inget straff:** Kuben är löst, och alla lager är inom 45° jämfört med de andra lagren. |
-| ![](../images/plus2.jpg){width=150px} | **+2:** Kuben är löst, men ett lager är vridet över 45°, vilket innebär att kuben är ett drag från att vara löst. Notera att WCA:s tävlingsregler betraktar pussel som ett drag ifrån löst om du bara behöver vrida en sida av pusslet för att lösa det – **även om det krävs en dubbelvridning.** |
-| ![](../images/unclear.jpg){width=150px} | **Fråga Delegaten:** Om det är oklart om +2 ska utdelas eller inte, **rör inte pusslet** och tillkalla en delegat till lösningsstationen. |
-| ![](../images/DNF2moves.jpg){width=150px} | **DNF:** Om mer än ett drag krävs för att lösa pusslet är resultatet DNF. |
-| ![](../images/DNFslice.jpg){width=150px} | **DNF:** Om ett mellanlager av kuben inte är löst räknas det som at två drag krävs för att lösa pusslet, eftersom endast vridningar av yttre lager räknas. Därmed blir resultatet DNF. |
+<table>
+  <tr>
+    <td style="max-width: 120px">![](../images/nopenalty.jpg)</td>
+    <td>**Inget straff:** Kuben är löst, och alla lager är inom 45° jämfört med de andra lagren.</td>
+  <tr>
+  <tr>
+    <td style="max-width: 120px">![](../images/plus2.jpg)</td>
+    <td>**+2:** Kuben är löst, men ett lager är vridet över 45°, vilket innebär att kuben är ett drag från att vara löst. Notera att WCA:s tävlingsregler betraktar pussel som ett drag ifrån löst om du bara behöver vrida en sida av pusslet för att lösa det – **även om det krävs en dubbelvridning.**</td>
+  <tr>
+  <tr>
+    <td style="max-width: 120px">![](../images/unclear.jpg)</td>
+    <td>**Fråga Delegaten:** Om det är oklart om +2 ska utdelas eller inte, **rör inte pusslet** och tillkalla en delegat till lösningsstationen.</td>
+  <tr>
+  <tr>
+    <td style="max-width: 120px">![](../images/DNF2moves.jpg)</td>
+    <td>**DNF:** Om mer än ett drag krävs för att lösa pusslet är resultatet DNF.</td>
+  <tr>
+  <tr>
+    <td style="max-width: 120px">![](../images/DNFslice.jpg)</td>
+    <td>**DNF:** Om ett mellanlager av kuben inte är löst räknas det som at två drag krävs för att lösa pusslet, eftersom endast vridningar av yttre lager räknas. Därmed blir resultatet DNF.</td>
+  <tr>
+</table>
 
 ::::: {.box .important}
 Om du är osäker, fråga alltid en delegat!

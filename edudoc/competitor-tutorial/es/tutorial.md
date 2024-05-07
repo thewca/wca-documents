@@ -4,7 +4,7 @@ Para hacer este documento más fácil de leer, se usa el masculino (él) en ocas
 
 ## Organización de la WCA - Introducción General
 
-![WCA logo]({logo}){.logo height=133px}
+![WCA logo]({logo}){.logo width=15%}
 La World Cube Association es la organización que regula las competiciones de speedcubing en todo el mundo. Toda competición aprobada por la WCA debe cumplir con las [Reglas](wca{regulations}) y [Directrices](wca{regulations/guidelines.html}) de la WCA. Por esta razón, es muy importante que estés familiarizado con estos documentos antes de asistir a una competición.
 
 Este documento te guiará a través de los conocimientos básicos que debes tener a la hora de competir y juzgar. Leer este documento puede ser de mucha utilidad para conocer lo básico acerca de las competiciones oficiales de la WCA, pero aún así te recomendamos que leas las Reglas y Directrices de la WCA y que participes en el "Tutorial para Competidores" en la competición a la que asistas, si es que tiene uno.
@@ -26,19 +26,19 @@ Este documento te guiará a través de los conocimientos básicos que debes tene
 
 - **Temporizador Stackmat**: este es el dispositivo oficial para medir los tiempos de resolución en las competiciones. Te puedes encontrar con cualquiera de las tres versiones que se ven abajo.
 
-![](../images/stackmat-timers.png){.centered height=200px}
+![](../images/stackmat-timers.png){.centered width=30%}
 
 - **Mat**: Los temporizadores Stackmat deben ser usados con un mat (tapete). El mat ayuda a evitar que el puzzle se deslice al final de los intentos.
 
-![](../images/mat.png){.centered width=600px}
+![](../images/mat.png){.centered width=70%}
 
 - **Cronómetro**: los cronómetros se utilizan para medir los tiempos de inspección. También se emplean para medir el tiempo de los intentos de más de 10 minutos. Se debe tener en cuenta que los cronómetros pueden ser de diferentes modelos, por lo tanto, su funcionamiento puede ser diferente al del cronómetro que se muestra en la imagen.
 
-![](../images/stopwatch.jpg){.centered height=200px}
+![](../images/stopwatch.jpg){.centered width=24%}
 
 - **Tapacubos**: los tapacubos se utilizan para cubrir el puzzle antes del intento, con el objetivo de que los competidores no puedan verlo.
 
-![](../images/cover.jpg){.centered height=200px .page-break-after}
+![](../images/cover.jpg){.centered width=24% .page-break-after}
 
 - **Hoja de resultados**: luego de mezclar el puzzle, el mezclador firma en la hoja de resultados confirmando que la mezcla es correcta. Adicionalmente, después de cada intento, el juez escribe el resultado en la hoja de resultados, la firma y le solicita al competidor que firme, reconociendo que el resultado:
   - 1) es correcto,
@@ -46,7 +46,7 @@ Este documento te guiará a través de los conocimientos básicos que debes tene
   - 3) tiene el formato adecuado,
   - 4) es legible.
 
-![](images/scoresheet.png){.centered height=600px}
+![](images/scoresheet.png){.centered width=70%}
 
 ::::: {.box .attention}
 Si un tiempo en tu hoja de resultados no es legible, se registrará el peor resultado que se pueda interpretar para ese intento.
@@ -192,13 +192,28 @@ La [Regla A6)](wca{regulations/#A6}) es la que explica cómo se debe detener el 
 
 - **Desalineaciones**:
 
-| <!-- --> | <!-- --> ![](){width=650px} |
-| --- | --- |
-| ![](../images/nopenalty.jpg){width=150px} | **Sin penalización:** el cubo está resuelto y las desalineaciones de todas las capas, comparado con sus capas adyacentes, son menores a 45°. |
-| ![](../images/plus2.jpg){width=150px} | **+2:** el cubo está resuelto, pero la capa desalineada excede los 45°, lo que significa que el cubo se encuentra a un movimiento de estar oficialmente resuelto. Por favor, ten en cuenta que las Reglas de la WCA consideran que todos los estados del puzzle están a un movimiento del estado resuelto si tienes que girar una sola cara del puzzle para alcanzarlo – **incluso si es un giro doble.** |  
-| ![](../images/unclear.jpg){width=150px} | **Pregúntale al Delegado:** en caso de que no esté claro si hay que aplicar una penalización de +2 o no, **no toques el puzzle** y pídele a un Delegado que vaya a la estación. |
-| ![](../images/DNF2moves.jpg){width=150px} | **DNF:** cuando es necesario más de un movimiento para resolver el puzzle, el resultado del intento es DNF. |
-| ![](../images/DNFslice.jpg){width=150px} | **DNF:** si una de las capas centrales está desalineada, se cuenta como dos movimientos restantes para llegar al estado resuelto, ya que solo se cuentan los giros de las capas externas. Entonces, el resultado del intento es DNF. |
+<table>
+  <tr>
+    <td style="max-width: 120px">![](../images/nopenalty.jpg)</td>
+    <td>**Sin penalización:** el cubo está resuelto y las desalineaciones de todas las capas, comparado con sus capas adyacentes, son menores a 45°.</td>
+  <tr>
+  <tr>
+    <td style="max-width: 120px">![](../images/plus2.jpg)</td>
+    <td>**+2:** el cubo está resuelto, pero la capa desalineada excede los 45°, lo que significa que el cubo se encuentra a un movimiento de estar oficialmente resuelto. Por favor, ten en cuenta que las Reglas de la WCA consideran que todos los estados del puzzle están a un movimiento del estado resuelto si tienes que girar una sola cara del puzzle para alcanzarlo – **incluso si es un giro doble.**</td>
+  <tr>
+  <tr>
+    <td style="max-width: 120px">![](../images/unclear.jpg)</td>
+    <td>**Pregúntale al Delegado:** en caso de que no esté claro si hay que aplicar una penalización de +2 o no, **no toques el puzzle** y pídele a un Delegado que vaya a la estación.</td>
+  <tr>
+  <tr>
+    <td style="max-width: 120px">![](../images/DNF2moves.jpg)</td>
+    <td>**DNF:** cuando es necesario más de un movimiento para resolver el puzzle, el resultado del intento es DNF.</td>
+  <tr>
+  <tr>
+    <td style="max-width: 120px">![](../images/DNFslice.jpg)</td>
+    <td>**DNF:** si una de las capas centrales está desalineada, se cuenta como dos movimientos restantes para llegar al estado resuelto, ya que solo se cuentan los giros de las capas externas. Entonces, el resultado del intento es DNF.</td>
+  <tr>
+</table>
 
 ::::: {.box .important}
 ¡Si no estás seguro acerca de una penalización, siempre pregúntale a un Delegado!

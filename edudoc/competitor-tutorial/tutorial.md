@@ -1,10 +1,8 @@
 # WCA Competition Tutorial
 
-Scroll to the bottom of the document for translations.
-
 ## WCA Organization - General Introduction
 
-![WCA logo]({logo}){.logo width=14%}
+![WCA logo]({logo}){.logo width=15%}
 The World Cube Association is the organization governing speedcubing competitions all around the world. Every competition that is sanctioned by the WCA has to follow the WCA [Regulations](wca{regulations}) and [Guidelines](wca{regulations/guidelines.html}), so it's very important that you are familiar with them before going to a competition.
 
 This document will guide you through the basics of competing and judging. Reading this document can be very helpful to get a basic picture about official WCA competitions, but we still recommend you to read the WCA Regulations and Guidelines and participate in the "Competition Tutorial" event at the competition if your competition has one.
@@ -43,10 +41,10 @@ If you are not sure about something, always ask the Delegate!
 ![](images/cover.jpg){.centered width=24% .page-break-after}
 
 - **Score sheet**: After a puzzle is scrambled, the scrambler signs for the correctness on the score sheet. Additionally after each solve the judge writes down the result on the score sheet, signs it and has the competitor sign it, to acknowledge that the result is
-  - 1. correct
-  - 2. complete,
-  - 3. properly formatted, and
-  - 4. clearly readable.
+  1. correct
+  2. complete,
+  3. properly formatted, and
+  4. clearly readable.
 
 ![](images/scoresheet.png){.centered}
 
@@ -113,7 +111,7 @@ Remember that you have 1 minute to start your attempt once you sit at the statio
 The inspection phase starts when the competitor confirms to the judge that they are ready by saying “Yes” (or another clear gesture). At this point, the judge lifts the cover and starts a stopwatch to measure the inspection phase. During inspection, the competitor has a maximum of 15 seconds to inspect the puzzle. They may pick up the puzzle and look at it from all sides, but must not apply any move. If the competitor makes a move, the judge disqualifies the solve and the attempt is over. The following table shows what actions occur during inspection.
 
 | Time       |                                         Action                                          |
-| ---------- | :-------------------------------------------------------------------------------------: |
+| --------------- | :-------------------------------------------------------------------------------------: |
 | 8 seconds  |                                 Judge calls "8 seconds"                                 |
 | 12 seconds |                                Judge calls "12 seconds"                                 |
 | 15 seconds | Judge does not stop the attempt, but will add a +2 second penalty at end of the attempt |
@@ -204,13 +202,28 @@ Remember that stopping the solve incorrectly leads to penalties!
 
 - **Misalignments**:
 
-| <!-- -->                               | <!-- --> ![](){width=75%}                                                                                                                                                                                                                                                                                                                             |
-| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](images/nopenalty.jpg){width=17%} | **No penalty:** the cube is solved and the misalignments of all layers compared with their adjacent layers are below 45°.                                                                                                                                                                                                                               |
-| ![](images/plus2.jpg){width=17%}     | **+2:** the cube is solved, but the misaligned layer exceeds 45°, which means the cube is one move away from being solved. Please note that the WCA Regulations consider all states of the puzzle to be one move away from the solved state if you have to turn only one side of the puzzle to reach the solved state – **even if it’s a double turn.** |
-| ![](images/unclear.jpg){width=17%}   | **Ask the Delegate:** If it’s not clear whether a +2 penalty should be applied or not, **don’t touch the puzzle** and call a Delegate to the station.                                                                                                                                                                                                   |
-| ![](images/DNF2moves.jpg){width=17%} | **DNF:** When more than one move is required to solve the puzzle, the result of the attempt is DNF.                                                                                                                                                                                                                                                     |
-| ![](images/DNFslice.jpg){width=17%}  | **DNF:** If a middle layer of the puzzle is misaligned, this counts as two moves required to solve, as only outer layer turns are counted. Therefore, the result of the attempt is DNF.                                                                                                                                                                 |
+<table>
+  <tr>
+    <td style="max-width: 120px">![](images/nopenalty.jpg)</td>
+    <td>**No penalty:** the cube is solved and the misalignments of all layers compared with their adjacent layers are below 45°.</td>
+  <tr>
+  <tr>
+    <td style="max-width: 120px">![](images/plus2.jpg)</td>
+    <td>**+2:** the cube is solved, but the misaligned layer exceeds 45°, which means the cube is one move away from being solved. Please note that the WCA Regulations consider all states of the puzzle to be one move away from the solved state if you have to turn only one side of the puzzle to reach the solved state – **even if it’s a double turn.**</td>
+  <tr>
+  <tr>
+    <td style="max-width: 120px">![](images/unclear.jpg)</td>
+    <td>**Ask the Delegate:** If it’s not clear whether a +2 penalty should be applied or not, **don’t touch the puzzle** and call a Delegate to the station.</td>
+  <tr>
+  <tr>
+    <td style="max-width: 120px">![](images/DNF2moves.jpg)</td>
+    <td>**DNF:** When more than one move is required to solve the puzzle, the result of the attempt is DNF.</td>
+  <tr>
+  <tr>
+    <td style="max-width: 120px">![](images/DNFslice.jpg)</td>
+    <td>**DNF:** If a middle layer of the puzzle is misaligned, this counts as two moves required to solve, as only outer layer turns are counted. Therefore, the result of the attempt is DNF.</td>
+  <tr>
+</table>
 
 ::::: {.box .important}
 If you are unsure about penalties, always ask a Delegate!
@@ -296,7 +309,7 @@ Extra attempts can be given only by a Delegate!
 
 ![](images/competitor-guide.png){.centered width=90%}
 
-<div style="margin-top: 200px"></div>
+<div class="spacer"></div>
 
 ## Translations
 

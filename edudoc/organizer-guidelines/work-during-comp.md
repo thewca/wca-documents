@@ -46,7 +46,7 @@ One of the tasks for the organizers is calling volunteers (scramblers, judges, a
 
 As the previous group is finishing up, you should start preparing for the next one. This includes placing all the scorecards of the group out in the cube drop off area. When the previous group has finished, you need to notify the people that the next group is now starting. Preferably you should have a microphone available, otherwise, you need to be prepared to be loud depending on the size of the competition. Starting the new group also includes getting the volunteers in place as mentioned in the above section. Last but not least, you should generally coordinate this process with the Delegate, as they need to provide access to the new scramble set for a new group.
 
-<div style="margin-top: 200px"></div>
+<div class="spacer"></div>
 
 ## Translations
 

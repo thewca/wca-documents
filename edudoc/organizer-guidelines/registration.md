@@ -28,7 +28,7 @@ You should have a [registration table](wcadoc{edudoc/organizer-guidelines/venue-
 
 For more information on how registrations should be handled, see the [WCA Competitions Requirement Policy](wcadoc{documents/policies/external/Competition%20Requirements.pdf}).
 
-<div style="margin-top: 200px"></div>
+<div class="spacer"></div>
 
 ## Translations
 

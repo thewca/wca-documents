@@ -63,5 +63,5 @@ convert_to_pdf documents
 convert_to_pdf edudoc
 
 # Remove all non-PDF files and empty folders from build
-find build/ -type f -not -name "*.pdf" -delete
+# find build/ -type f -not -name "*.pdf" -delete
 find build/ -type d -empty -delete

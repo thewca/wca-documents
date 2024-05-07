@@ -27,7 +27,7 @@ If you have an organization team and a suitable venue, this is the best time to 
 
 If you do not yet have an organization team but you have a venue, contacting a Delegate is still a good idea since they can likely help you with finding the appropriate people and advise you if you need more members of the organization team.
 
-<div style="margin-top: 200px"></div>
+<div class="spacer"></div>
 
 ## Translations
 

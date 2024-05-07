@@ -1,7 +1,7 @@
 /* This is used by weasyprint */
 @page {
   margin: 13mm 15mm;
-  padding: 2mm 0;
+  padding: 0;
   border-top: black solid 1px;
 
   @top-left {
@@ -53,12 +53,18 @@ h1 {
   text-align: center;
 }
 
+img.logo {
+  float: left;
+  padding: 20px;
+}
+
 .box {
   border-style: solid;
   font-weight: bold;
   text-align: center;
   margin: 20px;
   padding: 5px;
+  border-width: 2px;
 }
 
 .attention {

@@ -78,7 +78,7 @@ Setup 3 is also making use of a competitors waiting area. The scrambling area is
 
 Setup 4 is also making use of a competitors waiting area. The scrambling area does not have any visual isolation and the competitors waiting area has a clear view to the scrambling area, which is against point 2.2. The solving stations and the waiting area and no visual barrier, making enforcement of point 3.4 difficult unless a sufficient distance between the areas is added. Setup 4 is breaching part of the policy and should not be replicated.
 
-<div style="margin-top: 100px;"></div>
+<div class="spacer"></div>
 
 ## Definition of Terms
 

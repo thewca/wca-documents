@@ -42,10 +42,10 @@ In case you require competitors to pay for the registration in advance, the orga
 ::::: {.box .example .text-left}
 Here’s an example budget that could work for your competition. You need to be organized when writing it down in order to make things easier to track. If your final revenue is **negative**, it’s strongly recommended to adjust your expenses and income to avoid any major financial loss. For a more complete list of the expenses you may have, see the budget section of the [competition checklist](wcadoc{edudoc/organizer-guidelines/checklist.pdf}).
 
-![](images/budget.png){.centered height=200px}
+![](images/budget.png){.centered width=30%}
 :::::
 
-<div style="margin-top: 200px"></div>
+<div class="spacer"></div>
 
 ## Translations
 

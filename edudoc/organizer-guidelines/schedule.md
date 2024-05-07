@@ -77,7 +77,7 @@ It’s possible that after the registration period closes you may have more or l
 
 Keep in mind that any changes to the schedule must be notified to all competitors in advance and should be discussed with the other organizers (if any) and with the Delegate(s) of the competition. In case you want to add or remove an event after the competition has been announced, you should request that as early as possible since it requires approval from the Delegate(s) **and** from the WCA Competition Announcement Team. If you are unsure about any possible changes or if anything unexpected comes up on the day of the competition, you should discuss it with the Delegate(s) as they will be able to advise you on the best options for each scenario.
 
-<div style="margin-top: 150px"></div>
+<div class="spacer"></div>
 
 ## Translations
 

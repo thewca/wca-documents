@@ -4,7 +4,7 @@ Consulte o final deste documento para ver outras traduções.
 
 ## Organização WCA - Introdução Geral
 
-![Logo WCA]({logo}){.logo height=133px}
+![Logo WCA]({logo}){.logo width=15%}
 A World Cube Association é a organização que rege as competições de speedcubing em todo o mundo. Todas as competições sancionadas pela WCA devem seguir os seus [Regulamentos](wca{regulations}) e as [Orientações](wca{regulations/guidelines.html}), por isso é muito importante que os conheça antes de ir a uma competição.
 
 Este documento irá guiá-lo através dos fundamentos de como competir e ajuizar. A leitura deste documento pode ser muito útil para obter uma visão básica sobre as competições oficiais da WCA, mas ainda recomendamos que leia os Regulamentos e Orientações da WCA e participe do evento "Tutorial da Competição" na competição, se a sua competição tiver um.
@@ -28,19 +28,19 @@ Se tiver dúvidas sobre algo, pergunte sempre ao Delegado!
 - **Cronómetro Stackmat**: Este é o dispositivo oficial para medir tempos numa competição.
   Pode parecer-se com qualquer uma das três versões abaixo.
 
-![](../images/stackmat-timers.png){.centered height=200px}
+![](../images/stackmat-timers.png){.centered width=30%}
 
 - **Tapete**: Cronómetros Stackmat timers têm de ser usados com os tapetes que os acompanham. O tapete ajuda a evitar que os puzzles deslizem no final da tentativa.
 
-![](../images/mat.png){.centered width=600px}
+![](../images/mat.png){.centered width=70%}
 
 - **Cronómetro**: Cronómetros são usados para medir o tempo de inspeção. Também são usados para medir o tempo de tentativas acima de 10 minutos. Note que os cronómetros podem ser de modelos diferentes e, portanto, o seu funcionamento pode ser diferente daquele mostrado na figura.
 
-![](../images/stopwatch.jpg){.centered height=200px}
+![](../images/stopwatch.jpg){.centered width=24%}
 
 - **Cobertura**: As coberturas são usadas para cobrir um puzzle antes de uma tentativa, para que os competidores não possam ver os embaralhamentos.
 
-![](../images/cover.jpg){.centered height=200px .page-break-after}
+![](../images/cover.jpg){.centered width=24% .page-break-after}
 
 - **Folha de resultados**: Depois de um puzzle ser embaralhado, o embaralhador assina a sua correção na folha de resultados. Além disso, após cada resolução, o juiz anota o resultado na folha de resultados, assina e faz com que o competidor assine, para reconhecer que o resultado é
   - 1. correto
@@ -48,7 +48,7 @@ Se tiver dúvidas sobre algo, pergunte sempre ao Delegado!
   - 3. devidamente formatado, e
   - 4. claramente legível.
 
-![](images/scoresheet.png){.centered height=600px}
+![](images/scoresheet.png){.centered width=70%}
 
 ::::: {.box .attention}
 Se um tempo na sua folha de resultados estiver ilegível, o pior resultado interpretável será inserido para aquela tentativa.
@@ -204,13 +204,28 @@ Lembre-se que parar a resolução incorretamente leva a penalidades!
 
 - **Desalinhamentos**:
 
-| <!-- -->                                  | <!-- --> ![](){width=650px}                                                                                                                                                                                                                                                                                                                                                               |
-| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](../images/nopenalty.jpg){width=150px} | **Sem penalidade:** o cubo é resolvido e os desalinhamentos de todas as camadas em comparação com suas camadas adjacentes estão abaixo de 45°.                                                                                                                                                                                                                                            |
-| ![](../images/plus2.jpg){width=150px}     | **+2:** o cubo está resolvido, mas a camada desalinhada excede 45°, o que significa que o cubo está a um passo de ser resolvido. Note que os Regulamentos da WCA consideram todos os estados do puzzle como estando a um movimento de distância do estado resolvido se tiver que se girar apenas uma camada do puzzle para chegar ao estado resolvido – **mesmo que seja um giro duplo.** |
-| ![](../images/unclear.jpg){width=150px}   | **Pergunte ao Delegado:** Se não estiver claro se uma penalidade de +2 deve ser aplicada ou não, **não toque no puzzle** e chame um Delegado para a estação de resolução.                                                                                                                                                                                                                 |
-| ![](../images/DNF2moves.jpg){width=150px} | **DNF:** Quando mais do que um movimento é necessário para resolver o puzzle, o resultado da tentativa é DNF.                                                                                                                                                                                                                                                                             |
-| ![](../images/DNFslice.jpg){width=150px}  | **DNF:** Se uma camada do meio do puzzle estiver desalinhada, isso conta como dois movimentos necessários para resolver, pois apenas as rotações das camadas externas são contadas. Portanto, o resultado da tentativa é DNF.                                                                                                                                                             |
+<table>
+  <tr>
+    <td style="max-width: 120px">![](../images/nopenalty.jpg)</td>
+    <td>**Sem penalidade:** o cubo é resolvido e os desalinhamentos de todas as camadas em comparação com suas camadas adjacentes estão abaixo de 45°.</td>
+  <tr>
+  <tr>
+    <td style="max-width: 120px">![](../images/plus2.jpg)</td>
+    <td>**+2:** o cubo está resolvido, mas a camada desalinhada excede 45°, o que significa que o cubo está a um passo de ser resolvido. Note que os Regulamentos da WCA consideram todos os estados do puzzle como estando a um movimento de distância do estado resolvido se tiver que se girar apenas uma camada do puzzle para chegar ao estado resolvido – **mesmo que seja um giro duplo.**</td>
+  <tr>
+  <tr>
+    <td style="max-width: 120px">![](../images/unclear.jpg)</td>
+    <td>**Pergunte ao Delegado:** Se não estiver claro se uma penalidade de +2 deve ser aplicada ou não, **não toque no puzzle** e chame um Delegado para a estação de resolução.</td>
+  <tr>
+  <tr>
+    <td style="max-width: 120px">![](../images/DNF2moves.jpg)</td>
+    <td>**DNF:** Quando mais do que um movimento é necessário para resolver o puzzle, o resultado da tentativa é DNF.</td>
+  <tr>
+  <tr>
+    <td style="max-width: 120px">![](../images/DNFslice.jpg)</td>
+    <td>**DNF:** Se uma camada do meio do puzzle estiver desalinhada, isso conta como dois movimentos necessários para resolver, pois apenas as rotações das camadas externas são contadas. Portanto, o resultado da tentativa é DNF.</td>
+  <tr>
+</table>
 
 ::::: {.box .important}
 Se não tiver a certeza sobre as penalidades, pergunte sempre a um Delegado!
