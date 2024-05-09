@@ -61,11 +61,6 @@ td {
   vertical-align: top;
 }
 
-ul > li::marker {
-  font-size: 20px;
-  background-color: red;
-}
-
 .version {
   color: gray;
 }

@@ -257,56 +257,56 @@ Tentativas extras apenas podem ser dadas por um Delegado!
 
 - **... falar sobre os embaralhamentos antes da ronda acabar.**
 
-  :::{.text-right}
-  _Terá muito tempo para os discutir mais tarde. :)_
-  :::
+:::::{.text-right}
+_Terá muito tempo para os discutir mais tarde._
+:::::
 
 - **... falar com alguém durante as suas resoluções (que não seja o seu juiz ou um Delegado).**
 
-  :::{.text-right}
-  _Nunca será tão importante arriscar um DNF por causa disso._
-  :::
+:::::{.text-right}
+_Nunca será tão importante arriscar um DNF por causa disso._
+:::::
 
 - **... perturbar um competidor quando estiver a ajuizar (por exemplo, a brincar com o seu telefone ou com um puzzle ou a conversar com alguém).**
 
-  :::{.text-right}
-  _Não quererá ser incomodado durante as suas tentativas, certifique-se de que outras pessoas não serão incomodadas por si._
-  :::
+:::::{.text-right}
+_Não quererá ser incomodado durante as suas tentativas, certifique-se de que outras pessoas não serão incomodadas por si._
+:::::
 
 - **... falar com um competidor quando estiver a ajuizar, exceto para dizer “Pronto?”, “8 segundos”, “12 segundos” ou para confirmar resultados ou ao resolver incidentes.**
 
-  :::{.text-right}
-  _Qualquer outra conversa pode ser perturbadora para eles._
-  :::
+:::::{.text-right}
+_Qualquer outra conversa pode ser perturbadora para eles._
+:::::
 
 - **... tocar no puzzle se estiver desalinhado após o competidor ter parado o Cronómetro.**
 
-  :::{.text-right}
-  _Se fizer isso, poderá influenciar a decisão do Delegado. Chame-o imediatamente para a estação de resolução._
-  :::
+:::::{.text-right}
+_Se fizer isso, poderá influenciar a decisão do Delegado. Chame-o imediatamente para a estação de resolução._
+:::::
 
 - **... usar um telefone/câmara para gravar resoluções com um ecrã voltada para si.**
 
-  :::{.text-right}
-  _Câmaras frontais invalidam automaticamente (DNF) a resolução afetada._
-  :::
+:::::{.text-right}
+_Câmaras frontais invalidam automaticamente (DNF) a resolução afetada._
+:::::
 
 - **... arredondar os resultados quando for juiz.**
 
-  :::{.text-right}
-  _Os resultados devem ser registados exatamente como são exibidos no Cronómetro, não arredondados. (Por exemplo, 14.587 não deve ser registado como 14.59 e 14.500 não deve ser registado como 14.5)_
-  :::
+:::::{.text-right}
+_Os resultados devem ser registados exatamente como são exibidos no Cronómetro, não arredondados. (Por exemplo, 14.587 não deve ser registado como 14.59 e 14.500 não deve ser registado como 14.5)_
+:::::
 
 - **... usar flash em fotografias numa competição.**
 
-  :::{.text-right}
-  _Não é uma boa sensação ficar cego pelas luzes durante as suas resoluções oficiais._
-  :::
+:::::{.text-right}
+_Não é uma boa sensação ficar cego pelas luzes durante as suas resoluções oficiais._
+:::::
 
 - **... tomar decisões quando não tiver 100% de certeza se está correto ou não.**
 
-  :::{.text-right}
-  _Certifique-se de que cumpre os Regulamentos da WCA e pergunte a um Delegado!_
-  :::
+:::::{.text-right}
+_Certifique-se de que cumpre os Regulamentos da WCA e pergunte a um Delegado!_
+:::::
 
 ![](images/competitor-guide.png){.centered width=90%}

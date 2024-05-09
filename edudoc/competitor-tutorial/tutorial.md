@@ -255,57 +255,57 @@ Extra attempts can be given only by a Delegate!
 
 - **... never talk about the scrambles before the end of the round.**
 
-  :::{.text-right}
-  _You will have plenty of time to discuss them later in the day. :)_
-  :::
+:::::{.text-right}
+_You will have plenty of time to discuss them later in the day._
+:::::
 
 - **... never talk to someone during your solves (other than your judge or a Delegate).**
 
-  :::{.text-right}
-  _It will never be so important to risk getting a DNF because of it._
-  :::
+:::::{.text-right}
+_It will never be so important to risk getting a DNF because of it._
+:::::
 
 - **... never disturb a competitor when you are judging (e.g. playing with your phone or with your puzzle or talking to someone).**
 
-  :::{.text-right}
-  _You don’t want to be disturbed during your attempts, make sure that others won’t be disturbed by you._
-  :::
+:::::{.text-right}
+_You don’t want to be disturbed during your attempts, make sure that others won’t be disturbed by you._
+:::::
 
 - **... never talk to a competitor when you are judging, other than telling them “Ready?”, “8 seconds”, “12 seconds” or confirming results or when resolving incidents.**
 
-  :::{.text-right}
-  _Any other talk can be disturbing for them._
-  :::
+:::::{.text-right}
+_Any other talk can be disturbing for them._
+:::::
 
 - **... never touch the puzzle if it’s misaligned after the competitor has stopped the timer.**
 
-  :::{.text-right}
-  _If you do so, you could influence the Delegate’s decision. Call them immediately to the station._
-  :::
+:::::{.text-right}
+_If you do so, you could influence the Delegate’s decision. Call them immediately to the station._
+:::::
 
 - **... never use your phone/camera for recording solves with a screen facing you.**
 
-  :::{.text-right}
-  _Front-facing cameras automatically invalidate (DNF) the affected solve._
-  :::
+:::::{.text-right}
+_Front-facing cameras automatically invalidate (DNF) the affected solve._
+:::::
 
 - **... never round the results when you are a judge.**
 
-  :::{.text-right}
-  _Results should be recorded exactly as displayed on the timer, not rounded off. (E.g. 14.587 should not be recorded as 14.59 and 14.500 should not be recorded as 14.5)_
-  :::
+:::::{.text-right}
+_Results should be recorded exactly as displayed on the timer, not rounded off. (E.g. 14.587 should not be recorded as 14.59 and 14.500 should not be recorded as 14.5)_
+:::::
 
 - **... never use flash photography at a competition.**
 
-  :::{.text-right}
-  _It’s not a good feeling to be blinded during your official solves._
-  :::
+:::::{.text-right}
+_It’s not a good feeling to be blinded during your official solves._
+:::::
 
 - **... never make a decision when you are not 100% sure if it’s correct or not.**
 
-  :::{.text-right}
-  _Make sure to adhere with the WCA Regulations and ask a Delegate!_
-  :::
+:::::{.text-right}
+_Make sure to adhere with the WCA Regulations and ask a Delegate!_
+:::::
 
 ![](images/competitor-guide.png){.centered width=90%}
 

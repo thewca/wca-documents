@@ -245,57 +245,57 @@ La [Regla A6)](wca{regulations/#A6}) es la que explica cómo se debe detener el 
 
 - **... nunca hables sobre las mezclas antes del final de la ronda.**
 
-  :::{.text-right}
-  *Tendrás tiempo suficiente para discutir sobre las mezclas en otro momento. :)*
-  :::
+:::::{.text-right}
+_Tendrás tiempo suficiente para discutir sobre las mezclas en otro momento._
+:::::
 
 - **... nunca hables con nadie durante la resolución (que no sea el juez o el Delegado).**
 
-  :::{.text-right}
-  *No vale la pena arriesgarse a obtener un DNF.*
-  :::
+:::::{.text-right}
+_No vale la pena arriesgarse a obtener un DNF._
+:::::
 
 - **... nunca molestes a un competidor cuando seas el juez (p.ej. jugar con tu teléfono móvil o tu puzzle, o hablar con alguien).**
 
-  :::{.text-right}
-  *No te gustaría ser interrumpido durante tus intentos, así que asegúrate de no molestar a los demás.*
-  :::
+:::::{.text-right}
+_No te gustaría ser interrumpido durante tus intentos, así que asegúrate de no molestar a los demás._
+:::::
 
 - **... nunca hables con el competidor que estés juzgando, a no ser que sea para preguntarle si está listo, para avisarle a los 8 y 12 segundos de inspección, para confirmar los resultados o para resolver algún incidente.**
 
-  :::{.text-right}
-  *Hablarle por cualquier otro motivo podría molestarlo.*
-  :::
+:::::{.text-right}
+_Hablarle por cualquier otro motivo podría molestarlo._
+:::::
 
 - **... nunca toques el puzzle si queda desalineado cuando el competidor detiene el timer.**
 
-  :::{.text-right}
-  *Si lo haces, podrías influenciar la decisión del Delegado. Llámalo inmediatamente a la estación.*
-  :::
+:::::{.text-right}
+_Si lo haces, podrías influenciar la decisión del Delegado. Llámalo inmediatamente a la estación._
+:::::
 
 - **... nunca utilices tu teléfono/cámara con la pantalla hacia ti cuando estés grabando una resolución.**
 
-  :::{.text-right}
-  *Tener la pantalla de la cámara a la vista invalida (DNF) automáticamente la resolución afectada.*
-  :::
+:::::{.text-right}
+_Tener la pantalla de la cámara a la vista invalida (DNF) automáticamente la resolución afectada._
+:::::
 
 - **... nunca redondees los resultados cuando seas juez.**
 
-  :::{.text-right}
-  *Los resultados deberían ser registrados exactamente como se muestran en el timer, no deben ser redondeados. (P.ej. 14.587 no debería ser registrado como 14.59 y 14.500 no debería ser registrado como 14.5).*
-  :::
+:::::{.text-right}
+_Los resultados deberían ser registrados exactamente como se muestran en el timer, no deben ser redondeados. (P.ej. 14.587 no debería ser registrado como 14.59 y 14.500 no debería ser registrado como 14.5)._
+:::::
 
 - **... nunca utilices flash en una fotografía durante una competición.**
 
-  :::{.text-right}
-  *No es agradable quedar encandilado durante tus intentos oficiales.*
-  :::
+:::::{.text-right}
+_No es agradable quedar encandilado durante tus intentos oficiales._
+:::::
 
 - **... nunca tomes una decisión si no estás 100% seguro de que sea correcta.**
 
-  :::{.text-right}
-  *¡Asegúrate de adherirte a las Reglas de la WCA y pregúntale a un Delegado!*
-  :::
+:::::{.text-right}
+_¡Asegúrate de adherirte a las Reglas de la WCA y pregúntale a un Delegado!_
+:::::
 
 ![](images/competitor-guide.png){.centered width=90%}
 

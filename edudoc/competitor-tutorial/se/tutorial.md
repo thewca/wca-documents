@@ -246,56 +246,56 @@ Endast delegater kan dela ut extra försök!
 
 - **... aldrig prata om blandningarna förrän omgången är över.**
 
-  :::{.text-right}
-  *Ni har gott om tid att diskutera dem senare under dagen :)*
-  :::
+:::::{.text-right}
+_Ni har gott om tid att diskutera dem senare under dagen
+:::::
 
 - **... aldrig prata med någon under en lösning (förutom din domare eller en delegat).**
 
-  :::{.text-right}
-  *Detta leder till att resultatet blir DNF.*
-  :::
+:::::{.text-right}
+_Detta leder till att resultatet blir DNF.
+:::::
 
 - **... aldrig störa en deltagare när du dömer (t.ex. sitta med mobilen eller en kub, eller prata med någon).**
 
-  :::{.text-right}
-  *Du vill inte bli störd under dina försök, se till att andra inte blir störda av dig.*
-  :::
+:::::{.text-right}
+_Du vill inte bli störd under dina försök, se till att andra inte blir störda av dig._
+:::::
 
 - **... aldrig prata med en deltagare när du dömer, förutom det som behövs för tävlingsprocessen.**
 
-  :::{.text-right}
-  *Annat prat kan vara störande för deltagaren.*
-  :::
+:::::{.text-right}
+_Annat prat kan vara störande för deltagaren._
+:::::
 
 - **... aldrig röra ett feljusterat pusslet efter att deltagaren har stoppat timern.**
 
-  :::{.text-right}
-  *Det kan påverka delegatens beslut. Tillkalla delegaten till lösningsstationen direkt.*
-  :::
+:::::{.text-right}
+_Det kan påverka delegatens beslut. Tillkalla delegaten till lösningsstationen direkt._
+:::::
 
 - **... aldrig använda din telefon/kamera för att spela in lösningen med skärmen riktad mot dig .**
 
-  :::{.text-right}
-  *Skärmar inom synhåll ogiltigförklarar försöket automatiskt (DNF).*
-  :::
+:::::{.text-right}
+_Skärmar inom synhåll ogiltigförklarar försöket automatiskt (DNF)._
+:::::
 
 - **... aldrig avrunda resultaten när du är domare.**
 
-  :::{.text-right}
-  *Resultat ska skrivas ner exakt som de star på displayen, och ska inte avrundas.(T.ex. ska 14.587 **inte** skrivas som 14.59, och 14.500 ska **inte** skrivas som 14.5)*
-  :::
+:::::{.text-right}
+_Resultat ska skrivas ner exakt som de star på displayen, och ska inte avrundas.(T.ex. ska 14.587 *inte** skrivas som 14.59, och 14.500 ska **inte** skrivas som 14.5)*_
+:::::
 
 - **... aldrig fotografera med blixt på en tävling.**
 
-  :::{.text-right}
-  *Blixtar kan störa de tävlande.*
-  :::
+:::::{.text-right}
+_Blixtar kan störa de tävlande._
+:::::
 
 - **... aldrig fatta ett beslut om du inte är 100% säker.**
 
-  :::{.text-right}
-  *Se till att följa tävlingsreglerna, och fråga en delegat om du är osäker!*
-  :::
+:::::{.text-right}
+_Se till att följa tävlingsreglerna, och fråga en delegat om du är osäker!_
+:::::
 
 ![](images/competitor-guide.png){.centered width=90%}
