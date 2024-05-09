@@ -1,14 +1,16 @@
-# Tutorial para Jueces Novatos
+# Tutorial para Jueces Nuevos
 
-### Version 2.0 {.version}
+### Version 2.1 {.version}
 
 Este documento está dirigido a aquellos que nunca han sido jueces. Se resaltarán las reglas clave que se deben seguir en los intentos oficiales. El procedimiento descrito a continuación está pensado para eventos de speedsolving normales; los eventos de resolución a ciegas tienen algunas diferencias importantes que no serán tratadas en este documento.
+
+Para facilitar la lectura de este documento, se utiliza el masculino (el) en ocasiones donde tanto el término masculino como el femenino (el/la) son aplicables.
 
 ## Equipamiento
 
 Estas son las principales herramientas y equipamiento requeridos para proceder con un intento de speedsolving:
 
-**Temporizador Stackmat**: Este es el dispositivo oficial para medir los resultados en las competiciones oficiales de la WCA. La imagen de abajo muestra la última versión del temporizador, pero los Gen 3 y Gen 4 también son aceptados en competiciones oficiales.
+**Temporizador Stackmat**: Este es el dispositivo oficial para medir los resultados en las competiciones oficiales de la WCA. La imagen de abajo muestra la última versión del temporizador (Gen 5), pero los Gen 3 y Gen 4 también son aceptados en competiciones oficiales.
 
 ![](images/timer-es.png){.centered}
 
@@ -17,8 +19,8 @@ Estas son las principales herramientas y equipamiento requeridos para proceder c
 ## Procedimiento
 
 1. Colocar el puzzle mezclado en el tapete del Stackmat y mantenerlo cubierto hasta el comienzo de cada intento.
-2. Reiniciar el temporizador Stackmat y el cronómetro de mano.
-3. Una vez que se le pregunta, el competidor tiene un minuto para estar listo.
+2. Reiniciar el temporizador Stackmat y el cronómetro de mano. Si tu estación cuenta con un timer Gen 5, necesitarás mantener presionado el botón de reinicio durante un poco más de tiempo y deberías asegurarte de que el mismo se encuentra en el modo de 2 sensores (la luz del timer debería estar en amarillo y **no** en azul).
+3. Pregúntale al competidor si está listo. El competidor tiene hasta un minuto para confirmar que está listo.
 4. Cuando el competidor está listo, se quita la cobertura del puzzle y al mismo tiempo se inicia el cronómetro para medir la inspección. Esto marca el comienzo del intento.
 5. Una vez que hayan transcurrido 8 segundos de inspección, debes decir "8 segundos". Luego de transcurridos 12 segundos, debes decir "12 segundos".
 6. Durante la fase de inspección, el competidor no debe aplicar ningún movimiento al puzzle, a no ser que sea para corregir pequeñas desalineaciones.
@@ -29,7 +31,7 @@ Estas son las principales herramientas y equipamiento requeridos para proceder c
 
 ## Penalizaciones
 
-**+2**: es una penalización que suma dos segundos al resultado final del intento. Las penalizaciones **+2** son acumulativas, lo que significa que el competidor podría llegar a recibir una penalización total de **+4** o incluso mayor. **Did Not Finish** (DNF) es una penalización que descalifica el intento. Si no estás seguro de lo que deberías hacer en un incidente, siempre deberías preguntarle al Delegado de la WCA.
+**+2**: es una penalización que suma dos segundos al resultado final del intento. Las penalizaciones **+2** son acumulativas, lo que significa que el competidor podría llegar a recibir una penalización total de **+4** o incluso mayor. **Did Not Finish** (DNF) es una penalización que descalifica el intento. Si no estás seguro sobre un incidente en particular, siempre deberías preguntarle al Delegado de la WCA.
 
 Algunos incidentes comunes que pueden resultar en +2 o DNF:
 
@@ -45,7 +47,7 @@ Algunos incidentes comunes que pueden resultar en +2 o DNF:
 
 **+2**: el competidor detiene el temporizador sin soltar el puzzle por completo.
 
-**DNF**: el competidor toca el puzzle antes de que el juez haya revisado el estado resuelto. Si estás seguro de que el competidor no aplicó ningún movimiento o cambio en la alineación del puzzle al tocarlo, puedes asignar una penalización de **+2** en su lugar.
+**DNF**: el competidor toca el puzzle antes de que el juez haya revisado el estado resuelto. Si estás seguro de que el competidor no aplicó ningún movimiento o cambio en la alineación del puzzle al tocarlo, puedes asignar una penalización de **+2** en su lugar. Además, si el competidor apenas toca el puzzle justo después de detener el temporizador, puedes no asignar esta penalización.
 
 ![](images/penalty3.png){.centered}
 
@@ -66,15 +68,15 @@ Algunos incidentes comunes que pueden resultar en +2 o DNF:
 
 Otros ejemplos de incidentes que pueden resultar en una penalización son:
 
-- **DNF**: mientras inspecciona o resuelve el puzzle, el competidor no debe comunicarse con nadie que no sea el juez o el delegado de la WCA designado.
+**DNF**: mientras inspecciona o resuelve el puzzle, el competidor no debe comunicarse con nadie que no sea el juez o el delegado de la WCA designado. Si tal interacción con una persona que no sea el juez o el delegado de la WCA designado no implica una ventaja para el competidor, la penalización puede ser ignorada, a discreción del delegado de la WCA.
 
-- **DNF**: mientras inspecciona o resuelve el puzzle, el competidor no debe recibir asistencia de nadie ni de ningún objeto, aparte de la superficie.
+**DNF**: mientras inspecciona o resuelve el puzzle, el competidor no debe recibir asistencia de nadie ni de ningún objeto, aparte de la superficie.
 
-- **DNF**: mientras inspecciona o resuelve el puzzle, el competidor no debe utilizar ningún tipo de dispositivo electrónico (ver [Directriz 2i++++](wca{regulations/guidelines.html#2i++++})).
+**DNF**: mientras inspecciona o resuelve el puzzle, el competidor no debe utilizar ningún tipo de dispositivo electrónico (ver [Directriz 2i++++](wca{regulations/guidelines.html#2i++++})).
 
 ## Registrando los resultados
 
-Si se aplica alguna penalización, siempre deberías escribir el tiempo original, las penalizaciones y el tiempo final. Ejemplos:
+Si se aplica alguna penalización, debes escribir el tiempo original, las penalizaciones y el tiempo final. Ejemplos:
 
 - Si un competidor termina la resolución con un tiempo de 17.65 segundos y recibe un +2 por no iniciar correctamente el temporizador, el resultado final debería escribirse como `17.65+2=19.65`.
 - Si un competidor termina una resolución de 3x3x3 con un tiempo de 12.19 segundos y recibe un +2 por inspeccionar durante 16 segundos y un +2 por una desalineación de 60° luego de parar el temporizador, el resultado final debería escribirse como `12.19+4=16.19`.
