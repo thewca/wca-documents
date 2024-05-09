@@ -33,13 +33,13 @@ This is the main equipment and tools required to proceed with a speedsolving att
 
 Here are some common incidents that can result in +2 or DNF:
 
-![](images/penalty1.png){.centered}
+![](images/penalty1.png){.centered width=75%}
 
 **+2**: the competitor exceeds 15 seconds of inspection time and starts the solve before 17 seconds.
 
 **DNF**: the competitor fails to start the solve within 17 seconds of inspection time.
 
-![](images/penalty2.png){.centered}
+![](images/penalty2.png){.centered width=85%}
 
 **+2**: the competitor touches the puzzle while starting the timer.
 
@@ -47,13 +47,13 @@ Here are some common incidents that can result in +2 or DNF:
 
 **DNF**: the competitor touches the puzzle before the judge has inspected the solved state. If you are certain that no change in alignment of the puzzle was done as a result of this, **+2** can be given instead. Exception: if immediately after stopping the timer, the competitor **briefly** touches the puzzle without affecting its state, the time penalty may be lifted, at the discretion of the judge.
 
-![](images/penalty3.png){.centered .page-break-before}
+![](images/penalty3.png){.centered width=85%}
 
 **+2**: the competitor fails to start the timer using their fingers with the palms facing down.
 
 **+2**: the competitor fails to stop the timer with their palms facing down.
 
-![](images/penalty4.png){.centered}
+![](images/penalty4.png){.centered width=85%}
 
 **+2**: the puzzle is one move away from the solved state at the end of the solve. Note: 180° turns (R2, U2, etc.) on NxNxN puzzles are considered one move.
 
@@ -61,7 +61,7 @@ Here are some common incidents that can result in +2 or DNF:
 
 #### This shows what kind of misalignments result in a +2 penalty:
 
-![](images/misalignments.png){.centered}
+![](images/misalignments.png){.centered width=80%}
 :::::
 
 Other incidents that can result in a penalty include the following:

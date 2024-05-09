@@ -12,7 +12,7 @@ Estas son las principales herramientas y equipamiento requeridos para proceder c
 
 **Temporizador Stackmat**: Este es el dispositivo oficial para medir los resultados en las competiciones oficiales de la WCA. La imagen de abajo muestra la última versión del temporizador (Gen 5), pero los Gen 3 y Gen 4 también son aceptados en competiciones oficiales.
 
-![](images/timer-es.png){.centered}
+![](images/timer-es.png){.centered width=65%}
 
 **Cronómetro de mano**: Utilizado para medir el tiempo de inspección. Los cronómetros de mano también se utilizan para medir el tiempo de los intentos que superan los 10 minutos. **Nota: No debe confundirse con el temporizador Stackmat.**
 
@@ -35,13 +35,13 @@ Estas son las principales herramientas y equipamiento requeridos para proceder c
 
 Algunos incidentes comunes que pueden resultar en +2 o DNF:
 
-![](images/penalty1.png){.centered}
+![](images/penalty1.png){.centered width=75%}
 
 **+2**: el competidor excede los 15 segundos de inspección y comienza la resolución antes de los 17 segundos.
 
 **DNF**: el competidor no comienza la resolución antes de los 17 segundos de inspección.
 
-![](images/penalty2.png){.centered}
+![](images/penalty2.png){.centered width=85%}
 
 **+2**: el competidor toca el puzzle mientras inicia el temporizador.
 
@@ -49,13 +49,13 @@ Algunos incidentes comunes que pueden resultar en +2 o DNF:
 
 **DNF**: el competidor toca el puzzle antes de que el juez haya revisado el estado resuelto. Si estás seguro de que el competidor no aplicó ningún movimiento o cambio en la alineación del puzzle al tocarlo, puedes asignar una penalización de **+2** en su lugar. Además, si el competidor apenas toca el puzzle justo después de detener el temporizador, puedes no asignar esta penalización.
 
-![](images/penalty3.png){.centered}
+![](images/penalty3.png){.centered width=85%}
 
 **+2**: el competidor no inicia el temporizador usando los dedos, con las palmas de las manos hacia abajo.
 
 **+2**: el competidor no detiene el temporizador con las palmas de las manos hacia abajo.
 
-![](images/penalty4.png){.centered}
+![](images/penalty4.png){.centered width=85%}
 
 **+2**: el puzzle queda a un movimiento del estado resuelto al final de la resolución. Nota: los giros de 180° (R2, U2, etc.) en puzzles NxNxN son considerados como un único movimiento.
 
@@ -63,7 +63,7 @@ Algunos incidentes comunes que pueden resultar en +2 o DNF:
 
 #### A continuación se muestra qué tipo de desalineaciones resultan en un +2:
 
-![](images/misalignments.png){.centered}
+![](images/misalignments.png){.centered width=80%}
 :::::
 
 Otros ejemplos de incidentes que pueden resultar en una penalización son:
