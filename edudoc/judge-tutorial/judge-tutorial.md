@@ -10,9 +10,9 @@ This is the main equipment and tools required to proceed with a speedsolving att
 
 **Stackmat timer**: This is the official device for measuring times at a WCA competition. The image below is the latest version of the timer, but the Gen 3 and Gen 4 versions of the timer are also accepted for use at competitions.
 
-![](images/timer.png){.centered}
+![](images/timer.png){.centered width=65%}
 
-**Stopwatch**: This is used for measuring the inspection time. Stopwatches are also used to measure time for attempts over 10 minutes. **Note: Not to be confused with a Stackmat timer.**
+**Stopwatch**: This is used for measuring the inspection time. Stopwatches are also used to measure time for attempts over 10 minutes. **Note: not to be confused with a Stackmat timer.**
 
 ## Judging Procedure
 

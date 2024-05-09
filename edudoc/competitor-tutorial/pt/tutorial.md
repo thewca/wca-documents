@@ -204,25 +204,25 @@ Lembre-se que parar a resolução incorretamente leva a penalidades!
 
 - **Desalinhamentos**:
 
-<table>
+<table class="table-with-images">
   <tr>
-    <td style="max-width: 120px">![](../images/nopenalty.jpg)</td>
+    <td>![](../images/nopenalty.jpg)</td>
     <td>**Sem penalidade:** o cubo é resolvido e os desalinhamentos de todas as camadas em comparação com suas camadas adjacentes estão abaixo de 45°.</td>
   <tr>
   <tr>
-    <td style="max-width: 120px">![](../images/plus2.jpg)</td>
+    <td>![](../images/plus2.jpg)</td>
     <td>**+2:** o cubo está resolvido, mas a camada desalinhada excede 45°, o que significa que o cubo está a um passo de ser resolvido. Note que os Regulamentos da WCA consideram todos os estados do puzzle como estando a um movimento de distância do estado resolvido se tiver que se girar apenas uma camada do puzzle para chegar ao estado resolvido – **mesmo que seja um giro duplo.**</td>
   <tr>
   <tr>
-    <td style="max-width: 120px">![](../images/unclear.jpg)</td>
+    <td>![](../images/unclear.jpg)</td>
     <td>**Pergunte ao Delegado:** Se não estiver claro se uma penalidade de +2 deve ser aplicada ou não, **não toque no puzzle** e chame um Delegado para a estação de resolução.</td>
   <tr>
   <tr>
-    <td style="max-width: 120px">![](../images/DNF2moves.jpg)</td>
+    <td>![](../images/DNF2moves.jpg)</td>
     <td>**DNF:** Quando mais do que um movimento é necessário para resolver o puzzle, o resultado da tentativa é DNF.</td>
   <tr>
   <tr>
-    <td style="max-width: 120px">![](../images/DNFslice.jpg)</td>
+    <td>![](../images/DNFslice.jpg)</td>
     <td>**DNF:** Se uma camada do meio do puzzle estiver desalinhada, isso conta como dois movimentos necessários para resolver, pois apenas as rotações das camadas externas são contadas. Portanto, o resultado da tentativa é DNF.</td>
   <tr>
 </table>

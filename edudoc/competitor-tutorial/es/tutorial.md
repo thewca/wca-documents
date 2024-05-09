@@ -192,25 +192,25 @@ La [Regla A6)](wca{regulations/#A6}) es la que explica cómo se debe detener el 
 
 - **Desalineaciones**:
 
-<table>
+<table class="table-with-images">
   <tr>
-    <td style="max-width: 120px">![](../images/nopenalty.jpg)</td>
+    <td>![](../images/nopenalty.jpg)</td>
     <td>**Sin penalización:** el cubo está resuelto y las desalineaciones de todas las capas, comparado con sus capas adyacentes, son menores a 45°.</td>
   <tr>
   <tr>
-    <td style="max-width: 120px">![](../images/plus2.jpg)</td>
+    <td>![](../images/plus2.jpg)</td>
     <td>**+2:** el cubo está resuelto, pero la capa desalineada excede los 45°, lo que significa que el cubo se encuentra a un movimiento de estar oficialmente resuelto. Por favor, ten en cuenta que las Reglas de la WCA consideran que todos los estados del puzzle están a un movimiento del estado resuelto si tienes que girar una sola cara del puzzle para alcanzarlo – **incluso si es un giro doble.**</td>
   <tr>
   <tr>
-    <td style="max-width: 120px">![](../images/unclear.jpg)</td>
+    <td>![](../images/unclear.jpg)</td>
     <td>**Pregúntale al Delegado:** en caso de que no esté claro si hay que aplicar una penalización de +2 o no, **no toques el puzzle** y pídele a un Delegado que vaya a la estación.</td>
   <tr>
   <tr>
-    <td style="max-width: 120px">![](../images/DNF2moves.jpg)</td>
+    <td>![](../images/DNF2moves.jpg)</td>
     <td>**DNF:** cuando es necesario más de un movimiento para resolver el puzzle, el resultado del intento es DNF.</td>
   <tr>
   <tr>
-    <td style="max-width: 120px">![](../images/DNFslice.jpg)</td>
+    <td>![](../images/DNFslice.jpg)</td>
     <td>**DNF:** si una de las capas centrales está desalineada, se cuenta como dos movimientos restantes para llegar al estado resuelto, ya que solo se cuentan los giros de las capas externas. Entonces, el resultado del intento es DNF.</td>
   <tr>
 </table>

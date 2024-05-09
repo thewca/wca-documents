@@ -2,12 +2,12 @@
 
 ---
 
-<div class="text-center">
-<div style="margin: 200px auto; font-size: 1.8em;">
+::::: {.text-center}
+<div style="margin: 160px auto; font-size: 26pt;">
 # World Cube Association
 </div>
 ![]({logo}){width=60% margin=auto}
-</div>
+:::::
 
 ## 1. Name {.page-break-before}
 The name of this corporation is World Cube Association (“WCA”).

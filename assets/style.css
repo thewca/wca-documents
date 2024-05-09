@@ -63,6 +63,7 @@ td {
 
 ul > li::marker {
   font-size: 20px;
+  background-color: red;
 }
 
 .version {

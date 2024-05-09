@@ -202,25 +202,25 @@ Remember that stopping the solve incorrectly leads to penalties!
 
 - **Misalignments**:
 
-<table>
+<table class="table-with-images">
   <tr>
-    <td style="max-width: 120px">![](images/nopenalty.jpg)</td>
+    <td>![](images/nopenalty.jpg)</td>
     <td>**No penalty:** the cube is solved and the misalignments of all layers compared with their adjacent layers are below 45°.</td>
   <tr>
   <tr>
-    <td style="max-width: 120px">![](images/plus2.jpg)</td>
+    <td>![](images/plus2.jpg)</td>
     <td>**+2:** the cube is solved, but the misaligned layer exceeds 45°, which means the cube is one move away from being solved. Please note that the WCA Regulations consider all states of the puzzle to be one move away from the solved state if you have to turn only one side of the puzzle to reach the solved state – **even if it’s a double turn.**</td>
   <tr>
   <tr>
-    <td style="max-width: 120px">![](images/unclear.jpg)</td>
+    <td>![](images/unclear.jpg)</td>
     <td>**Ask the Delegate:** If it’s not clear whether a +2 penalty should be applied or not, **don’t touch the puzzle** and call a Delegate to the station.</td>
   <tr>
   <tr>
-    <td style="max-width: 120px">![](images/DNF2moves.jpg)</td>
+    <td>![](images/DNF2moves.jpg)</td>
     <td>**DNF:** When more than one move is required to solve the puzzle, the result of the attempt is DNF.</td>
   <tr>
   <tr>
-    <td style="max-width: 120px">![](images/DNFslice.jpg)</td>
+    <td>![](images/DNFslice.jpg)</td>
     <td>**DNF:** If a middle layer of the puzzle is misaligned, this counts as two moves required to solve, as only outer layer turns are counted. Therefore, the result of the attempt is DNF.</td>
   <tr>
 </table>

@@ -192,25 +192,25 @@ Kom ihåg: Att stoppa timern på ett felaktigt sätt leder till tidsstraff!
 
 - **Feljusteringar**:
 
-<table>
+<table class="table-with-images">
   <tr>
-    <td style="max-width: 120px">![](../images/nopenalty.jpg)</td>
+    <td>![](../images/nopenalty.jpg)</td>
     <td>**Inget straff:** Kuben är löst, och alla lager är inom 45° jämfört med de andra lagren.</td>
   <tr>
   <tr>
-    <td style="max-width: 120px">![](../images/plus2.jpg)</td>
+    <td>![](../images/plus2.jpg)</td>
     <td>**+2:** Kuben är löst, men ett lager är vridet över 45°, vilket innebär att kuben är ett drag från att vara löst. Notera att WCA:s tävlingsregler betraktar pussel som ett drag ifrån löst om du bara behöver vrida en sida av pusslet för att lösa det – **även om det krävs en dubbelvridning.**</td>
   <tr>
   <tr>
-    <td style="max-width: 120px">![](../images/unclear.jpg)</td>
+    <td>![](../images/unclear.jpg)</td>
     <td>**Fråga Delegaten:** Om det är oklart om +2 ska utdelas eller inte, **rör inte pusslet** och tillkalla en delegat till lösningsstationen.</td>
   <tr>
   <tr>
-    <td style="max-width: 120px">![](../images/DNF2moves.jpg)</td>
+    <td>![](../images/DNF2moves.jpg)</td>
     <td>**DNF:** Om mer än ett drag krävs för att lösa pusslet är resultatet DNF.</td>
   <tr>
   <tr>
-    <td style="max-width: 120px">![](../images/DNFslice.jpg)</td>
+    <td>![](../images/DNFslice.jpg)</td>
     <td>**DNF:** Om ett mellanlager av kuben inte är löst räknas det som at två drag krävs för att lösa pusslet, eftersom endast vridningar av yttre lager räknas. Därmed blir resultatet DNF.</td>
   <tr>
 </table>
