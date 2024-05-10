@@ -60,7 +60,7 @@ There is a lot of information that is relevant to all WCA Staff, not simply Dele
       - [World Record Social Media Posts](#world-record-social-media-posts)
     - [Missing Competitor Results](#missing-competitor-results)
   - [+2 Calls and Penalties {#plus2-calls-and-penalties}](#2-calls-and-penalties-plus2-calls-and-penalties)
-      - [Square-1 Misalignments](#square-1-misalignments)
+    - [Square-1 Misalignments](#square-1-misalignments)
   - [Regulation 3j: Reasonable Wear](#regulation-3j-reasonable-wear)
   - [Regulation 5b5: Popped Puzzles](#regulation-5b5-popped-puzzles)
   - [Incidents](#incidents)
@@ -90,7 +90,7 @@ There is a lot of information that is relevant to all WCA Staff, not simply Dele
   - [Lost and Found](#lost-and-found)
 - [Delegates Outside of the Competition {.page-break-before}](#delegates-outside-of-the-competition-page-break-before)
   - [Managing WCA User Accounts](#managing-wca-user-accounts)
-    - [Accounts vs. Profiles (WCA IDs)  {#accounts-vs-profiles-wca-ids}](#accounts-vs-profiles-wca-ids--accounts-vs-profiles-wca-ids)
+    - [Accounts vs. Profiles (WCA IDs) {#accounts-vs-profiles-wca-ids}](#accounts-vs-profiles-wca-ids--accounts-vs-profiles-wca-ids)
     - [Handling WCA ID Claims](#handling-wca-id-claims)
     - [Requesting Changes to Personal Data](#requesting-changes-to-personal-data)
   - [Acquiring Competition Equipment](#acquiring-competition-equipment)
@@ -1122,7 +1122,7 @@ This section covers the responsibilities of a Delegate outside of directly deleg
 
 ## Managing WCA User Accounts
 
-### Accounts vs. Profiles (WCA IDs)  {#accounts-vs-profiles-wca-ids}
+### Accounts vs. Profiles (WCA IDs) {#accounts-vs-profiles-wca-ids}
 
 The difference between accounts (WCA accounts, website accounts, users) and WCA IDs (profiles, IDs, persons) is a common source of confusion, as they share a number of key items of personal data:
 
@@ -1298,13 +1298,15 @@ The following are steps to create a business card using VistaPrint. Screenshots 
 4. Click "Make more edits" on the bottom
 5. Using the font Catamaran and the reference images as a guide, position four text boxes with the following text:
 
-::::: {.indent} World Cube Association (Size 8, Bolded)
+::::: {.indent}
+World Cube Association (Size 8, Bolded)
 
 [Delegate Name] (Size 11, Bolded)
 
 Junior/Full Delegate (Size 8, Not Bolded)
 
-[Delegate’s WCA Email] (Size 8, Not Bolded) :::::
+[Delegate’s WCA Email] (Size 8, Not Bolded)
+:::::
 
 If the font Catamaran does not support your language, you can use a different font as long as it is sans-serif and legible. Contact the WCA Marketing Team at [marketing@worldcubeassociation.org](mailto:marketing@worldcubeassociation.org) if you need assistance choosing an appropriate font.
 
