@@ -21,7 +21,7 @@ convert_to_pdf() {
   cp -r "$1/" build/
 
   # Find Markdown files and build PDFs out of them.
-  find "build/$1" -name 'judge-tutorial.md' | while read file; do
+  find "build/$1" -name '*.md' | while read file; do
     echo "Converting $file..."
 
     pdf_path="${file%.md}.pdf"
@@ -63,12 +63,13 @@ convert_to_pdf() {
 
 # Delete all contents of the build folder
 rm -rf build/*
+mkdir -p build
 
 convert_to_pdf documents
 convert_to_pdf edudoc
 
 # Remove all non-PDF files and empty folders from build
-find build/ -type f -not -name "*.pdf" -delete
+# find build/ -type f -not -name "*.pdf" -delete
 find build/ -type d -empty -delete
 
 if [ $create_zip = true ]; then
