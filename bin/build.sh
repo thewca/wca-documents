@@ -1,5 +1,11 @@
 #!/bin/bash
 
+# When running this script, use the --zip flag to archive the rendered PDFs at the end
+if [ "$1" = "--zip" ]; then
+  create_zip=true
+else
+  create_zip=false
+fi
 wca_url="https://www.worldcubeassociation.org/"
 wca_docs_url="https://documents.worldcubeassociation.org/"
 # Absolute paths to the logo file, the main stylesheet and the edudoc header
@@ -15,7 +21,7 @@ convert_to_pdf() {
   cp -r "$1/" build/
 
   # Find Markdown files and build PDFs out of them.
-  find "build/$1" -name '*.md' | while read file; do
+  find "build/$1" -name 'judge-tutorial.md' | while read file; do
     echo "Converting $file..."
 
     pdf_path="${file%.md}.pdf"
@@ -55,9 +61,8 @@ convert_to_pdf() {
   done
 }
 
-# Remove potentially cached PDFs from the last build run and make an empty build folder
-rm -rf build
-mkdir build
+# Delete all contents of the build folder
+rm -rf build/*
 
 convert_to_pdf documents
 convert_to_pdf edudoc
@@ -65,3 +70,9 @@ convert_to_pdf edudoc
 # Remove all non-PDF files and empty folders from build
 find build/ -type f -not -name "*.pdf" -delete
 find build/ -type d -empty -delete
+
+if [ $create_zip = true ]; then
+  zip -r build/build.zip build
+fi
+
+echo -e "\nBuild finished!"

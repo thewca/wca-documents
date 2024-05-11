@@ -83,8 +83,6 @@ img.logo {
   background: #ffc0c0;
 }
 
-table.table-with-images {
-  img {
-    max-width: 120px;
-  }
+table.table-with-images img {
+  max-width: 120px;
 }
