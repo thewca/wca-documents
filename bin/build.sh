@@ -16,7 +16,7 @@ convert_to_pdf() {
 
   # Find Markdown files and build PDFs out of them.
   find "build/$1" -name '*.md' | while read file; do
-    echo "Converting $file..."
+    echo "Converting ${file#build/}..."
 
     pdf_path="${file%.md}.pdf"
     html_path="${file%.md}.html"

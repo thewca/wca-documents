@@ -8,10 +8,17 @@ elif [ -n "$2" ] && [ "$2" != "--rebuild" ]; then
 fi
 
 rm -rf build
+mkdir build
 
 # Build the Docker image, if the --rebuild flag was used or if an image hasn't been built yet
-if [ "$1" = "--rebuild" ] || [ "$2" = "--rebuild" ] || [ -z "$(docker images | grep wca-pdf-builder)" ]; then
-  docker build --tag wca-pdf-builder .
+
+if [ -z "$(docker images | grep wca-pdf-builder)" ]; then
+  image_exists=true
+  docker rmi wca-pdf-builder
+fi
+
+if [ "$1" = "--rebuild" ] || [ "$2" = "--rebuild" ] || [ "$image_exists" = true ]; then
+  docker build --tag wca-pdf-builder --build-arg USER_ID=$(id -u) --build-arg GROUP_ID=$(id -g) .
 fi
 
 # If DIRECTORY_TO_BUILD ends up being empty, all directories will be built
