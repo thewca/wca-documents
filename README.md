@@ -15,8 +15,8 @@ Run these scripts from the root directory of the repository:
 | Script | Description |
 | ------ | ----------- |
 | `bin/install_dependencies.sh` | Installs dependencies necessary to generate PDFs*. Run this once. |
-| `bin/build.sh` | Builds PDF files into the `build` directory. |
-| `bin/docker_build.sh` | Builds PDF files using Docker and also creates an archive. Use the `--rebuild` flag if you need to rebuild the Docker image. |
+| `bin/build.sh` | Builds PDF files into the `build` directory. `documents` or `edudoc` can be passed as the first argument to only build documents from the specified directory. |
+| `bin/docker_build.sh` | Builds PDF files using Docker. Use the `--rebuild` flag if you need to rebuild the image. The same directory argument as in `build.sh` is also supported. |
 | `bin/deploy.sh` | WCA deployment script used by GitHub. You don't need to use this. |
 
 \* This only supports Debian-based distributions. If you are not using a Debian-based distribution, install these two dependencies manually: [pandoc](https://www.pandoc.org) and [weasyprint](https://doc.courtbouillon.org/weasyprint/stable).

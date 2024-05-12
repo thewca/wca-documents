@@ -1,11 +1,5 @@
 #!/bin/bash
 
-# When running this script, use the --zip flag to archive the rendered PDFs at the end
-if [ "$1" = "--zip" ]; then
-  create_zip=true
-else
-  create_zip=false
-fi
 wca_url="https://www.worldcubeassociation.org/"
 wca_docs_url="https://documents.worldcubeassociation.org/"
 # Absolute paths to the logo file, the main stylesheet and the edudoc header
@@ -15,8 +9,8 @@ edudoc_header=$(realpath "./assets/edudoc-header.html")
 # Current date
 compile_date=$(date '+%Y-%m-%d')
 
-# Function for converting Markdown files from a given folder into PDF files.
-# The first argument ($1) refers to the folder name (e.g: documents or edudoc).
+# Function for converting Markdown files from a given directory into PDF files.
+# The first argument ($1) refers to the directory name (e.g: documents or edudoc).
 convert_to_pdf() {
   cp -r "$1/" build/
 
@@ -30,7 +24,6 @@ convert_to_pdf() {
     document_title=$(head -n 1 "$file" | sed -E "s/^#+\s*//")
     # Absolute path to the custom stylesheet
     custom_stylesheet=$(realpath "./assets/$1-style.css")
-    echo $custom_stylesheet
 
     # Replace wca{...} and wcadoc{...} with absolute WCA URLs (the correct URLs only get inserted in production)
     sed -Ei "s#wca\{([^}]*)\}#$wca_url\1#g" "$file"
@@ -61,19 +54,25 @@ convert_to_pdf() {
   done
 }
 
-# Delete all contents of the build folder
+# Delete all contents of the build directory and create it if it didn't exist in the first place
 rm -rf build/*
 mkdir -p build
 
-convert_to_pdf documents
-convert_to_pdf edudoc
-
-# Remove all non-PDF files and empty folders from build
-# find build/ -type f -not -name "*.pdf" -delete
-find build/ -type d -empty -delete
-
-if [ $create_zip = true ]; then
-  zip -r build/build.zip build
+# Use the DIRECTORY_TO_BUILD environment variable or the passed argument as the only directory
+# that will have its documents built. If neither is set, fall back to building all directories.
+if [ -n "$DIRECTORY_TO_BUILD" ]; then
+  convert_to_pdf "$DIRECTORY_TO_BUILD"
+elif [ -n "$1" ]; then
+  convert_to_pdf "$1"
+else
+  convert_to_pdf documents
+  convert_to_pdf edudoc
 fi
+
+# Remove all non-PDF files and empty directories from build
+find build/ -type f -not -name "*.pdf" -delete
+find build/ -type d -empty -delete
+# Create an archive file
+zip -r build/build.zip build
 
 echo -e "\nBuild finished!"
