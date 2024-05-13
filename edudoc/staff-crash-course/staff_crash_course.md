@@ -30,14 +30,15 @@ More broadly speaking, the preferred  approach is “over-communication” in th
 
 ## Making changes to recipients {.page-break-before}
 
-When you make changes to the recipients, make this clear at the top of the email.\
-If there is a need to include another team/committee to the thread then begin by writing a “+” along with the name of the team/committee so everyone is aware.\
-When removing someone from a thread they were once a part of you write a “-” followed by their name.\
+When you make changes to the recipients, make this clear at the top of the email. If there is a need to include another team/committee to the thread then begin by writing a “+” along with the name of the team/committee so everyone is aware. When removing someone from a thread they were once a part of you write a “-” followed by their name. For Example:
 
-	*For Example:*
-	(+WQAC -WRC)
+::::: {.indent}
+Hello **recipient name**,
 
-	**Your email would go here**
+(+WQAC -WRC)
+
+**Your email text would go here**
+:::::
 
 If a change is needed and the original recipient needs to see it has gone through and has been taken care of, they can be moved to BCC, allowing them to see the last email go through. After that, they will not receive further emails on the thread.
 
