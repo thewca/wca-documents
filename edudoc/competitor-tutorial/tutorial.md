@@ -232,19 +232,13 @@ If you are unsure about penalties, always ask a Delegate!
 ## Important Definitions {.page-break-before}
 
 - **Formats** Depending on the event there are different ways of calculating the results that are used to rank competitors. The legal formats are:
-
   - **Average of 5**: Every competitor gets 5 attempts. When they’re all done the best and the worst results are discarded and the average is calculated using the remaining 3 results.
   - **Mean of 3**: Every competitor gets 3 attempts. The average is calculated using those 3 results.
   - **Best of X**: Every competitor gets X attempts, where X equals either 1, 2 or 3. The best results among those X attempts is the final result.
-
 - **Cutoff**: Some events may have a "Cutoff round”. Most of the time the format for this is either “Best of 2 / Average of 5” or “Best of 1 / Mean of 3”. In both cases, there is also a certain time, the cutoff, provided as well. This means that you will first do one or two attempts, and if neither result is under the cutoff, you are done with the round. If you managed to get at least one result below the cutoff you can continue with the round and finish your average/mean.
-
 - **Time limit**: The time limit is the maximum time a competitor can use for an attempt. If a competitor reaches the time limit the judge stops the competitor immediately and assigns them a DNF for the solve. Some events have cumulative time limits. A cumulative time limit works like a normal time limit, but it’s applied to the sum of all your results for the entire round and not individual results. In case of a cumulative time limit, if the result is a DNF, then the time taken to get that DNF is also written in brackets.
-
 - **DNF**: Did Not Finish. DNF is the worst result in speedcubing and is generally given as a penalty.
-
 - **DNS**: Did Not Start. DNS means that the competitor was eligible for the attempt but declined it. (Note: The attempt starts with the inspection phase, not with the solving.) DNS results are usually not assigned by judges.
-
 - **Extra attempt**: In certain situations, you might receive an extra attempt. This means that you get the chance of redoing an attempt using an extra scramble because there was an incident during the original attempt. Only Delegates can assign extra attempts, so always report any incident to them.
 
 ::::: {.box .important}

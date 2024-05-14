@@ -222,20 +222,13 @@ Om du är osäker, fråga alltid en delegat!
 ## Viktiga definitioner {.page-break-before}
 
 - **Format:** Beroende på gren finns följande sätt att beräkna resultatet som används för att ranka deltagare:
-
   - **Snitt av 5:** Varje deltagare får 5 försök. När alla försök är genomförda räknas den bästa och sämsta tiden bort, och genomsnittet beräknas av de resterande 3 resultaten.
   - **Snitt of 3:** Varje deltagare får 3 försök. Snittet beräknas med de 3 resultaten.
   - **Bäst av X:** Varje deltagare får X försök, där X är antingen 1, 2, eller 3. Det bästa resultatet av de X försöken blir det slutgiltiga resultatet.
-
 - **Cutoff:** Vissa grenar kan ha en ”Cutoff-omgång”. Oftast är formatet för detta antingen ”Bäst av 2 / Snitt av 5” eller ”Bäst av 1 / Snitt av 3”. I båda fallen finns det också en tid, cutoff-tiden, specificerad. Detta innebär att man först gör ett eller två försök, och om inget av dem är under cutoff-tiden är man färdig med omgången. Om minst en av tiderna är under cutoff-tiden räknas dessa lösningar som början av deltagarens snitt, och omgången får slutföras.
-
-- **Tidsgräns:** Tidsgränsen är den maximala tiden som en deltagare får använda för ett försök. Om en deltagare når tidsgränsen stoppar domaren försöket omedelbart, och tilldelar resultatet DNF för försöket.
-Vissa grenar har kumulativa tidsgränser. En kumulativ tidsgräns fungerar som en vanlig tidsgräns, men gäller summan av alla ens resultat i omgången, och inte de enskilda resultaten. Om en kumulativ tidsgräns används och resultatet är DNF, antecknas även tiden försöket tog på resultatkortet inom parenteser. 
-
+- **Tidsgräns:** Tidsgränsen är den maximala tiden som en deltagare får använda för ett försök. Om en deltagare når tidsgränsen stoppar domaren försöket omedelbart, och tilldelar resultatet DNF för försöket. Vissa grenar har kumulativa tidsgränser. En kumulativ tidsgräns fungerar som en vanlig tidsgräns, men gäller summan av alla ens resultat i omgången, och inte de enskilda resultaten. Om en kumulativ tidsgräns används och resultatet är DNF, antecknas även tiden försöket tog på resultatkortet inom parenteser. 
 - **DNF:** Did Not Finish. DNF är det sämsta möjliga resultatet, och ges generellt som straff.
-
 - **DNS:** Did Not Start. DNS innebär att deltagaren inte startade försöket. (Kom ihåg: Försöket startar med inspektionsfasen, inte lösningen.) DNS-resultat tilldelas normalt sett inte av domare.
-
 - **Extra försök:** I vissa situationer kan ett extra försök tilldelas. Detta innebär att deltagaren får möjlighet att göra om ett försök på en extrablandning, eftersom något inträffade under det förra försöket. Endast delegater kan tilldela extra försök, så rapportera alltid incidenter till dem.
 
 ::::: {.box .important}

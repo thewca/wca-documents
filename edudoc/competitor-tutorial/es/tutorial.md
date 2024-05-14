@@ -222,19 +222,13 @@ La [Regla A6)](wca{regulations/#A6}) es la que explica cómo se debe detener el 
 ## Definiciones importantes {.page-break-before}
 
 - **Formatos:** dependiendo del evento, hay distintas formas de calcular los resultados para determinar la posición de los competidores en el ranking. Los formatos legales son:
-
   - **Promedio de 5**: todos los competidores realizan 5 intentos. Cuando terminan todos los intentos, el mejor y el peor resultado se descartan y el promedio se calcula con los 3 resultados restantes.
   - **Media de 3**: todos los competidores realizan 3 intentos. El promedio se calcula con los 3 resultados.
   - **Mejor de X**: todos los competidores realizan X intentos, donde X equivale a 1, 2 o 3. El mejor resultado entre estos X intentos es el resultado final.
-
 - **Corte o Cutoff**: algunos eventos pueden tener una "ronda de corte". La mayoría de las veces, el formato de la misma es "Mejor de 2 / Promedio de 5" o "Mejor de 1 / Media de 3". En ambos casos, también hay cierto tiempo definido, el tiempo de corte. Esto significa que primero realizarás uno o dos intentos, y si ninguno de ellos está por debajo del corte, no podrás continuar con los intentos restantes de la ronda. Si consigues por lo menos un resultado por debajo del tiempo de corte, puedes continuar con los demás intentos del promedio/media.
-
 - **Tiempo límite**: el tiempo límite es el máximo que un competidor puede utilizar para un intento. Si un competidor alcanza el tiempo límite, el juez lo detiene inmediatamente y le asigna un DNF al intento. Algunos eventos tienen tiempo límite acumulativo. Un tiempo límite acumulativo funciona como un tiempo límite normal, solo que se aplica a la suma de todos los resultados de la ronda. En caso de haber un tiempo límite acumulativo, si el resultado es DNF, el tiempo que se tomó para llegar a dicho DNF se escribe entre paréntesis.
-
 - **DNF**: Did Not Finish (No Ha Terminado). DNF es el peor resultado en speedcubing y generalmente se aplica como penalización.
-
 - **DNS**: Did Not Start (No Ha Empezado). DNS significa que el competidor tenía derecho a realizar el intento, pero que lo rechazó. (Nota: el intento comienza con la fase de inspección, no con la resolución). En general, los jueces no son quienes aplican resultados DNS.
-
 - **Intento extra**: en situaciones particulares, puedes recibir un intento extra. Esto quiere decir que tienes la oportunidad de volver a realizar un intento (con una mezcla diferente) porque hubo un incidente durante el intento original. Solo los Delegados pueden otorgar intentos extra, así que deberías reportarle a ellos cualquier incidente que ocurra.
 
 ::::: {.box .important}

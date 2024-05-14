@@ -234,19 +234,13 @@ Se não tiver a certeza sobre as penalidades, pergunte sempre a um Delegado!
 ## Definições Importantes {.page-break-before}
 
 - **Formatos** Dependendo do evento, existem diferentes formas de calcular os resultados que são usados para classificar os competidores. Os formatos legais são:
-
   - **Média de 5**: Cada competidor faz 5 tentativas. Quando todas são feitas, o melhor e o pior resultado são descartados e a média é calculada usando os 3 resultados restantes.
   - **Média de 3**: Cada competidor faz 3 tentativas. A média é calculada usando esses 3 resultados.
   - **Melhor de X**: Cada competidor faz X tentativas, onde X é igual a 1, 2 ou 3. O melhor resultado entre essas X tentativas é o resultado final.
-
 - **Tempo de corte**: Alguns eventos podem ter uma "Ronda de corte". Na maioria das vezes, o formato para isso é “Melhor de 2 / Média de 5” ou “Melhor de 1 / Média de 3”. Em ambos os casos , há também um certo tempo, o tempo de corte, fornecido também. Isso significa que fará primeiro uma ou duas tentativas e, se nenhum dos resultados estiver abaixo do tempo de corte, a sua ronda terminará. Se conseguiu pelo menos um resultado abaixo do tempo de corte, pode continuar com a ronda e terminar a sua média.
-
 - **Tempo limite**: O tempo limite é o tempo máximo que um competidor pode usar para uma tentativa. Se um competidor atingir o limite de tempo, o juiz interrompe o competidor imediatamente e atribui-lhe um DNF para a resolução. Alguns eventos têm limites de tempo cumulativos. Um limite de tempo cumulativo funciona como um limite de tempo normal, mas é aplicado à soma de todos os seus resultados para toda a ronda e não aos resultados individuais. No caso de um limite de tempo cumulativo, se o resultado for um DNF, o tempo necessário para obter esse DNF também será escrito entre parêntesis.
-
 - **DNF**: Did Not Finish (Não terminou). DNF é o pior resultado em speedcubing e geralmente é dado como penalidade.
-
 - **DNS**: Did Not Start (Não começou). DNS significa que o competidor era elegível para uma tentativa, mas recusou-a. (Observação: a tentativa começa com a fase de inspeção, não com a resolução.) Os resultados de DNS geralmente não são atribuídos pelos juízes.
-
 - **Tentativa extra**: Em certas situações, pode receber uma tentativa extra. Isso significa que tem a possibilidade de refazer uma tentativa usando um embaralhamento extra porque houve um incidente durante a tentativa original. Apenas os Delegados podem atribuir tentativas extras, portanto, relate-lhes sempre qualquer incidente.
 
 ::::: {.box .important}

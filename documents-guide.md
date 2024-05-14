@@ -103,7 +103,25 @@ If you are making a document that needs a version label, use this:
 ### Version 1.0 {.version}
 ```
 
-4. **Numbered lists** (documents folder only)
+4. **Lists**
+
+If you are making an unordered list, make sure you don't leave an empty line between two consecutive items, unless you have other content between them. Also, if you would like to use sub-bullets, simply add a 2 space indent before the item. Example:
+
+```md
+- Example
+- Example
+  - Sub-bullet example
+    - Deeper sub-bullet example
+  - Sub-bullet example
+- Example
+
+More content.
+
+- Example
+- Example
+```
+
+5. **Numbered lists** (documents folder only)
 
 Correct syntax looks like this (each indent is simply 3 spaces):
 
@@ -127,7 +145,7 @@ Correct syntax looks like this (each indent is simply 3 spaces):
 2. Example
 ```
 
-5. **Indents** (edudoc folder only)
+6. **Indents** (edudoc folder only)
 
 Use this syntax to indent a paragraph:
 
@@ -137,7 +155,7 @@ This is an indented paragraph.
 :::
 ```
 
-6. **Highlighted content boxes** (edudoc folder only)
+7. **Highlighted content boxes** (edudoc folder only)
 
 Use this syntax to create a box around content that needs to be highlighted:
 
