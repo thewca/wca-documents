@@ -5,28 +5,29 @@ a {
 /* Fancy numeration of nested numeric lists. (Based on https://stackoverflow.com/a/26245056) */
 
 ol[type="1"] {
-  list-style-type: none;
+  padding-left: 1.5rem;
   counter-reset: item;
-  padding-left: 0.5em;
 }
 
-ol[type="1"] > li {
-  display: table;
+ol[type="1"] li {
+  position: relative;
+  display: block;
   counter-increment: item;
-  width: 100%;
 }
 
+/* List item counter */
 ol[type="1"] > li:before {
-  content: counters(item, ".") ". ";
-  display: table-cell;
-  padding-right: 0.5em;
-  width: 1px;
+  position: absolute;
+  right: 100%;
+  margin-right: 0.5rem;
+  content: counters(item, ".") ".";
+}
+
+/* Nested list item (e.g. 1.2.3) */
+li ol[type="1"] > li {
+  margin-left: 1.5rem;
 }
 
 li ol[type="1"] > li:before {
-  content: counters(item, ".") " ";
-}
-
-li + li {
-  margin-top: 0.25em;
+  content: counters(item, ".");
 }
