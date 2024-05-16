@@ -2,8 +2,10 @@ FROM debian:bookworm-slim
 
 WORKDIR /home/app/wca-documents
 
-# fonts-liberation includes Liberation Sans, which is used in this repo, and fonts-noto is the fallback for wider language support
-RUN apt update && apt install -y zip wget fonts-liberation fonts-noto pandoc weasyprint
+# Install the required dependencies
+COPY ./bin/install_dependencies.sh .
+RUN ./install_dependencies.sh
+RUN rm ./install_dependencies.sh
 
 # All of this makes it so we can build PDFs without having them owned by root
 ARG USER_ID

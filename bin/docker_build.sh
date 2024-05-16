@@ -21,7 +21,7 @@ if [ "$1" = "--rebuild" ] || [ "$2" = "--rebuild" ] || [ "$image_exists" = true 
   docker build --tag wca-pdf-builder --build-arg USER_ID=$(id -u) --build-arg GROUP_ID=$(id -g) .
 fi
 
-# If DIRECTORY_TO_BUILD ends up being empty, all directories will be built
+# If DIRECTORY_TO_BUILD is empty, all directories will be built
 docker run --rm --name wca-pdf-builder \
   -e DIRECTORY_TO_BUILD=$directory_to_build \
   -v ./build:/home/app/wca-documents/build:rw \

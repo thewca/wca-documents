@@ -15,7 +15,7 @@ convert_to_pdf() {
   cp -r "$1/" build/
 
   # Find Markdown files and build PDFs out of them.
-  find "build/$1" -name '*Bylaws.md' | while read file; do
+  find "build/$1" -name '*.md' | while read file; do
     echo "Converting ${file#build/}..."
 
     pdf_path="${file%.md}.pdf"
@@ -72,7 +72,5 @@ fi
 # Remove all non-PDF files and empty directories from build
 find build/ -type f -not -name "*.pdf" -delete
 find build/ -type d -empty -delete
-# Create an archive file
-zip -r build/build.zip build
 
 echo -e "\nBuild finished!"
