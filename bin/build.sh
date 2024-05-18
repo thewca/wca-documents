@@ -47,9 +47,9 @@ convert_to_pdf() {
 
     # HTML -> PDF
     if [ "$1" = "documents" ]; then
-      weasyprint --encoding 'utf-8' "$html_path" "$pdf_path"
+      weasyprint --presentational-hints --encoding 'utf-8' "$html_path" "$pdf_path"
     elif [ "$1" = "edudoc" ]; then
-      weasyprint --encoding 'utf-8' "$html_path" "$pdf_path"
+      weasyprint --presentational-hints --encoding 'utf-8' "$html_path" "$pdf_path"
     fi
   done
 }
