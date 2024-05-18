@@ -41,7 +41,7 @@ Algunos incidentes comunes que pueden resultar en +2 o DNF:
 
 **DNF**: el competidor no comienza la resolución antes de los 17 segundos de inspección.
 
-![](images/penalty2.png){.centered width=85%}
+![](images/penalty2.png){.centered width=80%}
 
 **+2**: el competidor toca el puzzle mientras inicia el temporizador.
 
@@ -49,13 +49,13 @@ Algunos incidentes comunes que pueden resultar en +2 o DNF:
 
 **DNF**: el competidor toca el puzzle antes de que el juez haya revisado el estado resuelto. Si estás seguro de que el competidor no aplicó ningún movimiento o cambio en la alineación del puzzle al tocarlo, puedes asignar una penalización de **+2** en su lugar. Además, si el competidor apenas toca el puzzle justo después de detener el temporizador, puedes no asignar esta penalización.
 
-![](images/penalty3.png){.centered width=85%}
+![](images/penalty3.png){.centered width=80%}
 
 **+2**: el competidor no inicia el temporizador usando los dedos, con las palmas de las manos hacia abajo.
 
 **+2**: el competidor no detiene el temporizador con las palmas de las manos hacia abajo.
 
-![](images/penalty4.png){.centered width=85%}
+![](images/penalty4.png){.centered width=80%}
 
 **+2**: el puzzle queda a un movimiento del estado resuelto al final de la resolución. Nota: los giros de 180° (R2, U2, etc.) en puzzles NxNxN son considerados como un único movimiento.
 

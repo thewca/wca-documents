@@ -71,9 +71,7 @@ Here you can find the following printable templates that can be used for WCA com
 - Double-sided tape up to 1cm in width (only for results boxes and cube covers)
 - Blade (knife, box cutter, etc.) (only for results boxes and cube covers)
 
-::::: {.page-break-after}
 7. On all templates except for the Clock covers, make all cuts on the **INNER** side of the black lines, leaving no black color visible after the cuts are done. On the Clock cover the cuts need to be made **THROUGH** the black lines.
-:::::
 
 8. The Multi-Blind cube outlines file has multiple pages, each of them with numbered spots for 14 cubes (two TNoodle scramble sets). The first page is for scrambles 1-14, the second is for 15-28, and so on, all the way up to scramble 84. You can print out as many of these as you require for your competition. Consider how many scramblers you will have, and how many cubes your competitors will be attempting. You can continue reusing these sheets for future competitions so as not to waste paper.
 

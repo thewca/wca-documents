@@ -42,5 +42,5 @@ Caso requeira que os concorrentes paguem a inscrição antecipadamente, a equipa
 ::::: {.box .example .text-left}
 Aqui está um exemplo de orçamento que pode funcionar para a sua competição. Precisa ser organizado ao escrevê-lo para tornar as coisas mais fáceis de rastrear. Se a sua receita final for **negativa**, é altamente recomendável ajustar as suas despesas e receitas de forma a evitar grandes perdas financeiras. Para uma lista mais completa das despesas que pode ter, veja a seção de Orçamento da [Checklist de competição](wcadoc{edudoc/organizer-guidelines/pt/checklist.pdf}).
 
-![](images/budget.png){.centered width=30%}
+![](images/budget.png){.centered width=60%}
 :::::

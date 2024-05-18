@@ -71,9 +71,7 @@ Cobertura multipropósito 3D
 - Cinta adhesiva de doble cara de hasta 1cm de ancho (solo para las cajas de resultados y los tapacubos)
 - Cúter (cuchilla, trincheta) (solo para las cajas de resultados y los tapacubos)
 
-::::: {.page-break-after}
 7. A excepción de las coberturas para Clock, los cortes en todas las plantillas se deben realizar en la parte **INTERNA** de las líneas negras, de manera que no quede nada negro luego de realizar el recorte. En las coberturas para Clock, los cortes deben hacerse **SOBRE** las líneas negras.
-:::::
 
 8. La hoja para mezclar Múltiples Cubos a Ciegas tiene varias páginas, cada una de ellas con lugares numerados para 14 cubos (dos sets de mezclas de TNoodle). La primera página es para las mezclas 1-14, la segunda para las mezclas 15-28, y así sucesivamente hasta la 84. Puedes imprimir tantas como necesites para tu competición. Deberías considerar cuántos participantes tendrás y cuántos cubos intentarán los competidores. Puedes seguir reutilizando estas hojas en futuras competiciones para no malgastar el papel.
 

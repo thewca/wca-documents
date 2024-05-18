@@ -27,7 +27,7 @@ Oto główne wyposażenie i narzędzia wymagane do podjęcia próby rozwiązania
 9. Zawodnik po rozwiązaniu układanki zatrzymuje zegar w celu zakończenia proby. Sprawdź układankę bez dotykania jej (z wyjątkiem układanki Zegara) i powiedz "W PORZĄDKU", "KARA" lub "DNF".
 10. Wynik końcowy (wraz z karami, jeśli dotyczy) jest zapisywany przez sędziego na karcie wyników, zanim sędzia i zawodnik podpiszą dana próbę sprawdzając czy wynik jest poprawny i akceptowany.
 
-## Kary {.page-break-before}
+## Kary
 
 **+2**: to kara, w której 2 sekundy są dodawane do końcowego wyniku próby. Kary kumulują się, co oznacza, że zawodnik może potencjalnie otrzymać łączną karę w wysokości **+4** lub nawet wyższą. **Did Not Finish (PL: Nie ukończył)** (DNF) to kara, która skutkuje dyskwalifikacją próby. Jeśli nie jesteś pewien, co należy zrobić w danym przypadku, zawsze powinieneś poprosić o radę Delegata WCA konkursu.
 
@@ -39,7 +39,7 @@ Oto kilka typowych zdarzeń, które mogą skutkować +2 lub DNF:
 
 **DNF**: kara jest dawana, gdy zawodnik nie rozpocznie rozwiązania w ciągu 17 sekund od czasu inspekcji.
 
-![](images/penalty2.png){.centered width=85%}
+![](images/penalty2.png){.centered width=80%}
 
 **+2**: kara jest dawana, gdy zawodnik dotknie układanki podczas uruchamiania zegara.
 
@@ -47,13 +47,13 @@ Oto kilka typowych zdarzeń, które mogą skutkować +2 lub DNF:
 
 **+2**: kara jest dawana, gdy zawodnik dotknie układanki, zanim sędzia sprawdzi jej rozwiązanie.
 
-![](images/penalty3.png){.centered width=85%}
+![](images/penalty3.png){.centered width=80%}
 
 **+2**: kara jest dawana, gdy zawodnik nie uruchamia zegara z dłońmi skierowanymi w dół.
 
 **+2**: kara jest dawana, gdy zawodnik nie zatrzymuje zegara z dłońmi skierowanymi w dół.
 
-![](images/penalty4.png){.centered width=85%}
+![](images/penalty4.png){.centered width=80%}
 
 **+2**: kara jest dawana, jeśli w układance brakuje jednego ruchu do stanu rozwiązanego na końcu próby.
 

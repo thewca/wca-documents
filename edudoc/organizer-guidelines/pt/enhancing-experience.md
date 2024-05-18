@@ -11,7 +11,7 @@ Crachás identificativos podem ser usados ​​para fornecer aos concorrentes i
 ::::: {.box .example}
 Um exemplo de crachá identificativo da competição Perfect Vision Provo 2020 pode ser visto abaixo.
 
-![](images/lanyard.png){.centered width=30%}
+![](images/lanyard.png){.centered width=50%}
 :::::
 
 ### Recursos online:

@@ -1,7 +1,12 @@
+:root {
+  font-size: 11pt;
+  line-height: 1.1;
+}
+
 /* This is used by weasyprint */
 @page {
   margin: 13mm 15mm;
-  padding: 0;
+  padding: 2mm 0 0;
   border-top: black solid 1px;
 
   @top-left {
@@ -34,6 +39,7 @@
   #header_title {
     position: running(headerTitle);
     padding-top: 18px;
+    font-size: 90%;
   }
 
   #header_logo {
@@ -50,7 +56,12 @@
 }
 
 h1 {
+  margin: 0.2rem initial 0.7rem;
   text-align: center;
+}
+
+li {
+  margin: 0.6rem initial;
 }
 
 img.logo {
@@ -62,9 +73,10 @@ img.logo {
   border-style: solid;
   font-weight: bold;
   text-align: center;
-  margin: 20px;
-  padding: 5px;
+  margin: 1rem;
+  padding: 0.2rem 0.5rem;
   border-width: 2px;
+  page-break-inside: avoid;
 }
 
 .attention {

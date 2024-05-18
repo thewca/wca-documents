@@ -1,7 +1,5 @@
 # Tutorial de Competição WCA
 
-Consulte o final deste documento para ver outras traduções.
-
 ## Organização WCA - Introdução Geral
 
 ![Logo WCA]({logo}){.logo width=15%}
@@ -43,10 +41,10 @@ Se tiver dúvidas sobre algo, pergunte sempre ao Delegado!
 ![](../images/cover.jpg){.centered width=24% .page-break-after}
 
 - **Folha de resultados**: Depois de um puzzle ser embaralhado, o embaralhador assina a sua correção na folha de resultados. Além disso, após cada resolução, o juiz anota o resultado na folha de resultados, assina e faz com que o competidor assine, para reconhecer que o resultado é
-  - 1. correto
-  - 2. completo,
-  - 3. devidamente formatado, e
-  - 4. claramente legível.
+  1. correto
+  2. completo,
+  3. devidamente formatado, e
+  4. claramente legível.
 
 ![](images/scoresheet.png){.centered width=70%}
 
@@ -113,7 +111,7 @@ Lembre-se de que tem 1 minuto para iniciar a sua tentativa assim que se sentar n
 A fase de inspeção começa quando o competidor confirma ao juiz que está pronto dizendo “Sim” (ou outro gesto claro). Nesse momento, o juiz levanta a cobertura e aciona o cronómetro para medir a fase de inspeção. Durante a inspeção, o competidor tem no máximo 15 segundos para inspecionar o puzzle. Podem pegar no puzzle e olhá-lo de todos os lados, mas não devem aplicar nenhum movimento. Se o competidor fizer um movimento, o juiz desclassifica a resolução e a tentativa é encerrada. A tabela a seguir mostra que ações ocorrem durante a inspeção.
 
 | Tempo       |                                               Ação                                                |
-| ----------- | :-----------------------------------------------------------------------------------------------: |
+| ----------- | :-----------------------------------------------------------: |
 | 8 segundos  |                                       Juiz diz "8 segundos"                                       |
 | 12 segundos |                                      Juiz diz "12 segundos"                                       |
 | 15 segundos | Juiz não interrompe a tentativa, mas adiciona uma penalidade de +2 segundos no final da tentativa |

@@ -5,7 +5,8 @@
 
 :root {
   font-family: "Liberation Sans", sans-serif;
-  font-size: 10.5pt;
+  font-size: 11.5pt;
+  line-height: 1.15;
 }
 
 body {
@@ -30,8 +31,9 @@ img {
   max-width: 100%;
 }
 
-li {
-  padding: 5px 0;
+ul,
+ol {
+  padding-left: 2rem; /* by default lists have too much left padding */
 }
 
 /* Make multiline tables look good (https://github.com/wkhtmltopdf/wkhtmltopdf/issues/3356#issuecomment-288837439). */
@@ -80,15 +82,15 @@ td {
 }
 
 .text-left {
-  text-align: left;
+  text-align: left !important;
 }
 
 .text-center {
-  text-align: center;
+  text-align: center !important;
 }
 
 .text-right {
-  text-align: right;
+  text-align: right !important;
 }
 
 .indent {
@@ -96,7 +98,7 @@ td {
 }
 
 div.spacer {
-  height: 140px;
+  height: 120px;
 }
 
 .bordered-image {

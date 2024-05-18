@@ -41,10 +41,10 @@ Este documento te guiará a través de los conocimientos básicos que debes tene
 ![](../images/cover.jpg){.centered width=24% .page-break-after}
 
 - **Hoja de resultados**: luego de mezclar el puzzle, el mezclador firma en la hoja de resultados confirmando que la mezcla es correcta. Adicionalmente, después de cada intento, el juez escribe el resultado en la hoja de resultados, la firma y le solicita al competidor que firme, reconociendo que el resultado:
-  - 1) es correcto,
-  - 2) está completo,
-  - 3) tiene el formato adecuado,
-  - 4) es legible.
+  1. es correcto,
+  2. está completo,
+  3. tiene el formato adecuado,
+  4. es legible.
 
 ![](images/scoresheet.png){.centered width=70%}
 
@@ -96,7 +96,7 @@ El juez se asegura de que el competidor está listo para iniciar el intento preg
 ¡El juez debe asegurarse de que el competidor está listo! Remover la cobertura del puzzle antes de tiempo puede derivar en un intento extra.
 :::::
 
-::::: {.box .attention .page-break-before}
+::::: {.box .attention}
 ¡Recuerda que tienes 1 minuto para iniciar el intento a partir de que te sientas en la estación con el puzzle sobre el mat!
 :::::
 

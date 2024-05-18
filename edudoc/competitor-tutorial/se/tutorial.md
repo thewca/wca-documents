@@ -40,10 +40,10 @@ Den kan se ut som någon av de tre versionerna nedan.
 ![](../images/cover.jpg){.centered width=24% .page-break-after}
 
 - **Resultatkort**: När ett pussel blandats signerar blandaren på resultatkortet att det gjorts på korrekt sätt. Efter varje försök skriver domaren ner resultatet på resultatkortet och signerar. Därefter signerar deltagaren för att bekräfta att resultatet på resultatkortet är
-  - 1) korrekt
-  - 2) komplett
-  - 3) korrekt formaterat
-  - 4) tydligt läsbart
+  1. korrekt
+  2. komplett
+  3. korrekt formaterat
+  4. tydligt läsbart
 
 ![](images/scoresheet.png){.centered width=70%}
 

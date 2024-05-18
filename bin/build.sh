@@ -47,6 +47,8 @@ convert_to_pdf() {
 
     # HTML -> PDF
     if [ "$1" = "documents" ]; then
+      # --presentational-hints makes things like the start attribute of ol elements work,
+      # which is required for adding more content between two consecutive ordered list items
       weasyprint --presentational-hints --encoding 'utf-8' "$html_path" "$pdf_path"
     elif [ "$1" = "edudoc" ]; then
       weasyprint --presentational-hints --encoding 'utf-8' "$html_path" "$pdf_path"

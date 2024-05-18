@@ -39,7 +39,7 @@ Aqui estão alguns incidentes comuns que podem resultar em +2 ou DNF:
 
 **DNF**: é dado quando o competidor não consegue iniciar a resolução dentro de 17 segundos do tempo de inspeção.
 
-![](images/penalty2.png){.centered width=85%}
+![](images/penalty2.png){.centered width=80%}
 
 **+2**: é dado quando o competidor está a tocar no puzzle ao iniciar o Cronómetro.
 
@@ -47,13 +47,13 @@ Aqui estão alguns incidentes comuns que podem resultar em +2 ou DNF:
 
 **+2**: é dado quando o competidor toca no puzzle antes que o juiz inspecione o estado de resolução.
 
-![](images/penalty3.png){.centered width=85%}
+![](images/penalty3.png){.centered width=80%}
 
 **+2**: é dado quando o competidor falha em iniciar o Cronómetro com as palmas das mãos voltadas para baixo.
 
 **+2**: é dado quando o competidor não consegue parar o Cronómetro com as palmas das mãos voltadas para baixo.
 
-![](images/penalty4.png){.centered width=85%}
+![](images/penalty4.png){.centered width=80%}
 
 **+2**: é dado se o puzzle estiver a um movimento de distância do estado resolvido no final da tentativa.
 

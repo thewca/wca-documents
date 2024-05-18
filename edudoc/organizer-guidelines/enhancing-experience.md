@@ -11,7 +11,7 @@ Badges and lanyards can be used to give competitors group and staffing informati
 ::::: {.box .example}
 An example lanyard from Perfect Vision Provo 2020 can be found below.
 
-![](images/lanyard.png){.centered width=30%}
+![](images/lanyard.png){.centered width=50%}
 :::::
 
 ### Online resources:
