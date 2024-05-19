@@ -19,7 +19,7 @@ Run these scripts from the root directory of the repository:
 | `bin/docker_build.sh` | Builds PDF files using Docker. Use the `--rebuild` flag if you need to rebuild the image. The same directory argument as in `build.sh` is also supported. |
 | `bin/deploy.sh` | WCA deployment script used by GitHub. You don't need to use this. |
 
-\* This only supports Debian-based distributions. If you are not using a Debian-based distribution, install these two dependencies manually: [pandoc](https://www.pandoc.org) and [weasyprint](https://doc.courtbouillon.org/weasyprint/stable).
+\* This only supports Debian-based distributions. If you are not using a Debian-based distribution, install these dependencies manually: [pandoc](https://www.pandoc.org), [weasyprint](https://doc.courtbouillon.org/weasyprint/stable), Liberation Sans font, a font with full Unicode support (e.g. Google Noto).
 
 ## Writing and translating documents
 

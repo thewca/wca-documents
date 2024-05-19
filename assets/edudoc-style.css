@@ -38,7 +38,7 @@
   #header_title {
     position: running(headerTitle);
     padding-top: 18px;
-    font-size: 90%;
+    font-size: 0.9em;
   }
 
   #header_logo {
@@ -55,17 +55,16 @@
 }
 
 h1 {
-  /* margin: 0.2rem initial 0.7rem; */
   text-align: center;
-}
-
-li {
-  margin: 0.6rem initial;
 }
 
 img.logo {
   float: left;
   padding: 20px;
+}
+
+li {
+  margin: 0.6rem initial;
 }
 
 .box {

@@ -51,7 +51,7 @@ table {
   width: 100%;
   margin: initial auto;
   border-collapse: collapse;
-  font-size: 90%;
+  font-size: 0.9em;
 }
 
 tr {
@@ -68,6 +68,15 @@ td {
   padding: 5px 10px;
   border: 1px solid black;
   vertical-align: top;
+}
+
+.bordered-image {
+  display: block;
+  box-sizing: border-box;
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 5px;
+  border: 2px solid black;
 }
 
 .version {
@@ -106,13 +115,4 @@ td {
 
 div.spacer {
   height: 100px;
-}
-
-.bordered-image {
-  display: block;
-  box-sizing: border-box;
-  max-width: 90%;
-  margin: 0 auto;
-  padding: 5px;
-  border: 2px solid black;
 }

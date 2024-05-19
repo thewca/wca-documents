@@ -3,7 +3,7 @@
 ---
 
 ::::: {.text-center}
-<div style="margin: 160px auto; font-size: 26pt;">
+<div style="margin: 160px auto; font-size: 2.3em;">
 # World Cube Association
 </div>
 ![]({logo}){width=60% margin=auto}
