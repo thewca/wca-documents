@@ -33,13 +33,13 @@ Oto główne wyposażenie i narzędzia wymagane do podjęcia próby rozwiązania
 
 Oto kilka typowych zdarzeń, które mogą skutkować +2 lub DNF:
 
-![](images/penalty1.png){.centered width=75%}
+![](images/penalty1.png){.centered width=70%}
 
 **+2**: kara jest dawana, gdy zawodnik przekroczy 15 sekund czasu kontroli i rozpocznie rozwiązanie przed 17 sekundami.
 
 **DNF**: kara jest dawana, gdy zawodnik nie rozpocznie rozwiązania w ciągu 17 sekund od czasu inspekcji.
 
-![](images/penalty2.png){.centered width=80%}
+![](images/penalty2.png){.centered width=70%}
 
 **+2**: kara jest dawana, gdy zawodnik dotknie układanki podczas uruchamiania zegara.
 
@@ -47,13 +47,13 @@ Oto kilka typowych zdarzeń, które mogą skutkować +2 lub DNF:
 
 **+2**: kara jest dawana, gdy zawodnik dotknie układanki, zanim sędzia sprawdzi jej rozwiązanie.
 
-![](images/penalty3.png){.centered width=80%}
+![](images/penalty3.png){.centered width=70%}
 
 **+2**: kara jest dawana, gdy zawodnik nie uruchamia zegara z dłońmi skierowanymi w dół.
 
 **+2**: kara jest dawana, gdy zawodnik nie zatrzymuje zegara z dłońmi skierowanymi w dół.
 
-![](images/penalty4.png){.centered width=80%}
+![](images/penalty4.png){.centered width=70%}
 
 **+2**: kara jest dawana, jeśli w układance brakuje jednego ruchu do stanu rozwiązanego na końcu próby.
 

@@ -25,7 +25,7 @@ ol[type="1"] > li:before {
 
 /* Nested list item (e.g. 1.2.3) */
 li ol[type="1"] > li {
-  margin-left: 1.5rem;
+  margin-left: 1rem;
 }
 
 li ol[type="1"] > li:before {

@@ -1,17 +1,17 @@
-<div class="text-center">
+::::: {.text-center}
 MINUTES OF MEETING OF THE BOARD OF DIRECTORS OF WORLD CUBE ASSOCIATION
 
 A California Nonprofit Public Benefit Corporation
-</div>
+:::::
 
 On November 26, 2023 at 12:00 p.m. UTC, the Board of Directors of World Cube Association (the “Board”) met for a regular meeting via Zoom. The following directors were present at the meeting:
 
-<div class="text-center">
+::::: {.text-center}
 Blake Thompson <br>
 Ethan Pride <br>
 Kerrie Jarman <br>
 Michael Chai <br>
-</div>
+:::::
 
 
 #### **SELECTION OF WCA QUALITY ASSURANCE COMMITTEE LEADER** {.text-center}

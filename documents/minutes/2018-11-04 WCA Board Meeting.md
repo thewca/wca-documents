@@ -1,16 +1,16 @@
-<div class="text-center">
+::::: {.text-center}
 MINUTES OF MEETING OF THE BOARD OF DIRECTORS OF WORLD CUBE ASSOCIATION
 
 A California Nonprofit Public Benefit Corporation
-</div>
+:::::
 
 On November 4, 2018 at 10:15 a.m. PST, the Board of Directors of World Cube Association (the “Board”) met for a regular meeting via Google Hangouts. The following directors were present at the meeting:
 
-<div class="text-center">
+::::: {.text-center}
 Alberto Pérez de Rada Fiol <br>
 Christopher Wright <br>
 Olivér Perge <br>
-</div>
+:::::
 
 #### **COMPETITION ANNOUNCEMENT POLICY** {.text-center}
 

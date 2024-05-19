@@ -1,17 +1,17 @@
-<div class="text-center">
+::::: {.text-center}
 MINUTES OF MEETING OF THE BOARD OF DIRECTORS OF WORLD CUBE ASSOCIATION
 
 A California Nonprofit Public Benefit Corporation
-</div>
+:::::
 
 On August 6, 2019 at 9:00 a.m. PST, the Board of Directors of World Cube Association (the “Board”) met for a regular meeting via Google Hangouts. The following directors were present at the meeting:
 
-<div class="text-center">
+::::: {.text-center}
 Alberto Pérez de Rada Fiol <br>
 Christopher Wright <br>
 Ethan Pride <br>
 Robert Burton <br>
-</div>
+:::::
 
 #### **BOARD MEETING FREQUENCY** {.text-center}
 
@@ -22,7 +22,7 @@ The Board agreed to schedule quarterly Board meetings. Attendance at such meetin
 As a result of negative feedback regarding the timing for applications with the current round of Continental Championships, in conjunction with feedback from Ethan Pride regarding the difficulty of planning the World Championship in less than one year, the Board agreed to open application periods earlier and extend their length to offer organizational teams more time to apply and give the successful applicants more time to prepare. The following timetable was agreed upon:
 
 | Type | Year | Location | Applications open | Applications close | Board decision |
-| :---- | :-- | :-------- | :------ | :------ | :----- |
+| :---- | :-- | :------ | :------ | :------ | :------- |
 | World | 2021 | World | January 1, 2020 | March 31, 2020 | April 30, 2020 |
 | Continental | 2022 | Asia | March 1, 2020 | May 31, 2020 | June 30, 2020* |
 | | | Europe | | | |

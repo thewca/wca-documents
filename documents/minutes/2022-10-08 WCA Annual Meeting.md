@@ -1,12 +1,12 @@
-<div class="text-center">
+::::: {.text-center}
 DRAFT MINUTES OF ANNUAL MEETING OF THE MEMBERS OF WORLD CUBE ASSOCIATION
 
 A California Nonprofit Public Benefit Corporation
-</div>
+:::::
 
 On October 8, 2022 at 6:00 p.m. UTC, the Members of the World Cube Association met for an annual meeting via Zoom. The following voting Members were present at the meeting:
 
-<div class="text-center">
+::::: {.text-center}
 Antoine Piau, Arthur Garcin, Blake Thompson, Bob Burton <br>
 Cailyn Hoover, Callum James Goodyear, Daniel Vædele Egdal, Edward Hollingdale <br>
 Ethan Pride, Finn Ickler, Georel Ulangkaya, Gregor Billing <br>
@@ -20,7 +20,7 @@ Ulrik Bredland  <br>
 
 
 At the time of the meeting the World Cube Association had 162 voting members. With 28 voting members additionally represented by proxy a total of 65 voting members were represented at the meeting and as such a quorum was present.
-</div>
+:::::
 
 
 #### **APPROVAL OF THE MINUTES OF THE PREVIOUS ANNUAL MEETING** {.text-center}

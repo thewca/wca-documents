@@ -20,11 +20,13 @@ body > :last-child {
   padding-bottom: 0;
 }
 
-code {
-  background-color: #eee;
-  border-radius: 3px;
-  font-family: courier, monospace;
-  padding: 0 3px;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0.4rem initial 0.9rem;
 }
 
 img {
@@ -33,18 +35,23 @@ img {
 
 ul,
 ol {
-  padding-left: 2rem; /* by default lists have too much left padding */
+  padding-left: 1.8rem; /* by default lists have too much left padding */
+}
+
+code {
+  background-color: #eee;
+  border-radius: 3px;
+  font-family: courier, monospace;
+  padding: 0 3px;
 }
 
 /* Make multiline tables look good (https://github.com/wkhtmltopdf/wkhtmltopdf/issues/3356#issuecomment-288837439). */
 
 table {
   width: 100%;
-  margin-left: auto;
-  margin-right: auto;
+  margin: initial auto;
   border-collapse: collapse;
-  page-break-inside: avoid;
-  font-size: 0.9em;
+  font-size: 90%;
 }
 
 tr {
@@ -98,13 +105,14 @@ td {
 }
 
 div.spacer {
-  height: 120px;
+  height: 100px;
 }
 
 .bordered-image {
-  padding: 5px;
-  margin: 0 auto;
   display: block;
-  border: 2px solid black;
   box-sizing: border-box;
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 5px;
+  border: 2px solid black;
 }

@@ -12,6 +12,7 @@ compile_date=$(date '+%Y-%m-%d')
 # Function for converting Markdown files from a given directory into PDF files.
 # The first argument ($1) refers to the directory name (e.g: documents or edudoc).
 convert_to_pdf() {
+  rm -rf "build/$1"
   cp -r "$1/" build/
 
   # Find Markdown files and build PDFs out of them.
@@ -53,11 +54,13 @@ convert_to_pdf() {
     elif [ "$1" = "edudoc" ]; then
       weasyprint --presentational-hints --encoding 'utf-8' "$html_path" "$pdf_path"
     fi
+
+    # Remove the Markdown and HTML files
+    rm "$file" "$html_path"
   done
 }
 
-# Delete all contents of the build directory and create it if it didn't exist in the first place
-rm -rf build/*
+# Create the build directory if it didn't exist in the first place
 mkdir -p build
 
 # Use the DIRECTORY_TO_BUILD environment variable or the passed argument as the only directory

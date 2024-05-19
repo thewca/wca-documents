@@ -7,9 +7,6 @@ elif [ -n "$2" ] && [ "$2" != "--rebuild" ]; then
   directory_to_build=$2
 fi
 
-rm -rf build
-mkdir build
-
 # Build the Docker image, if the --rebuild flag was used or if an image hasn't been built yet
 
 if [ -z "$(docker images | grep wca-pdf-builder)" ]; then

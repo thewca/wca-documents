@@ -1,6 +1,5 @@
 :root {
   font-size: 11pt;
-  line-height: 1.1;
 }
 
 /* This is used by weasyprint */
@@ -56,7 +55,7 @@
 }
 
 h1 {
-  margin: 0.2rem initial 0.7rem;
+  /* margin: 0.2rem initial 0.7rem; */
   text-align: center;
 }
 

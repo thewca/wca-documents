@@ -1,12 +1,12 @@
-<div class="text-center">
+::::: {.text-center}
 MINUTES OF ANNUAL MEETING OF THE MEMBERS OF WORLD CUBE ASSOCIATION
 
 A California Nonprofit Public Benefit Corporation
-</div>
+:::::
 
 On October 22, 2019 at 7:00 p.m. UTC, the Members of the World Cube Association met for an annual meeting via Zoom. The following Members were present at the meeting:
 
-<div class="text-center">
+::::: {.text-center}
 Ethan Pride, Ron van Bruchem, Callum Goodyear, António Gomes <br>
 Rui Reis, Somya Srivastava, JP Bulman, Laura Ohrndorf <br>
 Iván Brigidano Pérez, Mary Hennessy, Daniel Vædele Egdal, Jacob Ambrose <br>
@@ -18,7 +18,7 @@ Antoine Piau, Tim McMahon, Serhii Koksharov, Bob Burton <br>
 Chris Wright, Edward Hollingdale <br>
 
 At the time of the meeting the World Cube Association had 142 voting members. As such we did not have a quorum of 33% present at the meeting and therefore no votes were passed.
-</div>
+:::::
 
 
 #### **OPENING BY BOARD OF DIRECTORS** {.text-center}

@@ -41,6 +41,7 @@ RESOLVED FURTHER, that the WCA Motions, as previously ratified by unanimous vote
 RESOLVED FURTHER, that the following officers be, and each of them hereby is, elected as officers of this corporation to serve until their respective successors are duly elected and
 qualified:
 
+::::: {.page-break-before}
 | **Title** | **Name** |
 | :--- | :--------- |
 | Chair of the Board | Ron van Bruchem |
@@ -48,6 +49,7 @@ qualified:
 | Secretary | Robert Burton |
 | Treasurer | Christopher Hardwick |
 | Vice-Chairs of the Board | Robert Burton, Pedro Santos Guimarães, Luis J. Iáñez, Olivér Perge, Alberto Pérez de Rada Fiol |
+:::::
 
 Each officer so elected, being present (with the exception of Christopher Hardwick), accepted his or her office, and thereafter the chairperson presided at the meeting as chairperson, and the secretary acted as secretary of the meeting.
 

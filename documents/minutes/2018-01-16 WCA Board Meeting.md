@@ -1,19 +1,19 @@
-<div class="text-center">
+::::: {.text-center}
 MINUTES OF MEETING OF THE BOARD OF DIRECTORS OF WORLD CUBE ASSOCIATION
 
 A California Nonprofit Public Benefit Corporation
-</div>
+:::::
 
 On January 16, 2018 at 1:00 p.m. PST, the Board of Directors of World Cube Association (the “Board”) met for a regular meeting via Google Hangouts. The following directors were present at the meeting:
 
-<div class="text-center">
+::::: {.text-center}
 Alberto Pérez de Rada Fiol <br>
 Luis J. Iáñez <br>
 Olivér Perge <br>
 Pedro Santos Guimarães <br>
 Robert Burton <br>
 Ron van Bruchem <br>
-</div>
+:::::
 
 #### **NON-PROFIT PROGRESS** {.text-center}
 

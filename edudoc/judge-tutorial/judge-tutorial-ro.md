@@ -34,13 +34,13 @@ Acesta este echipamentul principal si instrumentele necesare pentru a continua c
 
 Iată câteva incidente comune care pot duce la +2 sau DNF:
 
-![](images/penalty1.png){.centered width=75%}
+![](images/penalty1.png){.centered width=70%}
 
 **+2**: este dat atunci când concurentul depășește timpul de inspecție de 15 secunde și începe rezolvarea înainte de 17 secunde.
 
 **DNF**: este dat atunci când concurentul nu reușește să înceapă rezolvarea în 17 secunde de la timpul de inspecție.
 
-![](images/penalty2.png){.centered width=80%}
+![](images/penalty2.png){.centered width=70%}
 
 **+2**: este dat atunci când concurentul atinge puzzle-ul în timp ce pornește cronometrul.
 
@@ -48,13 +48,13 @@ Iată câteva incidente comune care pot duce la +2 sau DNF:
 
 **+2**: este dat atunci când concurentul atinge puzzle-ul înainte ca judecătorul să fi inspectat starea rezolvată.
 
-![](images/penalty3.png){.centered width=80%}
+![](images/penalty3.png){.centered width=70%}
 
 **+2**: este dat atunci când concurentul nu reușește să pornească cronometrul cu palmele îndreptate în jos.
 
 **+2**: este dat atunci când concurentul nu reușește să oprească cronometrul cu palmele îndreptate în jos.
 
-![](images/penalty4.png){.centered width=80%}
+![](images/penalty4.png){.centered width=70%}
 
 **+2**: este dat dacă puzzle-ul este la o distanță de starea rezolvată la sfârșitul încercării.
 

@@ -1,18 +1,18 @@
-<div class="text-center">
+::::: {.text-center}
 MINUTES OF MEETING OF THE BOARD OF DIRECTORS OF WORLD CUBE ASSOCIATION
 
 A California Nonprofit Public Benefit Corporation
-</div>
+:::::
 
 On June 6, 2021 at 6:00 p.m. UTC, the Board of Directors of World Cube Association (the “Board”) met for a regular meeting via Google Meets. The following directors were present at the meeting:
 
-<div class="text-center">
+::::: {.text-center}
 Callum Goodyear <br>
 Ethan Pride <br>
 Henrik Buus Aagaard <br>
 Robert Burton <br>
 Saransh Grover <br>
-</div>
+:::::
 
 
 #### **SELECTION OF WCA SOFTWARE TEAM LEADER** {.text-center}
