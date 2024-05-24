@@ -13,8 +13,8 @@ There is a lot of information that is relevant to all WCA Staff, not simply Dele
 # Table of Contents {.page-break-before}
 
 - [Delegate Handbook](#delegate-handbook)
-- [Table of Contents {.page-break-before}](#table-of-contents-page-break-before)
-- [Introduction to Delegating {.page-break-before}](#introduction-to-delegating-page-break-before)
+- [Table of Contents](#table-of-contents)
+- [Introduction to Delegating](#introduction-to-delegating)
   - [The Roles of a WCA Delegate](#the-roles-of-a-wca-delegate)
   - [How to Become a Delegate](#how-to-become-a-delegate)
   - [Delegate Tiers](#delegate-tiers)
@@ -26,7 +26,7 @@ There is a lot of information that is relevant to all WCA Staff, not simply Dele
   - [Email](#email)
   - [Confidentiality](#confidentiality)
   - [Probation](#probation)
-- [Before the Competition {.page-break-before}](#before-the-competition-page-break-before)
+- [Before the Competition](#before-the-competition)
   - [Competitions and Your Community](#competitions-and-your-community)
     - [Competition Frequency](#competition-frequency)
     - [Competition Size](#competition-size)
@@ -45,7 +45,7 @@ There is a lot of information that is relevant to all WCA Staff, not simply Dele
   - [Communicating with Competitors and their Families](#communicating-with-competitors-and-their-families)
   - [Generating Scrambles](#generating-scrambles)
   - [Generating Groups](#generating-groups)
-- [Day of the Competition {.page-break-before}](#day-of-the-competition-page-break-before)
+- [Day of the Competition](#day-of-the-competition)
   - [Setup and Environment](#setup-and-environment)
   - [Check-In and Registration](#check-in-and-registration)
     - [On-the-Spot Registration](#on-the-spot-registration)
@@ -59,7 +59,7 @@ There is a lot of information that is relevant to all WCA Staff, not simply Dele
     - [Records and Notable Solves](#records-and-notable-solves)
       - [World Record Social Media Posts](#world-record-social-media-posts)
     - [Missing Competitor Results](#missing-competitor-results)
-  - [+2 Calls and Penalties {#plus2-calls-and-penalties}](#2-calls-and-penalties-plus2-calls-and-penalties)
+  - [+2 Calls and Penalties](#plus2-calls-and-penalties)
     - [Square-1 Misalignments](#square-1-misalignments)
   - [Regulation 3j: Reasonable Wear](#regulation-3j-reasonable-wear)
   - [Regulation 5b5: Popped Puzzles](#regulation-5b5-popped-puzzles)
@@ -74,7 +74,7 @@ There is a lot of information that is relevant to all WCA Staff, not simply Dele
   - [Modifications to the Schedule or Events](#modifications-to-the-schedule-or-events)
     - [Running Behind Schedule](#running-behind-schedule)
     - [Running Ahead of Schedule](#running-ahead-of-schedule)
-- [After the Competition {.page-break-before}](#after-the-competition-page-break-before)
+- [After the Competition](#after-the-competition)
   - [Competition Results](#competition-results)
     - [Double-checking Registration Data](#double-checking-registration-data)
     - [Submitting Results](#submitting-results)
@@ -88,9 +88,9 @@ There is a lot of information that is relevant to all WCA Staff, not simply Dele
     - [Responses to Your Report](#responses-to-your-report)
   - [Paying Competition Dues](#paying-competition-dues)
   - [Lost and Found](#lost-and-found)
-- [Delegates Outside of the Competition {.page-break-before}](#delegates-outside-of-the-competition-page-break-before)
+- [Delegates Outside of the Competition](#delegates-outside-of-the-competition)
   - [Managing WCA User Accounts](#managing-wca-user-accounts)
-    - [Accounts vs. Profiles (WCA IDs) {#accounts-vs-profiles-wca-ids}](#accounts-vs-profiles-wca-ids--accounts-vs-profiles-wca-ids)
+    - [Accounts vs. Profiles (WCA IDs)](#accounts-vs-profiles-wca-ids)
     - [Handling WCA ID Claims](#handling-wca-id-claims)
     - [Requesting Changes to Personal Data](#requesting-changes-to-personal-data)
   - [Acquiring Competition Equipment](#acquiring-competition-equipment)
@@ -718,7 +718,7 @@ Square-1 misalignments are handled slightly differently than other puzzles. Alth
 
 One side effect of these regulations is that there are certain Square-1 states that may appear to be a DNF at first glance but are actually only a penalty. The most extreme case of this is in the following image:
 
-![](images/sq1-plus-2.jpg) {.centered width=50%}
+![](images/sq1-plus-2.jpg){.centered width=50%}
 
 In this example, a (1, 0) / (-1, -1), and then a partial slice under 90 degrees has been applied to the puzzle. This is only a +2 penalty because the (1, 0) is under the misalignment threshold of 45 degrees for (U, D) moves, and so is not a penalty. The slice is over the misalignment threshold of 90 degrees, and incurs a +2 penalty. The (-1, -1) once again is under the misalignment threshold, as U and D moves are considered separately according to [Guideline 10f4+](https://www.worldcubeassociation.org/regulations/guidelines.html#10f4+). Finally, the partial slice is under the 90 degree threshold. In conclusion, only 1 move has been made above the penalty threshold, so the final ruling is that this is a +2 penalty.
 
@@ -758,7 +758,7 @@ When an incident arises, encourage competitors to stop the attempt immediately b
 
 The following is a general decision tree for handling incidents, and gives you a general idea of what to consider and what the outcome usually is for an incident. However, **this decision tree is always welcome to be overruled by the Delegate if they believe their decision is more fair.**
 
-![](images/extra-decision-tree.png) {.centered width=90%}
+![](images/extra-decision-tree.png){.centered width=90%}
 
 #### Provisional Extras
 
@@ -1141,15 +1141,17 @@ A competitor's personal information is verified at their first competition (see 
 
 A WCA ID is associated with a profile page, which looks like this:
 
-![](images/profile-page.jpg) {.centered width=60%}
+![](images/profile-page.jpg){.centered width=65%}
 
 All competition results in the WCA’s database are associated with a WCA ID, and this page provides access to all results for an individual competitor, along with other interesting results information.
 
 Delegates and WCA Staff with access rights can access the account page for a competitor by clicking the pencil icon on a profile page, or using the manage users tool. These individuals, plus competition organizers, can also access the account page via links provided on the registration tab of a competition.
 
-The account page looks like this:
+::::: {.page-break-before}
+The account page may look like this:
 
-![](images/account-page.jpg) {.centered width=60%}
+![](images/account-page.jpg){.centered width=60%}
+:::::
 
 Personal information can be edited by Delegates and organizers for an account without a WCA ID, but for accounts with a linked ID, only the WCA Results Team can make such changes (see the Requesting Changes to Personal Data section, below). Delegates can remove the linked WCA ID from one account (with some exceptions, which WRT must handle) and assign it to another account. In order for a WCA ID to be linked to an account the personal data fields in both must match.
 
@@ -1173,7 +1175,7 @@ There are 2 types of data changes:
 
 2. **Update**: An update internally creates a new sub-profile, so that the previous data remains unchanged for all past competitions and a notice of the change is shown on the competitor’s profile. Such a profile may look like this:
 
-![](images/country-change-profile-page.jpg) {.centered width=60%}
+![](images/country-change-profile-page.jpg){.centered width=65%}
 
 This form of data change is commonly applied for:
 
