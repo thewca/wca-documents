@@ -15,7 +15,7 @@ Once you have assembled an organization team, you should choose a main organizer
 
 ## Contacting a Delegate
 
-The complete list of all WCA Delegates can be found [here](https://www.worldcubeassociation.org/delegates). It is important for you to find the most appropriate for you depending on the location of the competition. If there is already a Delegate in your nearby region, you should begin by reaching out to them. If the local Delegate is not available for the competition, they will likely point you to the appropriate next steps or another Delegate who could help, otherwise, contact the Senior Delegate of the region.
+The complete list of all WCA Delegates can be found [here](wca{delegates}). It is important for you to find the most appropriate for you depending on the location of the competition. If there is already a Delegate in your nearby region, you should begin by reaching out to them. If the local Delegate is not available for the competition, they will likely point you to the appropriate next steps or another Delegate who could help, otherwise, contact the Senior Delegate of the region.
 
 Unfortunately, there might not be a Delegate in your region. In that case, reaching out to the Senior Delegate of the region is the most appropriate solution so that they can try to help you find a Delegate to make your competition official.
 
@@ -33,4 +33,4 @@ If you do not yet have an organization team but you have a venue, contacting a D
 
 Below you can find translations of this document. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
 
-- [Português Europeu (European Portuguese)](https://worldcubeassociation.org/edudoc/organizer-guidelines/pt/orga-team-delegate.pdf) - translated by António Gomes
+- [Português Europeu (European Portuguese)](wcadoc{edudoc/organizer-guidelines/pt/orga-team-delegate.pdf}) - translated by António Gomes

@@ -17,11 +17,11 @@ You also need to make sure your competition ends with some buffer time before yo
 
 Let’s assume you can enter the venue at 8 AM, you can’t schedule the first event to start at 8:10 AM if it takes you half an hour to set everything up. The same goes for the end of the competition; if it takes you another 30 minutes to disassemble all the setup done, you cannot make a schedule that ends 10 minutes before you leave the venue. This section of the schedule doesn’t necessarily have to be publicly available, but as an organizer, you must take setting up and cleaning up into account when scheduling your competition.
 
-You should also leave enough time at the beginning of your competition to check-in people and to register new competitors in case you are accepting [registrations on the spot](https://www.worldcubeassociation.org/edudoc/organizer-guidelines/registration.pdf). Make sure the time scheduled for registering and checking-in is appropriate based on the number of competitors of the competition (e.g. Do not schedule only 10 minutes if you have 100+ competitors registered). Be aware that you may also have a high number of people arriving just before the main event if the main event is not the first event of the day, so make sure to take into account the time and resources needed to register and/or check-in those people.
+You should also leave enough time at the beginning of your competition to check-in people and to register new competitors in case you are accepting [registrations on the spot](wcadoc{edudoc/organizer-guidelines/registration.pdf}). Make sure the time scheduled for registering and checking-in is appropriate based on the number of competitors of the competition (e.g. Do not schedule only 10 minutes if you have 100+ competitors registered). Be aware that you may also have a high number of people arriving just before the main event if the main event is not the first event of the day, so make sure to take into account the time and resources needed to register and/or check-in those people.
 
 4. How many solving stations will be available?
 
-Knowing how many solving stations can be set up tells you how many people can compete at once. Keep in mind that although more stations can shorten the duration of a round they also require more judges, scramblers and possibly runners depending on the [running system](https://www.worldcubeassociation.org/edudoc/organizer-guidelines/running-systems.pdf) of your competition, so you need to account for the extra time looking for volunteers in case you did not [assign staff tasks beforehand](https://www.worldcubeassociation.org/edudoc/organizer-guidelines/staff.pdf).
+Knowing how many solving stations can be set up tells you how many people can compete at once. Keep in mind that although more stations can shorten the duration of a round they also require more judges, scramblers and possibly runners depending on the [running system](wcadoc{edudoc/organizer-guidelines/running-systems.pdf}) of your competition, so you need to account for the extra time looking for volunteers in case you did not [assign staff tasks beforehand](wcadoc{edudoc/organizer-guidelines/staff.pdf}).
 
 5. What are the lunch options near the venue?
 
@@ -83,4 +83,4 @@ Keep in mind that any changes to the schedule must be notified to all competitor
 
 Below you can find translations of this document. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
 
-- [Português Europeu (European Portuguese)](https://worldcubeassociation.org/edudoc/organizer-guidelines/pt/schedule.pdf) - translated by António Gomes
+- [Português Europeu (European Portuguese)](wcadoc{edudoc/organizer-guidelines/pt/schedule.pdf}) - translated by António Gomes

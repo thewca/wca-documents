@@ -6,7 +6,7 @@ Official Documents of the World Cube Association.
 
 Whenever changes are made, GitHub builds PDF files out of each Markdown document, pushes the generated files to the [build branch](https://github.com/thewca/wca-documents/tree/build) and deploys them to the website. Documents in `documents` then become available at `worldcubeassociation.org/documents/[path to doc].pdf`, and documents in `edudoc` become available at `worldcubeassociation.org/edudoc/[path to doc].pdf`. Pre-rendered PDFs are simply copied into `build` during the build process.
 
-Example: `documents/policies/external/Competition Requirements.md` gets converted to PDF and becomes available at `https://www.worldcubeassociation.org/documents/policies/external/Competition Requirements.pdf`.
+Example: `documents/policies/external/Competition Requirements.md` gets converted to PDF and becomes available at `https://documents.worldcubeassociation.org/documents/policies/external/Competition Requirements.pdf`.
 
 ## Scripts
 
@@ -26,7 +26,7 @@ The build script (`bin/build.sh`) works in the following steps:
 
 1. Remove old `build` folder if it exists and create a new one.
 2. Copy the `documents` folder into `build` (all changes are applied inside of the `build` folder).
-3. Replace all occurences of `wca{[url]}` with the actual URL to the website (used as a shortcut).
+3. Replace all occurences of `wca{[url]}` and `wcadoc{[url]}` with the actual URL to the website (used as a shortcut).
 4. Replace all occurences of `{logo}` with the actual absolute path to the WCA logo in `assets/WCAlogo_notext.svg` (used as a shortcut).
 5. Convert all Markdown files to HTML, while applying the styling in `assets/style.css`. HTML files are created and put next to each corresponding Markdown file.
 6. Convert all temporary HTML files in `documents` to PDF. PDF files are created and put next to each corresponding Markdown file.

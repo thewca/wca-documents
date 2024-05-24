@@ -4,7 +4,7 @@
 
 The Code of Ethics must be considered by all Staff members of the World Cube Association (WCA), referred to in this document as “WCA Staff”, as a standard for actions and decisions they will be making when acting on behalf of the WCA within their role. “Listed Delegates” refers to WCA Delegates who are publicly displayed on the “General info” tab of an official WCA Competition.
 
-These actions and decisions should be made in such a manner that, if consistently performed by WCA Staff, the [Spirit and Mission](wca{documents/motions/01.2019.1 - Spirit.pdf}) of the WCA would continue to be upheld while not breaking any [Regulations](wca{regulations}), [Motions, or Policies](wca{documents}).
+These actions and decisions should be made in such a manner that, if consistently performed by WCA Staff, the [Spirit and Mission](wcadoc{documents/motions/01.2021.1 - Spirit.pdf}) of the WCA would continue to be upheld while not breaking any [Regulations](wca{regulations}), [Motions, or Policies](wca{documents}).
 
 This Code covers previously known issues, as well as issues that the WCA Ethics Committee (WEC) foresees as requiring additional guidance. This document will be updated periodically to incorporate new topics as they are brought to the attention of the WEC, and will also be reviewed regularly.
 
@@ -42,7 +42,7 @@ The official communication channel for the WEC is via email. For any concerns ab
    5. Profit acquired from a competition must not be kept for personal gain by the Organizers nor the Delegates and should be put towards the benefit of the community. Where possible, this should be done via an organization and not an individual.
          1. If profits from a competition will be donated to a charity, this information must be made public on the competition page when it is announced. Any such charity must be registered as such in the country the competition is held.
 2. **Communication**
-   1. The [WCA email account policy](https://www.worldcubeassociation.org/documents/policies/internal/Email%20Account.pdf) must be followed.
+   1. The [WCA email account policy](wcadoc{documents/policies/internal/Email%20Account.pdf}) must be followed.
       1. All official WCA email communication must utilize the @worldcubeassociation.org addresses.
       2. WCA Staff must be aware that emails sent from @worldcubeassociation.org email addresses to external parties may be perceived as being on behalf of the WCA. Personal email addresses should be used to avoid this perception.
          1. Example: Contacting sponsors for a competition should use personal email addresses.
@@ -73,7 +73,7 @@ The official communication channel for the WEC is via email. For any concerns ab
          1. Example: Being the owner of a cubing store/business.
    2. WCA Staff must not receive sponsorship(s) for their role within the WCA.
       1. Any sponsorship details of a WCA Staff member as a competitor must be reported to the WEC.
-   3. WCA Staff must not use their role to promote a third party brand who are not a [WCA-recognized regional organization](https://www.worldcubeassociation.org/organizations), the competition sponsor(s), or sponsors of the WCA. This includes but is not limited to:
+   3. WCA Staff must not use their role to promote a third party brand who are not a [WCA-recognized regional organization](wca{organizations}), the competition sponsor(s), or sponsors of the WCA. This includes but is not limited to:
       1. Promotions in emails to competitors
       2. References in the email signature block
    4. Listed WCA Delegates must not wear apparel which could reasonably be interpreted as an official affiliation or agreement with the WCA.

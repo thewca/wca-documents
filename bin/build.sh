@@ -4,7 +4,8 @@
 set -x
 
 # WCA url and absolute path to WCA logo file
-wca_url="https://worldcubeassociation.org/"
+wca_url="https://www.worldcubeassociation.org/"
+wca_docs_url="https://documents.worldcubeassociation.org/"
 logo=$(realpath "./assets/WCAlogo_notext.svg")
 # Absolute paths to the stylesheets and the edudoc header
 stylesheet=$(realpath "./assets/style.css")
@@ -28,8 +29,9 @@ convert_to_pdf() {
     file_headline=$(head -n 1 "$file")
     document_title=$(echo "$file_headline" | sed -E "s/#+\s*//")
 
-    # Replace wca{...} with absolute WCA URLs (the correct URLs only get inserted in production)
+    # Replace wca{...} and wcadoc{...} with absolute WCA URLs (the correct URLs only get inserted in production)
     sed -Ei "s#wca\{([^}]*)\}#$wca_url\1#g" "$file"
+    sed -Ei "s#wcadoc\{([^}]*)\}#$wca_docs_url\1#g" "$file"
     # Replace {logo} with the path to the WCA logo in /assets
     sed -Ei "s#\{logo\}#$logo#g" "$file"
 

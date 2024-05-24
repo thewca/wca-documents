@@ -56,7 +56,9 @@ We also have a couple custom shortcuts in our repo:
 ![WCA Logo]({logo})
 ```
 
-wca{...} - inserts URL to a page on the WCA website. Example: wca{regulations/guidelines} gets converted to https://www.worldcubeassociation.org/regulations/guidelines/. This shortcut is not necessary to use, but it can make your Markdown look cleaner.
+wca{...} - inserts URL to a page on the WCA website. Example: `wca{regulations/guidelines}` gets converted to `https://www.worldcubeassociation.org/regulations/guidelines/`.
+
+wcadoc{...} - inserts URL to a document page on the WCA website (any page with `documents.` as the subdomain). Example: `wcadoc{documents/policies/external/Competition Requirements.pdf}` gets converted to `https://documents.worldcubeassociation.org/documents/policies/external/Competition Requirements.pdf`.
 
 ### Commonly-used elements
 
@@ -93,9 +95,9 @@ Create a folder called `images` in the same folder as your document, and put you
 ![](images/my-image2.jpg){.centered}
 ```
 
-3. **Version labels** (documents folder only)
+3. **Version labels**
 
-If you are making a document that needs a version label (e.g. a policy document), use this:
+If you are making a document that needs a version label, use this:
 
 ```md
 ### Version 1.0 {.version}

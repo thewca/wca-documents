@@ -20,7 +20,7 @@ If you are lacking personnel to help, it might be beneficial to also have the re
 
 The person in charge of checking people in should also make sure that citizenships and the date of birth of competitors are checked and match the registration data.
 
-More on the setup can be found in the [Venue Setup document](https://www.worldcubeassociation.org/edudoc/organizer-guidelines/venue-setup.pdf).
+More on the setup can be found in the [Venue Setup document](wcadoc{edudoc/organizer-guidelines/venue-setup.pdf}).
 
 ## Score-taking
 
@@ -52,4 +52,4 @@ As the previous group is finishing up, you should start preparing for the next o
 
 Below you can find translations of this document. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
 
-- [Português Europeu (European Portuguese)](https://worldcubeassociation.org/edudoc/organizer-guidelines/pt/work-during-comp.pdf) - translated by António Gomes
+- [Português Europeu (European Portuguese)](wcadoc{edudoc/organizer-guidelines/pt/work-during-comp.pdf}) - translated by António Gomes

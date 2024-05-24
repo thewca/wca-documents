@@ -50,7 +50,8 @@ th {
   font-weight: bold;
 }
 
-th, td {
+th,
+td {
   font-size: 18px;
   padding: 5px 10px;
   border: 1px solid black;
@@ -84,6 +85,10 @@ th, td {
   margin-left: auto;
   margin-right: auto;
   display: block;
+}
+
+.version {
+  color: gray;
 }
 
 .page-break-before {
