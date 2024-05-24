@@ -718,7 +718,7 @@ Square-1 misalignments are handled slightly differently than other puzzles. Alth
 
 One side effect of these regulations is that there are certain Square-1 states that may appear to be a DNF at first glance but are actually only a penalty. The most extreme case of this is in the following image:
 
-![](images/sq1-plus-2.png) {.centered width=50%}
+![](images/sq1-plus-2.jpg) {.centered width=50%}
 
 In this example, a (1, 0) / (-1, -1), and then a partial slice under 90 degrees has been applied to the puzzle. This is only a +2 penalty because the (1, 0) is under the misalignment threshold of 45 degrees for (U, D) moves, and so is not a penalty. The slice is over the misalignment threshold of 90 degrees, and incurs a +2 penalty. The (-1, -1) once again is under the misalignment threshold, as U and D moves are considered separately according to [Guideline 10f4+](https://www.worldcubeassociation.org/regulations/guidelines.html#10f4+). Finally, the partial slice is under the 90 degree threshold. In conclusion, only 1 move has been made above the penalty threshold, so the final ruling is that this is a +2 penalty.
 
@@ -1141,7 +1141,7 @@ A competitor's personal information is verified at their first competition (see 
 
 A WCA ID is associated with a profile page, which looks like this:
 
-![](images/profile-page.png) {.centered width=60%}
+![](images/profile-page.jpg) {.centered width=60%}
 
 All competition results in the WCA’s database are associated with a WCA ID, and this page provides access to all results for an individual competitor, along with other interesting results information.
 
@@ -1149,7 +1149,7 @@ Delegates and WCA Staff with access rights can access the account page for a com
 
 The account page looks like this:
 
-![](images/account-page.png) {.centered width=60%}
+![](images/account-page.jpg) {.centered width=60%}
 
 Personal information can be edited by Delegates and organizers for an account without a WCA ID, but for accounts with a linked ID, only the WCA Results Team can make such changes (see the Requesting Changes to Personal Data section, below). Delegates can remove the linked WCA ID from one account (with some exceptions, which WRT must handle) and assign it to another account. In order for a WCA ID to be linked to an account the personal data fields in both must match.
 
@@ -1171,7 +1171,11 @@ There are 2 types of data changes:
 - Minor name changes (e.g. typo fixes, removal/addition of middle names, changing a legal first name to a reasonable nickname, etc.)
 - Changes of a sensitive nature where displaying the previous data is understandably not desirable (e.g. name/gender changes related to gender identity)
 
-2. **Update**: An update internally creates a new sub-profile, so that the previous data remains unchanged for all past competitions and a notice of the change is shown on the competitor’s profile. One well-known example of an update can be found [here](https://www.worldcubeassociation.org/persons/1982FRID01), where this competitor’s citizenship has been changed in the past. This form of data change is commonly applied for:
+2. **Update**: An update internally creates a new sub-profile, so that the previous data remains unchanged for all past competitions and a notice of the change is shown on the competitor’s profile. Such a profile may look like this:
+
+![](images/country-change-profile-page.jpg) {.centered width=60%}
+
+This form of data change is commonly applied for:
 
 - Changes of citizenship
 - Major name changes of a non-sensitive nature (e.g. last name changes due to marriage)
