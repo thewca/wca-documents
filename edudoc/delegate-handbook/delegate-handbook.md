@@ -347,7 +347,7 @@ WCA competitions take a lot of work to organize. Some prospective organizers may
 
 Other potential organizers may not have altruistic intentions. WCA competitions are not for profit, and so decline competition proposals from individuals who appear to be organizing a competition for personal gain.
 
-As a Delegate, you are not obligated to follow through on any competitions which have not yet been announced. If at any point before confirming the competition you believe that it would be best for the competition to not happen, you may rescind your acceptance to Delegate it. Do this cautiously; try to get the best indication on the likelihood of success for a competition before any contracts are signed or any money is spent. However, once a competition is announced, you are responsible for seeing it through to completion. If you cannot attend a competition which you planned on delegating, try to get another Delegate to fill in for you. If there are no Delegates available, it is sometimes possible as a last resort to appoint trusted members of the community as temporary Delegates in order to see a competition through by emailing WCAT and the WCA Board. Competitions can only be canceled in extreme circumstances. Examples include: extreme weather, venue facility failures (electricity, plumbing), political unrest, or general safety concerns with competitors traveling. Competitions can be rescheduled for a specific date at discretion of WCAT with a motivation for the requested change.
+As a Delegate, you are not obligated to follow through on any competitions which have not yet been announced. If at any point before confirming the competition you believe that it would be best for the competition to not happen, you may rescind your acceptance to Delegate it. Do this cautiously; try to get the best indication on the likelihood of success for a competition before any contracts are signed or any money is spent. However, once a competition is announced, you are responsible for seeing it through to completion. For more information, see the section [Competition Cancellation and Rescheduling](#competition-cancellation-and-rescheduling).
 
 ## Requesting a Competition
 
@@ -511,6 +511,34 @@ Generation of groups is an organizer responsibility, but as a Delegate it is you
 - Square-1
 
 For non-first rounds, it is a good practice to put all of the similarly skilled competitors in one group to ensure that they receive the same scrambles. Use the previous round’s results to determine which groups to place competitors.
+
+## Competition Cancellation and Rescheduling
+
+Once a competition is announced, it is the expectation and responsibility of the Delegates to commit to seeing the competition through on the original date announced. Competitors and their families will have made arrangements and financial commitments to attend on that day, and it is in everyone’s best interest to honor those commitments.
+
+A cancellation should only happen when there is no safe or feasible alternative. This is only an option in extenuating circumstances such as:
+
+- Extreme weather conditions/natural disasters
+- Political unrest or conflict
+- Venue facility failures (electrical, plumbing, structural), where another venue is not possible
+- General safety concerns with competitors traveling to or attending the competition
+- Force majeure
+
+Competitions may not be canceled for the following reasons:
+
+- Low registration numbers
+- Financial concerns
+- Delegate(s) suddenly unable to attend
+
+If you encounter issues such as these where canceling a competition appears necessary, do not make any major changes or statements to competitors until the WCAT and the WCA Board offer guidance. Here are examples of some preventative measures that can be taken:
+
+- If the listed delegate(s) can no longer attend due to an emergency, in some circumstances the WCA Board can appoint an experienced and trusted community member as a temporary delegate if no other delegates are available. In this case, take the following steps:
+
+1. Reply-all to the competition thread and add the WCA Board
+2. Explain why you are no longer able to attend and who you propose as a temporary delegate.
+3. The Board will vote on whether to appoint this person and respond with any concerns.
+
+- For financial concerns, such as low registration turnout, Delegates are responsible for reviewing the budget prior to announcement and to have a plan in the event the budget is not meeting expectations. It is strongly recommended that organizing is always done through ROs or a similar legal entity to protect individuals from liability, and to always have backup funds available. Competitions will not be canceled solely over a budget deficit.
 
 # Day of the Competition {.page-break-before}
 
