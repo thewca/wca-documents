@@ -526,10 +526,10 @@ Cancelations can only happen when there is no safe or feasible alternative. This
 
 If you encounter issues such as these where canceling a competition appears necessary, do not make any major changes or statements to competitors. Instead, explain the situation to WCAT on the competition announcement thread, as they can provide guidance on which options are available to prevent competition cancelation. Here are examples of some preventative measures that can be taken:
 
-- If the listed delegate(s) can no longer attend due to an emergency, in some circumstances the WCA Board can appoint an experienced and trusted community member as a temporary delegate if no other delegates are available. In this case, take the following steps:
+- If the listed Delegate(s) can no longer attend due to an emergency, in some circumstances the WCA Board can appoint an experienced and trusted community member as a temporary Delegate if no other Delegates are available. In this case, take the following steps:
 
 1. Reply-all to the competition announcement thread and add the WCA Board.
-2. Explain why you are no longer able to attend and who you propose as a temporary delegate.
+2. Explain why you are no longer able to attend and who you propose as a temporary Delegate.
 3. The Board will vote on whether to appoint this person and respond with any concerns.
 
 - For financial concerns, such as low registration turnout, the WCAT may involve the WFC to analyze potental solutions. As a reminder, Delegates are responsible for reviewing the budget prior to announcement and to have a plan in the event of unexpectedly low income. It is strongly recommended that organizing is always done through ROs or a similar legal entity to protect individuals from liability, and to always have backup funds available. Competitions are unlikely to be canceled solely over a budget deficit.
