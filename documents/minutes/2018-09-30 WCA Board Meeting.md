@@ -12,13 +12,13 @@ Olivér Perge <br>
 Robert Burton <br>
 :::::
 
-#### **SENIOR DELEGATE APPOINTMENTS** {.text-center}
+#### SENIOR DELEGATE APPOINTMENTS {.text-center}
 
 RESOLVED, that Yohei Suzuki hereby is appointed as Senior Delegate for the Asia Japan region, effective October 1, 2018.
 
 RESOLVED, that Laura Ohrndorf hereby is appointed as Senior Delegate for the Europe West region, effective October 1, 2018.
 
-#### **ADJOURNMENT** {.text-center}
+#### ADJOURNMENT {.text-center}
 
 There being no further business, the meeting was adjourned at 10:17 a.m. PST
 

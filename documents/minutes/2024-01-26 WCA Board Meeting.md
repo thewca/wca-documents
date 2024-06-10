@@ -15,11 +15,11 @@ Somya Srivastava <br>
 :::::
 
 
-#### **REMOVE SOMYA SRIVASTAVA AS A DIRECTOR AND VICE CHAIR OF THE WCA** {.text-center}
+#### REMOVE SOMYA SRIVASTAVA AS A DIRECTOR AND VICE CHAIR OF THE WCA {.text-center}
 
 RESOLVED, that Somya Srivastava be removed as a Director and Vice Chair of the WCA.
 
-#### **ADJOURNMENT** {.text-center}
+#### ADJOURNMENT {.text-center}
 
 There being no further business, the meeting was adjourned at 3:18 a.m. UTC.
 

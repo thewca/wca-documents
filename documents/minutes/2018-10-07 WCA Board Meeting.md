@@ -13,11 +13,11 @@ Olivér Perge <br>
 Robert Burton <br>
 :::::
 
-#### **WCA COMPETITION ANNOUNCEMENT TEAM LEADER APPOINTMENT** {.text-center}
+#### WCA COMPETITION ANNOUNCEMENT TEAM LEADER APPOINTMENT {.text-center}
 
 RESOLVED, that Henrik Buus Aagaard hereby is chosen as Team Leader for the WCA Competition Announcement Team. The Board will submit its selection for the sitting Senior Delegates and Committee Leaders to confirm or reject it.
 
-#### **ADJOURNMENT** {.text-center}
+#### ADJOURNMENT {.text-center}
 
 There being no further business, the meeting was adjourned at 10:02 a.m. PST
 

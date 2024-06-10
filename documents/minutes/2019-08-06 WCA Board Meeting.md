@@ -13,11 +13,11 @@ Ethan Pride <br>
 Robert Burton <br>
 :::::
 
-#### **BOARD MEETING FREQUENCY** {.text-center}
+#### BOARD MEETING FREQUENCY {.text-center}
 
 The Board agreed to schedule quarterly Board meetings. Attendance at such meetings shall be subject to the WCA Board Attendance Policy.
 
-#### **MAJOR CHAMPIONSHIPS** {.text-center}
+#### MAJOR CHAMPIONSHIPS {.text-center}
 
 As a result of negative feedback regarding the timing for applications with the current round of Continental Championships, in conjunction with feedback from Ethan Pride regarding the difficulty of planning the World Championship in less than one year, the Board agreed to open application periods earlier and extend their length to offer organizational teams more time to apply and give the successful applicants more time to prepare. The following timetable was agreed upon:
 
@@ -46,19 +46,19 @@ The Board discussed the feasibility and merit of the Continental Championship ap
 
 The Board discussed an email from the WMT about seeking sponsorships for individual championships. The Board decided it is better to allow organizational teams to seek their own sponsorships and ask the WMT to concentrate on seeking sponsorships for the WCA as an organization. Members from the WMT may be assigned to each championship to coordinate brand visibility.
 
-#### **WCA EXECUTIVE ASSISTANTS TEAM (WEAT)** {.text-center}
+#### WCA EXECUTIVE ASSISTANTS TEAM (WEAT) {.text-center}
 
 The Board agreed to create an official team for the Executive Assistants in the Motions. Since the Board directs the Executive Assistants, we believe the team should not have a Leader. An amendment to the Motions is required to accommodate leaderless teams.
 
-#### **WCA DUES SYSTEM POLICY** {.text-center}
+#### WCA DUES SYSTEM POLICY {.text-center}
 
 The Board agreed to waive the requirement for collection of dues for multi-nation 3x3x3 Fewest Moves simultaneous competitions because of the administrative difficulties of coordinating the collection of dues and their negligible impact on our annual budget. A new version of the policy (v1.3) will be drafted and voted upon to this effect.
 
-#### **COMMITTEE/TEAM LEADER APPOINTMENT EXTENSIONS** {.text-center}
+#### COMMITTEE/TEAM LEADER APPOINTMENT EXTENSIONS {.text-center}
 
 RESOLVED, that Sébastien Auroux’s appointment is hereby extended by 24 months as Leader for the WCA Results Team.
 
-#### **SENIOR DELEGATE APPOINTMENT EXTENSIONS** {.text-center}
+#### SENIOR DELEGATE APPOINTMENT EXTENSIONS {.text-center}
 
 RESOLVED, that Baiqiang Dong’s appointment is hereby extended by 24 months as Senior Delegate for the Asia East region.
 
@@ -68,18 +68,18 @@ RESOLVED, that Tim McMahon’s appointment is hereby extended by 1 month as Seni
 
 RESOLVED, that Kit Clement’s appointment is hereby extended by 12 months as Senior Delegate for the USA/Canada region.
 
-#### **ANNUAL MEMBERS MEETING** {.text-center}
+#### ANNUAL MEMBERS MEETING {.text-center}
 
 After a successful test using Zoom for a meeting among the Board members, it was determined that we would use this service to host the annual members meeting in October. All Staff members will be invited to attend, but only Senior Delegates and Committee/Team Leaders will be given permission to speak at the meeting. Staff members may provide their questions to their Senior Delegate or Committee/Team Leader privately or in the chat. The meeting shall be recorded and disseminated to Staff so those who could not attend the meeting will not miss any information. An email will be sent to Senior Delegates and Committee/Team Leaders to draft an agenda for the meeting.
 
-#### **WEC LEADERSHIP** {.text-center}
+#### WEC LEADERSHIP {.text-center}
 
 RESOLVED, that Callum Goodyear is hereby appointed as Leader for the WCA Ethics Committee, contingent upon a successful approval vote by Senior Delegates and Committee/Team Leaders.
 
 ::::: {.page-break-before}
 :::::
 
-#### **ADJOURNMENT** {.text-center}
+#### ADJOURNMENT {.text-center}
 
 There being no further business, the meeting was adjourned at 10:08 a.m. PST
 

@@ -14,11 +14,11 @@ Robert Burton <br>
 :::::
 
 
-#### **WCA MARKETING TEAM LEADER** {.text-center}
+#### WCA MARKETING TEAM LEADER {.text-center}
 
 RESOLVED, that Saransh Grover be accepted as the nominee for WCA Marketing Team Leader position pending a further vote from the Leaders and Seniors of the WCA.
 
-#### **ADJOURNMENT** {.text-center}
+#### ADJOURNMENT {.text-center}
 
 There being no further business, the meeting was adjourned at 7:01 p.m. UTC.
 

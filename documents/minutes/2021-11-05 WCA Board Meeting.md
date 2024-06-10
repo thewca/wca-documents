@@ -15,7 +15,7 @@ Saransh Grover <br>
 :::::
 
 
-#### **SELECTION OF WCA OFFICERS** {.text-center}
+#### SELECTION OF WCA OFFICERS {.text-center}
 
 RESOLVED, that all officer roles are declared vacant as of November 9th 
 
@@ -27,11 +27,11 @@ RESOLVED, that Callum Goodyear be appointed as Secretary effective November 9th
 
 RESOLVED, that Saransh Grover be appointed as Vice Chair effective November 9th
 
-#### **RESOLUTION OF AUTHORIZED BOARD MEMBERS** {.text-center}
+#### RESOLUTION OF AUTHORIZED BOARD MEMBERS {.text-center}
 
 RESOLVED, that the authorized number of Board Members shall be five (5) with there being two (2) vacant terms starting November 9 2021 running until November 8 2023 
 
-#### **ADJOURNMENT** {.text-center}
+#### ADJOURNMENT {.text-center}
 
 There being no further business, the meeting was adjourned at 8:05 p.m. UTC.
 
