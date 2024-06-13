@@ -3,6 +3,7 @@ FROM ubuntu:latest
 WORKDIR /home/app/wca-documents
 
 # Install the required dependencies
+RUN apt update && apt -y install sudo
 COPY ./bin/install_dependencies.sh .
 RUN ./install_dependencies.sh
 RUN rm ./install_dependencies.sh
