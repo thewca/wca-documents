@@ -532,7 +532,7 @@ If you encounter issues such as these where canceling a competition appears nece
 2. Explain why you are no longer able to attend and who you propose as a temporary Delegate.
 3. The Board will vote on whether to appoint this person and respond with any concerns.
 
-- For financial concerns, such as low registration turnout, the WCAT may involve the WFC to analyze potental solutions. As a reminder, Delegates are responsible for reviewing the budget prior to announcement and to have a plan in the event of unexpectedly low income. It is strongly recommended that organizing is always done through ROs or a similar legal entity to protect individuals from liability, and to always have backup funds available. Competitions are unlikely to be canceled solely over a budget deficit.
+- For financial concerns, such as low registration turnout, the WCAT may involve the WFC to analyze potental solutions. As a reminder, Delegates are responsible for reviewing the budget prior to announcement and to have a plan in the event of unexpectedly low income. It is strongly recommended that organizing is always done through ROs or a similar legal entity to protect individuals from liability, and to always have backup funds available. Competitions are unlikely to be canceled solely over a budget deficit. Contact the WCA Financial Committee at the soonest indication that a budget deficit poses a significant risk to a competition for assistance in resolving the situation.
 
 # Day of the Competition {.page-break-before}
 
