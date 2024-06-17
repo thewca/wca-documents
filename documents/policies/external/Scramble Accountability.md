@@ -6,10 +6,20 @@
 
 The purpose of this policy is to define standards of how official WCA Scrambles, which in addition to the WCA Regulations, must be treated. The policy is targeted towards the WCA Delegate and organization team. Not fully following the Scramble Accountability Policy may result in disqualification of the affected results, at the discretion of the WCA Regulations Committee.
 
+## Definition of Terms
+
+| Term | Definition |
+| :-- | :------ |
+| Competition Area | A designated area where competitors do their official attempts at designated Solving Stations |
+| Drop-off table | A table where competitors submit their puzzles at the start of their group |
+| Scrambling Area | A section set aside for the purpose of scrambling puzzles |
+| Solving Station | The area where a competitor will complete their attempts |
+| Waiting Area | A space inside the Competition Area where competitors wait between their attempts, after submitting their puzzle to the Scrambling Area |
+| WCA Delegate | A role defined in the Motions and in the WCA Regulations to oversee official WCA Competitions on behalf of the WCA |
+
 ## Policy
 
 1. Drop-off table
-
     1. A drop-off table may be used for the competitors to submit their puzzles when they are called to compete.
     2. A drop-off table is recommended not to be the scrambling table.
         1. If the scrambling table is also serving the role as a drop-off table, competitors must not submit their puzzles whilst scrambling is in process and the scramble sequences must not be visible on the table.
@@ -17,27 +27,22 @@ The purpose of this policy is to define standards of how official WCA Scrambles,
     3. A drop-off table should be visually isolated from the scrambling table.
 
 2. Scrambling Area
-
-    1. A Scrambling Area is a section set aside for the purpose of scrambling puzzles.
-        1. There may be multiple Scrambling Areas at a competition.
+    1. A competition may have multiple Scrambling Areas.
     2. The Scrambling Area must be arranged such that any information about the scrambles is visually isolated from the competitors of the ongoing groups and anyone who is not an assigned runner or scrambler, an organizer, or a listed WCA Delegate.
         1. A scrambling table is a table within a Scrambling Area. The organization team must take the placement of the scrambling table(s) into consideration.
         2. The Scrambling Area may be visually isolated with the use of tall barriers placed in front of it or small barriers placed on top of the table(s) (the height of the latter should be at least 30cm).
 
 3. Competition Area
-
-    1. A Competition Area is a designated area where competitors do their official attempts at designated Solving Stations.
-        1. A competition should have at least one designated Competition Area which will be in use throughout the group.
-        2. A Competition Area may have one Waiting Area.
-            1. If there is no designated Waiting Area, all competitors in one group must be placed at the Solving Stations.
-    2. The organization team may require the competitors to go back to the Competitors Waiting Area after an attempt and have them be called to a different solving station for the next attempt.
-    3. When competing, competitors must not actively try to watch another competitor complete an official attempt.
+    1. A competition should have at least one designated Competition Area which will be in use throughout each group.
+    2. A Competition Area may have one Waiting Area.
+        1. If there is no designated Waiting Area, all competitors in the ongoing group must be seated at the Solving Stations.
+    3. The organization team may require the competitors to go back to the Waiting Area after an attempt and have them be called to a different Solving Station for the next attempt.
+    4. When competing, competitors must not actively try to watch another competitor complete an official attempt.
         1. The organization team and the WCA Delegate should reduce the possibility of the above occuring. This could include adding a visual barrier between Solving Stations and/or having a sufficient distance between the Waiting Area and the Solving Stations.
         2. Competitors should not be seated directly across from each other facing each other, unless a visual barrier is set up between them.
         3. For 3x3x3 Fewest Moves, competitors should be seated at least 2 meters apart from each other.
 
 4. Broadcasting of competitions
-
     1. When a competitor has been called for their group, they must not look at any broadcasting of their allocated group.
         1. The organization team should announce this on the competition page if they are aware of a broadcast at the competition being conducted.
     2. For a final round, the organization team may require competitors competing in the final round to not interact with certain electronic devices until they have completed their attempts to ensure that no broadcast of the competition is being viewed by the competitors.
@@ -70,7 +75,7 @@ DESCRIPTION
 
 DESCRIPTION
 
-### Scrambling Area Setup 3 {.text-center}
+### Scrambling Area Setup 3 {.text-center .page-break-before}
 
 ![](images/bad-scrambling-area-1.jpg){.bordered-image}
 
@@ -90,38 +95,22 @@ Below are some setups from WCA Competitions. Some of the setups follow the requi
 
 ![](images/chengdu-new-year-2021.png){.bordered-image}
 
-Setup 1 has the competitors in a group placed at Solving Stations. The waiting area in the adjacent room is for competitors in the next group. The Scrambling Areas are properly visually isolated. Setup 1 is in compliance with the points of the policy in regards to the setup.
+Setup 1 has the competitors in a group placed at Solving Stations. The Waiting Area in the adjacent room is for competitors in the next group. The Scrambling Areas are properly visually isolated. Setup 1 is in compliance with the points of the policy in regards to the setup.
 
-### Setup 2 {.text-center .page-break-before}
+### Setup 2 {.text-center}
 
 ![](images/nordic-champs-2019.png){.bordered-image}
 
-Setup 2 is making use of a competitors waiting area. The Scrambling Area is properly visually isolated. Both from the waiting area and the Solving Stations. The Solving Stations are also visually isolated from the competitors waiting area. Setup 2 is in compliance with the points of the policy in regards to the setup.
+Setup 2 is making use of a Waiting Area. The Scrambling Area is properly visually isolated. Both from the Waiting Area and the Solving Stations. The Solving Stations are also visually isolated from the Waiting Area. Setup 2 is in compliance with the points of the policy in regards to the setup.
 
 ### Setup 3 {.text-center .page-break-before}
 
 ![](images/latvian-open-2019.png){.bordered-image}
 
-Setup 3 is also making use of a competitors waiting area. The Scrambling Area is properly visually isolated. Both from the waiting area and the Solving Stations. There is no visual barrier between the waiting area and the Solving Stations, which there preferably should be. Setup 3 is acceptable, but the distance between the waiting area and Solving Stations should be considered by the organization team and Delegate if it is appropriate to adhere to point 3.3.
+Setup 3 is also making use of a Waiting Area. The Scrambling Area is properly visually isolated. Both from the Waiting Area and the Solving Stations. There is no visual barrier between the Waiting Area and the Solving Stations, which there preferably should be. Setup 3 is acceptable, but the distance between the Waiting Area and Solving Stations should be considered by the organization team and Delegate if it is appropriate to adhere to point 3.4.
 
-### Setup 4 {.text-center .page-break-before}
+### Setup 4 {.text-center}
 
 ![](images/manchester-2018.png){.bordered-image}
 
-Setup 4 is also making use of a competitors waiting area. The Scrambling Area does not have any visual isolation and the competitors waiting area has a clear view to the Scrambling Area, which is against point 2.2. The Solving Stations and the waiting area and no visual barrier, making enforcement of point 3.3 difficult unless a sufficient distance between the areas is added. Setup 4 is breaching part of the policy and should not be replicated.
-
-<div style="margin-top: 100px;"></div>
-
-## Definition of Terms
-
-| Term | Definition |
-| :-- | :------ |
-| Competitor | A participant at a WCA competition |
-| Competition Area | An area consisting of a Competitor Waiting Area and Solving Stations |
-| Drop-off table | A table where competitors submit their puzzles at the start of their group |
-| Organization Team | Persons who are responsible for the organization of a WCA Competition, as defined in the WCA Regulations |
-| Regulations | The Regulations of the WCA as approved for use in WCA Competitions |
-| Scrambling Area | A section set aside for the purpose of scrambling puzzles |
-| Solving Station | The area where a competitor will complete their attempts |
-| Waiting Area | A space inside the Competition Area where competitors wait between their attempts, after submitting their puzzle to the Scrambling Area |
-| WCA Delegate | A role defined in the Motions and in the WCA Regulations to oversee official WCA Competitions on behalf of the WCA |
+Setup 4 is also making use of a Waiting Area. The Scrambling Area does not have any visual isolation and the Waiting Area has a clear view to the Scrambling Area, which is against point 2.2. The Solving Stations and the Waiting Area and no visual barrier, making enforcement of point 3.4 difficult unless a sufficient distance between the areas is added. Setup 4 is breaching part of the policy and should not be replicated.
