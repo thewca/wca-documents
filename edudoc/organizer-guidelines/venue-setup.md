@@ -41,7 +41,7 @@ This is where solves will take place, so you need to be extra careful with the l
 
 For 3x3x3 Fewest Moves, you may have more competitors per station compared to regular speedsolving events, and since it is not an event where spectators get to see much, you do not have to worry about all the competitors being visible to the audience. However, you should still place them in a way that the Delegate(s) and/or the judge(s) for the attempt can see all the competitors, and make sure no one is close enough to copy solutions from another competitor.
 
-<div style="margin-top: 200px"></div>
+<div class="spacer"></div>
 
 ## Translations
 

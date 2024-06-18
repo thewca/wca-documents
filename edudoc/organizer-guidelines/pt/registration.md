@@ -18,7 +18,7 @@ Embora fazer alterações seja às vezes uma possibilidade, isso só deve aconte
 
 Pode alterar os requisitos à medida que a competição se aproxima (por exemplo, aumentar as taxas de inscrição, restringir quais os eventos em que um concorrente se pode inscrever), mas deve informar os competidores sobre qualquer alteração pretendida com antecedência pelo site da competição ou por e-mail.
 
-::::: {.box .important .page-break-before}
+::::: {.box .important}
 As mudanças que afetam os competidores registrados _devem_ ser claramente anunciadas. Seja consistente com o que está no site da competição. Por exemplo, _não deve_ aceitar inscrições no local se o site da competição disser que estas não estarão disponíveis.
 :::::
 

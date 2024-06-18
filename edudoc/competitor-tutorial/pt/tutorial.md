@@ -1,10 +1,8 @@
 # Tutorial de Competição WCA
 
-Consulte o final deste documento para ver outras traduções.
-
 ## Organização WCA - Introdução Geral
 
-![Logo WCA]({logo}){.logo height=133px}
+![Logo WCA]({logo}){.logo width=15%}
 A World Cube Association é a organização que rege as competições de speedcubing em todo o mundo. Todas as competições sancionadas pela WCA devem seguir os seus [Regulamentos](wca{regulations}) e as [Orientações](wca{regulations/guidelines.html}), por isso é muito importante que os conheça antes de ir a uma competição.
 
 Este documento irá guiá-lo através dos fundamentos de como competir e ajuizar. A leitura deste documento pode ser muito útil para obter uma visão básica sobre as competições oficiais da WCA, mas ainda recomendamos que leia os Regulamentos e Orientações da WCA e participe do evento "Tutorial da Competição" na competição, se a sua competição tiver um.
@@ -28,27 +26,27 @@ Se tiver dúvidas sobre algo, pergunte sempre ao Delegado!
 - **Cronómetro Stackmat**: Este é o dispositivo oficial para medir tempos numa competição.
   Pode parecer-se com qualquer uma das três versões abaixo.
 
-![](../images/stackmat-timers.png){.centered height=200px}
+![](../images/stackmat-timers.png){.centered width=30%}
 
 - **Tapete**: Cronómetros Stackmat timers têm de ser usados com os tapetes que os acompanham. O tapete ajuda a evitar que os puzzles deslizem no final da tentativa.
 
-![](../images/mat.png){.centered width=600px}
+![](../images/mat.png){.centered width=70%}
 
 - **Cronómetro**: Cronómetros são usados para medir o tempo de inspeção. Também são usados para medir o tempo de tentativas acima de 10 minutos. Note que os cronómetros podem ser de modelos diferentes e, portanto, o seu funcionamento pode ser diferente daquele mostrado na figura.
 
-![](../images/stopwatch.jpg){.centered height=200px}
+![](../images/stopwatch.jpg){.centered width=24%}
 
 - **Cobertura**: As coberturas são usadas para cobrir um puzzle antes de uma tentativa, para que os competidores não possam ver os embaralhamentos.
 
-![](../images/cover.jpg){.centered height=200px .page-break-after}
+![](../images/cover.jpg){.centered width=24% .page-break-after}
 
 - **Folha de resultados**: Depois de um puzzle ser embaralhado, o embaralhador assina a sua correção na folha de resultados. Além disso, após cada resolução, o juiz anota o resultado na folha de resultados, assina e faz com que o competidor assine, para reconhecer que o resultado é
-  - 1. correto
-  - 2. completo,
-  - 3. devidamente formatado, e
-  - 4. claramente legível.
+  1. correto
+  2. completo,
+  3. devidamente formatado, e
+  4. claramente legível.
 
-![](images/scoresheet.png){.centered height=600px}
+![](images/scoresheet.png){.centered width=70%}
 
 ::::: {.box .attention}
 Se um tempo na sua folha de resultados estiver ilegível, o pior resultado interpretável será inserido para aquela tentativa.
@@ -113,7 +111,7 @@ Lembre-se de que tem 1 minuto para iniciar a sua tentativa assim que se sentar n
 A fase de inspeção começa quando o competidor confirma ao juiz que está pronto dizendo “Sim” (ou outro gesto claro). Nesse momento, o juiz levanta a cobertura e aciona o cronómetro para medir a fase de inspeção. Durante a inspeção, o competidor tem no máximo 15 segundos para inspecionar o puzzle. Podem pegar no puzzle e olhá-lo de todos os lados, mas não devem aplicar nenhum movimento. Se o competidor fizer um movimento, o juiz desclassifica a resolução e a tentativa é encerrada. A tabela a seguir mostra que ações ocorrem durante a inspeção.
 
 | Tempo       |                                               Ação                                                |
-| ----------- | :-----------------------------------------------------------------------------------------------: |
+| ----------- | :-----------------------------------------------------------: |
 | 8 segundos  |                                       Juiz diz "8 segundos"                                       |
 | 12 segundos |                                      Juiz diz "12 segundos"                                       |
 | 15 segundos | Juiz não interrompe a tentativa, mas adiciona uma penalidade de +2 segundos no final da tentativa |
@@ -204,13 +202,28 @@ Lembre-se que parar a resolução incorretamente leva a penalidades!
 
 - **Desalinhamentos**:
 
-| <!-- -->                                  | <!-- --> ![](){width=650px}                                                                                                                                                                                                                                                                                                                                                               |
-| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](../images/nopenalty.jpg){width=150px} | **Sem penalidade:** o cubo é resolvido e os desalinhamentos de todas as camadas em comparação com suas camadas adjacentes estão abaixo de 45°.                                                                                                                                                                                                                                            |
-| ![](../images/plus2.jpg){width=150px}     | **+2:** o cubo está resolvido, mas a camada desalinhada excede 45°, o que significa que o cubo está a um passo de ser resolvido. Note que os Regulamentos da WCA consideram todos os estados do puzzle como estando a um movimento de distância do estado resolvido se tiver que se girar apenas uma camada do puzzle para chegar ao estado resolvido – **mesmo que seja um giro duplo.** |
-| ![](../images/unclear.jpg){width=150px}   | **Pergunte ao Delegado:** Se não estiver claro se uma penalidade de +2 deve ser aplicada ou não, **não toque no puzzle** e chame um Delegado para a estação de resolução.                                                                                                                                                                                                                 |
-| ![](../images/DNF2moves.jpg){width=150px} | **DNF:** Quando mais do que um movimento é necessário para resolver o puzzle, o resultado da tentativa é DNF.                                                                                                                                                                                                                                                                             |
-| ![](../images/DNFslice.jpg){width=150px}  | **DNF:** Se uma camada do meio do puzzle estiver desalinhada, isso conta como dois movimentos necessários para resolver, pois apenas as rotações das camadas externas são contadas. Portanto, o resultado da tentativa é DNF.                                                                                                                                                             |
+<table class="table-with-images">
+  <tr>
+    <td>![](../images/nopenalty.jpg)</td>
+    <td>**Sem penalidade:** o cubo é resolvido e os desalinhamentos de todas as camadas em comparação com suas camadas adjacentes estão abaixo de 45°.</td>
+  <tr>
+  <tr>
+    <td>![](../images/plus2.jpg)</td>
+    <td>**+2:** o cubo está resolvido, mas a camada desalinhada excede 45°, o que significa que o cubo está a um passo de ser resolvido. Note que os Regulamentos da WCA consideram todos os estados do puzzle como estando a um movimento de distância do estado resolvido se tiver que se girar apenas uma camada do puzzle para chegar ao estado resolvido – **mesmo que seja um giro duplo.**</td>
+  <tr>
+  <tr>
+    <td>![](../images/unclear.jpg)</td>
+    <td>**Pergunte ao Delegado:** Se não estiver claro se uma penalidade de +2 deve ser aplicada ou não, **não toque no puzzle** e chame um Delegado para a estação de resolução.</td>
+  <tr>
+  <tr>
+    <td>![](../images/DNF2moves.jpg)</td>
+    <td>**DNF:** Quando mais do que um movimento é necessário para resolver o puzzle, o resultado da tentativa é DNF.</td>
+  <tr>
+  <tr>
+    <td>![](../images/DNFslice.jpg)</td>
+    <td>**DNF:** Se uma camada do meio do puzzle estiver desalinhada, isso conta como dois movimentos necessários para resolver, pois apenas as rotações das camadas externas são contadas. Portanto, o resultado da tentativa é DNF.</td>
+  <tr>
+</table>
 
 ::::: {.box .important}
 Se não tiver a certeza sobre as penalidades, pergunte sempre a um Delegado!
@@ -219,19 +232,13 @@ Se não tiver a certeza sobre as penalidades, pergunte sempre a um Delegado!
 ## Definições Importantes {.page-break-before}
 
 - **Formatos** Dependendo do evento, existem diferentes formas de calcular os resultados que são usados para classificar os competidores. Os formatos legais são:
-
   - **Média de 5**: Cada competidor faz 5 tentativas. Quando todas são feitas, o melhor e o pior resultado são descartados e a média é calculada usando os 3 resultados restantes.
   - **Média de 3**: Cada competidor faz 3 tentativas. A média é calculada usando esses 3 resultados.
   - **Melhor de X**: Cada competidor faz X tentativas, onde X é igual a 1, 2 ou 3. O melhor resultado entre essas X tentativas é o resultado final.
-
 - **Tempo de corte**: Alguns eventos podem ter uma "Ronda de corte". Na maioria das vezes, o formato para isso é “Melhor de 2 / Média de 5” ou “Melhor de 1 / Média de 3”. Em ambos os casos , há também um certo tempo, o tempo de corte, fornecido também. Isso significa que fará primeiro uma ou duas tentativas e, se nenhum dos resultados estiver abaixo do tempo de corte, a sua ronda terminará. Se conseguiu pelo menos um resultado abaixo do tempo de corte, pode continuar com a ronda e terminar a sua média.
-
 - **Tempo limite**: O tempo limite é o tempo máximo que um competidor pode usar para uma tentativa. Se um competidor atingir o limite de tempo, o juiz interrompe o competidor imediatamente e atribui-lhe um DNF para a resolução. Alguns eventos têm limites de tempo cumulativos. Um limite de tempo cumulativo funciona como um limite de tempo normal, mas é aplicado à soma de todos os seus resultados para toda a ronda e não aos resultados individuais. No caso de um limite de tempo cumulativo, se o resultado for um DNF, o tempo necessário para obter esse DNF também será escrito entre parêntesis.
-
 - **DNF**: Did Not Finish (Não terminou). DNF é o pior resultado em speedcubing e geralmente é dado como penalidade.
-
 - **DNS**: Did Not Start (Não começou). DNS significa que o competidor era elegível para uma tentativa, mas recusou-a. (Observação: a tentativa começa com a fase de inspeção, não com a resolução.) Os resultados de DNS geralmente não são atribuídos pelos juízes.
-
 - **Tentativa extra**: Em certas situações, pode receber uma tentativa extra. Isso significa que tem a possibilidade de refazer uma tentativa usando um embaralhamento extra porque houve um incidente durante a tentativa original. Apenas os Delegados podem atribuir tentativas extras, portanto, relate-lhes sempre qualquer incidente.
 
 ::::: {.box .important}
@@ -242,56 +249,56 @@ Tentativas extras apenas podem ser dadas por um Delegado!
 
 - **... falar sobre os embaralhamentos antes da ronda acabar.**
 
-  :::{.text-right}
-  _Terá muito tempo para os discutir mais tarde. :)_
-  :::
+:::::{.text-right}
+_Terá muito tempo para os discutir mais tarde._
+:::::
 
 - **... falar com alguém durante as suas resoluções (que não seja o seu juiz ou um Delegado).**
 
-  :::{.text-right}
-  _Nunca será tão importante arriscar um DNF por causa disso._
-  :::
+:::::{.text-right}
+_Nunca será tão importante arriscar um DNF por causa disso._
+:::::
 
 - **... perturbar um competidor quando estiver a ajuizar (por exemplo, a brincar com o seu telefone ou com um puzzle ou a conversar com alguém).**
 
-  :::{.text-right}
-  _Não quererá ser incomodado durante as suas tentativas, certifique-se de que outras pessoas não serão incomodadas por si._
-  :::
+:::::{.text-right}
+_Não quererá ser incomodado durante as suas tentativas, certifique-se de que outras pessoas não serão incomodadas por si._
+:::::
 
 - **... falar com um competidor quando estiver a ajuizar, exceto para dizer “Pronto?”, “8 segundos”, “12 segundos” ou para confirmar resultados ou ao resolver incidentes.**
 
-  :::{.text-right}
-  _Qualquer outra conversa pode ser perturbadora para eles._
-  :::
+:::::{.text-right}
+_Qualquer outra conversa pode ser perturbadora para eles._
+:::::
 
 - **... tocar no puzzle se estiver desalinhado após o competidor ter parado o Cronómetro.**
 
-  :::{.text-right}
-  _Se fizer isso, poderá influenciar a decisão do Delegado. Chame-o imediatamente para a estação de resolução._
-  :::
+:::::{.text-right}
+_Se fizer isso, poderá influenciar a decisão do Delegado. Chame-o imediatamente para a estação de resolução._
+:::::
 
 - **... usar um telefone/câmara para gravar resoluções com um ecrã voltada para si.**
 
-  :::{.text-right}
-  _Câmaras frontais invalidam automaticamente (DNF) a resolução afetada._
-  :::
+:::::{.text-right}
+_Câmaras frontais invalidam automaticamente (DNF) a resolução afetada._
+:::::
 
 - **... arredondar os resultados quando for juiz.**
 
-  :::{.text-right}
-  _Os resultados devem ser registados exatamente como são exibidos no Cronómetro, não arredondados. (Por exemplo, 14.587 não deve ser registado como 14.59 e 14.500 não deve ser registado como 14.5)_
-  :::
+:::::{.text-right}
+_Os resultados devem ser registados exatamente como são exibidos no Cronómetro, não arredondados. (Por exemplo, 14.587 não deve ser registado como 14.59 e 14.500 não deve ser registado como 14.5)_
+:::::
 
 - **... usar flash em fotografias numa competição.**
 
-  :::{.text-right}
-  _Não é uma boa sensação ficar cego pelas luzes durante as suas resoluções oficiais._
-  :::
+:::::{.text-right}
+_Não é uma boa sensação ficar cego pelas luzes durante as suas resoluções oficiais._
+:::::
 
 - **... tomar decisões quando não tiver 100% de certeza se está correto ou não.**
 
-  :::{.text-right}
-  _Certifique-se de que cumpre os Regulamentos da WCA e pergunte a um Delegado!_
-  :::
+:::::{.text-right}
+_Certifique-se de que cumpre os Regulamentos da WCA e pergunte a um Delegado!_
+:::::
 
 ![](images/competitor-guide.png){.centered width=90%}

@@ -47,7 +47,7 @@ The running system might also change as the competition progresses (e.g. Using s
 
 A lot of factors play into the chosen system for a competition: A lack of staff, a lack of space for solving stations to have more chairs, a lack of chairs, etc. It is important to always listen to the advice from your Delegate(s) on which system is the most suitable for the competition you are organizing.
 
-<div style="margin-top: 200px"></div>
+<div class="spacer"></div>
 
 ## Translations
 

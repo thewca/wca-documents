@@ -10,7 +10,7 @@ Acesta este echipamentul principal si instrumentele necesare pentru a continua c
 
 **Cronometru Stackmat**: Acesta este dispozitivul oficial pentru a măsura timpuri la o competiție WCA. Imaginea de mai jos este ultima revizie a cronometrului, dar Generatia a 3-a si a 4-a a cronometrului pot fi folosite în competiții.
 
-![](images/timer-ro.png){.centered}
+![](images/timer-ro.png){.centered width=65%}
 
 **Cronometru**: Asta este folosit pentru a măsura timpul de inspecție. Cronometrele pot fi folosite pentru a măsura timpul pentru încercăriile de peste 10 minute.
 **Notă: A nu fi confundat cu un cronometru Stackmat.**
@@ -34,13 +34,13 @@ Acesta este echipamentul principal si instrumentele necesare pentru a continua c
 
 Iată câteva incidente comune care pot duce la +2 sau DNF:
 
-![](images/penalty1.png){.centered}
+![](images/penalty1.png){.centered width=70%}
 
 **+2**: este dat atunci când concurentul depășește timpul de inspecție de 15 secunde și începe rezolvarea înainte de 17 secunde.
 
 **DNF**: este dat atunci când concurentul nu reușește să înceapă rezolvarea în 17 secunde de la timpul de inspecție.
 
-![](images/penalty2.png){.centered}
+![](images/penalty2.png){.centered width=70%}
 
 **+2**: este dat atunci când concurentul atinge puzzle-ul în timp ce pornește cronometrul.
 
@@ -48,13 +48,13 @@ Iată câteva incidente comune care pot duce la +2 sau DNF:
 
 **+2**: este dat atunci când concurentul atinge puzzle-ul înainte ca judecătorul să fi inspectat starea rezolvată.
 
-![](images/penalty3.png){.centered}
+![](images/penalty3.png){.centered width=70%}
 
 **+2**: este dat atunci când concurentul nu reușește să pornească cronometrul cu palmele îndreptate în jos.
 
 **+2**: este dat atunci când concurentul nu reușește să oprească cronometrul cu palmele îndreptate în jos.
 
-![](images/penalty4.png){.centered}
+![](images/penalty4.png){.centered width=70%}
 
 **+2**: este dat dacă puzzle-ul este la o distanță de starea rezolvată la sfârșitul încercării.
 
@@ -64,7 +64,7 @@ Notă: Virajele de 180° (R2, U2 etc.) sunt considerate o singură mișcare.
 
 #### Aceasta arată ce fel de nealiniere duce la o penalizare de +2:
 
-![](images/misalignments.png){.centered}
+![](images/misalignments.png){.centered width=80%}
 :::::
 
 Alte incidente care pot avea ca rezultat o penalizare:

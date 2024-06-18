@@ -1,10 +1,8 @@
 # WCA Competition Tutorial
 
-Scroll to the bottom of the document for translations.
-
 ## WCA Organization - General Introduction
 
-![WCA logo]({logo}){.logo height=133px}
+![WCA logo]({logo}){.logo width=15%}
 The World Cube Association is the organization governing speedcubing competitions all around the world. Every competition that is sanctioned by the WCA has to follow the WCA [Regulations](wca{regulations}) and [Guidelines](wca{regulations/guidelines.html}), so it's very important that you are familiar with them before going to a competition.
 
 This document will guide you through the basics of competing and judging. Reading this document can be very helpful to get a basic picture about official WCA competitions, but we still recommend you to read the WCA Regulations and Guidelines and participate in the "Competition Tutorial" event at the competition if your competition has one.
@@ -28,27 +26,27 @@ If you are not sure about something, always ask the Delegate!
 - **Stackmat timer**: This is the official device for measuring times at a competition.
   It can look like any of the three versions below.
 
-![](images/stackmat-timers.png){.centered height=200px}
+![](images/stackmat-timers.png){.centered width=30%}
 
 - **Mat**: Stackmat timers must be used with accompanying mats. The mat helps prevent puzzles from sliding at the end of the attempt.
 
-![](images/mat.png){.centered width=600px}
+![](images/mat.png){.centered width=70%}
 
 - **Stopwatch**: Stopwatches are used for measuring the inspection time. They are also used to measure time for attempts over 10 minutes. Note that stopwatches can be of different models and hence their functioning can be different from the one shown in the picture.
 
-![](images/stopwatch.jpg){.centered height=200px}
+![](images/stopwatch.jpg){.centered width=24%}
 
 - **Cover**: Covers are used to cover a puzzle before an attempt, so competitors cannot see the scrambles.
 
-![](images/cover.jpg){.centered height=200px .page-break-after}
+![](images/cover.jpg){.centered width=24% .page-break-after}
 
 - **Score sheet**: After a puzzle is scrambled, the scrambler signs for the correctness on the score sheet. Additionally after each solve the judge writes down the result on the score sheet, signs it and has the competitor sign it, to acknowledge that the result is
-  - 1. correct
-  - 2. complete,
-  - 3. properly formatted, and
-  - 4. clearly readable.
+  1. correct
+  2. complete,
+  3. properly formatted, and
+  4. clearly readable.
 
-![](images/scoresheet.png){.centered height=600px}
+![](images/scoresheet.png){.centered}
 
 ::::: {.box .attention}
 If a time on your score sheet is illegible, the worst interpretable result will be entered for that attempt.
@@ -113,7 +111,7 @@ Remember that you have 1 minute to start your attempt once you sit at the statio
 The inspection phase starts when the competitor confirms to the judge that they are ready by saying “Yes” (or another clear gesture). At this point, the judge lifts the cover and starts a stopwatch to measure the inspection phase. During inspection, the competitor has a maximum of 15 seconds to inspect the puzzle. They may pick up the puzzle and look at it from all sides, but must not apply any move. If the competitor makes a move, the judge disqualifies the solve and the attempt is over. The following table shows what actions occur during inspection.
 
 | Time       |                                         Action                                          |
-| ---------- | :-------------------------------------------------------------------------------------: |
+| --------------- | :-------------------------------------------------------------------------------------: |
 | 8 seconds  |                                 Judge calls "8 seconds"                                 |
 | 12 seconds |                                Judge calls "12 seconds"                                 |
 | 15 seconds | Judge does not stop the attempt, but will add a +2 second penalty at end of the attempt |
@@ -204,13 +202,28 @@ Remember that stopping the solve incorrectly leads to penalties!
 
 - **Misalignments**:
 
-| <!-- -->                               | <!-- --> ![](){width=650px}                                                                                                                                                                                                                                                                                                                             |
-| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](images/nopenalty.jpg){width=150px} | **No penalty:** the cube is solved and the misalignments of all layers compared with their adjacent layers are below 45°.                                                                                                                                                                                                                               |
-| ![](images/plus2.jpg){width=150px}     | **+2:** the cube is solved, but the misaligned layer exceeds 45°, which means the cube is one move away from being solved. Please note that the WCA Regulations consider all states of the puzzle to be one move away from the solved state if you have to turn only one side of the puzzle to reach the solved state – **even if it’s a double turn.** |
-| ![](images/unclear.jpg){width=150px}   | **Ask the Delegate:** If it’s not clear whether a +2 penalty should be applied or not, **don’t touch the puzzle** and call a Delegate to the station.                                                                                                                                                                                                   |
-| ![](images/DNF2moves.jpg){width=150px} | **DNF:** When more than one move is required to solve the puzzle, the result of the attempt is DNF.                                                                                                                                                                                                                                                     |
-| ![](images/DNFslice.jpg){width=150px}  | **DNF:** If a middle layer of the puzzle is misaligned, this counts as two moves required to solve, as only outer layer turns are counted. Therefore, the result of the attempt is DNF.                                                                                                                                                                 |
+<table class="table-with-images">
+  <tr>
+    <td>![](images/nopenalty.jpg)</td>
+    <td>**No penalty:** the cube is solved and the misalignments of all layers compared with their adjacent layers are below 45°.</td>
+  <tr>
+  <tr>
+    <td>![](images/plus2.jpg)</td>
+    <td>**+2:** the cube is solved, but the misaligned layer exceeds 45°, which means the cube is one move away from being solved. Please note that the WCA Regulations consider all states of the puzzle to be one move away from the solved state if you have to turn only one side of the puzzle to reach the solved state – **even if it’s a double turn.**</td>
+  <tr>
+  <tr>
+    <td>![](images/unclear.jpg)</td>
+    <td>**Ask the Delegate:** If it’s not clear whether a +2 penalty should be applied or not, **don’t touch the puzzle** and call a Delegate to the station.</td>
+  <tr>
+  <tr>
+    <td>![](images/DNF2moves.jpg)</td>
+    <td>**DNF:** When more than one move is required to solve the puzzle, the result of the attempt is DNF.</td>
+  <tr>
+  <tr>
+    <td>![](images/DNFslice.jpg)</td>
+    <td>**DNF:** If a middle layer of the puzzle is misaligned, this counts as two moves required to solve, as only outer layer turns are counted. Therefore, the result of the attempt is DNF.</td>
+  <tr>
+</table>
 
 ::::: {.box .important}
 If you are unsure about penalties, always ask a Delegate!
@@ -219,19 +232,13 @@ If you are unsure about penalties, always ask a Delegate!
 ## Important Definitions {.page-break-before}
 
 - **Formats** Depending on the event there are different ways of calculating the results that are used to rank competitors. The legal formats are:
-
   - **Average of 5**: Every competitor gets 5 attempts. When they’re all done the best and the worst results are discarded and the average is calculated using the remaining 3 results.
   - **Mean of 3**: Every competitor gets 3 attempts. The average is calculated using those 3 results.
   - **Best of X**: Every competitor gets X attempts, where X equals either 1, 2 or 3. The best results among those X attempts is the final result.
-
 - **Cutoff**: Some events may have a "Cutoff round”. Most of the time the format for this is either “Best of 2 / Average of 5” or “Best of 1 / Mean of 3”. In both cases, there is also a certain time, the cutoff, provided as well. This means that you will first do one or two attempts, and if neither result is under the cutoff, you are done with the round. If you managed to get at least one result below the cutoff you can continue with the round and finish your average/mean.
-
 - **Time limit**: The time limit is the maximum time a competitor can use for an attempt. If a competitor reaches the time limit the judge stops the competitor immediately and assigns them a DNF for the solve. Some events have cumulative time limits. A cumulative time limit works like a normal time limit, but it’s applied to the sum of all your results for the entire round and not individual results. In case of a cumulative time limit, if the result is a DNF, then the time taken to get that DNF is also written in brackets.
-
 - **DNF**: Did Not Finish. DNF is the worst result in speedcubing and is generally given as a penalty.
-
 - **DNS**: Did Not Start. DNS means that the competitor was eligible for the attempt but declined it. (Note: The attempt starts with the inspection phase, not with the solving.) DNS results are usually not assigned by judges.
-
 - **Extra attempt**: In certain situations, you might receive an extra attempt. This means that you get the chance of redoing an attempt using an extra scramble because there was an incident during the original attempt. Only Delegates can assign extra attempts, so always report any incident to them.
 
 ::::: {.box .important}
@@ -242,61 +249,61 @@ Extra attempts can be given only by a Delegate!
 
 - **... never talk about the scrambles before the end of the round.**
 
-  :::{.text-right}
-  _You will have plenty of time to discuss them later in the day. :)_
-  :::
+:::::{.text-right}
+_You will have plenty of time to discuss them later in the day._
+:::::
 
 - **... never talk to someone during your solves (other than your judge or a Delegate).**
 
-  :::{.text-right}
-  _It will never be so important to risk getting a DNF because of it._
-  :::
+:::::{.text-right}
+_It will never be so important to risk getting a DNF because of it._
+:::::
 
 - **... never disturb a competitor when you are judging (e.g. playing with your phone or with your puzzle or talking to someone).**
 
-  :::{.text-right}
-  _You don’t want to be disturbed during your attempts, make sure that others won’t be disturbed by you._
-  :::
+:::::{.text-right}
+_You don’t want to be disturbed during your attempts, make sure that others won’t be disturbed by you._
+:::::
 
 - **... never talk to a competitor when you are judging, other than telling them “Ready?”, “8 seconds”, “12 seconds” or confirming results or when resolving incidents.**
 
-  :::{.text-right}
-  _Any other talk can be disturbing for them._
-  :::
+:::::{.text-right}
+_Any other talk can be disturbing for them._
+:::::
 
 - **... never touch the puzzle if it’s misaligned after the competitor has stopped the timer.**
 
-  :::{.text-right}
-  _If you do so, you could influence the Delegate’s decision. Call them immediately to the station._
-  :::
+:::::{.text-right}
+_If you do so, you could influence the Delegate’s decision. Call them immediately to the station._
+:::::
 
 - **... never use your phone/camera for recording solves with a screen facing you.**
 
-  :::{.text-right}
-  _Front-facing cameras automatically invalidate (DNF) the affected solve._
-  :::
+:::::{.text-right}
+_Front-facing cameras automatically invalidate (DNF) the affected solve._
+:::::
 
 - **... never round the results when you are a judge.**
 
-  :::{.text-right}
-  _Results should be recorded exactly as displayed on the timer, not rounded off. (E.g. 14.587 should not be recorded as 14.59 and 14.500 should not be recorded as 14.5)_
-  :::
+:::::{.text-right}
+_Results should be recorded exactly as displayed on the timer, not rounded off. (E.g. 14.587 should not be recorded as 14.59 and 14.500 should not be recorded as 14.5)_
+:::::
 
 - **... never use flash photography at a competition.**
 
-  :::{.text-right}
-  _It’s not a good feeling to be blinded during your official solves._
-  :::
+:::::{.text-right}
+_It’s not a good feeling to be blinded during your official solves._
+:::::
 
 - **... never make a decision when you are not 100% sure if it’s correct or not.**
 
-  :::{.text-right}
-  _Make sure to adhere with the WCA Regulations and ask a Delegate!_
-  :::
+:::::{.text-right}
+_Make sure to adhere with the WCA Regulations and ask a Delegate!_
+:::::
 
 ![](images/competitor-guide.png){.centered width=90%}
 
-<div style="margin-top: 200px"></div>
+<div class="spacer"></div>
 
 ## Translations
 

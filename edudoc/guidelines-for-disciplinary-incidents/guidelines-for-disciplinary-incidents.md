@@ -80,7 +80,7 @@ The Code of Conduct is limited in scope to WCA Competitions and online on offici
 * If you feel it is necessary, communicate with the individual about their behavior and contact the WDC, keeping in mind that the WDC may not be able to apply sanctions. In your communications make it clear that you are contacting them as a concerned individual and not a representative of the WCA. For example, do not threaten disciplinary action from the WCA, such as removal from competitions.
   * If harassment/bullying is occurring online, advise the victim to block the perpetrator(s).
 
-## Managing Difficult Situations
+## Managing Difficult Situations {.page-break-before}
 
 Competitions can be demanding, difficult situations that can add another level of stress. It is essential to remain professional at all times; this will help your interactions with others to go more smoothly, and allow you to positively represent the WCA. Keep in mind the following points when managing a difficult situation:
 

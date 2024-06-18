@@ -14,24 +14,24 @@ Tutaj możesz znaleźć następujące szablony:
 - Infografika z informacjami dla mieszaczy konkurencji Multi-Blind
 - Arkusze z konturami kostek do śledzenia scrambli w konkurencji Multi-Blind
 
-![](images/results_boxes_and_cube_cover.jpg){.centered width=600px}
+![](images/results_boxes_and_cube_cover.jpg){.centered width=60%}
 
 ## Instrukcje
 
 1. Jeśli chcesz korzystać z projektów WCA, użyj plików w folderze dla języka używanego w Twoim regionie, jeśli są one dostępne. Jeśli chcesz tworzyć niestandardowe projekty, użyj plików w folderze `Pliki edytowalne`. **NIE** twórz projektów pokrywek na zegary które zużywają dużo tuszu, ponieważ wpłynie to na sztywność papieru, co może powodować łatwiejszą zmianę stanu pinów. Lepiej jest użyć minimalistycznego czarno-białego projektu.
 2. Projekty papierowych pokrywek na Clocka, infografik oraz arkuszy do mieszania Multi-Blinda można wydrukować na domowej drukarce; Infografiki muszą być wydrukowane w kolorze, pokrywki oraz arkusze muszą być wydrukowane czarno-białe. Pozostałe projekty **MUSZĄ** zostać wydrukowane przy użyciu profesjonalnej drukarki, więc będziesz musiał znaleźć drukarnię w swojej okolicy. Do wykonania tych wydruków będą wymagać plików `.pdf`.
 
-![](images/paper_clock_covers.jpg){.centered width=450px}
+![](images/paper_clock_covers.jpg){.centered width=50%}
 
 3. Jeśli tworzysz **własne pokrywki do Clocka**, będziesz musiał skopiować gotowy projekt do nowego dokumentu formatu A4 (210\*297mm / 8,27\*11,69 cala), obrócić cały projekt o 12 stopni w kierunku przeciwnym do ruchu wskazówek zegara i zapisać plik jako `.pdf`. Jeśli drukujesz je na zwykłej drukarce biurowej, która nie może drukować do samych krawędzi, spróbuj wybrać ustawienie „dopasuj do obszaru drukowania”.
 
-![](images/clock_in_3d_cover.jpg){.centered width=450px}
+![](images/clock_in_3d_cover.jpg){.centered width=50%}
 
 ::::: {.text-center}
 Pokrywka na Clocka wydrukowana w 3D
 :::::
 
-![](images/sq1_in_3d_cover.jpg){.centered width=450px}
+![](images/sq1_in_3d_cover.jpg){.centered width=50%}
 
 ::::: {.text-center .page-break-after}
 Wielofunkcyjna pokrywka wydrukowana w 3D
@@ -71,9 +71,7 @@ Wielofunkcyjna pokrywka wydrukowana w 3D
 - Taśma dwustronna o szerokości do 1 cm (tylko do pudełek na wyniki i pokrywek na kostki)
 - Ostrze (nóż, nóż do tapet itp.) (tylko do pudełek na wyniki i pokrywek na kostki)
 
-::::: {.page-break-after}
 7. Na wszystkich szablonach z pokrywek na Clocka wykonaj wszystkie nacięcia po **WEWNĘTRZNEJ** stronie czarnych linii, tak aby po wykonaniu nacięć nie było widać czarnego koloru. Na pokrywce na Clocka nacięcia należy wykonać **PRZEZ** czarne linie.
-:::::
 
 8. Plik arkuszy z konturami kostek do Multi-Blind ma wiele stron, z których każda zawiera ponumerowane miejsca dla 14 kostek (dwie strony scrambli TNoodle). Pierwszy arkusz jest przeznaczona dla sekwencji mieszających 1-14, druga dla 15-28 i tak dalej, aż do sekwencji 84. Możesz wydrukować ich tyle, ile potrzebujesz na zawody. Weź pod uwagę, ilu będziesz mieć mieszaczy i ile kostek będą próbowali ułożyć twoi zawodnicy. Aby nie marnować papieru, możesz ponownie wykorzystać te arkusze w przyszłych zawodach.
 

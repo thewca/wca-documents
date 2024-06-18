@@ -30,7 +30,7 @@ The **fifth** and final page is the list of volunteers that are helping you run 
 
 Feel free to download and edit this spreadsheet to suit your personal needs or the needs of competition organizers in your region and feel free to translate it to your local language if necessary. This checklist is only meant to serve as a tool to help guide you in the organization process and to give you a better understanding of it.
 
-<div style="margin-top: 200px"></div>
+<div class="spacer"></div>
 
 ## Translations
 

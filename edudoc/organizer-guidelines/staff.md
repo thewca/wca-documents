@@ -41,7 +41,7 @@ Most of the time there will not be any major issue to assign staff for the first
 3. **Runners** should be people that are not too shy, as they might need to call the names a bit loud in noisier venues so that the competitors can hear them. Runners should also be attentive to competitors finishing their solves and puzzles being scrambled in order to efficiently transfer the puzzles between solving stations and the scrambling table. If possible, runners should also take multiple puzzles at once in order to avoid losing time. Being familiar with the community can help, but it’s in no way mandatory.
 4. **Score-taking** – It’s better to have someone who’s accurate, and attentive to details in order to spot missing signatures or digits and who is also relatively familiar with uploading results to [WCA Live](https://live.worldcubeassociation.org/). It is also beneficial to have someone with good typing skills so that they are able to keep up with all the results coming in and do not hold up subsequent rounds.
 
-<div style="margin-top: 200px"></div>
+<div class="spacer"></div>
 
 ## Translations
 
