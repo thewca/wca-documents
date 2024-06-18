@@ -44,7 +44,7 @@ Here are some questions that you should try to get an answer to:
 - Were there any issues with first-time competitors? Can we prevent that issue at future competitions?
 - What changes will be made for the next competition organized?
 
-<div style="margin-top: 200px"></div>
+<div class="spacer"></div>
 
 ## Translations
 

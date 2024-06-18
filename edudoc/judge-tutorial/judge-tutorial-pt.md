@@ -10,7 +10,7 @@ Este é o principal equipamento e ferramentas necessárias para realizar uma ten
 
 **Cronómetro Stackmat**: Este é o dispositivo oficial para medir tempos numa competição WCA. A imagem abaixo é a versão mais recente do cronómetro, mas as versões 4 e 3 do cronómetro são também aceites em competições.
 
-![](images/timer-pt.png){.centered}
+![](images/timer-pt.png){.centered width=65%}
 
 **Cronómetro**: É usado para medir o tempo de inspeção. Os cronómetros também são usados para medir o tempo de tentativas de mais de 10 minutos. **Nota: Não confundir com um cronómetro Stackmat.**
 
@@ -33,13 +33,13 @@ Este é o principal equipamento e ferramentas necessárias para realizar uma ten
 
 Aqui estão alguns incidentes comuns que podem resultar em +2 ou DNF:
 
-![](images/penalty1.png){.centered}
+![](images/penalty1.png){.centered width=70%}
 
 **+2**: é dado quando o competidor excede 15 segundos de tempo de inspeção e inicia a resolução antes de 17 segundos.
 
 **DNF**: é dado quando o competidor não consegue iniciar a resolução dentro de 17 segundos do tempo de inspeção.
 
-![](images/penalty2.png){.centered}
+![](images/penalty2.png){.centered width=70%}
 
 **+2**: é dado quando o competidor está a tocar no puzzle ao iniciar o Cronómetro.
 
@@ -47,13 +47,13 @@ Aqui estão alguns incidentes comuns que podem resultar em +2 ou DNF:
 
 **+2**: é dado quando o competidor toca no puzzle antes que o juiz inspecione o estado de resolução.
 
-![](images/penalty3.png){.centered}
+![](images/penalty3.png){.centered width=70%}
 
 **+2**: é dado quando o competidor falha em iniciar o Cronómetro com as palmas das mãos voltadas para baixo.
 
 **+2**: é dado quando o competidor não consegue parar o Cronómetro com as palmas das mãos voltadas para baixo.
 
-![](images/penalty4.png){.centered}
+![](images/penalty4.png){.centered width=70%}
 
 **+2**: é dado se o puzzle estiver a um movimento de distância do estado resolvido no final da tentativa.
 
@@ -63,7 +63,7 @@ Nota: movimentos de 180° (R2, U2, etc.) são considerados um movimento.
 
 #### Isto mostra que tipo de desalinhamento resulta numa penalidade de +2:
 
-![](images/misalignments.png){.centered}
+![](images/misalignments.png){.centered width=80%}
 :::::
 
 Outros incidentes que podem resultar em penalidade:

@@ -2,12 +2,12 @@
 
 ---
 
-<div class="text-center">
-<div style="margin: 200px auto; font-size: 1.8em;">
+::::: {.text-center}
+<div style="margin: 160px auto; font-size: 2.3em;">
 # World Cube Association
 </div>
 ![]({logo}){width=60% margin=auto}
-</div>
+:::::
 
 ## 1. Name {.page-break-before}
 The name of this corporation is World Cube Association (“WCA”).
@@ -19,34 +19,34 @@ Application for membership, as defined in Section 5056 of the California Nonprof
 ### 2.2 Types of Membership
 The WCA shall offer the following type of memberships to its organization:
 
-  1. Regional Organizations;
-  2. Associate Regional Organizations;
-  3. Individual voting members;
-  4. Individual non-voting members.
+1. Regional Organizations;
+2. Associate Regional Organizations;
+3. Individual voting members;
+4. Individual non-voting members.
   
 The Board reserves the right to establish or remove membership categories.  
   
 ### 2.3 Regional Organization Membership
 Regional Organization membership is available for registered entities who act to organize WCA activities within their specified regions. Applications for this type of membership are to be made in writing to the Board of Directors provided the entity meets the following requirements:
 
-  1. The Regional Organization has a name, address and contact details;
-  2. The Regional Organization has a website and a logo;
-  3. The Regional Organization provides a current copy of its Bylaws to the WCA;
-  4. The Regional Organization is registered as a legal entity in the area in which it operates;
-  5. The Regional Organization provides a description of their organizational structure;
-  6. The Regional Organization provides a clear description of the area they cover along with a report on past activities proving they act as the entity which organises WCA activities within their region.
+1. The Regional Organization has a name, address and contact details;
+2. The Regional Organization has a website and a logo;
+3. The Regional Organization provides a current copy of its Bylaws to the WCA;
+4. The Regional Organization is registered as a legal entity in the area in which it operates;
+5. The Regional Organization provides a description of their organizational structure;
+6. The Regional Organization provides a clear description of the area they cover along with a report on past activities proving they act as the entity which organises WCA activities within their region.
   
 This membership is active from the moment they are acknowledged by the Board of Directors as meeting the requirements for this category and continues until this membership is revoked either through resignation or termination. This category of members do not have the right to vote in matters of the WCA and any elections.
 
 ### 2.4 Associate Regional Organization Membership
 Associate Regional Organization membership is available for groups who act to organize WCA activities within their specified regions but however, are not currently a registered entity within the region which they operate. Applications for this type of membership are to be made in writing to the Board of Directors provided the entity meets the following requirements:
 
-  1. The Regional Organization has a name, address and contact details;
-  2. The Regional Organization has a website and a logo;
-  3. The Regional Organization provides a current copy of its Bylaws to the WCA;
-  5. The Regional Organization provides a description of their organizational structure;
-  6. The Regional Organization provides a clear description of the area they cover along with a report on past activities proving they act as the entity which organises WCA activities within their region.
-  
+1. The Regional Organization has a name, address and contact details;
+2. The Regional Organization has a website and a logo;
+3. The Regional Organization provides a current copy of its Bylaws to the WCA;
+4. The Regional Organization provides a description of their organizational structure;
+5. The Regional Organization provides a clear description of the area they cover along with a report on past activities proving they act as the entity which organises WCA activities within their region.
+
 This membership is active from the moment they are acknowledged by the Board of Directors as meeting the requirements for this category and continues until this membership is revoked either through resignation or termination or after two years from the date in which their membership is active. This category of members do not have the right to vote in matters of the WCA and any elections.
 
 ### 2.5 Individual Voting Members
@@ -67,14 +67,14 @@ Any member may resign by filing a written resignation with the secretary. Resign
 ### 2.10 Annual Meetings
 An annual meeting of the members shall take place no later than 10 months after the end of the fiscal year, the specific date, time, and location of which will be designated by the chair. The annual meeting shall run according to the following agenda which must be circulated to the members not less than 2 weeks prior to the meeting:
 
-  1. Opening of the meeting;
-  2. Roll call;
-  3. Adoption of the agenda;
-  4. Approval of the minutes of the previous general meeting;
-  5. Activity reports;
-  6. Financial report;
-  7. Items brought forward to the meeting by members;
-  8. Date and place of the next meeting.
+1. Opening of the meeting;
+2. Roll call;
+3. Adoption of the agenda;
+4. Approval of the minutes of the previous general meeting;
+5. Activity reports;
+6. Financial report;
+7. Items brought forward to the meeting by members;
+8. Date and place of the next meeting.
 
 ### 2.11	Special Meetings
 Special meetings may be called by the Chair, the Vice-Chair, or a simple majority of the Board of Directors. A petition signed by five percent of voting members may also call a special meeting.
@@ -254,7 +254,7 @@ Except as otherwise specifically determined by resolution of the Board, or as ot
 
 ## 10. Office {.page-break-before}
 ### 10.1 Principal Office
-The principal office of the WCA for the transaction of its business shall be located at: <br>
+The principal office of the WCA for the transaction of its business shall be located at:
 
 5042 Wilshire Blvd #43206 <br>
 Los Angeles, CA 90036 <br>

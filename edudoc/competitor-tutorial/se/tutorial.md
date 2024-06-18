@@ -2,7 +2,7 @@
 
 ## WCA som organisation - Generell Introduktion
 
-![WCA logo]({logo}){.logo height=133px}
+![WCA logo]({logo}){.logo width=15%}
 WCA (World Cube Association) är organisationen som ansvarar för arrangerande av tävlingar i Speedcubing över hela världen. Alla WCA-tävlingar måste följa WCA:s [Tävlingsregler](wca{regulations}) och [Riktlinjer]((wca{regulations/guidelines.html})), därför är det viktigt att du är bekant med dessa innan du deltar.
 
 Detta dokument guidar dig genom grunderna i att tävla och döma. Att läsa detta dokument kan vara väldigt nyttigt för att få en grundförståelse för WCA-tävlingar, men vi rekommenderar ändå att du läser WCA:s tävlingsregler och riktlinjer, samt deltar i deltagarinstruktionen om tävlingen har en sådan.
@@ -25,27 +25,27 @@ Om du är osäker på något, fråga alltid delegaten!
 - **Stackmat-timer**: Detta är den officiella enheten för tidtagning på tävlingar.
 Den kan se ut som någon av de tre versionerna nedan.
 
-![](../images/stackmat-timers.png){.centered height=200px}
+![](../images/stackmat-timers.png){.centered width=30%}
 
 - **Matta**: Stackmat-timers måste användas tillsammans med tillhörande mattor. Mattan håller timern på plats, skyddar pusslen, och förhindrar dem från att glida iväg vid slutet av försöket.
 
-![](../images/mat.png){.centered width=600px}
+![](../images/mat.png){.centered width=70%}
 
 - **Tidtagarur**: Tidtagarur används för att mäta inspektionstiden. De används även för att mäta tiden på försök över 10 minuter. Notera att tidtagarur kan vara av olika modeller, och de kan därför se ut och fungera annorlunda jämfört med det på bilden nedan.
 
-![](../images/stopwatch.jpg){.centered height=200px}
+![](../images/stopwatch.jpg){.centered width=24%}
 
 - **Cube cover**: Cube covers används för att täcka över pusslet före ett försök, så att deltagare inte kan se blandningen i förväg.
 
-![](../images/cover.jpg){.centered height=200px .page-break-after}
+![](../images/cover.jpg){.centered width=24% .page-break-after}
 
 - **Resultatkort**: När ett pussel blandats signerar blandaren på resultatkortet att det gjorts på korrekt sätt. Efter varje försök skriver domaren ner resultatet på resultatkortet och signerar. Därefter signerar deltagaren för att bekräfta att resultatet på resultatkortet är
-  - 1) korrekt
-  - 2) komplett
-  - 3) korrekt formaterat
-  - 4) tydligt läsbart
+  1. korrekt
+  2. komplett
+  3. korrekt formaterat
+  4. tydligt läsbart
 
-![](images/scoresheet.png){.centered height=600px}
+![](images/scoresheet.png){.centered width=70%}
 
 ::::: {.box .attention}
 Om någon del av resultatkortet är oläsligt kommer den sämsta möjliga tolkningen registreras för det försöket. 
@@ -192,13 +192,28 @@ Kom ihåg: Att stoppa timern på ett felaktigt sätt leder till tidsstraff!
 
 - **Feljusteringar**:
 
-| <!-- --> | <!-- --> ![](){width=650px} |
-| --- | --- |
-| ![](../images/nopenalty.jpg){width=150px} | **Inget straff:** Kuben är löst, och alla lager är inom 45° jämfört med de andra lagren. |
-| ![](../images/plus2.jpg){width=150px} | **+2:** Kuben är löst, men ett lager är vridet över 45°, vilket innebär att kuben är ett drag från att vara löst. Notera att WCA:s tävlingsregler betraktar pussel som ett drag ifrån löst om du bara behöver vrida en sida av pusslet för att lösa det – **även om det krävs en dubbelvridning.** |
-| ![](../images/unclear.jpg){width=150px} | **Fråga Delegaten:** Om det är oklart om +2 ska utdelas eller inte, **rör inte pusslet** och tillkalla en delegat till lösningsstationen. |
-| ![](../images/DNF2moves.jpg){width=150px} | **DNF:** Om mer än ett drag krävs för att lösa pusslet är resultatet DNF. |
-| ![](../images/DNFslice.jpg){width=150px} | **DNF:** Om ett mellanlager av kuben inte är löst räknas det som at två drag krävs för att lösa pusslet, eftersom endast vridningar av yttre lager räknas. Därmed blir resultatet DNF. |
+<table class="table-with-images">
+  <tr>
+    <td>![](../images/nopenalty.jpg)</td>
+    <td>**Inget straff:** Kuben är löst, och alla lager är inom 45° jämfört med de andra lagren.</td>
+  <tr>
+  <tr>
+    <td>![](../images/plus2.jpg)</td>
+    <td>**+2:** Kuben är löst, men ett lager är vridet över 45°, vilket innebär att kuben är ett drag från att vara löst. Notera att WCA:s tävlingsregler betraktar pussel som ett drag ifrån löst om du bara behöver vrida en sida av pusslet för att lösa det – **även om det krävs en dubbelvridning.**</td>
+  <tr>
+  <tr>
+    <td>![](../images/unclear.jpg)</td>
+    <td>**Fråga Delegaten:** Om det är oklart om +2 ska utdelas eller inte, **rör inte pusslet** och tillkalla en delegat till lösningsstationen.</td>
+  <tr>
+  <tr>
+    <td>![](../images/DNF2moves.jpg)</td>
+    <td>**DNF:** Om mer än ett drag krävs för att lösa pusslet är resultatet DNF.</td>
+  <tr>
+  <tr>
+    <td>![](../images/DNFslice.jpg)</td>
+    <td>**DNF:** Om ett mellanlager av kuben inte är löst räknas det som at två drag krävs för att lösa pusslet, eftersom endast vridningar av yttre lager räknas. Därmed blir resultatet DNF.</td>
+  <tr>
+</table>
 
 ::::: {.box .important}
 Om du är osäker, fråga alltid en delegat!
@@ -207,20 +222,13 @@ Om du är osäker, fråga alltid en delegat!
 ## Viktiga definitioner {.page-break-before}
 
 - **Format:** Beroende på gren finns följande sätt att beräkna resultatet som används för att ranka deltagare:
-
   - **Snitt av 5:** Varje deltagare får 5 försök. När alla försök är genomförda räknas den bästa och sämsta tiden bort, och genomsnittet beräknas av de resterande 3 resultaten.
   - **Snitt of 3:** Varje deltagare får 3 försök. Snittet beräknas med de 3 resultaten.
   - **Bäst av X:** Varje deltagare får X försök, där X är antingen 1, 2, eller 3. Det bästa resultatet av de X försöken blir det slutgiltiga resultatet.
-
 - **Cutoff:** Vissa grenar kan ha en ”Cutoff-omgång”. Oftast är formatet för detta antingen ”Bäst av 2 / Snitt av 5” eller ”Bäst av 1 / Snitt av 3”. I båda fallen finns det också en tid, cutoff-tiden, specificerad. Detta innebär att man först gör ett eller två försök, och om inget av dem är under cutoff-tiden är man färdig med omgången. Om minst en av tiderna är under cutoff-tiden räknas dessa lösningar som början av deltagarens snitt, och omgången får slutföras.
-
-- **Tidsgräns:** Tidsgränsen är den maximala tiden som en deltagare får använda för ett försök. Om en deltagare når tidsgränsen stoppar domaren försöket omedelbart, och tilldelar resultatet DNF för försöket.
-Vissa grenar har kumulativa tidsgränser. En kumulativ tidsgräns fungerar som en vanlig tidsgräns, men gäller summan av alla ens resultat i omgången, och inte de enskilda resultaten. Om en kumulativ tidsgräns används och resultatet är DNF, antecknas även tiden försöket tog på resultatkortet inom parenteser. 
-
+- **Tidsgräns:** Tidsgränsen är den maximala tiden som en deltagare får använda för ett försök. Om en deltagare når tidsgränsen stoppar domaren försöket omedelbart, och tilldelar resultatet DNF för försöket. Vissa grenar har kumulativa tidsgränser. En kumulativ tidsgräns fungerar som en vanlig tidsgräns, men gäller summan av alla ens resultat i omgången, och inte de enskilda resultaten. Om en kumulativ tidsgräns används och resultatet är DNF, antecknas även tiden försöket tog på resultatkortet inom parenteser. 
 - **DNF:** Did Not Finish. DNF är det sämsta möjliga resultatet, och ges generellt som straff.
-
 - **DNS:** Did Not Start. DNS innebär att deltagaren inte startade försöket. (Kom ihåg: Försöket startar med inspektionsfasen, inte lösningen.) DNS-resultat tilldelas normalt sett inte av domare.
-
 - **Extra försök:** I vissa situationer kan ett extra försök tilldelas. Detta innebär att deltagaren får möjlighet att göra om ett försök på en extrablandning, eftersom något inträffade under det förra försöket. Endast delegater kan tilldela extra försök, så rapportera alltid incidenter till dem.
 
 ::::: {.box .important}
@@ -231,56 +239,56 @@ Endast delegater kan dela ut extra försök!
 
 - **... aldrig prata om blandningarna förrän omgången är över.**
 
-  :::{.text-right}
-  *Ni har gott om tid att diskutera dem senare under dagen :)*
-  :::
+:::::{.text-right}
+_Ni har gott om tid att diskutera dem senare under dagen
+:::::
 
 - **... aldrig prata med någon under en lösning (förutom din domare eller en delegat).**
 
-  :::{.text-right}
-  *Detta leder till att resultatet blir DNF.*
-  :::
+:::::{.text-right}
+_Detta leder till att resultatet blir DNF.
+:::::
 
 - **... aldrig störa en deltagare när du dömer (t.ex. sitta med mobilen eller en kub, eller prata med någon).**
 
-  :::{.text-right}
-  *Du vill inte bli störd under dina försök, se till att andra inte blir störda av dig.*
-  :::
+:::::{.text-right}
+_Du vill inte bli störd under dina försök, se till att andra inte blir störda av dig._
+:::::
 
 - **... aldrig prata med en deltagare när du dömer, förutom det som behövs för tävlingsprocessen.**
 
-  :::{.text-right}
-  *Annat prat kan vara störande för deltagaren.*
-  :::
+:::::{.text-right}
+_Annat prat kan vara störande för deltagaren._
+:::::
 
 - **... aldrig röra ett feljusterat pusslet efter att deltagaren har stoppat timern.**
 
-  :::{.text-right}
-  *Det kan påverka delegatens beslut. Tillkalla delegaten till lösningsstationen direkt.*
-  :::
+:::::{.text-right}
+_Det kan påverka delegatens beslut. Tillkalla delegaten till lösningsstationen direkt._
+:::::
 
 - **... aldrig använda din telefon/kamera för att spela in lösningen med skärmen riktad mot dig .**
 
-  :::{.text-right}
-  *Skärmar inom synhåll ogiltigförklarar försöket automatiskt (DNF).*
-  :::
+:::::{.text-right}
+_Skärmar inom synhåll ogiltigförklarar försöket automatiskt (DNF)._
+:::::
 
 - **... aldrig avrunda resultaten när du är domare.**
 
-  :::{.text-right}
-  *Resultat ska skrivas ner exakt som de star på displayen, och ska inte avrundas.(T.ex. ska 14.587 **inte** skrivas som 14.59, och 14.500 ska **inte** skrivas som 14.5)*
-  :::
+:::::{.text-right}
+_Resultat ska skrivas ner exakt som de star på displayen, och ska inte avrundas.(T.ex. ska 14.587 *inte** skrivas som 14.59, och 14.500 ska **inte** skrivas som 14.5)*_
+:::::
 
 - **... aldrig fotografera med blixt på en tävling.**
 
-  :::{.text-right}
-  *Blixtar kan störa de tävlande.*
-  :::
+:::::{.text-right}
+_Blixtar kan störa de tävlande._
+:::::
 
 - **... aldrig fatta ett beslut om du inte är 100% säker.**
 
-  :::{.text-right}
-  *Se till att följa tävlingsreglerna, och fråga en delegat om du är osäker!*
-  :::
+:::::{.text-right}
+_Se till att följa tävlingsreglerna, och fråga en delegat om du är osäker!_
+:::::
 
 ![](images/competitor-guide.png){.centered width=90%}

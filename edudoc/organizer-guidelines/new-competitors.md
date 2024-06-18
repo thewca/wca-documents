@@ -27,7 +27,7 @@ Many newcomers will be rather young, maybe even small children, so make sure tha
 
 Most of the time, the parents or guardians will have some queries about something to do with the competition, whether it is about how to see their child's times online, or how many people go through to the next round, or just how a competition runs. It’s really important that as an organiser, you answer with a helpful and fulfilled answer, and if you cannot then make sure to pass them on to someone who can, e.g. a Delegate. Try to be polite and friendly so they enjoy your competition and want to attend more!
 
-<div style="margin-top: 200px"></div>
+<div class="spacer"></div>
 
 ## Translations
 

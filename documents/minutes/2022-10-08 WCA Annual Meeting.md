@@ -1,12 +1,12 @@
-<div class="text-center">
+::::: {.text-center}
 DRAFT MINUTES OF ANNUAL MEETING OF THE MEMBERS OF WORLD CUBE ASSOCIATION
 
 A California Nonprofit Public Benefit Corporation
-</div>
+:::::
 
 On October 8, 2022 at 6:00 p.m. UTC, the Members of the World Cube Association met for an annual meeting via Zoom. The following voting Members were present at the meeting:
 
-<div class="text-center">
+::::: {.text-center}
 Antoine Piau, Arthur Garcin, Blake Thompson, Bob Burton <br>
 Cailyn Hoover, Callum James Goodyear, Daniel Vædele Egdal, Edward Hollingdale <br>
 Ethan Pride, Finn Ickler, Georel Ulangkaya, Gregor Billing <br>
@@ -20,10 +20,10 @@ Ulrik Bredland  <br>
 
 
 At the time of the meeting the World Cube Association had 162 voting members. With 28 voting members additionally represented by proxy a total of 65 voting members were represented at the meeting and as such a quorum was present.
-</div>
+:::::
 
 
-<b class="text-center">APPROVAL OF THE MINUTES OF THE PREVIOUS ANNUAL MEETING</b>
+#### APPROVAL OF THE MINUTES OF THE PREVIOUS ANNUAL MEETING {.text-center}
 
 There being no questions regarding the minutes of the 2021 annual members meeting the chair called for a vote for the acceptance of the minutes.
 
@@ -35,7 +35,7 @@ Opposed: 0
 
 Abstain: 5
 
-<b class="text-center">EXECTUTIVE DIRECTOR'S ACTIVITY STATEMENT</b>
+#### EXECTUTIVE DIRECTOR'S ACTIVITY STATEMENT {.text-center}
 
 The Executive Director thanked all members for their attendance, as well as community members watching via stream.
 
@@ -47,7 +47,7 @@ The WCA looks forward to continuing a strong relationship that has been formed i
 
 The Board looks forward to being able to welcoming all Staff and community members in Seoul in 2023 for the first WCA World Championship since 2019. The return of a place for cubers from around the world to gather is an event we are very much looking forward to.
 
-<b class="text-center">FINANCIAL REPORT FOR 2020</b>
+#### FINANCIAL REPORT FOR 2020 {.text-center}
 
 Edward Hollingdale was invited to present the financial report of the organization for the 2021 fiscal year. He noted due to a return to competitions later in the year that the financial situation is much better than last year, as well as sponsorships from championship support, and merchandise sales from the new WCA store.
 
@@ -63,16 +63,16 @@ Opposed: 0
 
 Abstain: 0
 
-<b class="text-center">DATE AND PLACE OF THE NEXT MEETING</b>
+#### DATE AND PLACE OF THE NEXT MEETING {.text-center}
 
 The next meeting shall be conducted in 2023, potentially at the World Championship in Korea, and be made available by online means.
 
-<b class="text-center">ADJOURNMENT</b>
+#### ADJOURNMENT {.text-center}
 
 There being no further business the meeting was closed at 6:25 p.m. UTC.
 
-<div style="text-align: right;">
-<span style="text-decoration: underline;">/s/ Callum James Goodyear </span>
+::::: {.text-right}
+<u>/s/ Callum James Goodyear </u>
 
 Secretary of the WCA
-</div>
+:::::

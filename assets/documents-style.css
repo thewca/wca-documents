@@ -1,0 +1,33 @@
+a {
+  color: black;
+}
+
+/* Fancy numeration of nested numeric lists. (Based on https://stackoverflow.com/a/26245056) */
+
+ol[type="1"] {
+  counter-reset: item;
+}
+
+ol[type="1"] li {
+  position: relative;
+  display: block;
+  margin-bottom: 0.2rem;
+  counter-increment: item;
+}
+
+/* List item counter */
+ol[type="1"] > li:before {
+  position: absolute;
+  right: 100%;
+  margin-right: 0.5rem;
+  content: counters(item, ".") ".";
+}
+
+/* Nested list item (e.g. 1.2.3) */
+li ol[type="1"] > li {
+  margin-left: 1rem;
+}
+
+li ol[type="1"] > li:before {
+  content: counters(item, ".");
+}

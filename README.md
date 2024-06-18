@@ -10,11 +10,16 @@ Example: `documents/policies/external/Competition Requirements.md` gets converte
 
 ## Scripts
 
+Run these scripts from the root directory of the repository:
+
 | Script | Description |
 | ------ | ----------- |
-| `bin/install_dependencies.sh` | Installs dependencies necessary to generate PDFs. Run this once. |
-| `bin/build.sh` | Builds PDF files into `build` directory. |
+| `bin/install_dependencies.sh` | Installs dependencies necessary to generate PDFs*. Run this once. |
+| `bin/build.sh` | Builds PDF files into the `build` directory. `documents` or `edudoc` can be passed as the first argument to only build documents from the specified directory. |
+| `bin/docker_build.sh` | Builds PDF files using Docker. Use the `--rebuild` flag if you need to rebuild the image. The same directory argument as in `build.sh` is also supported. |
 | `bin/deploy.sh` | WCA deployment script used by GitHub. You don't need to use this. |
+
+\* This only supports Debian-based distributions. If you are not using a Debian-based distribution, install these dependencies manually: [pandoc](https://www.pandoc.org), [weasyprint](https://doc.courtbouillon.org/weasyprint/stable), Liberation Sans font, a font with full Unicode support (e.g. Google Noto).
 
 ## Writing and translating documents
 

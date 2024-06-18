@@ -10,7 +10,7 @@ Oto główne wyposażenie i narzędzia wymagane do przeprowadzenia ułożenia:
 
 **Stackmat timer**: Jest to oficjalne urządzenie do pomiaru czasu podczas zawodów WCA. Na zdjęciu poniżej widać najnowszą wersją timera (Gen 5), ale wersje Gen 4 oraz Gen 3 są nadal dozwolone do użytku na zawodach.
 
-![](images/timer-pl.png){.centered}
+![](images/timer-pl.png){.centered width=65%}
 
 **Stoper**: Służy do pomiaru czasu preinspekcji. Stopery służą również do mierzenia czasu ułożenia układanki dla prób trwających powyżej 10 minut. **Uwaga: Nie mylić ze     timerem.**
 
@@ -27,19 +27,19 @@ Oto główne wyposażenie i narzędzia wymagane do przeprowadzenia ułożenia:
 9. Gdy zawodnik rozwiąże łamigłówkę, musi zatrzymać timer, aby zakończyć ułożenie. Sprawdź stan łamigłówki bez dotykania jej (z wyjątkiem konkurencji Clock) i podaj czas oraz ewentualne kary.
 10. Ostateczny wynik (wraz z karami, jeśli dotyczy) jest zapisywany na karcie wyników, zanim zarówno sędzia, jak i zawodnik podpiszą próbę, aby zweryfikować, że wynik jest poprawny i zaakceptowany.
 
-## Kary {.page-break-before}
+## Kary
 
 **+2**: to kara, w której 2 sekundy są dodawane do końcowego wyniku próby. Kary kumulują się, co oznacza, że zawodnik może potencjalnie otrzymać łączną karę w wysokości **+4** lub nawet wyższą. **Did Not Finish (PL: Nie ukończył)** (DNF) to kara, która skutkuje dyskwalifikacją próby. Jeśli nie jesteś pewien, co należy zrobić w danym przypadku, zawsze powinieneś poprosić o radę Delegata WCA.
 
 Oto kilka typowych incydentów, które mogą skutkować +2 lub DNF:
 
-![](images/penalty1.png){.centered}
+![](images/penalty1.png){.centered width=70%}
 
 **+2**: zawodnik przekroczy 15 sekund czasu preinspekcji, ale rozpocznie ułożenie przed 17 sekundami.
 
 **DNF**: zawodnik nie rozpocznie ułożenia w ciągu 17 sekund od rozpoczęcia preinspekcji.
 
-![](images/penalty2.png){.centered}
+![](images/penalty2.png){.centered width=70%}
 
 **+2**: zawodnik dotknie układanki podczas uruchamiania timera.
 
@@ -47,13 +47,13 @@ Oto kilka typowych incydentów, które mogą skutkować +2 lub DNF:
 
 **DNF**: zawodnik dotyka łamigłówki, zanim sędzia sprawdził stan rozwiązania. Jeśli jesteś pewien, że w wyniku tego nie nastąpiła żadna zmiana w ułożeniu łamigłówki, zamiast tego możesz przyznać **+2**. Wyjątek: jeśli natychmiast po zatrzymaniu stopera zawodnik **krótko** dotknie łamigłówki bez wpływu na jej stan, kara czasowa może zostać zniesiona według uznania sędziego.
 
-![](images/penalty3.png){.centered .page-break-before}
+![](images/penalty3.png){.centered width=70%}
 
 **+2**: zawodnik nie uruchamia timera z dłońmi skierowanymi w dół.
 
 **+2**: zawodnik nie zatrzymuje timera z dłońmi skierowanymi w dół.
 
-![](images/penalty4.png){.centered}
+![](images/penalty4.png){.centered width=70%}
 
 **+2**:układance brakuje jednego ruchu do stanu rozwiązanego na końcu próby.
 
@@ -63,7 +63,7 @@ Uwaga: obrót o 180° (R2, U2 itd.) jest uważany za jeden ruch.
 
 #### To pokazuje, jakie nieprawidłowe ustawienia skutkują karą +2:
 
-![](images/misalignments.png){.centered}
+![](images/misalignments.png){.centered width=80%}
 :::::
 
 Inne incydenty, które mogą skutkować karą, to m.in:

@@ -103,7 +103,25 @@ If you are making a document that needs a version label, use this:
 ### Version 1.0 {.version}
 ```
 
-4. **Numbered lists** (documents folder only)
+4. **Lists**
+
+If you are making an unordered list, make sure you don't leave an empty line between two consecutive items, unless you have other content between them. Also, if you would like to use sub-bullets, simply add a 2 space indent before the item. Example:
+
+```md
+- Example
+- Example
+  - Sub-bullet example
+    - Deeper sub-bullet example
+  - Sub-bullet example
+- Example
+
+More content.
+
+- Example
+- Example
+```
+
+5. **Numbered lists** (documents folder only)
 
 Correct syntax looks like this (each indent is simply 3 spaces):
 
@@ -127,7 +145,7 @@ Correct syntax looks like this (each indent is simply 3 spaces):
 2. Example
 ```
 
-5. **Indents** (edudoc folder only)
+6. **Indents** (edudoc folder only)
 
 Use this syntax to indent a paragraph:
 
@@ -137,7 +155,7 @@ This is an indented paragraph.
 :::
 ```
 
-6. **Highlighted content boxes** (edudoc folder only)
+7. **Highlighted content boxes** (edudoc folder only)
 
 Use this syntax to create a box around content that needs to be highlighted:
 
@@ -161,14 +179,24 @@ Once you are finished translating, either send the WQAC your `.md` file(s), aski
 
 ## Previewing rendered document and merging
 
+### Using Docker
+
+This is how you can get a preview of the rendered documents using [Docker](https://www.docker.com/get-started/):
+
+1. Run `./bin/docker_build.sh` in the root of this repository. It may take a while to build the Docker image the first time around, but all future uses of this command will run much faster, since the image will already be built on your system.
+2. If you only need to build the `documents` folder, use `./bin/docker_build.sh documents`. For the `edudoc` folder use `./bin/docker_build.sh edudoc`.
+3. After the build process is complete, see the rendered documents in the `build` directory.
+
+### Using the PR build pipeline
+
 This is how you can get a preview of the rendered documents:
 
-1. Create a PR that adds/updates a document.
-2. Wait for the pipeline to build the PDF(s) from the Markdown file(s). This is done automatically and should take around one minute.
+1. Create a draft PR that adds or updates a document.
+2. Wait for the pipeline to build the PDFs from the Markdown files. This is done automatically and should take around one minute.
 3. You should see a message that says "All checks have passed" at the bottom of the PR. Click on "Show all checks" next to that message, and then click "Details".
 4. Click "Summary" on the left side of the screen and click "build" in the Artifacts section to download all rendered PDFs.
 5. Unzip the downloaded file, find the file(s) that you are working on, and make sure everything was rendered as expected. Pay especially close attention to the alignment of the content, and make sure there are no unexpected page breaks. If you are adding a translation, make sure things are consistent with the original English version.
-6. You can continue iterating, making additional PRs, until the rendered documents look correct.
+6. You can continue iterating and making new commits on your PR (which rebuilds the documents), until the rendered documents look correct.
 
 Once you have finalized everything and received an approving review, a WCA staff member will merge your PR, and eventually you will see your changes on the WCA website.
 
