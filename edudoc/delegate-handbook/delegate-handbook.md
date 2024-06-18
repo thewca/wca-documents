@@ -12,8 +12,6 @@ There is a lot of information that is relevant to all WCA Staff, not simply Dele
 
 # Table of Contents {.page-break-before}
 
-- [Delegate Handbook](#delegate-handbook)
-- [Table of Contents](#table-of-contents)
 - [Introduction to Delegating](#introduction-to-delegating)
   - [The Roles of a WCA Delegate](#the-roles-of-a-wca-delegate)
   - [How to Become a Delegate](#how-to-become-a-delegate)
@@ -162,7 +160,7 @@ A Trainee Delegate has the same permissions and responsibilities as a Junior Del
 
 A Trainee Delegate is a Community Member, and not a member of WCA Staff. However, a Trainee Delegate is still expected to embody the full responsibilities of a Delegate, and shall behave as a representative of the WCA in accordance with the Mission, Spirit, Policies, and Code of Ethics of the WCA.
 
-A Trainee Delegate’s training period is not just an evaluation of their skills, it is an opportunity for the Trainee Delegate to understand more fully what is expected of them. Sometimes a Trainee Delegate finds that delegating is not a good match for them, and that is okay. A Trainee Delegate may withdraw their appointment at any time by submitting a resignation letter to their Senior Delegate with a carbon copy (CC) to the WCA Board and WCA Executive Assistants Team.
+A Trainee Delegate’s training period is not just an evaluation of their skills, it is an opportunity for the Trainee Delegate to understand more fully what is expected of them. Sometimes a Trainee Delegate finds that delegating is not a good match for them, and that is okay. A Trainee Delegate may withdraw their appointment at any time by submitting a resignation letter to their Senior Delegate with a carbon copy (CC) to the WCA Board and WCA Executive Assistants Team (WEAT).
 
 After 12 months, a Trainee Delegate will automatically lose their appointment as a Trainee Delegate, unless their Senior Delegate extends the appointment with approval from the WCA Board.
 
@@ -180,16 +178,16 @@ A Junior Delegate has the same responsibilities as a Trainee Delegate, and addit
 - Access to internal WCA resources accessed through their email login
 - Access to the Poll areas of the WCA website
 
-After a Junior Delegate has held the position for at least one year, and has successfully managed at least three WCA Competitions, a Senior Delegate may promote a Junior Delegate to Full Delegate. On a quarterly basis, the WCA Executive Assistants Team (WEAT) checks which Junior Delegates are eligible for promotion and will request Senior Delegates to choose who they believe are ready for promotion. Once a Senior Delegate returns to the WEAT with their selected candidates for promotion, the WEAT will request feedback from various WCA teams and committees:
+After a Junior Delegate has held the position for at least one year, and has successfully managed at least three WCA Competitions, a Senior Delegate may promote a Junior Delegate to Full Delegate. On a quarterly basis, the WEAT checks which Junior Delegates are eligible for promotion and will request Senior Delegates to choose who they believe are ready for promotion. Once a Senior Delegate returns to the WEAT with their selected candidates for promotion, the WEAT will request feedback from various WCA teams and committees:
 
-- WCAT, who look into the cleanliness of competition submissions. Generally, this is determined by the number and severity of mistakes in competition submissions, the timeliness of competition submissions (minimal submissions with under 30 days until the competition), and responsiveness to email queries. The Delegate must have confirmed at least one competition (by clicking the "Confirm" button themselves) to be eligible for a positive review from the WCAT. All of the Delegate’s confirmed competitions may be considered, with more consideration paid to recent competitions.
-- WQAC, who look into the timeliness of Delegate Reports being submitted, scramble accountability at that Delegate’s competitions, and the general quality of their competitions. All of the Delegate’s competitions may be considered, with more consideration paid to recent competitions.
-- WRT, who look into the cleanliness of a Delegate’s result submissions, change requests, and responsiveness to WRT questions. The Delegate must have submitted results at least three times to be eligible for a positive review from the WRT.
-- WRC, who use the Incidents section of Delegate Reports to determine that incidents are being handled correctly and change requests are made promptly after feedback is provided.
-- WFC, who verify that dues are paid within 30 days and that other invoices are paid in a timely manner. This is not applicable to Delegates who have their dues covered by a Regional Organization. See [Paying Competition Dues](#paying-competition-dues) for more information on how Dues may be paid.
-- WEC, who verify that there are no active investigations into the Delegate.
+- WCA Competition Announcement Team (WCAT), who look into the cleanliness of competition submissions. Generally, this is determined by the number and severity of mistakes in competition submissions, the timeliness of competition submissions (minimal submissions with under 30 days until the competition), and responsiveness to email queries. The Delegate must have confirmed at least one competition (by clicking the "Confirm" button themselves) to be eligible for a positive review from the WCAT. All of the Delegate’s confirmed competitions may be considered, with more consideration paid to recent competitions.
+- WCA Quality Assurance Committee (WQAC), who look into the timeliness of Delegate Reports being submitted, scramble accountability at that Delegate’s competitions, and the general quality of their competitions. All of the Delegate’s competitions may be considered, with more consideration paid to recent competitions.
+- WCA Results Team (WRT), who look into the cleanliness of a Delegate’s result submissions, change requests, and responsiveness to WRT questions. The Delegate must have submitted results at least three times to be eligible for a positive review from the WRT.
+- WCA Regulations Committee (WRC), who use the Incidents section of Delegate Reports to determine that incidents are being handled correctly and change requests are made promptly after feedback is provided.
+- WCA Financial Committee (WFC), who verify that dues are paid within 30 days and that other invoices are paid in a timely manner. This is not applicable to Delegates who have their dues covered by a Regional Organization. See [Paying Competition Dues](#paying-competition-dues) for more information on how Dues may be paid.
+- WCA Ethics Committee (WEC), who verify that there are no active investigations into the Delegate.
 
-If the Senior Delegate, WCA teams, committees, and the Board all agree that a Junior Delegate is ready for promotion, the Senior Delegate will promote the Junior Delegate to Full Delegate. A promotion to Full Delegate is recognition of that individual’s hard work and contribution to the WCA over a period of time while maintaining high standards.
+If the Senior Delegate, WCA teams, committees, and the Board all agree that a Junior Delegate is ready for promotion, the Senior Delegate will promote the Junior Delegate to Full Delegate. A promotion to Full Delegate is recognition of that individual’s hard work and contribution to the WCA over a period of time while maintaining high standards. If a Delegate is not promoted, their promotion is simply postponed until the next promotions cycle (next quarter).
 
 ### Full Delegates
 
@@ -229,7 +227,7 @@ The regions with Senior Delegates are:
 
 Most official WCA communication, both within the organization and to the general public, happens via email. WCA communications are expected to have a response within 48 hours typically, but at worst within a week, unless special circumstances arise. When possible, respond to both internal Staff communications and external communications with the general public within that time frame. Sometimes a meaningful response is not possible within that time frame, or you are waiting on other parties in order to respond appropriately. Let the sender know that you have seen their message, and that you intend to follow up by a specific deadline.
 
-Do not use your WCA email for tasks that are explicitly organizer related, such as contacting sponsors for a competition, as it could give the false impression that the WCA is organizing the competition. If the competition is being organized by a regional organization which you are part of, use your regional organization email to perform organizer tasks. Otherwise, use your personal email. You are still expected to use your WCA email for internal communications and communication with competitors about Delegating tasks, such as managing person data.
+Do not use your WCA email for tasks that are explicitly organizer-related, such as contacting sponsors for a competition, as it could give the false impression that the WCA is organizing the competition. If the competition is being organized by a regional organization which you are part of, use your regional organization email to perform organizer tasks. Otherwise, use your personal email. You are still expected to use your WCA email for internal communications and communication with competitors about Delegating tasks, such as managing personal data.
 
 If you are reaching out to a WCA Staff member, team, or committee, it is possible for things to slip through the cracks. After 48 hours, feel free to follow up on your initial message with a response to get the attention of the recipient.
 
@@ -239,14 +237,14 @@ For more information on internal WCA communication, see [Engaging in Internal Di
 
 As a WCA Delegate, you may occasionally become aware of confidential information. Please exercise responsibility when discussing such information. The following information is considered confidential, and must not be shared outside of WCA Staff:
 
-- Delegate Reports
-- Internal WCA emails
-- Non-public personal information of competitors as described in the [WCA Privacy Statement](https://www.worldcubeassociation.org/privacy) and [Regulation 2d](https://www.worldcubeassociation.org/regulations/#2d)
+- Delegate Reports.
+- Internal WCA emails.
+- Non-public personal information of competitors as described in the [WCA Privacy Statement](https://www.worldcubeassociation.org/privacy) and [Regulation 2d](https://www.worldcubeassociation.org/regulations/#2d).
   - Exception: contact information of competitors can be shared with their explicit permission. Permission grants are one-way; if Person A gives you permission to share their contact information with Person B, only give the contact information of Person A to Person B, and do not give Person B’s personal information to anyone else.
-- Personal information of WCA Staff
-- Banned competitors list
+- Personal information of WCA Staff.
+- Banned competitors list.
 
-In addition, there is additional information which much be kept confidential even among other WCA staff members, except for specific individuals on a need-to-know basis, such as those conducting an investigation on behalf of WCA Disciplinary Committee or the WCA Ethics Committee:
+In addition, there is additional information which much be kept confidential even among other WCA staff members, except for specific individuals on a need-to-know basis, such as those conducting an investigation on behalf of the WCA Disciplinary Committee (WDC) or the WEC:
 
 - Information regarding an investigation by the WEC or the WDC, including the identity of individuals involved in the investigation or details about the investigation
 - Information regarding confidential information and partnerships with the WCA and external organizations
@@ -259,16 +257,17 @@ In general, use your best judgment about confidentiality, and err on the side of
 
 Delegates who fail to do their duties may be placed on probation. The full details of probation can be viewed in the [WCA Delegate Probationary Status Policy](https://documents.worldcubeassociation.org/documents/policies/internal/Delegate%20Probationary%20Status.pdf). Probation is an internal designation which only the Delegate on probation, Regional Delegate, Senior Delegate, Board, and relevant committees and/or teams would be aware of. A Delegate may be placed on probation for:
 
-- Late Delegate report submissions
-  - After 2 consecutive late reports, the WCA Executive Assistants Team will inform their Senior Delegate who may then put the Delegate on probation. After submitting 3 consecutive reports on time, the Delegate’s probation can be removed.
-- Late results submissions
-- Late payment of Invoices for WCA Dues or equipment orders
+- Late Delegate report submissions.
+  - After 2 consecutive late reports, the WEAT will inform their Senior Delegate, who may then put the Delegate on probation. After submitting 3 consecutive reports on time, the Delegate’s probation can be removed.
+- Late results submissions.
+- Late payment of Invoices for WCA Dues or equipment orders.
 - Quality issues. Examples of quality issues includes, but are not limited to:
-  - Demonstrated patterns of scheduling issues
-  - Repeated issues leading to results being retroactively removed
-  - Failure to handle Delegate responsibilities, such as changes to person data, in a reasonable time frame
+  - Demonstrated patterns of scheduling issues.
+  - Repeated issues leading to results being retroactively removed.
+  - Failure to handle Delegate responsibilities, such as changes to personal data, in a reasonable time frame.
+  - Failure to follow WCA policies.
 
-The WCA Financial Committee may place Delegates on probation directly for outstanding payments without prior approval. A WCA team or committee with a relevant complaint may request that a Delegate be put on probation by contacting the Senior Delegate of that Delegate. Delegates who fail to improve in a certain time period may be demoted.
+The WFC may place Delegates on probation directly for outstanding payments without prior approval. A WCA team or committee with a relevant complaint may request that a Delegate be put on probation by contacting the Senior Delegate of that Delegate. Delegates who fail to improve in a certain time period may be demoted.
 
 # Before the Competition {.page-break-before}
 
@@ -301,7 +300,7 @@ Unsurprisingly, some events are more popular than others. The most popular event
 
 Establishing regular competitions in a region also affords some flexibility to event selection. When competitions can be held regularly, they can be planned to cover the entire catalog of WCA events. A common pattern for one-day competitions is to hold 3-7 events at a competition, where 1-2 of the events are of the more popular events, and the other 2-3 events rotate between selections of the less popular events. Over the course of a year, this allows the most popular events to be held multiple times, while providing competitors the opportunity to compete in almost every event at least once.
 
-The primary exceptions to this event schedule are the "quiet events": 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind, and 3x3x3 Fewest Moves. They are more advanced events, and, with the exception of 3BLD, tend to have lower demand. It is common for these events to be bundled into "Please Be Quiet" (PBQ) or "Mental Breakdown" competitions, which hold almost exclusively these advanced events. The lower turnout can make it easier to organize competitions, as smaller venues are required.
+The primary exceptions to this event schedule are the "quiet events": 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind, and 3x3x3 Fewest Moves. They are more advanced events, and, with the exception of 3x3x3 Blindfolded, tend to have lower demand. It is common for these events to be bundled into "Please Be Quiet" (PBQ) or "Mental Breakdown" competitions, which hold almost exclusively these advanced events. The lower turnout can make it easier to organize competitions, as smaller venues are required.
 
 The following is an example competition plan for five competitions that cover all events over the course of a year. Four standard competitions and a PBQ competition is a good starting point for a healthy cubing community. Modify the frequency of particular events and number of competitions to best match the preferences and skill level of the local community.
 
@@ -325,15 +324,15 @@ The following is an example competition plan for five competitions that cover al
 | 5x5x5 BLD  |               |               |               |               | ✓   |
 | 3x3x3 MBLD |               |               |               |               | ✓   |
 
-As a Delegate, you may occasionally find yourself in the position of delegating in regions which do not have established Delegates or do not hold regular competitions. While it may seem like a good idea to choose as many events as possible in order to afford competitors the rare opportunity to compete in as many events as possible, underdeveloped communities often do not have enough skilled cubers to justify having some of the more advanced events. This can lead to slow rounds when there are not enough skilled individuals to fill important roles like scrambling. Time at WCA-recognized competitions is much more valuable to these communities than it is to well-established communities; if the region is highly underdeveloped and does not get regular access to Delegates, consider choosing to hold more rounds of the beginner-friendly events with long cutoff times and large advancement groups over less popular events. When regular competitions can be established in underdeveloped communities, it is safer to start holding less popular events, as time will not be spent catering to events that relatively few people can participate in.
+As a Delegate, you may occasionally find yourself in the position of delegating in regions which do not have established Delegates or do not hold regular competitions. While it may seem like a good idea to choose as many events as possible in order to afford competitors the rare opportunity to compete in as many events as possible, underdeveloped communities often do not have enough skilled cubers to justify having some of the more advanced events. This can lead to slow rounds when there are not enough skilled individuals to fill important roles like scrambling. Time at WCA-recognized competitions is much more valuable to these communities than it is to well-established communities; if the region is highly underdeveloped and does not get regular access to Delegates, consider holding more rounds of the beginner-friendly events with long cutoff times and large advancement groups over less popular events. When regular competitions can be established in those communities, it is safer to start holding less popular events, as time will not be spent catering to events that relatively few people can participate in.
 
 ## Organizing a Competition
 
-As a WCA Delegate, you will often have more experience organizing WCA competitions than non-Delegate organizers. While Delegates can and often do much of the work organizing competitions, especially with inexperienced organizers, this document aims to cover only the responsibilities of the Delegate themselves. For detailed information about the responsibilities involved with organizing competitions, see the [Organizer Guidelines](https://www.worldcubeassociation.org/organizer-guidelines).
+As a WCA Delegate, you will often have more experience organizing WCA competitions than non-Delegate organizers. While Delegates can and often do much of the work organizing competitions, especially with inexperienced organizers, this document aims to cover only the Delegate responsibilities. For detailed information about the responsibilities involved with organizing competitions, see the [Organizer Guidelines](https://www.worldcubeassociation.org/organizer-guidelines).
 
 ### Community Organizers and Delegate Organizers
 
-There is a spectrum of how WCA competitions are organized, with organizer-led competitions on one end and Delegate-led competitions on the other. Organizer-led competitions are when a non-Delegate member of the community does most of the work preparing for and running a competition, while a Delegate does the minimum required of them: receiving a competition proposal, confirming a competition on the WCA website, generating scrambles, showing up to the competition in-person to verify that the regulations are being upheld, and submitting results. On the other end of the spectrum are Delegate-led competitions, where the Delegate(s) handle every aspect of organizing a competition, and often the overall arc of multiple competitions in a region.
+There is a spectrum of how WCA competitions are organized, with organizer-led competitions on one end and Delegate-led competitions on the other. Organizer-led competitions are when a non-Delegate member of the community does most of the work preparing for and running a competition, while a Delegate does the minimum required of them: receiving a competition proposal, confirming a competition on the WCA website, generating scrambles, showing up to the competition in person to verify that the regulations are being upheld, and submitting results. On the other end of the spectrum are Delegate-led competitions, where the Delegate(s) handle every aspect of organizing a competition, and often the overall arc of multiple competitions in a region.
 
 In practice, fully organizer-led competitions are rare, as there are many possible points of failure that could prevent a competition from happening entirely, or happening at an unacceptably low level of quality. On the other hand, Delegate-led competitions are common in very small cubing communities with only one or two Delegates, as well as in very large and mature regions that have many Delegates under the umbrella of a Regional Organization.
 
@@ -343,15 +342,15 @@ Most competitions lie somewhere between these two extremes. Some Delegates may p
 
 When helping out an inexperienced organizer, be gracious with your assistance, as most organizers are also generous with their own free time to organize a competition to give back to their community. A Delegate has a position of authority within a cubing community, so use that position to foster a welcoming environment.
 
-WCA competitions take a lot of work to organize. Some prospective organizers may not be fully aware or capable of the amount of effort that will be required of them to successfully organize a competition. Use the time before submitting a competition to WCAT to evaluate the ability of an organizer to fulfill their responsibilities by asking them to draft budgets, draw layouts, create schedules, and populate the competition website. The ability for the organizers to complete these steps to the best of their ability is often a good indicator of their ability to organize a competition. However, be mindful of the level of experience of the organizer: an organizer who creates an unoptimized schedule can be guided towards creating a better one. An organizer who entirely neglects to create one is a bigger problem.
+WCA competitions take a lot of work to organize. Some prospective organizers may not be fully aware or capable of the amount of effort that will be required of them to successfully organize a competition. Use the time before submitting a competition to the WCAT to evaluate the ability of an organizer to fulfill their responsibilities by asking them to draft budgets, draw layouts, create schedules, and populate the competition website. The ability for the organizers to complete these steps to the best of their ability is often a good indicator of their ability to organize a competition. However, be mindful of the level of experience of the organizer: an organizer who creates an unoptimized schedule can be guided towards creating a better one. An organizer who entirely neglects to create one is a bigger problem.
 
 Other potential organizers may not have altruistic intentions. WCA competitions are not for profit, and so decline competition proposals from individuals who appear to be organizing a competition for personal gain.
 
-As a Delegate, you are not obligated to follow through on any competitions which have not yet been announced. If at any point before confirming the competition you believe that it would be best for the competition to not happen, you may rescind your acceptance to Delegate it. Do this cautiously; try to get the best indication on the likelihood of success for a competition before any contracts are signed or any money is spent. However, once a competition is announced, you are responsible for seeing it through to completion. For more information, see the section [Competition Cancelation and Rescheduling](#competition-cancelation-and-rescheduling).
+As a Delegate, you are not obligated to follow through on any competitions which have not yet been announced. If at any point before confirming the competition you believe that it would be best for the competition to not happen, you may rescind your acceptance to delegate it. Do this cautiously; try to get the best indication on the likelihood of success for a competition before any contracts are signed or any money is spent. However, once a competition is announced, you are responsible for seeing it through to completion. For more information, see the section [Competition Cancelation and Rescheduling](#competition-cancelation-and-rescheduling).
 
 ## Requesting a Competition
 
-Before appearing on the WCA website, a WCA Delegate must create a new competition on the WCA website and submit it to the WCA Competition Announcement Team (WCAT). The WCAT will review the competition details, and then either approve or reject your competition proposal. When approved, a competition will be publicly viewable on the WCA website.
+Before appearing on the WCA website, a WCA Delegate must create a new competition on the WCA website and submit it to the WCAT. The WCAT will review the competition details, and then either approve or reject your competition proposal. When approved, a competition will be publicly viewable on the WCA website.
 
 To request an official competition you first need to create a new competition by going to the "New Competition" page. This provides a form with all the necessary information to submit a competition. To speed up this process, you have the option to clone an existing competition, which will copy all of the information of an existing competition. Cloning can be done by going to the page of the desired competition and pressing the "Clone" button on the left sidebar.
 
@@ -368,14 +367,14 @@ The following are guidelines for filling out the [New Competition page](https://
 
 - The name of the competition must follow the Competition Requirements Policy. Even if you are choosing a name which is obvious for you why it complies with the policy, you must still give an explanation of the name in the "The reason for the name" field.
   - The competition nickname must be the same as the actual name of the competition if it is 32 or fewer characters with few exceptions. If the name of the competition is over 32 characters, pick a nickname which is as close as possible to the actual name. The nickname is only used for display purposes and is what will be shown on the "Competitions" page and in the "Rankings" page.
-  - The ID must be the same as the name or nickname with few exceptions.
+  - The ID must be the same as the name or nickname with few exceptions (but spaces and special characters must be removed).
 - When writing the location of the venue, please be sure to write with the correct formatting. Do not write the country name in the "City name" field. If you are from a country that includes the region/state in the "City name" field like the United States, you must write the city name first, and then the state in full.
 - The coordinates of the competition must be set correctly. Zoom in on the map pin and make sure it is pointing where the venue is, not to some nearby street.
   - There are two places where coordinates must be updated: one for the location of the competition as a whole under the "Organizer view", and another for the venue itself, under the "Manage schedule" tab and the "Edit venues information" dropdown. Usually, these locations listed here are the same, but if your competition spans multiple locations (such as a PBQ day held in a smaller venue on one day of a multi-day competition), update the location of the venue accordingly.
 - The competitor limit of the competition must be listed and must be suitable for the community. The WCAT will use past competitions in the area to determine if this competitor limit is acceptable or not.
   - Many regions have minimum competitor limits for competitions with certain events. These limits can be found in [this document](https://docs.google.com/document/d/1TacpcAhPCeILFgN1CvQIfguWnRCT7bZNrXJZusA75EU/edit?usp=sharing).
 - The relevant information must be filled out such that the automated registration requirements reflect the rules for signing up to the competition. This includes The competitor limit, registration fee, spectator fee, a refund policy, and information on whether or not you are accepting on-site registrations.
-  - The box for extra registration requirements must only be used to explain something regarding the registration requirements or be something important regarding the registration process which is not otherwise reflected. This is the place to include details for a money transfer. It is also okay to state that payment details will be sent to the competitor once they register. This can include the service through which the potential payment will take place, if Stripe is not being used. This can also include that a foreign competitor may contact the organization team to be accepted in case an alternate payment method is used.
+  - The box for extra registration requirements must only be used to explain something regarding the registration requirements or something important regarding the registration process which is not otherwise reflected. This is the place to include details for a money transfer. It is also okay to state that payment details will be sent to the competitor once they register. This can include the service through which the potential payment will take place, if Stripe is not being used. This can also include that a foreign competitor may contact the organization team to be accepted in case an alternate payment method is used.
 - If you are not from the country/state where the competition will take place, please make sure that the local Delegates are informed of the competition and are okay with you delegating it before you confirm.
 - If your competition is not on a weekend, please mention it in the "remarks" section.
 
@@ -386,7 +385,7 @@ The usage of the schedule and events tab is mandatory for every WCA Competition.
 - The "Manage Events" page is under the "Edit" section on the left sidebar. You must fill out the number of rounds for each event and the round formats, cutoffs, time limits, and advancement conditions for each round. Don’t forget to press save! This will create an "Events" tab on the competition page, which will be visible to everyone. This is used as an events overview for competitors.
 - Once the events page is set up, you can create the schedule. The "Manage Schedule" page is under the "Edit" section. There you will find all of the events and rounds which you filled out on the "Manage Events" page. When you have filled the schedule out with all the rounds in their respective allocated time slots, press save. This will create a new "Schedule" tab on the competition website. All the information in the "Events" tab will also be found there.
 
-After you have followed all the steps and double-checked that everything is correct, you scroll to the bottom of the competition form and press "Confirm" (this button is not available to Trainee Delegates). This action will create an email notification to all Delegates of the competition, your Senior Delegate, and WCAT. This email is used for WCAT to know your competition is ready to be reviewed. It may take up to 48 hours before you receive a reply. This email thread will then be the official announcement thread of the competition in case you need to make any changes. Do not add anyone to this thread unless you have a very good reason for it. You are not allowed to add the organizers to this thread, unless the organizers are other WCA staff members who have the aforementioned very good reason to be added.
+After you have followed all the steps and double-checked that everything is correct, you scroll to the bottom of the competition form and press "Confirm" (this button is not available to Trainee Delegates). This action will create an email notification to all Delegates of the competition, your Senior Delegate, and the WCAT. This email is used for the WCAT to know your competition is ready to be reviewed. It may take up to 48 hours before you receive a reply. This email thread will then be the official announcement thread of the competition in case you need to make any changes. Do not add anyone to this thread unless you have a very good reason for it. You are not allowed to add the organizers to this thread, unless the organizers are other WCA staff members who have the aforementioned very good reason to be added.
 
 ### Requesting a Fewest Moves Simultaneous Competition
 
@@ -410,26 +409,26 @@ Keep these points in mind when requesting a Fewest Moves Simultaneous Competitio
 
 ### Making Changes to an Existing Competition
 
-All requests for changes to an existing competition must be made using "Reply All" on the same email thread which was created when you confirmed the competition. The email thread will include all listed Delegates of the competition, the Senior and Regional Delegate for the competition’s region, and WCAT CC’d.
+All requests for changes to an existing competition must be made using "Reply All" on the same email thread which was created when you confirmed the competition. The email thread will include all listed Delegates of the competition, with the Senior and Regional Delegate for the competition’s region, and the WCAT in CC.
 
-To add a Delegate, reply-all to the email thread, add the new Delegate to the CC field of the email, and ask "Could we add \<Delegate Name> (\<WCA ID>) as a Delegate for this competition?" WCAT will respond to your request with an approval. To remove a Delegate, the same process applies; mention the name of the Delegate and ask for them to be removed, and the WCAT will remove the Delegate.
+To add a Delegate, reply-all to the email thread, add the new Delegate to the CC field of the email, and ask "Could we add \<Delegate Name> (\<WCA ID>) as a Delegate for this competition?" the WCAT will respond to your request with an approval. To remove a Delegate, the same process applies; mention the name of the Delegate and ask for them to be removed, and the WCAT will remove the Delegate.
 
 To request changes of listed organizers, include their name and their WCA ID if they have one. They must have an account to be listed.
 
 To change the existing events of the competition:
 
-- Addition of events: at least 5 calendar days prior to the competition, ask for adding the event as an official event of the competition. In the request, explain why you would like the event to be added. The WCAT will then review your request, and if the request is approved, they will add the event(s) to the list of official events of the competition. After that is done, you have to write an email to WCAT with all competitors in BCC, informing them of this change and offering to have the event included in their registration. Once approved, make sure to update the schedule on the competition website.
-- Removal of events: ask for the removal of the event from the list of official events of the competition. In the request, explain the reason for the removal of the event. After approval, you will have to update the competition schedule on the website. After this is done, you have to write an email to all competitors with WCAT in BCC to make them aware of the change.
+- Addition of events: at least 5 calendar days prior to the competition, ask for adding the event as an official event of the competition. In the request, explain why you would like the event to be added. The WCAT will then review your request, and if the request is approved, they will add the event(s) to the list of official events of the competition. After that is done, you have to write an email to the WCAT with all competitors in BCC, informing them of this change and offering to have the event included in their registration. Once approved, make sure to update the schedule on the competition website.
+- Removal of events: ask for the removal of the event from the list of official events of the competition. In the request, explain the reason for the removal of the event. After approval, you will have to update the competition schedule on the website. After this is done, you have to write an email to all competitors with the WCAT in BCC to make them aware of the change.
 
 Closing/extending the registration period:
 
-- If you need to close registration earlier than expected, you may do so via the button on the top of the "organizer view" section of the competition website. If you want to close registration before the competitor limit has been filled, you may do so by emailing WCAT with a request and explanation.
+- If you need to close registration earlier than expected, you may do so via the button on the top of the "organizer view" section of the competition website. If you want to close registration before the competitor limit has been filled, you may do so by emailing the WCAT with a request and explanation.
 - Extending the registration period: write an email on the competition thread and ask for an extension. The email must include the closing time in UTC and the date. You must also write the reasons for the extension. A valid reason could be that you have fewer registrations than expected.
-- Additional registration periods must be announced at least 24 hours before they are scheduled to start. The request must be written to WCAT with times and dates in UTC. A valid reason to re-open registration could be that you have fewer registrations than expected. This approach can also be used for proposing on-the-spot registration (OTS).
+- Additional registration periods must be announced at least 24 hours before they are scheduled to start. The request must be written to the WCAT with times and dates in UTC. A valid reason to re-open registration could be that you have fewer registrations than expected. This approach can also be used for proposing on-the-spot registration (OTS).
 
 Increasing the competitor limit:
 
-- Delegates can request a change to the competitor limit of a competition by providing a valid reason. Potential reasons for increasing the competitor limit are that you have a larger venue than initially expected or the competitor to guest ratio is lower than expected or that you chose a competitor limit that was too low to begin with. Do not increase the competitor limit if there’s any likelihood of it being crammed in the venue. Registrations must **never** be accepted before WCAT approves the limit increase.
+- Delegates can request a change to the competitor limit of a competition by providing a valid reason. Potential reasons for increasing the competitor limit are that you have a larger venue than initially expected or the competitor to guest ratio is lower than expected or that you chose a competitor limit that was too low to begin with. Do not increase the competitor limit if there’s any likelihood of it being crammed in the venue. Registrations must **never** be accepted before the WCAT approves the limit increase.
 
 ## Managing Registrations
 
@@ -472,7 +471,7 @@ Examples corresponding to the list above:
 
 ## Communicating with Competitors and their Families
 
-It is generally a good idea to send a couple of emails to competitors before the actual competition, in order to encourage the competitor to make the necessary updates to their registration and remind them to plan for the competition. This is a responsibility of the organizer, but as a Delegate, you must ensure that the organizers of the competition are following through with this responsibility. Remember to **always use BCC in communication to multiple competitors**, so that other competitor emails are not shared. The WCA website will automatically BCC all recipients if you email them by checking the box next to their registration on the Registration page of the competition website and then clicking the "Email" button. If there is a data breach, **you must** contact the Results Team as soon as possible, explaining the situation.
+It is generally a good idea to send a couple of emails to competitors before the actual competition, in order to encourage the competitor to make the necessary updates to their registration and remind them to plan for the competition. This is a responsibility of the organizer, but as a Delegate, you must ensure that the organizers of the competition are following through with this responsibility. Remember to **always use BCC in communication to multiple competitors**, so that other competitor emails are not shared. The WCA website will automatically BCC all recipients if you email them by checking the box next to their registration on the Registration page of the competition website and then clicking the "Email" button. If there is a data breach, **you must** contact the WRT as soon as possible, explaining the situation.
 
 See the Organizer Guidelines for more [information on emailing competitors](https://www.worldcubeassociation.org/edudoc/organizer-guidelines/emails.pdf).
 
@@ -520,16 +519,15 @@ Cancelations can only happen when there is no safe or feasible alternative. This
 
 - Extreme weather conditions/natural disasters
 - Political unrest or conflict
-- Venue facility failures (electrical, plumbing, structural), where another venue is not possible
+- Venue facility failures (electrical, plumbing, structural), where finding another venue is not possible
 - General safety concerns with competitors traveling to or attending the competition
-- Force majeure
 
-If you encounter issues such as these where canceling a competition appears necessary, do not make any major changes or statements to competitors. Instead, explain the situation to WCAT on the competition announcement thread, as they can provide guidance on which options are available to prevent competition cancelation. Here are examples of some preventative measures that can be taken:
+If you encounter issues such as these where canceling a competition appears necessary, do not make any major changes or statements to competitors. Instead, explain the situation to the WCAT on the competition announcement thread, as they can provide guidance on which options are available to prevent competition cancelation. Here are examples of some preventative measures that can be taken:
 
 - If the listed Delegate(s) can no longer attend due to an emergency, in some circumstances the WCA Board can appoint an experienced and trusted community member as a temporary Delegate if no other Delegates are available. In this case, take the following steps:
 
-1. Reply-all to the competition announcement thread and add the WCA Board.
-2. Explain why you are no longer able to attend and who you propose as a temporary Delegate.
+1. Reply-all to the competition announcement thread and add the WCA Board to CC.
+2. Explain why you are no longer able to attend and whom you propose as a temporary Delegate.
 3. The Board will vote on whether to appoint this person and respond with any concerns.
 
 - For financial concerns, such as low registration turnout, the WCAT may involve the WFC to analyze potental solutions. As a reminder, Delegates are responsible for reviewing the budget prior to announcement and to have a plan in the event of unexpectedly low income. It is strongly recommended that organizing is always done through ROs or a similar legal entity to protect individuals from liability, and to always have backup funds available. Competitions are unlikely to be canceled solely over a budget deficit. Contact the WCA Financial Committee at the soonest indication that a budget deficit poses a significant risk to a competition for assistance in resolving the situation.
@@ -620,7 +618,7 @@ The following points are an outline of a new competitor tutorial for a WCA compe
     - The first step is to evaluate whether the cube is solved
     - Do not touch the puzzle, use only your eyes
     - How to evaluate the cube for +2s:
-      - On a 3x3, explain that a single 90 degree turn (e.g. U or U’) is a +2
+      - On a 3x3x3, explain that a single 90 degree turn (e.g. U or U’) is a +2
       - Explain that a double move (e.g. U2 or R2) is also a +2, and not considered 2 separate moves
       - Explain that a slice move (e.g. M or M2) is considered 2 moves, and is thus a DNF
       - If the cube is close to the limit for a +2 penalty (45 degrees), and the judge cannot determine the final state, call over a Delegate to make the final decision
@@ -746,7 +744,7 @@ In this example, a (1, 0) / (-1, -1), and then a partial slice under 90 degrees 
 
 ## Regulation 3j: Reasonable Wear
 
-[Regulation 3j](https://www.worldcubeassociation.org/regulations/#3j) defines what is considered reasonable wear for a puzzle to be used in a competition. To increase the consistency in how reasonable wear is evaluated, the WCA Regulations Committee has created a [Regulation 3j Visual Guide](https://drive.google.com/file/d/1m6THsA8fXRN7QFM4ApJbm6eVODKGbMLx/view) to assist Delegates in making rulings regarding wear. Familiarize yourself with the examples included in the guide. Some cases of wear will not perfectly match the provided examples. Make your best judgment by extrapolating from the given examples. If there is doubt about the legality of a puzzle, it is safest to request that a competitor use a different puzzle to prevent their results from being retroactively removed.
+[Regulation 3j](https://www.worldcubeassociation.org/regulations/#3j) defines what is considered reasonable wear for a puzzle to be used in a competition. To increase the consistency in how reasonable wear is evaluated, the WRC has created a [Regulation 3j Visual Guide](https://drive.google.com/file/d/1m6THsA8fXRN7QFM4ApJbm6eVODKGbMLx/view) to assist Delegates in making rulings regarding wear. Familiarize yourself with the examples included in the guide. Some cases of wear will not perfectly match the provided examples. Make your best judgment by extrapolating from the given examples. If there is doubt about the legality of a puzzle, it is safest to request that a competitor use a different puzzle to prevent their results from being retroactively removed.
 
 If an illegal puzzle is found during a round, any completed attempts may be replaced with extras at your discretion via [Regulation 3k2a](https://www.worldcubeassociation.org/regulations/#3k2a). If the round has already been completed, such as may be the case if an illegal puzzle is discovered to have been used in Round 1 during Round 2, these attempts may not be replaced with extras.
 
@@ -939,16 +937,16 @@ Examples of accommodations include:
 
 - Colorblind competitors may use stickerless puzzles with colored stickers, bypassing [Regulation 3d](https://www.worldcubeassociation.org/regulations/#3d).
   - Note: [Regulation 3d1](https://www.worldcubeassociation.org/regulations/#3d1) provides some pre-approved accommodations for competitors with visual disabilities.
-- Blind competitors using textured puzzles during 3x3 One-Handed are allowed to use a second hand to "observe" the puzzle, provided that they do not use this second hand to operate the puzzle.
+- Blind competitors using textured puzzles during 3x3x3 One-Handed are allowed to use a second hand to "observe" the puzzle, provided that they do not use this second hand to operate the puzzle.
 - Allowing a competitor to compete in a round on a different day than it is scheduled, such as when a competitor has religious restrictions that prevent them from attending on a given day of a multi-day competition.
   - Do not grant accommodations to a competitor who is simply unable to attend on a given day because of scheduling conflicts.
 - Permitting a competitor to stay at a single solving station (i.e. stationary solving) if they have mobility problems.
 
-Competitors requiring accommodations are encouraged to contact the organization team at least two weeks before the competition. As a Delegate, you are strongly encouraged to accommodate reasonable requests, but are permitted to decline if the accommodations are not feasible. Contact WRC if you need assistance in determining whether a requested accommodation is appropriate.
+Competitors requiring accommodations are encouraged to contact the organization team at least two weeks before the competition. As a Delegate, you are strongly encouraged to accommodate reasonable requests, but are permitted to decline if the accommodations are not feasible. Contact the WRC if you need assistance in determining whether a requested accommodation is appropriate.
 
 ## Handling Behavioral Issues
 
-At a competition you may find that you are required to address the disruptive behavior of a competitor or spectator. Always be respectful but assertive about addressing poor behavior. The specifics of any situation can vary widely and there is no one-size-fits-all solution to handling them. The WCA Disciplinary Committee has created a document outlining [Guidelines for Disciplinary Incidents](https://documents.worldcubeassociation.org/edudoc/guidelines-for-disciplinary-incidents/guidelines-for-disciplinary-incidents.pdf), and as a Delegate, read through the document to familiarize yourself with the information contained.
+At a competition you may find that you are required to address the disruptive behavior of a competitor or spectator. Always be respectful but assertive about addressing poor behavior. The specifics of any situation can vary widely and there is no one-size-fits-all solution to handling them. The WDC has created a document outlining [Guidelines for Disciplinary Incidents](https://documents.worldcubeassociation.org/edudoc/guidelines-for-disciplinary-incidents/guidelines-for-disciplinary-incidents.pdf), and as a Delegate, read through the document to familiarize yourself with the information contained.
 
 ## Preparing for Subsequent Rounds
 
@@ -973,7 +971,7 @@ Running behind schedule is the most common schedule deviation at WCA competition
 
 You are allowed to change the advancement conditions of a competition according to [Regulation 9p2a](https://www.worldcubeassociation.org/regulations/#9p2a), and are allowed to change the cutoff and time limits by [Regulation A1a3](https://www.worldcubeassociation.org/regulations/#A1a3). In both cases, you must consider the fairness of such a change. When possible, announce any changes before affected rounds. While you are allowed to change these details during a round, avoid it if at all possible. [Guideline A1a3+](https://www.worldcubeassociation.org/regulations/guidelines.html#A1a3+) explains how modifications to the time limit or cutoff can disadvantage competitors because it can potentially change the strategy of a competitor.
 
-Removing rounds is permitted, but consider it a last resort tool for getting a competition back on schedule. If removing rounds must be done, prioritize removing smaller subsequent rounds in order to affect as few competitors as possible. When canceling a planned final for a short event (e.g. 2x2 or Pyraminx), attempt to provide the same scrambles to prospective podium placements by putting the fastest competitors from the previous round in the same group. You are strongly discouraged from removing the first rounds of any event, as this is effectively the same as canceling the event entirely, and providing at least one round of attempts to everyone who signed up for an event is preferable to providing 2+ rounds in another event.
+Removing rounds is permitted, but consider it a last resort tool for getting a competition back on schedule. If removing rounds must be done, prioritize removing smaller subsequent rounds in order to affect as few competitors as possible. When canceling a planned final for a short event (e.g. 2x2x2 or Pyraminx), attempt to provide the same scrambles to prospective podium placements by putting the fastest competitors from the previous round in the same group. You are strongly discouraged from removing the first rounds of any event, as this is effectively the same as canceling the event entirely, and providing at least one round of attempts to everyone who signed up for an event is preferable to providing 2+ rounds in another event.
 
 ### Running Ahead of Schedule
 
@@ -981,7 +979,7 @@ The stakes are lower when you are running ahead of schedule. Naturally, the easi
 
 If you still want to fill up some time and you have some longer events that use a cutoff, prefer increasing the cutoff time over increasing the time limit. This is because competitors don’t often sign up for events which they do not expect to meet the time limit. Combined with the fact that changing event registration is disallowed at most competitions, increasing the time limit results in neither significantly more opportunities for competitors nor takes up substantially more time. On the contrary, increasing the cutoff times often allows some competitors who are already signed up to have a better chance at getting a full mean or average, which consequently results in slightly slower rounds. Use your experience with planning competitions to estimate a cutoff time that will extend the round by the desired amount.
 
-Other more dramatic options include increasing the size of a subsequent round by increasing the number of competitors who advance. You may also add an additional round entirely. The number of advancing competitors between rounds must still follow the maximum size as stated by [Regulation 9p1](https://www.worldcubeassociation.org/regulations/#9p1). In both cases, keep in mind that some competitors may have already left the venue if they were not expecting to advance to a certain round. Unless you have a good reason to expect that the majority of the competitors who could take advantage of modified advancement conditions will still be present (e.g. a large 2nd round of a popular event like 3x3 still ahead of you in the schedule), generally avoid changing advancement conditions.
+Other more dramatic options include increasing the size of a subsequent round by increasing the number of competitors who advance. You may also add an additional round entirely. The number of advancing competitors between rounds must still follow the maximum size as stated by [Regulation 9p1](https://www.worldcubeassociation.org/regulations/#9p1). In both cases, keep in mind that some competitors may have already left the venue if they were not expecting to advance to a certain round. Unless you have a good reason to expect that the majority of the competitors who could take advantage of modified advancement conditions will still be present (e.g. a large 2nd round of a popular event like 3x3x3 still ahead of you in the schedule), generally avoid changing advancement conditions.
 
 Per point 7.4 of the WCRP announcement criteria, you may not add an event to an ongoing WCA competition, except as an unofficial event.
 
@@ -1010,11 +1008,11 @@ Also be aware of potential scoretaking errors. Scoretaking software like WCA Liv
 
 After the competition, verify that registration data is accurate. Along with the requirements listed in [Administering Registration Data](#administering-registration-data), check that:
 
-- All newcomers are real newcomers. If you are absolutely certain that someone competed before, add their WCA ID before submission. You can do this by editing their account and manually assigning a WCA ID to them. If you get an error about mismatching data, double check with the competitor that they are indeed a returner, and you will need to contact the Results Team to correct it. If there are any doubts, do not add a WCA ID and mention the issue to the Results Team when submitting.
+- All newcomers are real newcomers. If you are absolutely certain that someone competed before, add their WCA ID before submission. You can do this by editing their account and manually assigning a WCA ID to them. If you get an error about mismatching data, double check with the competitor that they are indeed a returner, and you will need to contact the WRT to correct it. If there are any doubts, do not add a WCA ID and mention the issue to the WRT when submitting.
 - All newcomers represent a region of which they hold citizenship, and not just their region of residence or heritage.
 - The data for on-the-spot registrants is accurate, as they are particularly error-prone. Pay special attention to those, otherwise crucial information such as WCA IDs and/or dates of birth may be unavailable.
 - All the data of all returners (competitors with a WCA ID) matches their data currently stored in the WCA database. If there is any difference and a correction is needed, request this change (see section on Requesting Changes to Personal Data further below) when submitting the results.
-- If the date of birth for a competitor is still missing after the competition, WRT will not accept their results. Change it to be blank on the user’s account and do not enter bogus dates such as "1900-01-01". The results must be removed before submitting, and the competitor must be contacted to get their information after which their results may be recognized.
+- If the date of birth for a competitor is still missing after the competition, the WRT will not accept their results. Change it to be blank on the user’s account and do not enter bogus dates such as "1900-01-01". The results must be removed before submitting, and the competitor must be contacted to get their information after which their results may be recognized.
 
 ### Submitting Results
 
@@ -1036,8 +1034,8 @@ To submit results for a competition, you must have access to the scrambles that 
     3. Unexpected/missing results for a round. You will need to modify the competition events on the WCA website with what happened at the competition.
     4. Unexpected/missing scrambles for a round. Double check Scrambles Matcher to ensure that all scrambles intended to be used are checked.
     5. Unexpected/missing scrambles for a group. You will need to modify the events tab with the correct number of groups that were held at the competition.
-    6. The number of persons in the competition (###) is above the competitor limit. You will need to remove the competitors above the limit or to appeal to the WCA Regulations Committee and request the limit to be changed retroactively.
-    7. Wrong country/name for person. You will need to correct the data for the person. If there is a country/name change request, please include all required information for such cases as described below to the Results Team.
+    6. The number of persons in the competition (###) is above the competitor limit. You will need to remove the competitors above the limit or to appeal to the WRC and request the limit to be changed retroactively.
+    7. Wrong country/name for person. You will need to correct the data for the person. If there is a country/name change request, please include all required information for such cases as described below to the WRT.
     8. Any regulation error must be rectified.
 12. Review the remaining warnings. Read the messages provided and evaluate whether the warning is an actual issue or not. If it is, fix the issue and upload a new JSON file.
 13. **Provide explanations for all remaining warnings**. At this point, the only remaining warnings will be ones which you have verified to be false positives, such as persons with names matching existing WCA IDs. Provide explanations for anything weird that happened such as "competitor opted not to finish average and resulted in DNS", as the WRT will likely ask about it. Additionally, here are some common items that can be listed in the message:
@@ -1045,10 +1043,10 @@ To submit results for a competition, you must have access to the scrambles that 
     2. Are dates of birth missing or are you unsure if a WCA ID is missing?
     3. Have rounds or entire events been dropped during the competition?
     4. Are there records that must be declined due to [Regulation 9i2](https://www.worldcubeassociation.org/regulations/#9i2)?
-    5. What was the main event at the competition? While this is submitted to WCAT during the competition page submission, this is prior to the competition taking place. The WRT needs to know **how** a main event was treated as such during the competition. This is not necessary if the main event was 3x3x3.
-    6. If there is anything else of importance for the Results Team, please don’t hesitate to include it; the more detailed, the better.
+    5. What was the main event at the competition? While this is submitted to the WCAT during the competition page submission, this is prior to the competition taking place. The WRT needs to know **how** a main event was treated as such during the competition. This is not necessary if the main event was 3x3x3.
+    6. If there is anything else of importance for the WRT, please don’t hesitate to include it; the more detailed, the better.
 14. Clearly outline anything irregular with the results submission, such as edits you made manually to the JSON file.
-15. Click "Submit Results" to send the results to WRT. You and all other Delegates of the competition will receive a confirmation email that the results have been submitted.
+15. Click "Submit Results" to send the results to the WRT. You and all other Delegates of the competition will receive a confirmation email that the results have been submitted.
 
 ### Requesting Changes to Competition Results
 
@@ -1069,9 +1067,9 @@ Here is an example of a proper change request corresponding to the list above:
 
 Notes:
 
-- If you fail to provide all of the information above, the Results Team will likely ask you to resend a complete change request. The WCA ID, which is the unique key to identify competitors in the WCA database, must never be missing. All results changes must be sent via "reply all" to the original results thread where you submitted the JSON of the competition.
-- If the change stems from a clerical mistake, e.g. a mistake during data entry, just emailing the Results Team in the results submission thread is enough. If, however, the change arises from WRC or WDC feedback, the relevant committee must be included in CC.
-- For significant changes, e.g. retroactive disqualification of results, Delegates are advised to inform the affected competitor(s) by email or chat before or right after sending the change request to the Results Team.
+- If you fail to provide all of the information above, the WRT will likely ask you to resend a complete change request. The WCA ID, which is the unique key to identify competitors in the WCA database, must never be missing. All results changes must be sent via "reply all" to the original results thread where you submitted the JSON of the competition.
+- If the change stems from a clerical mistake, e.g. a mistake during data entry, just emailing the WRT in the results submission thread is enough. If, however, the change arises from WRC or WDC feedback, the relevant committee must be included in CC.
+- For significant changes, e.g. retroactive disqualification of results, Delegates are advised to inform the affected competitor(s) by email or chat before or right after sending the change request to the WRT.
 
 ## Delegate Reports
 
@@ -1106,7 +1104,7 @@ Itemized lists are not required, but you may share them if you desire. At a mini
 
 Include any notable incidents from the competition. Notable incidents are usually ones that are not included in the [Common Incident table](#common-incidents). Not every extra or +2 is an incident worth mentioning in the report. Focus your time on the incidents which may be useful for other Delegates to learn from. Of course, any incidents requiring WRC or WDC feedback need to be written here.
 
-Number the incidents in this section so that an incident can be uniquely referenced if there are any questions in the email thread. Include the name of the Delegate(s) who handled an incident, as this helps WRC make a better judgment on Delegate promotions.
+Number the incidents in this section so that an incident can be uniquely referenced if there are any questions in the email thread. Include the name of the Delegate(s) who handled an incident, as this helps the WRC make a better judgment on Delegate promotions.
 
 If you provided any special accommodations provided under [Regulation 2s](https://www.worldcubeassociation.org/regulations/#2s), you must list them in this section.
 
@@ -1116,7 +1114,7 @@ The Remarks section is where you may provide any additional information or perso
 
 ### Responses to Your Report
 
-You may receive responses to your report. If you requested feedback from WRC or WDC, expect a response from them. If they do not respond after a couple of weeks, you are encouraged to bump your email chain to remind them.
+You may receive responses to your report. If you requested feedback from the WRC or the WDC, expect a response from them. If they do not respond after a couple of weeks, you are encouraged to bump your email chain to remind them.
 
 Please keep in mind that the reports mailing list goes out to hundreds of members of WCA Staff. Consider whether your email needs to include the reports mailing list as a recipient. If your email is directed at a small group of individuals, such as a thank you message to an individual or committee, please consider removing unrelated individuals and mailing lists from the email to avoid sending emails irrelevant to the vast majority of WCA Staff.
 
@@ -1124,13 +1122,13 @@ You may not receive responses to your report. This is fine, as some competitions
 
 ## Paying Competition Dues
 
-All official WCA competitions must (bar some exceptions) pay a small fee as part of the Dues System. While creating a new competition, the website provides an estimate of WCA Dues based on current exchange rates that assumes the competition reaches its competitor limit. However, if you are ever unsure about how much to expect to pay in Dues while planning a competition, you can use the actual calculation methods described in the [WCA Dues System Policy](https://documents.worldcubeassociation.org/documents/policies/external/Dues%20System.pdf) yourself or reach out to WFC for official guidance. Please remember that it is the Delegate’s responsibility to review the competition budget before announcement and ensure that Dues are being properly accounted for.
+All official WCA competitions must (bar some exceptions) pay a small fee as part of the Dues System. While creating a new competition, the website provides an estimate of WCA Dues based on current exchange rates that assumes the competition reaches its competitor limit. However, if you are ever unsure about how much to expect to pay in Dues while planning a competition, you can use the actual calculation methods described in the [WCA Dues System Policy](https://documents.worldcubeassociation.org/documents/policies/external/Dues%20System.pdf) yourself or reach out to the WFC for official guidance. Please remember that it is the Delegate’s responsibility to review the competition budget before announcement and ensure that Dues are being properly accounted for.
 
-Upon results for a competition being uploaded by the WRT, the WFC will issue an invoice within a few days. This invoice will arrive via email and will contain a link to a third party website for collecting payment. Invoices can be issued either to an individual delegate or to an organization. For many organizations that organize competitions frequently or are responsible for all competition finances in their region, WFC has set up redirects so that all of their Dues invoices are sent directly to the organization. If you are delegating in an area that has such an organization, you are probably already familiar with it; however, please reach out to WFC if you are not sure whether a redirect will apply to your competition’s Dues invoice.
+Upon results for a competition being uploaded by the WRT, the WFC will issue an invoice within a few days. This invoice will arrive via email and will contain a link to a third party website for collecting payment. Invoices can be issued either to an individual Delegate or to an organization. For many organizations that organize competitions frequently or are responsible for all competition finances in their region, the WFC has set up redirects so that all of their Dues invoices are sent directly to the organization. If you are delegating in an area that has such an organization, you are probably already familiar with it; however, please reach out to the WFC if you are not sure whether a redirect will apply to your competition’s Dues invoice.
 
-If the invoice is being issued to a Delegate and not redirected to an organization, **only the alphabetically first listed Delegate will receive the invoice**. If you are the delegate who receives the invoice, it is your duty to inform other Delegates for the competition about the Dues amount, and also to communicate with the WFC regarding this invoice if needed. You may also send the invoice itself to the organization team, another Delegate, an association treasurer, etc. if they will be the one actually completing the payment. If forwarding to someone else to pay, it is highly recommended to request confirmation from them once the payment has been made. There is a payment period of 30 days; invoices must be paid within this timeframe, otherwise there may be repercussions. The delegates of the competition, specifically the one who receives the invoice, are responsible for ensuring payment is made in time even if the actual payment is being done by someone else.
+If the invoice is being issued to a Delegate and not redirected to an organization, **only the alphabetically first listed Delegate will receive the invoice**. If you are the Delegate who receives the invoice, it is your duty to inform other Delegates for the competition about the Dues amount, and also to communicate with the WFC regarding this invoice if needed. You may also send the invoice itself to the organization team, another Delegate, an association treasurer, etc. if they will be the one actually completing the payment. If forwarding to someone else to pay, it is highly recommended to request confirmation from them once the payment has been made. There is a payment period of 30 days; invoices must be paid within this timeframe, otherwise there may be repercussions. The Delegates of the competition, specifically the one who receives the invoice, are responsible for ensuring payment is made in time even if the actual payment is being done by someone else.
 
-If you ever need an invoice to actually be written out in the name of someone else (not just forwarded to that person for payment), WFC can manually amend who the invoice is issued to after you receive it. In order to do so, please forward the invoice back to WFC and list the name of the person or organization as it should be shown on the invoice along with their email and any other info that must be included on the invoice. Once the invoice has been amended, it will be emailed to the new contact.
+If you ever need an invoice to actually be written out in the name of someone else (not just forwarded to that person for payment), the WFC can manually amend who the invoice is issued to after you receive it. In order to do so, please forward the invoice back to the WFC and list the name of the person or organization as it should be shown on the invoice along with their email and any other info that must be included on the invoice. Once the invoice has been amended, it will be emailed to the new contact.
 
 If you ever have any doubts, questions, etc., feel free to send an email to [finance@worldcubeassociation.org](mailto:finance@worldcubeassociation.org), and they will get back to you as soon as possible.
 
@@ -1175,7 +1173,7 @@ The account page may look like this:
 ![](images/account-page.jpg){.centered width=60%}
 :::::
 
-Personal information can be edited by Delegates and organizers for an account without a WCA ID, but for accounts with a linked ID, only the WCA Results Team can make such changes (see the Requesting Changes to Personal Data section, below). Delegates can remove the linked WCA ID from one account (with some exceptions, which WRT must handle) and assign it to another account. In order for a WCA ID to be linked to an account the personal data fields in both must match.
+Personal information can be edited by Delegates and organizers for an account without a WCA ID, but for accounts with a linked ID, only the WRT can make such changes (see the Requesting Changes to Personal Data section, below). Delegates can remove the linked WCA ID from one account (with some exceptions, which the WRT must handle) and assign it to another account. In order for a WCA ID to be linked to an account the personal data fields in both must match.
 
 ### Handling WCA ID Claims
 
@@ -1185,7 +1183,7 @@ If you receive an email and do not believe you are best suited to handle such a 
 
 ### Requesting Changes to Personal Data
 
-There are several cases for change requests concerning personal data (which involves name, gender, date of birth, and citizenship of a competitor). The Results Team has different requirements depending on different circumstances.
+There are several cases for change requests concerning personal data (which involves name, gender, date of birth, and citizenship of a competitor). The WRT has different requirements depending on different circumstances.
 
 There are 2 types of data changes:
 
@@ -1204,12 +1202,12 @@ This form of data change is commonly applied for:
 - Changes of citizenship
 - Major name changes of a non-sensitive nature (e.g. last name changes due to marriage)
 
-Changes in a competitor’s information can be requested directly by the competitor or through the WCA Delegate. If the competitor contacts the Results Team directly, a legal document of identification must be provided. If the Delegate is making the request, they must verify the competitor is the correct person and that the information provided is correct (e.g. dates of birth or last names) or at least sensible (e.g. first name or gender changes). Moreover:
+Changes in a competitor’s information can be requested directly by the competitor or through the WCA Delegate. If the competitor contacts the WRT directly, a legal document of identification must be provided. If the Delegate is making the request, they must verify the competitor is the correct person and that the information provided is correct (e.g. dates of birth or last names) or at least sensible (e.g. first name or gender changes). Moreover:
 
 - Date of birth fixes can be requested by the competitor through the [Birthday Change Request Form](https://www.worldcubeassociation.org/contact/dob).
 - Name changes: be sure to request the correct type (fix or update) as described above.
-- Changes in gender: the Results Team is more lenient with these and only requires proof of identity. Note: As gender changes are mostly sensitive, the Results Team executes such changes (that are technically updates) as fixes.
-- Send all changes to the Results Team with the WCA ID, old data, and new data.
+- Changes in gender: the WRT is more lenient with these and only requires proof of identity. Note: As gender changes are mostly sensitive, the WRT executes such changes (that are technically updates) as fixes.
+- Send all changes to the WRT with the WCA ID, old data, and new data.
 
 Change requests for a person’s region of representation are particularly delicate, as they affect rankings and possibly records. Therefore, such requests must include the following:
 
@@ -1240,23 +1238,23 @@ You may place an order using the [WCA Gear Order Form](https://docs.google.com/f
 
 ### WCA Equipment Funding
 
-At least once a year, the WCA Financial Committee performs a round of equipment funding in order to provide equipment to regions which may not be able to easily afford the equipment they need. A few weeks before applications open, WFC will notify all Delegates via email of the timeframe in which applications will be accepted (usually for one entire month). Your application must justify why the WCA should purchase the equipment for you, including: listing all the equipment you currently have access to, explaining why it would be difficult to purchase equipment on your own, and demonstrating how having this equipment would allow for growth in your community.
+At least once a year, the WCA Financial Committee performs a round of equipment funding in order to provide equipment to regions which may not be able to easily afford the equipment they need. A few weeks before applications open, the WFC will notify all Delegates via email of the timeframe in which applications will be accepted (usually for one entire month). Your application must justify why the WCA should purchase the equipment for you, including: listing all the equipment you currently have access to, explaining why it would be difficult to purchase equipment on your own, and demonstrating how having this equipment would allow for growth in your community.
 
-Within 4 weeks of the end of the application period, WFC will notify applicants how much, if any, of their funding request has been approved. If you are approved for equipment funding, WFC will immediately work with you to coordinate ordering and shipping it to you. Depending on your financial situation, you may have 100% of costs covered or you may have to pay for non-equipment costs such as shipping or import taxes. WFC will clearly state this when explaining their decision on your application so you can be aware of what your expected contribution will be.
+Within 4 weeks of the end of the application period, the WFC will notify applicants how much, if any, of their funding request has been approved. If you are approved for equipment funding, the WFC will immediately work with you to coordinate ordering and shipping it to you. Depending on your financial situation, you may have 100% of costs covered or you may have to pay for non-equipment costs such as shipping or import taxes. The WFC will clearly state this when explaining their decision on your application so you can be aware of what your expected contribution will be.
 
-Any equipment received via WCA Equipment Funding is officially owned by the WCA and held by the recipient as the official custodian of the equipment. If you are a custodian, you are responsible for taking good care of the equipment and letting WFC know if anything happens to it so appropriate records of WCA property can be kept.
+Any equipment received via WCA Equipment Funding is officially owned by the WCA and held by the recipient as the official custodian of the equipment. If you are a custodian, you are responsible for taking good care of the equipment and letting the WFC know if anything happens to it so appropriate records of WCA property can be kept.
 
-For more information on the WCA Equipment Funding program, please review the [official policy](https://documents.worldcubeassociation.org/documents/policies/external/Equipment%20Funding.pdf) or reach out to WFC directly at [finance@worldcubeassociation.org](mailto:finance@worldcubeassociation.org).
+For more information on the WCA Equipment Funding program, please review the [official policy](https://documents.worldcubeassociation.org/documents/policies/external/Equipment%20Funding.pdf) or reach out to the WFC directly at [finance@worldcubeassociation.org](mailto:finance@worldcubeassociation.org).
 
 ### WCA Travel Funding
 
 Depending on your geographic situation as a Delegate, you may receive requests to Delegate in regions that do not yet have their own Delegate. Often these regions are less wealthy and may struggle to provide funds for your travel via registration fees alone, so the WCA offers the Travel Funding program to support bringing competitions to these new areas.
 
-If you want to take advantage of WCA Travel Funding, you must submit [an application](https://docs.google.com/forms/d/e/1FAIpQLSex2yNko7m6SL12zuMXD6WtowUNzxsNZYXYjx5yvYKYDOPbhQ/viewform) at least 60 days before the competition date while the competition is still unannounced. If the competition is less than 60 days away or already announced, the application will not be funded. The application must have the official support of a Senior Delegate or Board member as a sponsor and explain how much funding is needed and why the region where the competition will be held cannot provide those funds themselves. WFC will discuss your application and return a decision to you as quickly as possible so you can move forward with the competition planning process. If your application is approved, WFC will then work with you to make the necessary purchases (plane tickets, lodging reservations).
+If you want to take advantage of WCA Travel Funding, you must submit [an application](https://docs.google.com/forms/d/e/1FAIpQLSex2yNko7m6SL12zuMXD6WtowUNzxsNZYXYjx5yvYKYDOPbhQ/viewform) at least 60 days before the competition date while the competition is still unannounced. If the competition is less than 60 days away or already announced, the application will not be funded. The application must have the official support of a Senior Delegate or Board member as a sponsor and explain how much funding is needed and why the region where the competition will be held cannot provide those funds themselves. The WFC will discuss your application and return a decision to you as quickly as possible so you can move forward with the competition planning process. If your application is approved, the WFC will then work with you to make the necessary purchases (plane tickets, lodging reservations).
 
 If you are able to take advantage of WCA Travel Funding and bring competitions to a new region, please keep an eye out for potential Trainee Delegates (or provide support in training existing ones if there are any). Once a new region gets its own Junior Delegate, then Travel Funding is no longer needed for future competitions there and other new regions around the world can be the beneficiaries of this program instead. Please note that WCA Travel Funding only applies in cases where the Delegate’s travel is strictly necessary to ensure the competition happens at all. It cannot currently be used to send experienced Delegates to continue the training of Junior Delegates or for Senior/Regional Delegates to visit other areas of their region for supervision.
 
-For more information on the WCA Travel Funding program, please review the [official policy](https://documents.worldcubeassociation.org/documents/policies/external/Travel%20Reimbursement.pdf) or reach out to WFC directly at [finance@worldcubeassociation.org](mailto:finance@worldcubeassociation.org).
+For more information on the WCA Travel Funding program, please review the [official policy](https://documents.worldcubeassociation.org/documents/policies/external/Travel%20Reimbursement.pdf) or reach out to the WFC directly at [finance@worldcubeassociation.org](mailto:finance@worldcubeassociation.org).
 
 ## Engaging in Internal Discussions
 
@@ -1282,7 +1280,7 @@ Since there are a lot of Delegate reports sent out, you may find it helpful to s
 
 ### Disputes and Appeals
 
-Some decisions made by WCA Staff may be controversial. Any individual affected by a decision (e.g. the Delegate of a competition where an incident occurred, or the competitor whose results are disputed) may file a dispute in accordance with the [Disputes Motion](https://documents.worldcubeassociation.org/documents/motions/16.2021.1%20-%20Disputes.pdf). The committee responsible for reviewing the dispute will provide a decision within 60 days. As a Delegate, you are responsible for ensuring that the decision of the team or committee handling the dispute is carried out immediately. Usually, this requires you to send an email to the WCA Results Team with the requested result changes.
+Some decisions made by WCA Staff may be controversial. Any individual affected by a decision (e.g. the Delegate of a competition where an incident occurred, or the competitor whose results are disputed) may file a dispute in accordance with the [Disputes Motion](https://documents.worldcubeassociation.org/documents/motions/16.2021.1%20-%20Disputes.pdf). The committee responsible for reviewing the dispute will provide a decision within 60 days. As a Delegate, you are responsible for ensuring that the decision of the team or committee handling the dispute is carried out immediately. Usually, this requires you to send an email to the WRT with the requested result changes.
 
 Further disagreements with the result of a dispute may be escalated to an appeal. Even if an appeal was filed, you must still carry out the original decision of the dispute until the result of the appeal is provided.
 
