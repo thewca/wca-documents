@@ -441,7 +441,7 @@ Managing registrations is a responsibility of the organizer. However, as a Deleg
 - Refunds are being handled, especially if your competition allows registrants to delete their own registration.
 - Newcomers have their names capitalized and formatted correctly.
 - All registration requirements and deadlines you have set are being followed.
-- No registered competitors are on the [Banned Competitors list](https://www.worldcubeassociation.org/disciplinary). If a competitor who is banned registers for a competition, contact WDC immediately.
+- No registered competitors are on the [Banned Competitors list](https://www.worldcubeassociation.org/panel/delegate#banned-competitors). If a competitor who is banned registers for a competition, contact WDC immediately.
 
 Keep an eye out for registrations that seem to have mistakes. It is common for a new competitor to mistakenly register for the inverse of their intended events, such as every event except 3x3x3. Contact the competitor to verify their event selection before the competition. You are also permitted to edit their registration for them to fix presumed mistakes, but be careful to not unregister the competitor for events that they do intend to participate in. If such a mistake is not caught, you may allow the competitor to compete in events they did not register for under [Regulation A7g](https://www.worldcubeassociation.org/regulations/#A7g).
 
