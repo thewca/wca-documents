@@ -346,7 +346,7 @@ WCA competitions take a lot of work to organize. Some prospective organizers may
 
 Other potential organizers may not have altruistic intentions. WCA competitions are not for profit, and so decline competition proposals from individuals who appear to be organizing a competition for personal gain.
 
-As a Delegate, you are not obligated to follow through on any competitions which have not yet been announced. If at any point before confirming the competition you believe that it would be best for the competition to not happen, you may rescind your acceptance to delegate it. Do this cautiously; try to get the best indication on the likelihood of success for a competition before any contracts are signed or any money is spent. However, once a competition is announced, you are responsible for seeing it through to completion. For more information, see the section [Competition Cancelation and Rescheduling](#competition-cancelation-and-rescheduling).
+As a Delegate, you are not obligated to follow through on any competitions which have not yet been announced. If at any point before confirming the competition you believe that it would be best for the competition to not happen, you may rescind your acceptance to delegate it. Do this cautiously; try to get the best indication on the likelihood of success for a competition before any contracts are signed or any money is spent. However, once a competition is announced, you are responsible for seeing it through to completion. For more information, see the section [Competition Cancellation and Rescheduling](#competition-cancellation-and-rescheduling).
 
 ## Requesting a Competition
 
@@ -385,7 +385,7 @@ The usage of the schedule and events tab is mandatory for every WCA Competition.
 - The "Manage Events" page is under the "Edit" section on the left sidebar. You must fill out the number of rounds for each event and the round formats, cutoffs, time limits, and advancement conditions for each round. Don’t forget to press save! This will create an "Events" tab on the competition page, which will be visible to everyone. This is used as an events overview for competitors.
 - Once the events page is set up, you can create the schedule. The "Manage Schedule" page is under the "Edit" section. There you will find all of the events and rounds which you filled out on the "Manage Events" page. When you have filled the schedule out with all the rounds in their respective allocated time slots, press save. This will create a new "Schedule" tab on the competition website. All the information in the "Events" tab will also be found there.
 
-After you have followed all the steps and double-checked that everything is correct, you scroll to the bottom of the competition form and press "Confirm" (this button is not available to Trainee Delegates). This action will create an email notification to all Delegates of the competition, your Senior Delegate, and the WCAT. This email is used for the WCAT to know your competition is ready to be reviewed. It may take up to 48 hours before you receive a reply. This email thread will then be the official announcement thread of the competition in case you need to make any changes. Do not add anyone to this thread unless you have a very good reason for it. You are not allowed to add the organizers to this thread, unless the organizers are other WCA staff members who have the aforementioned very good reason to be added.
+After you have followed all the steps and double-checked that everything is correct, you scroll to the bottom of the competition form and press "Confirm" (this button is not available to Trainee Delegates). This action will create an email notification to all Delegates of the competition, your Senior Delegate, and the WCAT. This email is used to notify the WCAT that your competition is ready to be reviewed. It may take up to 48 hours before you receive a reply. This email thread will then be the official announcement thread of the competition in case you need to make any changes. Do not add anyone to this thread unless you have a very good reason for it. You are not allowed to add the organizers to this thread, unless the organizers are other WCA staff members who have a good reason to be added.
 
 ### Requesting a Fewest Moves Simultaneous Competition
 
@@ -400,22 +400,22 @@ Keep these points in mind when requesting a Fewest Moves Simultaneous Competitio
 - The address must be listed as "Multiple locations".
 - The locations of every venue **must** be individually set under the "Manage schedule" tab. Dummy locations are not allowed in this section.
 - Include "Fewest Moves" or "FMC" in the name of the competition to further stress that it is a Fewest Moves Simultaneous Competition.
-- There must be a place on the competition website (on the WCA website that could be a tab) where it is clearly stated all of the addresses for the different locations and who will be the official Delegate of that venue. Include additional location-specific information on that tab, such as a specific entry fee or competitor limit for that location. It must be written in the extra registration requirements if there are different competitor limits for the different locations.
+- There must be a place on the competition website (on the WCA website that could be a tab) that clearly displays all of the addresses for the different locations and who will be the official Delegate of that venue. Include additional location-specific information on that tab, such as a specific entry fee or competitor limit for a given location. It must be written in the extra registration requirements if there are different competitor limits for the different locations.
 - All Delegates of the different locations must be listed as official Delegates of the competition.
 - The latest deadline to add a new location is 28 days before the competition.
 - An address can be listed as "To be decided" until 14 days before the start of the competition.
-- There must not be a competitor limit for the entire competition. However, each individual location can its own competitor limit.
-- If there are different time zones for the different locations, include in the schedule at which times the competition will begin in the different locations. The time zones must be adjusted so that all competitors will be doing their attempts simultaneously.
+- There must not be a competitor limit for the entire competition. However, each individual location can have its own competitor limit.
+- If there are different time zones for the different locations, include in the schedule at what local time the competition will begin in each location. The time zones must be adjusted so that all competitors will be doing their attempts simultaneously.
 
 ### Making Changes to an Existing Competition
 
 All requests for changes to an existing competition must be made using "Reply All" on the same email thread which was created when you confirmed the competition. The email thread will include all listed Delegates of the competition, with the Senior and Regional Delegate for the competition’s region, and the WCAT in CC.
 
-To add a Delegate, reply-all to the email thread, add the new Delegate to the CC field of the email, and ask "Could we add \<Delegate Name> (\<WCA ID>) as a Delegate for this competition?" the WCAT will respond to your request with an approval. To remove a Delegate, the same process applies; mention the name of the Delegate and ask for them to be removed, and the WCAT will remove the Delegate.
+To add a Delegate, reply-all to the email thread, add the new Delegate to the CC field of the email, and ask "Could we add \<Delegate Name> (\<WCA ID>) as a Delegate for this competition?", then wait for WCAT approval. To remove a Delegate, the same process applies; mention the name of the Delegate and ask for them to be removed, and the WCAT will remove the Delegate.
 
-To request changes of listed organizers, include their name and their WCA ID if they have one. They must have an account to be listed.
+To request a change to the list of organizers, include their name(s) and their WCA ID(s). Organizers must have an account to be listed.
 
-To change the existing events of the competition:
+Changing the list of events:
 
 - Addition of events: at least 5 calendar days prior to the competition, ask for adding the event as an official event of the competition. In the request, explain why you would like the event to be added. The WCAT will then review your request, and if the request is approved, they will add the event(s) to the list of official events of the competition. After that is done, you have to write an email to the WCAT with all competitors in BCC, informing them of this change and offering to have the event included in their registration. Once approved, make sure to update the schedule on the competition website.
 - Removal of events: ask for the removal of the event from the list of official events of the competition. In the request, explain the reason for the removal of the event. After approval, you will have to update the competition schedule on the website. After this is done, you have to write an email to all competitors with the WCAT in BCC to make them aware of the change.
@@ -435,12 +435,12 @@ Increasing the competitor limit:
 Managing registrations is a responsibility of the organizer. However, as a Delegate, you must ensure that the organizers of the competition are following through with this responsibility. Regularly confirm that:
 
 - New registrations are being approved.
-- Only competitors who have paid for registration are being accepted, excluding those exempt from registration fees according to [point 1.3 of the Code of Ethics](https://documents.worldcubeassociation.org/documents/Code%20of%20Ethics.pdf).
+- Only competitors who have paid for registration are being accepted, excluding those exempt from registration fees according to point 1.3 of the [Code of Ethics](https://documents.worldcubeassociation.org/documents/Code%20of%20Ethics.pdf).
 - Organizers are accepting registrations in the order of registration, and not showing favoritism or exclusionary practices based on any factor.
 - Refunds are being handled, especially if your competition allows registrants to delete their own registration.
 - Newcomers have their names capitalized and formatted correctly.
 - All registration requirements and deadlines you have set are being followed.
-- No registered competitors are on the [Banned Competitors list](https://www.worldcubeassociation.org/panel/delegate#banned-competitors). If a competitor who is banned registers for a competition, contact WDC immediately.
+- No registered competitors are on the [Banned Competitors list](https://www.worldcubeassociation.org/panel/delegate#banned-competitors). If a competitor who is banned registers for a competition, contact the WDC immediately.
 
 Keep an eye out for registrations that seem to have mistakes. It is common for a new competitor to mistakenly register for the inverse of their intended events, such as every event except 3x3x3. Contact the competitor to verify their event selection before the competition. You are also permitted to edit their registration for them to fix presumed mistakes, but be careful to not unregister the competitor for events that they do intend to participate in. If such a mistake is not caught, you may allow the competitor to compete in events they did not register for under [Regulation A7g](https://www.worldcubeassociation.org/regulations/#A7g).
 
@@ -451,12 +451,12 @@ Special care must be taken when handling registration data. As problems with reg
 Below are the most common issues with registration data:
 
 - Make sure that all names are correctly capitalized and complete (see below).
-- Make sure that all people have registered with reasonable dates of birth (e.g. not 1900-01-01 or sometime in the current year).
+- Make sure that all people have registered with reasonable dates of birth (e.g. not 1900-01-01 or some time in the current year).
 
 On abbreviations in competitor names:
 
 - Competitor names are required to contain a full last name (as noted on a person’s legal document) and reasonable first name or nickname they can be called by.
-- The name of the competitor must be roman-readable. Competitors are allowed to have the locally written name if they wish. The localized version must be surrounded by parentheses and added after the roman-readable name. Example: Baiqiang Dong (董百强)
+- The name of the competitor must be roman-readable. Competitors are allowed to have the locally written name if they wish. The localized version must be surrounded by parentheses and added after the roman-readable name. Example: Hanako Yamada (山田映奈子).
 - Double letter abbreviations such as "AJ", "TJ", etc. are permitted as a first or middle name if a competitor wishes to be called accordingly.
 - Single letter abbreviations ("A.", "B.", etc.) for first and last names are not permitted unless this is how the name is displayed on an ID document.
 - First name single letter abbreviations are **only** permitted when a reasonable nickname or middle name is also provided. Example: A. Bob Smith.
@@ -466,14 +466,14 @@ On abbreviations in competitor names:
 
 Examples corresponding to the list above:
 
-- Permitted: "Luis J. Iáñez", "Luis Javier Iáñez", "Javier Iáñez", "LJ Iáñez", "L. Javier Iáñez"
-- Not permitted: "L. J. Iáñez", "Luis Javier I.", "L. J. I."
+- Permitted: "John J. Doe", "John James Doe", "James Doe", "JJ Doe", "J. James Doe"
+- Not permitted: "J. J. Doe", "John James D.", "J. J. D."
 
 ## Communicating with Competitors and their Families
 
-It is generally a good idea to send a couple of emails to competitors before the actual competition, in order to encourage the competitor to make the necessary updates to their registration and remind them to plan for the competition. This is a responsibility of the organizer, but as a Delegate, you must ensure that the organizers of the competition are following through with this responsibility. Remember to **always use BCC in communication to multiple competitors**, so that other competitor emails are not shared. The WCA website will automatically BCC all recipients if you email them by checking the box next to their registration on the Registration page of the competition website and then clicking the "Email" button. If there is a data breach, **you must** contact the WRT as soon as possible, explaining the situation.
+It is generally a good idea to send a couple of emails to competitors before the competition, in order to encourage the competitor to make the necessary updates to their registration and remind them to plan for the competition. This is a responsibility of the organizer, but as a Delegate, you must ensure that the organizers of the competition are following through with this responsibility. Remember to **always use BCC in communication to multiple competitors**, so that other competitor emails are not shared. The WCA website will automatically BCC all recipients if you email them by checking the box next to their registration on the Registration page of the competition website and then clicking the "Email" button. If there is a data breach, **you must** contact the WRT as soon as possible, explaining the situation.
 
-See the Organizer Guidelines for more [information on emailing competitors](https://www.worldcubeassociation.org/edudoc/organizer-guidelines/emails.pdf).
+See the Organizer Guidelines for more [information on emailing competitors](https://documents.worldcubeassociation.org/edudoc/organizer-guidelines/emails.pdf).
 
 ## Generating Scrambles
 
@@ -483,18 +483,18 @@ To generate scrambles:
 2. **Adjust the number of scramble sets on the competition website**. This can be found at `https://www.worldcubeassociation.org/competitions/<competition-id>/events/edit`.
    1. Typically, it is a good idea to create an extra scramble set for each round for each event in case it is needed on the day of the competition. It is a little more work to adjust it here and then remove them when preparing results, but it is easier to have extra scramble sets readily available in case a major incident occurs rather than having to generate new scramble sets on the fly.
 3. **Open TNoodle**, which launches a page in your web browser, and log in by authorizing it to use your WCA account and select the competition on the left.
-4. **Generate Scrambles**. Verify the number of scramble sets is correct and provide a password that will be used to protect the .zip file that is created. Click the "Generate Scrambles" button. The scramble generation process may take some time. When finished, the button will be named "Download Scrambles". Click it to download the .zip file to a location on your computer. **Do not lose this file** as you will need it when matching the scrambles to the results after the competition. 2. It is a smart idea to back this up to a secondary storage device or an online cloud service in case of hardware failure.
-5. **Get Files.** Using the password from the previous step, unarchive the .zip file. This file will contain files related to scramble generation and result submission:
+4. **Generate Scrambles**. Verify the number of scramble sets is correct and provide a secure password that will be used to protect the `.zip` file that is created. Click the "Generate Scrambles" button. The scramble generation process may take some time. When finished, the button will be named "Download Scrambles". Click it to download the `.zip` file to a location on your computer. **Do not lose this file** as you will need it when matching the scrambles to the results after the competition. It is a smart idea to back this up to a secondary storage device or an online cloud service for the case of hardware failure.
+5. **Get Files.** Using the password from the previous step, unarchive the `.zip` file. This file will contain files related to scramble generation and result submission:
    1. `Interchange`, which is used when compiling results after the competition. This file contains the full scramble information for the competition in various formats.
-   2. `pdfs`, which contains the scrambles for the competition in a **password-protected** PDF file. These are the same files that are contained in the Computer Display .zip file (see below).
+   2. `pdfs`, which contains the scrambles for the competition in a **password-protected** PDF file. These are the same files that are contained in the Computer Display `.zip` file (see below).
    3. `Printing`, which contains the scrambles for the competition in **unprotected** PDF files and is designed for use when printing the scrambles onto paper.
       1. As this folder contains all scrambles for the competition in an unprotected format, be very careful when handling this file. **This file must be inaccessible to scramblers using scramble display devices.**
-      2. Printing scrambles is highly discouraged under normal circumstances, due to the increased risk of a breach in scramble security. If you must print scrambles, make sure that they are always kept secure and only accessible to Delegates at all times.
-   4. `<competition-name> - Computer Display PDF Passcodes - SECRET`, which contains the passcodes to open the scramble set PDFs for each round. Only share this file with Delegates of the competition.
+      2. Printing scrambles is highly discouraged under normal circumstances, due to the increased risk of a breach in scramble secrecy. If you must print scrambles, make sure that they are always kept secure and only accessible to Delegates at all times.
+   4. `<competition-name> - Computer Display PDF Passcodes - SECRET`, which contains the passcodes to open the scramble set PDFs for each round. Only share this file with the Delegates of the competition.
       1. (optional) Input the contents of this into https://simonkellly.github.io/scramble-organizer/. You can then create a list in your note taking app of choice such as Google Keep and the passwords will be in order according to the competition schedule.
    5. `<competition-name> - Computer Display PDFs.zip`, which is an archive of the corresponding **password-protected** PDFs. Share this with the other Delegates who will display them on laptops or other scramble display devices for scrambling during the competition. **These must be the only accessible scramble-related files on any device that is used for displaying scrambles**.
 
-When delegating a competition, you only need the Computer Display PDFs and their associated passcodes. To prevent accidental leaks of scramble information, do not bring any other files to the competition.
+When delegating a competition, you only need the Computer Display PDFs and their associated passcodes. To prevent accidental leaks of scramble information, do not bring any of the other files to the competition.
 
 ## Generating Groups
 
@@ -509,20 +509,20 @@ Generation of groups is an organizer responsibility, but as a Delegate it is you
 - Skewb
 - Square-1
 
-For non-first rounds, it is a good practice to put all of the similarly skilled competitors in one group to ensure that they receive the same scrambles. Use the previous round’s results to determine which groups to place competitors.
+For non-first rounds, it is a good practice to put all of the similarly skilled competitors in one group to ensure that they receive the same scrambles. Use the previous round’s results to determine which groups to place competitors in.
 
-## Competition Cancelation and Rescheduling
+## Competition Cancellation and Rescheduling
 
 Once a competition is announced, it is the expectation and responsibility of the Delegates to commit to seeing the competition through on the original date announced. Competitors and their families will have made arrangements and financial commitments to attend on that day, and it is in everyone’s best interest to honor those commitments.
 
-Cancelations can only happen when there is no safe or feasible alternative. This is only an option in extenuating circumstances such as:
+Cancellations can only happen when there is no safe or feasible alternative. This is only an option in extenuating circumstances such as:
 
 - Extreme weather conditions/natural disasters
 - Political unrest or conflict
 - Venue facility failures (electrical, plumbing, structural), where finding another venue is not possible
 - General safety concerns with competitors traveling to or attending the competition
 
-If you encounter issues such as these where canceling a competition appears necessary, do not make any major changes or statements to competitors. Instead, explain the situation to the WCAT on the competition announcement thread, as they can provide guidance on which options are available to prevent competition cancelation. Here are examples of some preventative measures that can be taken:
+If you encounter issues such as these where canceling a competition appears necessary, do not make any major changes or statements to competitors. Instead, explain the situation to the WCAT on the competition announcement thread, as they can provide guidance on which options are available to prevent competition cancellation. Here are examples of some preventative measures that can be taken:
 
 - If the listed Delegate(s) can no longer attend due to an emergency, in some circumstances the WCA Board can appoint an experienced and trusted community member as a temporary Delegate if no other Delegates are available. In this case, take the following steps:
 
@@ -530,9 +530,9 @@ If you encounter issues such as these where canceling a competition appears nece
 2. Explain why you are no longer able to attend and whom you propose as a temporary Delegate.
 3. The Board will vote on whether to appoint this person and respond with any concerns.
 
-- For financial concerns, such as low registration turnout, the WCAT may involve the WFC to analyze potental solutions. As a reminder, Delegates are responsible for reviewing the budget prior to announcement and to have a plan in the event of unexpectedly low income. It is strongly recommended that organizing is always done through ROs or a similar legal entity to protect individuals from liability, and to always have backup funds available. Competitions are unlikely to be canceled solely over a budget deficit. Contact the WCA Financial Committee at the soonest indication that a budget deficit poses a significant risk to a competition for assistance in resolving the situation.
+- For financial concerns, such as low registration turnout, the WCAT may involve the WFC to analyze potental solutions. As a reminder, Delegates are responsible for reviewing the budget prior to announcement and to have a plan in the event of unexpectedly low income. It is strongly recommended that organizing is always done through ROs or a similar legal entity to protect individuals from liability, and to always have backup funds available. Competitions are unlikely to be cancelled solely over a budget deficit. Contact the WCA Financial Committee at the soonest indication that a budget deficit poses a significant risk to a competition for assistance in resolving the situation.
 
-# Day of the Competition {.page-break-before}
+# Day of the Competition
 
 It’s the big day, and you are a Delegate at a competition. Your presence allows the competition to be WCA-recognized, and your responsibilities are making sure that it follows the standards put forth by the WCA.
 
