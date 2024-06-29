@@ -10,9 +10,9 @@ This is the main equipment and tools required to proceed with a speedsolving att
 
 **Stackmat timer**: This is the official device for measuring times at a WCA competition. The image below is the latest version of the timer (Gen 5), but the Gen 3 and Gen 4 versions of the timer are also accepted for use at competitions.
 
-![](images/timer.png){.centered}
+![](images/timer.png){.centered width=65%}
 
-**Stopwatch**: This is used for measuring the inspection time. Stopwatches are also used to measure time for attempts over 10 minutes. **Note: Not to be confused with a Stackmat timer.**
+**Stopwatch**: This is used for measuring the inspection time. Stopwatches are also used to measure time for attempts over 10 minutes. **Note: not to be confused with a Stackmat timer.**
 
 ## Judging Procedure
 
@@ -27,19 +27,19 @@ This is the main equipment and tools required to proceed with a speedsolving att
 9. Once the competitor solves the puzzle, they must stop the timer to finish the solve. Inspect the solved state of the puzzle without touching it (except for the Clock event) and announce the time and any penalties, if applicable.
 10. A final result (along with penalties, if applicable) is recorded on the scorecard before both the judge and the competitor sign the attempt to verify that the result is correct and accepted.
 
-## Penalties {.page-break-before}
+## Penalties
 
 **+2**: is a penalty where 2 seconds are added to the final result of the attempt. **+2** penalties are cumulative, which means the competitor could potentially receive a total penalty of **+4** or even higher. **Did Not Finish** (DNF) is a penalty that results in a disqualification of the attempt. If you are not sure what should be done in an incident, you should always ask the WCA Delegate of the competition for advice.
 
 Here are some common incidents that can result in +2 or DNF:
 
-![](images/penalty1.png){.centered}
+![](images/penalty1.png){.centered width=70%}
 
 **+2**: the competitor exceeds 15 seconds of inspection time and starts the solve before 17 seconds.
 
 **DNF**: the competitor fails to start the solve within 17 seconds of inspection time.
 
-![](images/penalty2.png){.centered}
+![](images/penalty2.png){.centered width=70%}
 
 **+2**: the competitor touches the puzzle while starting the timer.
 
@@ -47,13 +47,13 @@ Here are some common incidents that can result in +2 or DNF:
 
 **DNF**: the competitor touches the puzzle before the judge has inspected the solved state. If you are certain that no change in alignment of the puzzle was done as a result of this, **+2** can be given instead. Exception: if immediately after stopping the timer, the competitor **briefly** touches the puzzle without affecting its state, the time penalty may be lifted, at the discretion of the judge.
 
-![](images/penalty3.png){.centered .page-break-before}
+![](images/penalty3.png){.centered width=70%}
 
 **+2**: the competitor fails to start the timer using their fingers with the palms facing down.
 
 **+2**: the competitor fails to stop the timer with their palms facing down.
 
-![](images/penalty4.png){.centered}
+![](images/penalty4.png){.centered width=70%}
 
 **+2**: the puzzle is one move away from the solved state at the end of the solve. Note: 180° turns (R2, U2, etc.) on NxNxN puzzles are considered one move.
 
@@ -61,7 +61,7 @@ Here are some common incidents that can result in +2 or DNF:
 
 #### This shows what kind of misalignments result in a +2 penalty:
 
-![](images/misalignments.png){.centered}
+![](images/misalignments.png){.centered width=80%}
 :::::
 
 Other incidents that can result in a penalty include the following:

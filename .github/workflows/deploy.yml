@@ -2,11 +2,11 @@ name: Website deployment
 
 on:
   release:
-      types: [published]
+    types: [published]
   workflow_dispatch:
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
 
     steps:

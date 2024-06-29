@@ -84,7 +84,7 @@ Some questions to consider for the venue are:
 
 On some occasions, you’ll need to maintain frequent communication with the venue. This will help to ensure that the event details are clear between both parties. Always try to update the venue if there’s a change in your venue set up, you need additional facilities, etc. On some occasions, you could even send in a sketch of the tables and chairs layout so they could set it up for you before/on the day of competition.
 
-<div style="margin-top: 200px"></div>
+<div class="spacer"></div>
 
 ## Translations
 
