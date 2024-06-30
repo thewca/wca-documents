@@ -28,10 +28,10 @@ The purpose of this policy is to define standards on how official WCA scrambles 
     1. A competition may have multiple Scrambling Areas.
     2. The Scrambling Area must be arranged such that any information about the scrambles is visually isolated from the competitors of the ongoing groups and anyone who is not an assigned runner or scrambler, an organizer, or a listed WCA Delegate.
         1. A scrambling table is a table within a Scrambling Area. The organization team must take the placement of the scrambling table(s) into consideration.
-        2. The Scrambling Area may be visually isolated with the use of tall barriers placed in front of it or small barriers placed on top of the table(s). Regardless of the type of visual barriers used, they must break line of sight.
+        2. The Scrambling Area could be visually isolated with the use of tall barriers placed in front of it or small barriers placed on top of the table(s). Regardless of the type of visual barriers used, they must break line of sight.
 3. Competition Area
     1. A competition should have at least one designated Competition Area, which will be in use throughout each group.
-    2. A Competition Area may have one Waiting Area.
+    2. A Competition Area may have a Waiting Area.
         1. If there is no designated Waiting Area, fixed seating must be used, where all competitors in the ongoing group remain seated at the solving stations.
     3. The organization team may require the competitors to go back to the Waiting Area after each attempt, and have them be called to a different solving station for the next attempt.
     4. When competing, competitors must not actively try to watch another competitor make an official attempt.
