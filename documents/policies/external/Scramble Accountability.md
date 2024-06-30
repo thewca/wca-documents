@@ -16,7 +16,7 @@ The purpose of this policy is to define standards on how official WCA scrambles 
 | Solving Station | A place where a competitor will do their attempts (e.g. a table) |
 | Waiting Area | A section inside the Competition Area where competitors wait between their attempts, after submitting their puzzle to the Scrambling Area |
 
-## Policy {margin-top=10rem}
+## Policy
 
 1. Drop-off table
     1. A drop-off table may be used for the competitors to submit their puzzles when they are called to compete.
