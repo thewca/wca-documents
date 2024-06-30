@@ -46,7 +46,7 @@ The purpose of this policy is to define standards on how official WCA scrambles 
     1. The scrambles may be printed out or displayed on an electronic device.
         1. If printed scrambles are used, they should not leave the WCA Delegate’s possession when not in use or should be stored in a secure place where it is not possible for the competitors to access them.
             1. Once the scrambles are done being used, the scramble sheet should be crossed out immediately to ensure it is not accidentally reused.
-        3. If the scrambles are being displayed on an electronic device, individual scramble sets must be password-protected. Each individual scramble set must have a unique randomly-generated password.
+        2. If the scrambles are being displayed on an electronic device, individual scramble sets must be password-protected. Each individual scramble set must have a unique randomly-generated password.
             1. Only the password-protected computer display PDFs should be available on the device. If a WCA Delegate’s personal device is used, a guest user account should be used.
             2. The passwords may be given to the scramblers when the corresponding groups begin, but not earlier. A WCA Delegate must not give the passwords for all the scramble sets in a round to scramblers at the beginning of that round.
                 1. Exception: if the WCA Delegate(s) will be temporarily unavailable when a group is supposed to start, they may give the password for that group to a trusted scrambler.
