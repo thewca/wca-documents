@@ -29,7 +29,8 @@ An official WCA Competition must:
          2. All scramble sequences used during a competition must be sent with the results of the competition.
             1. All scramble sequences must be labeled with the events, rounds, and groups for which they were used. If there are multiple groups in a round, it is not necessary to identify which competitor was in which group.
          3. Record keeping
-            1. Physical records (e.g. score sheets, written solutions from 3x3x3 Fewest Moves) or scanned copies of them must be retained for a minimum of 90 days.
+            1. Score sheets and written solutions from 3x3x3 Fewest Moves must be retained for a minimum of 90 days.
+               1. Scanned copies of these may be retained instead of physical copies.
             2. Digital records (e.g. scramble sequences, results) must be retained for a minimum of 7 years.
                  1. Results and scramble sequences are automatically retained once uploaded to the WCA website.
       3. Sending corrections of competition results to the WCA Results Team.
