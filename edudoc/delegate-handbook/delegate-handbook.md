@@ -551,10 +551,10 @@ You may receive questions regarding on-the-spot registration at the competition.
 1. Competitors must not be accepted on the day of the competition under any circumstances unless on-the-spot registration for the competition is enabled.
 2. If registration is full, on-the-spot registrations _must not_ be accepted on the day of the competition.
 
-Some regions have created alternative waiting list formats that can allow for maximizing the amount of competitors who get to compete and to mitigate no-shows. The Extra Registration Requirements must clearly outline these policies in order to implement them. Here are some examples of acceptable formats we have approved in the past when the process was explicitly outlined in the Extra Registration Requirements:
+Some regions have created alternative waiting list formats that can allow for maximizing the number of competitors who get to compete and to mitigate no-shows. The Extra Registration Requirements must clearly outline these policies in order to implement them. Here are some examples of acceptable formats that have been approved in the past when the process was explicitly outlined in the Extra Registration Requirements:
 
 1. Competitors on the waiting list may be added in the order of the waiting list after the waiting list deadline if the conditions are specified.
-2. Competitors attempting to register on the spot when registration is full may be added on the day of the competition in order of arrival when on-the-spot registration is enabled if the conditions are specified.
+2. Competitors attempting to register on the spot when registration is full may be added on the day of the competition in order of arrival when on-the-spot registration is enabled, if the conditions are specified.
    1. On-the-spot registrations must not be accepted before competitors on the waiting list, unless otherwise specified.
 3. If an online waiting list is not used and registration is full, competitors attempting to register on the spot may be added on the day of the competition in order of arrival when on-the-spot registration is enabled, if specified.
 4. Other policies may be accepted at the discretion of the WCAT.
@@ -563,7 +563,7 @@ Above all, the competitor limit must not be exceeded for any reason. Competitor 
 
 ### Verifying New Competitors
 
-Verify the identity of all new competitors at their first competition, according to [Regulation 2e](https://www.worldcubeassociation.org/regulations/#2e) and [Guideline 2e++](https://www.worldcubeassociation.org/regulations/guidelines.html#2e++). It is recommended to include a "New Competitor Information" tab on every WCA competition page with instructions for all new competitors to bring some form of identification to verify their full name, date of birth, and country of representation. Forms of identification can include, but not limited to: passports, birth certificates, and school ID cards. A check-in table is the perfect place to verify this information, so assign a trusted competition staff member or Delegate to manage the check-in process and verify this information.
+Verify the identity of all new competitors at their first competition, according to [Regulation 2e](https://www.worldcubeassociation.org/regulations/#2e) and [Guideline 2e++](https://www.worldcubeassociation.org/regulations/guidelines.html#2e++). It is recommended to include a "New Competitor Information" tab on every WCA competition page with instructions for all new competitors to bring some form of identification to verify their full name, date of birth, and country of representation. Forms of identification can include, but are not limited to: passports, birth certificates, and school ID cards. A check-in table is the perfect place to verify this information, so assign a trusted competition staff member or Delegate to manage the check-in process and verify this information.
 
 Identifying documents with private information, such as a newcomer checklist with dates of birth, must remain private and **never** be left unattended at a check-in table. Instruct competition staff members to keep such documents on their persons at all times, and to not show these documents to anyone except competition staff.
 
@@ -578,15 +578,15 @@ In the case that a new competitor does not have a form of identification availab
 
 ## New Competitor Tutorial
 
-While a new competitor tutorial is not required, it is recommended, as it helps reduce incidents if there are newcomers at your competition. Most new competitor tutorials take 15-20 minutes and occur at the start of a competition. Depending on your competition schedule, you may opt to change when the new competitor tutorial is held so that it is maximally effective:
+While a new competitor tutorial is not required, it is recommended, as it helps reduce incidents if there are newcomers at your competition. Most new competitor tutorials take 15-20 minutes and are held at the start of a competition. Depending on your competition schedule, you may opt to change when the new competitor tutorial is held so that it is maximally effective:
 
 - If the first event of the competition is not likely to have many newcomers, you may choose to delay it until right before the first newcomer-friendly event, as some new competitors may not be in attendance for events which they are not competing in.
-- If there is a day where very few newcomers are expected, such as on a blind-focused day of a multi-day competition, you may skip the tutorial entirely and hold the tutorial on another day.
+- If there is a day when very few newcomers are expected, such as a day focused around blindfolded events, you may skip the tutorial entirely and hold it on another day.
 - If there are potentially multiple days that a newcomer may attend for the first time, consider holding multiple new competitor tutorials on each day of the competition.
 
 Typically, a Delegate is best suited for this task because of their familiarity with the regulations. In cases where the Delegate doesn’t speak the local language, it may be best to choose an organizer or trusted competitor to give the new competitor tutorial. If there are a large number of newcomers, it may be best to have two separate tutorials so that everyone can both see and hear the tutorial more easily.
 
-The following points are an outline of a new competitor tutorial for a WCA competition. Depending on the specific events of the competition, it may be a good idea to have a secondary judging tutorial before an event that has specific judging instructions. For example, 3x3x3 Blindfolded judging does not have the judge time inspection and has the judge hold a sight blocker, while Clock allows competitors to manipulate pins in inspection, requires judges to check both sides of the puzzle, and does not have +2s. Modify the tutorial as necessary to fit the needs of your competition.
+The following points are an outline of a new competitor tutorial for a WCA competition. Depending on the specific events of the competition, it may be a good idea to have a secondary judging tutorial before an event that has specific judging instructions. For example, 3x3x3 Blindfolded judging does not have the judge time inspection and has them hold a sight blocker, while Clock allows competitors to manipulate pins during inspection, requires judges to check both sides of the puzzle, and does not have +2s. Modify the tutorial as necessary to fit the needs of your competition.
 
 - How to read a nametag, or otherwise determine the competitor’s competing, judging, scrambling, and/or running groups.
 - What to do when the competitor’s group is called
