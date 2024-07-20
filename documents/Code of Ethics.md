@@ -6,9 +6,9 @@ The Code of Ethics must be considered by all Staff members of the World Cube Ass
 
 These actions and decisions should be made in such a manner that, if consistently performed by WCA Staff, the [Spirit and Mission](wcadoc{documents/motions/01.2021.1 - Spirit.pdf}) of the WCA would continue to be upheld while not breaking any [Regulations](wca{regulations}), [Motions, or Policies](wca{documents}).
 
-This Code covers previously known issues, as well as issues that the WCA Ethics Committee (WEC) foresees as requiring additional guidance. This document will be updated periodically to incorporate new topics as they are brought to the attention of the WEC, and will also be reviewed regularly.
+This Code covers previously known issues, as well as issues that the WCA Integrity Committee (WIC) foresees as requiring additional guidance. This document will be updated periodically to incorporate new topics as they are brought to the attention of the WIC, and will also be reviewed regularly.
 
-The official communication channel for the WEC is via email. For any concerns about the ethical conduct of a WCA Staff member, contact the WEC: [ethics@worldcubeassociation.org](mailto:ethics@worldcubeassociation.org). If there are any concerns about the ethical conduct of the WCA Ethics Committee, either the Committee itself or an individual member, please contact the WCA Disciplinary Committee (WDC) at: [disciplinary@worldcubeassociation.org](mailto:disciplinary@worldcubeassociation.org).
+The official communication channel for the WIC is via email. For any concerns about the ethical conduct of a WCA Staff member, contact the WIC: [integrity@worldcubeassociation.org](mailto:integrity@worldcubeassociation.org). If there are any concerns about the ethical conduct of the WCA Integrity Committee, either the Committee itself or an individual member, please contact the WCA Appeals Committee at: [appeals@worldcubeassociation.org](mailto:appeals@worldcubeassociation.org).
 
 ::::: {.page-break-before}
 :::::
@@ -25,7 +25,7 @@ The official communication channel for the WEC is via email. For any concerns ab
          1. Transportation
          2. Accommodation
          3. Equipment and Printing
-      2. Expenses not laid out in 1.2.1 require WEC approval, and WFC if necessary.
+      2. Expenses not laid out in 1.2.1 require WIC approval, and WFC if necessary.
    3. Registration fees for listed Delegates and Organizers may be waived. Registration fees should only be waived for competitors if they perform a role significant to the running of the competition.
       1. Waiving of registration fees must not be done for the sole reason of people being the following (or similar):
          1. Family
@@ -36,7 +36,7 @@ The official communication channel for the WEC is via email. For any concerns ab
          1. Delegates should ensure that any such deal should still be fair and avoid bias towards any unreasonably formed group.
          2. Groups must not be based on an immutable characteristic.
    4. Listed Delegates must request and review an outlined budget for all of their competitions before announcement. Any concerns in the competition budget should be discussed with an Organizer and/or the people in charge of the competition finances. Delegates and Organizers should work together to find a resolution to any concern.
-      1. Competition budgets must be held by the Delegate for a period of 7 years and can be requested for review by the WCA Board, WEC, WFC or the Senior Delegate.
+      1. Competition budgets must be held by the Delegate for a period of 7 years and can be requested for review by the WCA Board, WIC, WFC or the Senior Delegate.
       2. The budget of a competition should be in alignment with the Mission and Spirit of the WCA.
       3. Listed Delegates must comply with Finance invoices and must advise Organizers to take into account WCA Dues when making the budget.
    5. Profit acquired from a competition must not be kept for personal gain by the Organizers nor the Delegates and should be put towards the benefit of the community. Where possible, this should be done via an organization and not an individual.
@@ -67,12 +67,12 @@ The official communication channel for the WEC is via email. For any concerns ab
    4. Delegates and Organizers should only be officially listed for a competition if they perform a significant role.
       1. Delegates and Organizers should agree on their roles for the competition before the competition is announced.
 4. **Conflicts of Interest**
-   1. WCA Staff must report all potential conflicts of interest that may arise and affect their WCA Staff role to the WEC using [this form](https://docs.google.com/forms/d/e/1FAIpQLSca81GIwjguJoWrPcbgabkRpdgJqbusIf9RBR7ObNNNL9kvqw/viewform?usp=sf_link). These include, but are not limited to:
+   1. WCA Staff must report all potential conflicts of interest that may arise and affect their WCA Staff role to the WIC using [this form](https://docs.google.com/forms/d/e/1FAIpQLSca81GIwjguJoWrPcbgabkRpdgJqbusIf9RBR7ObNNNL9kvqw/viewform?usp=sf_link). These include, but are not limited to:
       1. Sponsorships
       2. A stake in businesses trading within the cubing community.
          1. Example: Being the owner of a cubing store/business.
    2. WCA Staff must not receive sponsorship(s) for their role within the WCA.
-      1. Any sponsorship details of a WCA Staff member as a competitor must be reported to the WEC.
+      1. Any sponsorship details of a WCA Staff member as a competitor must be reported to the WIC.
    3. WCA Staff must not use their role to promote a third party brand who are not a [WCA-recognized regional organization](wca{organizations}), the competition sponsor(s), or sponsors of the WCA. This includes but is not limited to:
       1. Promotions in emails to competitors
       2. References in the email signature block
