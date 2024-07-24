@@ -26,7 +26,7 @@ An official WCA Competition must:
       1. Submitting the Delegate Report to the WCA Regulations Committee and the WCA Quality Assurance Committee regarding adherence to WCA Regulations and quality standards during the competition, the overall course of the competition, and any incidents that happened. The report must be submitted within one week of the end of the competition.
       2. Submitting the competition results to the WCA Results Team within one week of the end of the competition.
          1. Results must be double-checked before submission to minimize errors.
-            1. Exception: Results that have not been double-checked (e.g. instances in which scorecards have been lost) may be submitted at WRT discretion.
+            1. Exception: Results that have not been double-checked (e.g. instances in which scorecards have been lost) may be submitted at WCA Results Team discretion.
          2. All scramble sequences used during a competition must be sent with the results of the competition.
             1. All scramble sequences must be labeled with the events, rounds, and groups for which they were used. If there are multiple groups in a round, it is not necessary to identify which competitor was in which group.
          3. Record keeping
