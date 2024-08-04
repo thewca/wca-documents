@@ -1,6 +1,6 @@
 # WCA Competition Requirements Policy
 
-### Version 5.0 {.version}
+### Version 5.1 {.version}
 
 ## Purpose
 The purpose of this policy is to define the requirements and processes that a competition must meet and follow in order to be recognized as a WCA Competition.
@@ -16,7 +16,7 @@ An official WCA Competition must:
 4. Be open to all competitors and spectators who wish to attend, up to the maximum capacity stated on the website or otherwise permitted by the venue. 
    1. Any restrictions placed on competitors and/or spectators who can attend must be publicly outlined in the competition information section and approved by the WCA Board or WCA Competition Announcement Team.
    2. Individuals suspended from attending WCA sanctioned competitions may not attend any WCA sanctioned competitions until the period of their suspension has expired (see 1.1 of Suspensions and other Sanctions).
-   3. A WCA Delegate may require individuals to leave the competition venue for behavior that is unlawful/violent/indecent/unsafe, or intentionally damages venue facilities or personal property within the venue. Delegates must take into account the seriousness of the situation and the best possible course of action. Delegates must also report any such incidents to the WDC to determine the need for disciplinary action.
+   3. A WCA Delegate may require individuals to leave the competition venue for behavior that is unlawful/violent/indecent/unsafe, or intentionally damages venue facilities or personal property within the venue. Delegates must take into account the seriousness of the situation and the best possible course of action. Delegates must also report any such incidents to the WCA Integrity Committee to determine the need for disciplinary action.
 5. Be held on a single date or on two or more consecutive days.
 6. Have at least one official event.
 7. Have at least two competitors.
@@ -48,7 +48,7 @@ An official WCA Competition must:
 10. Competitions with proceeds going to a charity must indicate so on the competition website, preferably in the Information section of the 'General info' tab. The name of the charity must be included. Any such charity needs to be recognized in the country where the competition is held.
     1. Having this indicated on the competition website must be done as soon as the charity of the proceeds for has been decided. This must be done prior to the competition taking place.
 
-If WCA Regulations are not correctly observed during a competition, results may be modified at the discretion of the WCA Delegate, WCA Regulations Committee, WCA Results Team, WCA Disciplinary Committee, WCA Ethics Committee, or the WCA Board.
+If WCA Regulations are not correctly observed during a competition, results may be modified at the discretion of the WCA Delegate, WCA Regulations Committee, WCA Results Team, WCA Integrity Committee, WCA Appeals Committee, or the WCA Board.
 
 ### Announcement Criteria
 The WCA Delegate must submit the following information when requesting approval of a competition:
