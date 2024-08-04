@@ -12,7 +12,7 @@ This Code covers previously known issues, as well as issues that the WCA foresee
 
 Disciplinary procedures are handled by the WCA Integrity Committee (WIC) as outlined in item 3 of this document.
 
-The official communication channel for the WIC is via email. For any concerns about the conduct of Registered Speedcubers, contact the WIC: integrity@worldcubeassociation.org.
+The official communication channel for the WIC is via email. For any concerns about the conduct of Registered Speedcubers, contact the WIC: [integrity@worldcubeassociation.org](mailto:integrity@worldcubeassociation.org).
 
 ::::: {.page-break-before}
 :::::
