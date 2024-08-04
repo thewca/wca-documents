@@ -185,7 +185,7 @@ After a Junior Delegate has held the position for at least one year, and has suc
 - WCA Results Team (WRT), who look into the cleanliness of a Delegate’s result submissions, change requests, and responsiveness to WRT questions. The Delegate must have submitted results at least three times to be eligible for a positive review from the WRT.
 - WCA Regulations Committee (WRC), who use the Incidents section of Delegate Reports to determine that incidents are being handled correctly and change requests are made promptly after feedback is provided.
 - WCA Financial Committee (WFC), who verify that dues are paid within 30 days and that other invoices are paid in a timely manner. This is not applicable to Delegates who have their dues covered by a Regional Organization. See [Paying Competition Dues](#paying-competition-dues) for more information on how Dues may be paid.
-- WCA Ethics Committee (WEC), who verify that there are no active investigations into the Delegate.
+- WCA Integrity Committee (WIC), who verify that there are no active investigations into the Delegate.
 
 If the Senior Delegate, WCA teams, committees, and the Board all agree that a Junior Delegate is ready for promotion, the Senior Delegate will promote the Junior Delegate to Full Delegate. A promotion to Full Delegate is recognition of that individual’s hard work and contribution to the WCA over a period of time while maintaining high standards. If a Delegate is not promoted, their promotion is simply postponed until the next promotions cycle (next quarter).
 
@@ -244,9 +244,9 @@ As a WCA Delegate, you may occasionally become aware of confidential information
 - Personal information of WCA Staff.
 - Banned competitors list.
 
-In addition, there is additional information which much be kept confidential even among other WCA staff members, except for specific individuals on a need-to-know basis, such as those conducting an investigation on behalf of the WCA Disciplinary Committee (WDC) or the WEC:
+In addition, there is additional information which much be kept confidential even among other WCA staff members, except for specific individuals on a need-to-know basis, such as those conducting an investigation on behalf of the WIC:
 
-- Information regarding an investigation by the WEC or the WDC, including the identity of individuals involved in the investigation or details about the investigation
+- Information regarding an investigation by the WIC, including the identity of individuals involved in the investigation or details about the investigation
 - Information regarding confidential information and partnerships with the WCA and external organizations
 
 Large Language Models hosted by 3rd-party vendors such as ChatGPT are a potential vector for accidental disclosure of confidential information. Do not input confidential information into such tools.
@@ -440,7 +440,7 @@ Managing registrations is a responsibility of the organizer. However, as a Deleg
 - Refunds are being handled, especially if your competition allows registrants to delete their own registration.
 - Newcomers have their names capitalized and formatted correctly.
 - All registration requirements and deadlines you have set are being followed.
-- No registered competitors are on the [Banned Competitors list](https://www.worldcubeassociation.org/panel/delegate#banned-competitors). If a competitor who is banned registers for a competition, contact the WDC immediately.
+- No registered competitors are on the [Banned Competitors list](https://www.worldcubeassociation.org/panel/delegate#banned-competitors). If a competitor who is banned registers for a competition, contact the WIC immediately.
 
 Keep an eye out for registrations that seem to have mistakes. It is common for a new competitor to mistakenly register for the inverse of their intended events, such as every event except 3x3x3. Contact the competitor to verify their event selection before the competition. You are also permitted to edit their registration for them to fix presumed mistakes, but be careful to not unregister the competitor for events that they do intend to participate in. If such a mistake is not caught, you may allow the competitor to compete in events they did not register for under [Regulation A7g](https://www.worldcubeassociation.org/regulations/#A7g).
 
@@ -946,7 +946,7 @@ Competitors requiring accommodations are encouraged to contact the organization 
 
 ## Handling Behavioral Issues
 
-At a competition you may find that you are required to address the disruptive behavior of a competitor or spectator. Always be respectful but assertive about addressing poor behavior. The specifics of any situation can vary widely and there is no one-size-fits-all solution to handling them. The WDC has created a document outlining [Guidelines for Disciplinary Incidents](https://documents.worldcubeassociation.org/edudoc/guidelines-for-disciplinary-incidents/guidelines-for-disciplinary-incidents.pdf), and as a Delegate, read through the document to familiarize yourself with the information contained.
+At a competition you may find that you are required to address the disruptive behavior of a competitor or spectator. Always be respectful but assertive about addressing poor behavior. The specifics of any situation can vary widely and there is no one-size-fits-all solution to handling them. The WIC has created a document outlining [Guidelines for Disciplinary Incidents](https://documents.worldcubeassociation.org/edudoc/guidelines-for-disciplinary-incidents/guidelines-for-disciplinary-incidents.pdf), and as a Delegate, read through the document to familiarize yourself with the information contained.
 
 ## Preparing for Subsequent Rounds
 
@@ -1068,7 +1068,7 @@ Here is an example of a proper change request corresponding to the list above:
 Notes:
 
 - If you fail to provide all of the information above, the WRT will likely ask you to resend a complete change request. The WCA ID, which is the unique key to identify competitors in the WCA database, must never be missing. All results changes must be sent via "reply all" to the original results thread where you submitted the JSON of the competition.
-- If the change stems from a clerical mistake, e.g. a mistake during data entry, just emailing the WRT in the results submission thread is enough. If, however, the change arises from WRC or WDC feedback, the relevant committee must be included in CC.
+- If the change stems from a clerical mistake, e.g. a mistake during data entry, just emailing the WRT in the results submission thread is enough. If, however, the change arises from WRC or WIC feedback, the relevant committee must be included in CC.
 - For significant changes, e.g. retroactive disqualification of results, Delegates are advised to inform the affected competitor(s) by email or chat before or right after sending the change request to the WRT.
 
 ## Delegate Reports
@@ -1102,7 +1102,7 @@ Itemized lists are not required, but you may share them if you desire. At a mini
 
 ### Incidents
 
-Include any notable incidents from the competition. Notable incidents are usually ones that are not included in the [Common Incident table](#common-incidents). Not every extra or +2 is an incident worth mentioning in the report. Focus your time on the incidents which may be useful for other Delegates to learn from. Of course, any incidents requiring WRC or WDC feedback need to be written here.
+Include any notable incidents from the competition. Notable incidents are usually ones that are not included in the [Common Incident table](#common-incidents). Not every extra or +2 is an incident worth mentioning in the report. Focus your time on the incidents which may be useful for other Delegates to learn from. Of course, any incidents requiring WRC or WIC feedback need to be written here.
 
 Number the incidents in this section so that an incident can be uniquely referenced if there are any questions in the email thread. Include the name of the Delegate(s) who handled an incident, as this helps the WRC make a better judgment on Delegate promotions.
 
@@ -1114,7 +1114,7 @@ The Remarks section is where you may provide any additional information or perso
 
 ### Responses to Your Report
 
-You may receive responses to your report. If you requested feedback from the WRC or the WDC, expect a response from them. If they do not respond after a couple of weeks, you are encouraged to bump your email chain to remind them.
+You may receive responses to your report. If you requested feedback from the WRC or the WIC, expect a response from them. If they do not respond after a couple of weeks, you are encouraged to bump your email chain to remind them.
 
 Please keep in mind that the reports mailing list goes out to hundreds of members of WCA Staff. Consider whether your email needs to include the reports mailing list as a recipient. If your email is directed at a small group of individuals, such as a thank you message to an individual or committee, please consider removing unrelated individuals and mailing lists from the email to avoid sending emails irrelevant to the vast majority of WCA Staff.
 
@@ -1268,7 +1268,7 @@ Be aware that some conversations are simply not relevant to some people. The WCA
 
 ### Replying to Delegate Reports
 
-Reading Delegate reports of other regions is a great way to expand your knowledge as a Delegate, as well as to gain a better understanding for how competitions might be run in other regions. Feedback from Delegates is especially helpful whenever WRC or WDC feedback is requested, as the incidents which require feedback are often the least straightforward ones and have the most to learn from.
+Reading Delegate reports of other regions is a great way to expand your knowledge as a Delegate, as well as to gain a better understanding for how competitions might be run in other regions. Feedback from Delegates is especially helpful whenever WRC or WIC feedback is requested, as the incidents which require feedback are often the least straightforward ones and have the most to learn from.
 
 If you have questions related to the competition, feel free to ask the Delegates by responding to their email. However, do be aware that your response will be sent to hundreds of WCA Staff members, so consider whether or not it is appropriate to remove the Delegate reports mailing list from the CC to avoid sending an email to many people who may not appreciate it showing up in their inbox again.
 
