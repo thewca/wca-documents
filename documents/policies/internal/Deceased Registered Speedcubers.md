@@ -1,14 +1,12 @@
 # WCA Deceased Registered Speedcubers Policy
 
-### Version 1.0 {.version}
+### Version 1.1 {.version}
 
 ## Purpose
 The purpose of this policy is to uniformly handle WCA profiles and announcements of deceased Registered Speedcubers.
 
 ## Policy
-The Board has discussed the very delicate and sensitive topic of speedcubers who have passed away unfortunately. Although this is an emotional issue, we tried to stay rational and came up with the following points to follow as a practice in the future:
-
-1. We should not attempt to administrate which speedcubers are deceased in WCA profiles. All the In Memoriam links shall be removed, and none will be added in the future, as speedcubers’ profiles are a separate matter.
-2. Public announcements about deceased speedcubers should be done as per below:
-   1. Public announcements are reserved only for speedcubers who contributed greatly to our organization. At the discretion of the WCA Board, we would consider people who performed activities for the WCA as Staff.
-   2. Public announcements would be displayed in the form of a post on our website and on our social media.
+1. WCA profiles should not contain any information related to the vital status of Registered Speedcubers.
+2. Public announcements about deceased speedcubers should be subject to the following conditions:
+   1. Be reserved only for speedcubers who contributed greatly to the WCA, at the discretion of the WCA Board.
+   2. Be displayed in the form of a post on the WCA website and WCA social media.
