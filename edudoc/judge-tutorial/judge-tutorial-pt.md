@@ -10,7 +10,7 @@ Este é o principal equipamento e ferramentas necessárias para realizar uma ten
 
 **Cronómetro Stackmat**: Este é o dispositivo oficial para medir tempos numa competição WCA. A imagem abaixo é a versão mais recente do cronómetro (Gen 5), as versões Gen 3 e Gen 4 do cronómetro são também aceites em competições.
 
-![](images/timer-pt.png){.centered}
+![](images/timer-pt.png){.centered width=65%}
 
 **Cronómetro**: É usado para medir o tempo de inspeção. Os cronómetros também são usados para medir o tempo de tentativas de mais de 10 minutos. **Nota: não confundir com um cronómetro Stackmat.**
 
@@ -27,19 +27,19 @@ Este é o principal equipamento e ferramentas necessárias para realizar uma ten
 9. Assim que o competidor resolver o puzzle, tem que parar o Cronómetro Stackmat para terminar a tentativa. Inspecione o estado de resolução do puzzle sem lhe tocar (exceto para o evento Clock) e anuncie o tempo e penalidades, se aplicável.
 10. Um resultado final (juntamente com penalidades, se aplicável) é registado na folha de resultados antes do juiz e o competidor assinarem a tentativa para verificar que o resultado está correto e aceite.
 
-## Penalidades {.page-break-before}
+## Penalidades
 
 **+2**: é uma penalidade onde 2 segundos são adicionados ao resultado final da tentativa. As penalidades de **+2** são cumulativas, o que significa que o competidor pode potencialmente receber uma penalidade total de **+4** ou até mais. **Did Not Finish** (DNF) é uma penalidade que resulta na desqualificação da tentativa. Se não tem a certeza do que deve ser feito num incidente, deve sempre pedir um conselho ao Delegado da WCA da competição.
 
 Aqui estão alguns incidentes comuns que podem resultar em +2 ou DNF:
 
-![](images/penalty1.png){.centered}
+![](images/penalty1.png){.centered width=70%}
 
 **+2**: o competidor excede 15 segundos de tempo de inspeção e inicia a resolução antes de 17 segundos.
 
 **DNF**: o competidor não consegue iniciar a resolução dentro de 17 segundos do tempo de inspeção.
 
-![](images/penalty2.png){.centered}
+![](images/penalty2.png){.centered width=70%}
 
 **+2**: o competidor está a tocar no puzzle ao iniciar o Cronómetro.
 
@@ -47,13 +47,13 @@ Aqui estão alguns incidentes comuns que podem resultar em +2 ou DNF:
 
 **DNF**: o competidor toca no puzzle antes que o juiz inspecione o estado de resolução. Se tiver a certeza de que não foi feita qualquer alteração no alinhamento do puzzle como resultado dessa ação, pode ser dado **+2**. Exceção: se imediatamente após parar o cronómetro, o competidor **tocar brevemente** no puzzle sem afetar o seu estado, a penalização de tempo poderá ser suspensa, segundo critério do juiz.
 
-![](images/penalty3.png){.centered .page-break-before}
+![](images/penalty3.png){.centered width=70%}
 
 **+2**: o competidor falha em iniciar o Cronómetro com as palmas das mãos voltadas para baixo.
 
 **+2**: o competidor não consegue parar o Cronómetro com as palmas das mãos voltadas para baixo.
 
-![](images/penalty4.png){.centered}
+![](images/penalty4.png){.centered width=70%}
 
 **+2**: o puzzle está a um movimento de distância do estado resolvido no final da tentativa. Nota: movimentos de 180° (R2, U2, etc.) em puzzles NxNxN são considerados um movimento.
 
@@ -61,7 +61,7 @@ Aqui estão alguns incidentes comuns que podem resultar em +2 ou DNF:
 
 #### Isto mostra que tipo de desalinhamento resulta numa penalidade de +2:
 
-![](images/misalignments.png){.centered}
+![](images/misalignments.png){.centered width=80%}
 :::::
 
 Outros incidentes que podem resultar em penalidade incluem os seguintes:
