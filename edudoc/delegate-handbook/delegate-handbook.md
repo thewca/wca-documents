@@ -1187,11 +1187,11 @@ There are several cases for change requests concerning personal data (which invo
 
 There are 2 types of data changes:
 
-1. **Fix**: A fix changes a person’s data for all past and future competitions and is not visible on a competitor’s profile. This form of data change is commonly applied for:
+1. **Fix**: A fix changes a person’s data for all past and future competitions such that the person's old data is not visible on their competitor profile. This form of data change is commonly applied for:
 
 - Correction of previously incorrect data.
-- Minor name changes (e.g. typo fixes, removal/addition of middle names, changing a legal first name to a reasonable nickname, etc.)
-- Changes of a sensitive nature where displaying the previous data is understandably not desirable (e.g. name/gender changes related to gender identity)
+- Any name change in which the competitor does not wish for their previous name to still be displayed anywhere on the WCA website.
+- Any other changes of a sensitive nature (e.g. changes to gender).
 
 2. **Update**: An update internally creates a new sub-profile, so that the previous data remains unchanged for all past competitions and a notice of the change is shown on the competitor’s profile. Such a profile may look like this:
 
@@ -1199,8 +1199,10 @@ There are 2 types of data changes:
 
 This form of data change is commonly applied for:
 
-- Changes of citizenship
-- Major name changes of a non-sensitive nature (e.g. last name changes due to marriage)
+- Changes of citizenship.
+- Non-sensitive name changes where the competitor still wishes to have their previous name displayed for past competitions and as a notice on their profile (e.g. last name changes due to marriage).
+
+**A note on last name changes:** Until July 2024, the WRT executed all non-sensitive last name changes as updates. Competitors now have the choice as to whether they would like their name change executed as a fix or as an update. It is possible for any previous name change update to be changed to a fix by contacting the WRT.
 
 Changes in a competitor’s information can be requested directly by the competitor or through the WCA Delegate. If the competitor contacts the WRT directly, a legal document of identification must be provided. If the Delegate is making the request, they must verify the competitor is the correct person and that the information provided is correct (e.g. dates of birth or last names) or at least sensible (e.g. first name or gender changes). Moreover:
 
