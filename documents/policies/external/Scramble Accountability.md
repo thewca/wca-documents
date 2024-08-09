@@ -4,7 +4,7 @@
 
 ## Purpose
 
-The purpose of this policy is to define standards on how official WCA scrambles must be treated. The policy is targeted towards WCA Delegates and organization teams. Not fully following the Scramble Accountability Policy may result in disqualification of the affected results, at the discretion of the WCA Regulations Committee or the WCA Quality Assurance Committee.
+The purpose of this policy is to define standards on how official WCA scrambles must be treated. The policy is targeted towards WCA Delegates and organization teams. Not fully following the Scramble Accountability Policy may result in disqualification of the affected results, at the discretion of the WCA Regulations Committee.
 
 ## Definition of Terms
 
@@ -27,16 +27,16 @@ The purpose of this policy is to define standards on how official WCA scrambles 
 2. Scrambling Area
     1. A competition may have multiple Scrambling Areas.
     2. The Scrambling Area must be arranged such that any information about the scrambles is visually isolated from the competitors of the ongoing groups and anyone who is not an assigned runner or scrambler, an organizer, or a listed WCA Delegate.
-        1. A scrambling table is a table within a Scrambling Area. The organization team must take the placement of the scrambling table(s) into consideration.
-        2. The Scrambling Area could be visually isolated with the use of tall barriers placed in front of it or small barriers placed on top of the table(s). Regardless of the type of visual barriers used, they must break line of sight.
+        1. A scrambling table is a table within a Scrambling Area. There must be at least one scrambling table in a Scrambling Area. The organization team must take the placement of the scrambling table(s) into consideration.
+        2. The Scrambling Area may be visually isolated with the use of tall barriers placed in front of it or small barriers placed on top of the table(s). Regardless of the type of visual barriers used, they must break line of sight.
 3. Competition Area
     1. A competition has at least one designated Competition Area, which will be in use throughout each group.
     2. A Competition Area may have a Waiting Area.
         1. If there is no designated Waiting Area, fixed seating must be used, where all competitors in the ongoing group remain seated at the solving stations.
     3. The organization team may require the competitors to go back to the Waiting Area after each attempt, and have them be called to a different solving station for the next attempt.
-    4. When competing, competitors must not actively try to watch another competitor make an official attempt.
+    4. When competing in the same group, competitors must not actively try to watch another competitor make an official attempt.
         1. The organization team and the WCA Delegate should reduce the possibility of the above occuring. This could include adding a visual barrier between solving stations and/or having a sufficient distance between the Waiting Area and the solving stations.
-        2. Competitors should not be seated facing each other, unless a visual barrier is set up between them.
+        2. Solving Stations should not be arranged facing each other, unless a visual barrier is set up between them.
 4. Broadcasting of competitions
     1. When a competitor has been called for their group, they must not look at any broadcasting of their group.
         1. The organization team should announce this on the competition page if they are aware of a broadcast taking place at the competition.
