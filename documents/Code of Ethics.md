@@ -1,6 +1,6 @@
 # Code of Ethics
 
-### Version 2.4 {.version}
+### Version 2.5 {.version}
 
 The Code of Ethics must be considered by all Staff members of the World Cube Association (WCA), referred to in this document as “WCA Staff”, as a standard for actions and decisions they will be making when acting on behalf of the WCA within their role. “Listed Delegates” refers to WCA Delegates who are publicly displayed on the “General info” tab of an official WCA Competition.
 
