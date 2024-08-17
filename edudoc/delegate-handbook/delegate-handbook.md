@@ -214,7 +214,6 @@ Some regions may not have a Senior Delegate appointed. In the case that no Senio
 The regions with Senior Delegates are:
 
 - Africa
-- Asia East
 - Asia Southeast
 - Asia West and South
 - Central Eurasia
