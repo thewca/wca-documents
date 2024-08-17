@@ -713,7 +713,7 @@ In the case that a misscramble is found during the competition, no matter how mi
 
 #### World Record Social Media Posts
 
-World records are one of the largest drivers of the WCA’s public outreach. When one occurs, Delegates are encouraged to fill out the [World Record Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSeJwf6b7yGGyWFhU0xfKSF3ki_nITyIKXVFRP86unb9EYRtHQ/viewform) so that the WCA Communications Team (WCT) can make posts on WCA social media pages regarding the new world record. An example of a world record post can be found [here](https://www.instagram.com/p/C3tazeXN9ZO/).
+World records are one of the largest drivers of the WCA’s public outreach. When one occurs, Delegates are encouraged to fill out the [World Record Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSeLrkLhFnIy1QNGoWoZT4jsOIibNJ_xc9qTd_YKBpcuMIq-LA/viewform) so that the WCA Communication Team (WCT) can make posts on WCA social media pages regarding the new world record. An example of a world record post can be found [here](https://www.instagram.com/p/C3tazeXN9ZO/).
 
 When a new world record is achieved, a lot of attention is directed towards the WCA. These world record social media posts are most effective when they are posted during this excitement. Fill out the form as soon as the record has been verified by checking the scrambles, validating the scorecard, and resolving any possible incidents.
 
