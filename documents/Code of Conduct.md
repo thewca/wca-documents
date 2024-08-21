@@ -1,6 +1,6 @@
 # Code of Conduct
 
-### Version 1.0 {.version}
+### Version 1.1 {.version}
 
 The Code of Conduct must be considered by all members of the World Cube Association (WCA) Community, as a standard for actions and behavior. Members of the WCA Community include, but are not limited to: Registered Speedcubers, Competitions Organizers, Guests, WCA Officials, Users on the official WCA Forum. 
 
@@ -10,9 +10,9 @@ Registered Speedcubers who are qualified as “WCA Staff” must also uphold the
 
 This Code covers previously known issues, as well as issues that the WCA foresees as requiring additional guidance. This document will be updated periodically to incorporate new topics as they are brought to the attention of the WCA, and will also be reviewed regularly. 
 
-Disciplinary procedures are handled by the WCA Disciplinary Committee (WDC) as outlined in item 3 of this document.
+Disciplinary procedures are handled by the WCA Integrity Committee (WIC) as outlined in item 3 of this document.
 
-The official communication channel for the WDC is via email. For any concerns about the conduct of Registered Speedcubers, contact the WDC: disciplinary@worldcubeassociation.org.
+The official communication channel for the WIC is via email. For any concerns about the conduct of Registered Speedcubers, contact the WIC: [integrity@worldcubeassociation.org](mailto:integrity@worldcubeassociation.org).
 
 ::::: {.page-break-before}
 :::::
@@ -40,6 +40,6 @@ The official communication channel for the WDC is via email. For any concerns ab
       1. Finances for WCA Competitions must be handled according to the WCA Code of Ethics, section “Finances”.
       2. Leftover money must not be retained by Organizers who are not  Regional Organizations or WCA Delegates, who must abide by the Code of Ethics (2.3.1). Leftover money shall thus be reinvested and used for Community activities.
 3. **Disciplinary Procedure**
-   1. Violations of the Code of Conduct will be analyzed and evaluated by the WCA Disciplinary Committee (WDC).
+   1. Violations of the Code of Conduct will be analyzed and evaluated by the WCA Integrity Committee.
    2. Violations of the Code of Conduct can result in Suspensions and other Sanctions.
    

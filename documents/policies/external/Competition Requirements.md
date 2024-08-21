@@ -1,6 +1,6 @@
 # WCA Competition Requirements Policy
 
-### Version 5.0 {.version}
+### Version 5.1 {.version}
 
 ## Purpose
 The purpose of this policy is to define the requirements and processes that a competition must meet and follow in order to be recognized as a WCA Competition.
@@ -15,8 +15,8 @@ An official WCA Competition must:
 3. Comply with all [WCA Policies](wca{documents}).
 4. Be open to all competitors and spectators who wish to attend, up to the maximum capacity stated on the website or otherwise permitted by the venue. 
    1. Any restrictions placed on competitors and/or spectators who can attend must be publicly outlined in the competition information section and approved by the WCA Board or WCA Competition Announcement Team.
-   2. Individuals suspended from attending WCA sanctioned competitions may not attend any WCA sanctioned competitions until the period of their suspension has expired (see 1.1 of Suspensions and other Sanctions).
-   3. A WCA Delegate may require individuals to leave the competition venue for behavior that is unlawful/violent/indecent/unsafe, or intentionally damages venue facilities or personal property within the venue. Delegates must take into account the seriousness of the situation and the best possible course of action. Delegates must also report any such incidents to the WDC to determine the need for disciplinary action.
+   2. Individuals suspended from attending WCA sanctioned competitions must not attend any WCA sanctioned competitions until the period of their suspension has expired (see 1.1 of Suspensions and other Sanctions).
+   3. A WCA Delegate may require individuals to leave the competition venue for behavior that is unlawful/violent/indecent/unsafe, or intentionally damages venue facilities or personal property within the venue. Delegates must take into account the seriousness of the situation and the best possible course of action. Delegates must also report any such incidents to the WCA Integrity Committee to determine the need for disciplinary action.
 5. Be held on a single date or on two or more consecutive days.
 6. Have at least one official event.
 7. Have at least two competitors.
@@ -25,12 +25,13 @@ An official WCA Competition must:
    2. The WCA Delegate for a competition is responsible for:
       1. Submitting the Delegate Report to the WCA Regulations Committee and the WCA Quality Assurance Committee regarding adherence to WCA Regulations and quality standards during the competition, the overall course of the competition, and any incidents that happened. The report must be submitted within one week of the end of the competition.
       2. Submitting the competition results to the WCA Results Team within one week of the end of the competition.
-         1. Results must be double-checked and should be free of errors before submission.
+         1. Results must be double-checked before submission to minimize errors.
+            1. Exception: Results that have not been double-checked (e.g. instances in which scorecards have been lost) may be accepted at the discretion of the WCA Results Team.
          2. All scramble sequences used during a competition must be sent with the results of the competition.
             1. All scramble sequences must be labeled with the events, rounds, and groups for which they were used. If there are multiple groups in a round, it is not necessary to identify which competitor was in which group.
          3. Record keeping
-            1. Physical records (e.g. score sheets, written solutions from 3x3x3 Fewest Moves) must be retained for a minimum of 90 days.
-                 1. Scanned copies may be kept instead of the physical records.
+            1. Score sheets and written solutions from 3x3x3 Fewest Moves must be retained for a minimum of 90 days.
+               1. Scanned copies of these may be retained instead of physical copies.
             2. Digital records (e.g. scramble sequences, results) must be retained for a minimum of 7 years.
                  1. Results and scramble sequences are automatically retained once uploaded to the WCA website.
       3. Sending corrections of competition results to the WCA Results Team.
@@ -48,7 +49,7 @@ An official WCA Competition must:
 10. Competitions with proceeds going to a charity must indicate so on the competition website, preferably in the Information section of the 'General info' tab. The name of the charity must be included. Any such charity needs to be recognized in the country where the competition is held.
     1. Having this indicated on the competition website must be done as soon as the charity of the proceeds for has been decided. This must be done prior to the competition taking place.
 
-If WCA Regulations are not correctly observed during a competition, results may be modified at the discretion of the WCA Delegate, WCA Regulations Committee, WCA Results Team, WCA Disciplinary Committee, WCA Ethics Committee, or the WCA Board.
+If WCA Regulations are not correctly observed during a competition, results may be modified at the discretion of the WCA Delegate, WCA Regulations Committee, WCA Results Team, WCA Integrity Committee, WCA Appeals Committee, or the WCA Board.
 
 ### Announcement Criteria
 The WCA Delegate must submit the following information when requesting approval of a competition:
@@ -64,7 +65,7 @@ The WCA Delegate must submit the following information when requesting approval 
       7. A sponsor of the competition
    2. Capitalization of the competition name must be appropriate. The first letter of each word in the competition’s name must be capitalized and subsequent letters within words should be lowercase, except articles and prepositions, which should be always lowercase. Acronyms should be capitalized.
       1. Exception: The first letter of a word may be left lowercase if it is formatted as such in the name of a company or venue.
-      2. Each word in the name must be separated by a space.
+      2. Each word in the name should be separated by a space unless CamelCasing is appropriate.
    3. The name must end with the year of the last day of the competition.
    4. The competition name must be in Roman-readable letters and may only contain characters from A-Z, a-z, 0-9, or similar characters.
       1. Only the following special characters are permitted: Apostrophe (‘), period (.), colon (:), hyphen (-), and ampersand (&).
@@ -82,7 +83,7 @@ The WCA Delegate must submit the following information when requesting approval 
    9. Names must not contain possibly offensive parts or memes.
    10. The name cannot contain website domains or anything susceptible to be interpreted as a link, hashtag or in general an electronic identifier.
    11. The name cannot contain any trademarks unless the organization team is formally authorized, in writing, to use such names.
-   12. Names should not contain any unnecessary parts in the name, like "competition".
+   12. Names should not contain any unnecessary words (e.g. "Competition", "Comp").
    13. The competition short name and ID must resemble the competition name.
        1. The competition short name and ID should only be modified if the competition name is too long (more than 32 characters). Exception: groups of competitions may have modified short names and IDs to ensure consistency with past and future competitions.
       2. The competition short name must contain a locational identifier.
@@ -159,8 +160,8 @@ The WCA Delegate must submit the following information when requesting approval 
          1. An active registration period may be extended after request of the Delegate.
          2. The competition's WCA Delegate(s) and/or members of the organization team may register for the competition prior to the first registration period, however their registration(s) must not be approved until the first registration period has started.
             1. The number of WCA Delegates and members of the organization team registered for the competition prior to the first registration period must not exceed 20% of the competitor limit.
-      2. Additional registration periods may be added at least 24 hours before they start.
-        1. A registration period may be extended and active immediately, at the discretion of WCAT. 
+      2. Additional registration periods may be added.
+         1. These registration periods should begin at least 24 hours after being actioned by WCAT but may begin earlier at WCAT discretion.
       3. Different registration periods may have different registration requirements (e.g. restricting which events a competitor can register for).
    3. The registration requirements must include the procedure for completing a valid registration.
    4. The registration requirements may include the deadline for adding registered events for competitors with completed registrations.
