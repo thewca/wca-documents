@@ -21,8 +21,14 @@ convert_to_pdf() {
     pdf_path="${file%.md}.pdf"
     html_path="${file%.md}.html"
 
-    # Use first header as the document title; remove all # characters and whitespace from the beginning
-    document_title=$(head -n 1 "$file" | sed -E "s/^#+\s*//")
+    if [[ "$file" =~ build/documents/(motions|minutes)/(([a-zA-Z0-9.\-]|[[:blank:]])+)\.md ]]; then
+      # We need this for minutes and motions to have the correct document title. Otherwise it uses "{.text-center}"
+      # or "SUBMISSION OF PROPOSED MOTION".
+      document_title=${BASH_REMATCH[2]}
+    else
+      # Use first header as the document title; remove all # characters and whitespace from the beginning
+      document_title=$(head -n 1 "$file" | sed -E "s/^#+\s*//")
+    fi
     # Absolute path to the custom stylesheet
     custom_stylesheet="./assets/$1-style.css"
     custom_stylesheet_path=$(realpath "$custom_stylesheet")
