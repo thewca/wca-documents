@@ -114,7 +114,7 @@ While WCA Delegates are highly experienced members of their community and often 
 
 As outlined in the [WCA Delegates Motion](https://documents.worldcubeassociation.org/documents/motions/08.2022.1%20-%20Delegates.pdf) of the WCA, a WCA Delegate is responsible for:
 
-- Ensuring regulations are followed at WCA competitions
+- Ensuring the Regulations are followed at WCA competitions
 - Submitting competition results
 - Writing competition reports
 - Representing their local community within the WCA
@@ -139,7 +139,7 @@ There is no minimum age requirement for becoming a Delegate, however, the respon
 
 ## Delegate Tiers
 
-There are multiple tiers of Delegates, each with their own responsibilities within the WCA. At their core, all tiers of Delegates have one thing in common: at a WCA competition, they all have the responsibility to make sure that competitions are run in accordance with the regulations.
+There are multiple tiers of Delegates, each with their own responsibilities within the WCA. At their core, all tiers of Delegates have one thing in common: at a WCA competition, they all have the responsibility to make sure that competitions are run in accordance with the Regulations.
 
 ### Trainee Delegates
 
@@ -331,7 +331,7 @@ As a WCA Delegate, you will often have more experience organizing WCA competitio
 
 ### Community Organizers and Delegate Organizers
 
-There is a spectrum of how WCA competitions are organized, with organizer-led competitions on one end and Delegate-led competitions on the other. Organizer-led competitions are when a non-Delegate member of the community does most of the work preparing for and running a competition, while a Delegate does the minimum required of them: receiving a competition proposal, confirming a competition on the WCA website, generating scrambles, showing up to the competition in person to verify that the regulations are being upheld, and submitting results. On the other end of the spectrum are Delegate-led competitions, where the Delegate(s) handle every aspect of organizing a competition, and often the overall arc of multiple competitions in a region.
+There is a spectrum of how WCA competitions are organized, with organizer-led competitions on one end and Delegate-led competitions on the other. Organizer-led competitions are when a non-Delegate member of the community does most of the work preparing for and running a competition, while a Delegate does the minimum required of them: receiving a competition proposal, confirming a competition on the WCA website, generating scrambles, showing up to the competition in person to verify that the Regulations are being upheld, and submitting results. On the other end of the spectrum are Delegate-led competitions, where the Delegate(s) handle every aspect of organizing a competition, and often the overall arc of multiple competitions in a region.
 
 In practice, fully organizer-led competitions are rare, as there are many possible points of failure that could prevent a competition from happening entirely, or happening at an unacceptably low level of quality. On the other hand, Delegate-led competitions are common in very small cubing communities with only one or two Delegates, as well as in very large and mature regions that have many Delegates under the umbrella of a Regional Organization.
 
@@ -529,7 +529,7 @@ If you encounter issues such as these where canceling a competition appears nece
 2. Explain why you are no longer able to attend and whom you propose as a temporary Delegate.
 3. The Board will vote on whether to appoint this person and respond with any concerns.
 
-- For financial concerns, such as low registration turnout, the WCAT may involve the WFC to analyze potental solutions. As a reminder, Delegates are responsible for reviewing the budget prior to announcement and to have a plan in the event of unexpectedly low income. It is strongly recommended that organizing is always done through ROs or a similar legal entity to protect individuals from liability, and to always have backup funds available. Competitions are unlikely to be canceled solely over a budget deficit. Contact the WCA Financial Committee at the soonest indication that a budget deficit poses a significant risk to a competition for assistance in resolving the situation.
+- For financial concerns, such as low registration turnout, the WCAT may involve the WFC to analyze potental solutions. As a reminder, Delegates are responsible for reviewing the budget prior to announcement and to have a plan in the event of unexpectedly low income. It is strongly recommended that organizing is always done through ROs or a similar legal entity to protect individuals from liability, and to always have backup funds available. Competitions are unlikely to be canceled solely over a budget deficit. Contact the WFC at the soonest indication that a budget deficit poses a significant risk to a competition for assistance in resolving the situation.
 
 # Day of the Competition
 
@@ -583,7 +583,7 @@ While a new competitor tutorial is not required, it is recommended, as it helps 
 - If there is a day when very few newcomers are expected, such as a day focused around blindfolded events, you may skip the tutorial entirely and hold it on another day.
 - If there are potentially multiple days that a newcomer may attend for the first time, consider holding multiple new competitor tutorials on each day of the competition.
 
-Typically, a Delegate is best suited for this task because of their familiarity with the regulations. In cases where the Delegate doesn’t speak the local language, it may be best to choose an organizer or trusted competitor to give the new competitor tutorial. If there are a large number of newcomers, it may be best to have two separate tutorials so that everyone can both see and hear the tutorial more easily.
+Typically, a Delegate is best suited for this task because of their familiarity with the Regulations. In cases where the Delegate doesn’t speak the local language, it may be best to choose an organizer or trusted competitor to give the new competitor tutorial. If there are a large number of newcomers, it may be best to have two separate tutorials so that everyone can both see and hear the tutorial more easily.
 
 The following points are an outline of a new competitor tutorial for a WCA competition. Depending on the specific events of the competition, it may be a good idea to have a secondary judging tutorial before an event that has specific judging instructions. For example, 3x3x3 Blindfolded judging does not have the judge time inspection and has them hold a sight blocker, while Clock allows competitors to manipulate pins during inspection, requires judges to check both sides of the puzzle, and does not have +2s. Modify the tutorial as necessary to fit the needs of your competition.
 
@@ -729,7 +729,7 @@ Scorecards that are pre-labeled with the competitor’s name are highly recommen
 
 A competitor or judge should call over a Delegate when they are unable to determine whether the resting state of a puzzle at the end of the solve is a penalty. Usually, this is because the puzzle is very close to the halfway threshold for penalties. Observe the puzzle from multiple angles and use multiple pieces and reference points to try and determine the most accurate ruling. If you still cannot determine the penalty state, this is generally considered no penalty, as the sub-regulations of [Regulation 10f](https://www.worldcubeassociation.org/regulations/#10f) state maximum offset amount, and a resting state on the threshold of the penalty does not explicitly exceed that limit.
 
-Finally, note that a penalty is not considered an incident. Penalties correctly applied to solves fully follow the regulations as stated. For more information on what is considered an incident, see the Incidents section.
+Finally, note that a penalty is not considered an incident. Penalties correctly applied to solves fully follow the Regulations as stated. For more information on what is considered an incident, see the Incidents section.
 
 #### Square-1 Misalignments
 
@@ -791,9 +791,9 @@ At any point, you may re-evaluate the fairness of the provisional extra and make
 
 > A7g) At the discretion of the WCA Delegate, an incident or penalty caused by a competitor's inexperience may be replaced with an extra attempt.
 
-Many new competitors will inadvertently break the regulations due to their unfamiliarity with the regulations and processes of a WCA competition or an event’s specific regulations. In these cases, you are always encouraged to use [Regulation A7g](https://www.worldcubeassociation.org/regulations/#A7g) to issue an extra to these competitors. An inexperienced competitor defined by A7g may not necessarily be new to WCA competitions, such as a competitor who is returning to WCA competitions after a long time or a competitor who is unfamiliar with a specific event. For example, a blindfolded-focused competitor who is newly competing in other speedsolving events may not be used to the judge lifting the cube cover for them. Use your discretion when issuing extras for incidents like these.
+Many new competitors will inadvertently break the Regulations due to their unfamiliarity with the Regulations and processes of a WCA competition or an event’s specific regulations. In these cases, you are always encouraged to use [Regulation A7g](https://www.worldcubeassociation.org/regulations/#A7g) to issue an extra to these competitors. An inexperienced competitor defined by A7g may not necessarily be new to WCA competitions, such as a competitor who is returning to WCA competitions after a long time or a competitor who is unfamiliar with a specific event. For example, a blindfolded-focused competitor who is newly competing in other speedsolving events may not be used to the judge lifting the cube cover for them. Use your discretion when issuing extras for incidents like these.
 
-A7g does not allow penalties to be waived, according to [Guideline A7g++](https://www.worldcubeassociation.org/regulations/guidelines.html#A7g++). An A7g-eligible competitor who gets a +2 due to their unfamiliarity with the regulations may be granted an extra attempt which fully replaces the original attempt. However, a +2 penalty alone is not a sufficient reason to justify granting an extra attempt to a new competitor, as this would effectively just be an additional attempt that would replace a poor result. There must be extenuating circumstances, such as confusion about the Regulations, to grant an extra for a +2.
+A7g does not allow penalties to be waived, according to [Guideline A7g++](https://www.worldcubeassociation.org/regulations/guidelines.html#A7g++). An A7g-eligible competitor who gets a +2 due to their unfamiliarity with the Regulations may be granted an extra attempt which fully replaces the original attempt. However, a +2 penalty alone is not a sufficient reason to justify granting an extra attempt to a new competitor, as this would effectively just be an additional attempt that would replace a poor result. There must be extenuating circumstances, such as confusion about the Regulations, to grant an extra for a +2.
 
 ### Common Incidents
 
@@ -930,7 +930,7 @@ If the time is equal to 0.06 seconds or higher, or below 0.06 seconds and the co
 
 ## Competitors Requiring Accommodations
 
-Competitors who require accommodations which prevent them from abiding by the WCA Regulations may request special accommodations via [Regulation 2s](https://www.worldcubeassociation.org/regulations/#2s). When the accommodation is related to a disability, provide accommodations relevant to the disability which do not allow for an advantage that undermines the inherent difficulty of the task. Many accommodations are already explicitly written into the regulations, so check those first before offering accommodations. Use reasonable discretion when approving accommodations not explicitly written. When providing accommodations, perform due diligence to reasonably but not invasively verify the disability.
+Competitors who require accommodations which prevent them from abiding by the WCA Regulations may request special accommodations via [Regulation 2s](https://www.worldcubeassociation.org/regulations/#2s). When the accommodation is related to a disability, provide accommodations relevant to the disability which do not allow for an advantage that undermines the inherent difficulty of the task. Many accommodations are already explicitly written into the Regulations, so check those first before offering accommodations. Use reasonable discretion when approving accommodations not explicitly written. When providing accommodations, perform due diligence to reasonably but not invasively verify the disability.
 
 Examples of accommodations include:
 
@@ -1072,7 +1072,7 @@ Notes:
 
 ## Delegate Reports
 
-After every competition, the Delegates must submit a Delegate report. The purpose of the Delegate report is to prove that the competition was run according to the regulations and at a sufficient level of quality, as well as share information that may be relevant to other Delegates. The Delegate report must be submitted within one week of the end of the competition. If you need an extension on your Delegate report, inform your Senior Delegate and CC the WEAT with a notice as soon as possible.
+After every competition, the Delegates must submit a Delegate report. The purpose of the Delegate report is to prove that the competition was run according to the Regulations and at a sufficient level of quality, as well as share information that may be relevant to other Delegates. The Delegate report must be submitted within one week of the end of the competition. If you need an extension on your Delegate report, inform your Senior Delegate and CC the WEAT with a notice as soon as possible.
 
 Each of the following sections will describe what to put in each section of the Delegate Report. In general, only interesting or notable items need to be written.
 
@@ -1239,7 +1239,7 @@ You may place an order using the [WCA Gear Order Form](https://docs.google.com/f
 
 ### WCA Equipment Funding
 
-At least once a year, the WCA Financial Committee performs a round of equipment funding in order to provide equipment to regions which may not be able to easily afford the equipment they need. A few weeks before applications open, the WFC will notify all Delegates via email of the timeframe in which applications will be accepted (usually for one entire month). Your application must justify why the WCA should purchase the equipment for you, including: listing all the equipment you currently have access to, explaining why it would be difficult to purchase equipment on your own, and demonstrating how having this equipment would allow for growth in your community.
+At least once a year, the WFC performs a round of equipment funding in order to provide equipment to regions which may not be able to easily afford the equipment they need. A few weeks before applications open, the WFC will notify all Delegates via email of the timeframe in which applications will be accepted (usually for one entire month). Your application must justify why the WCA should purchase the equipment for you, including: listing all the equipment you currently have access to, explaining why it would be difficult to purchase equipment on your own, and demonstrating how having this equipment would allow for growth in your community.
 
 Within 4 weeks of the end of the application period, the WFC will notify applicants how much, if any, of their funding request has been approved. If you are approved for equipment funding, the WFC will immediately work with you to coordinate ordering and shipping it to you. Depending on your financial situation, you may have 100% of costs covered or you may have to pay for non-equipment costs such as shipping or import taxes. The WFC will clearly state this when explaining their decision on your application so you can be aware of what your expected contribution will be.
 
@@ -1259,7 +1259,7 @@ For more information on the WCA Travel Funding program, please review the [offic
 
 ## Engaging in Internal Discussions
 
-As both a Delegate and a member of WCA Staff, you will be receiving emails not directly related to your competitions or your local community, such as other Delegate reports, requests for feedback on new iterations of the regulations, and more. You may participate in these discussions as much or as little as you wish. If you choose to engage in these discussions, keep the following in mind:
+As both a Delegate and a member of WCA Staff, you will be receiving emails not directly related to your competitions or your local community, such as other Delegate reports, requests for feedback on new iterations of the Regulations, and more. You may participate in these discussions as much or as little as you wish. If you choose to engage in these discussions, keep the following in mind:
 
 - Be professional and respectful.
 - Other regions have different cultures and ways of running competitions, so what works in one region does not necessarily work everywhere.
