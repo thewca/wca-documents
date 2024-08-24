@@ -28,23 +28,23 @@ The purpose of this policy is to list the financial and other restrictions which
 ### List of Regions with Restrictions
 All regions listed have financial restrictions per paragraph 3 of this policy in place. Any additional restrictions per paragraph 4 of this policy are noted in the second column. 
 
-| Region name      | Additional Restrictions          |
+| Region name      | Additional restrictions          |
 | ---------------- | -------------------------------- | 
 | Afghanistan      |                                  |
-| Belarus          | WCA recognised competitions not permitted |
+| Belarus          | WCA-recognized competitions not permitted |
 | Burundi          |                                  |
 | Central African Republic |                          |
 | Chad             |                                  |
 | Congo            |                                  |
 | Cuba             |                                  |
-| Democratic People's Republic of Korea (North Korea) | WCA recognised competitions not permitted |
+| Democratic People's Republic of Korea (North Korea) | WCA-recognized competitions not permitted |
 | Democratic Republic of the Congo |                  |
 | Eritrea          |                                  |
 | Iran             |                                  |
 | Iraq             |                                  |
 | Libya            |                                  |
 | Myanmar          |                                  |
-| Russia           |  WCA recognised competitions not permitted |
+| Russia           |  WCA-recognized competitions not permitted |
 | Somalia          |                                  |
 | South Sudan      |                                  |
 | Sudan            |                                  |
