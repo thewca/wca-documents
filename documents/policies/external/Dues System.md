@@ -48,7 +48,7 @@ The WCA Dues System is a program by which the WCA will collect revenue on a per-
 2. Band 0 status applies when a country meets one or more of the following conditions:
    1. The country has newly joined the WCA (at most 5 competitions have been completed in the country and it has been less than 2 years since the first competition in the country).
    2. The country is subject to financial restrictions according to the Regional Restrictions Policy.
-     1. If the country’s financial restrictions under the Regional Restrictions policy are lifted, then the WFC will return the country to the band in which it would otherwise be placed.
+      1. If the country’s financial restrictions under the Regional Restrictions policy are lifted, then the WFC will return the country to the band in which it would otherwise be placed.
    3. The country faces substantial difficulties making payments to the WCA via the supported payment methods due to their financial system and/or laws.
       1. This will be handled on a case-by-base basis at the discretion of the WFC after they become aware of the issue.
       2. If the country’s financial system advances or laws change to allow for payment through one or more of the supported methods, then the WFC will return the country to the band in which it would otherwise be placed.
