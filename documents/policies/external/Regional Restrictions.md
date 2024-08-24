@@ -20,7 +20,7 @@ The purpose of this policy is to list the financial and other restrictions which
    5. Residents of the region are not eligible to receive funding through the WCA Equipment Funding Policy or WCA Regional Organization Support Policy.
    6. Residents of the region are not eligible to be custodians for equipment provided through the WCA Equipment Funding Policy.
    7. Residents of the region are not eligible to receive funding through the WCA Travel Reimbursement Policy.
-   8. Travel to the region is not eligible for funding through the WCA Travel Reimbursement Policy.
+   8. Travel to and from the region is not eligible for funding through the WCA Travel Reimbursement Policy.
 4. The WCA Board may apply further restrictions in addition to financial restrictions, which will be listed in this policy.
 5. Regional restrictions are placed by the WCA Board by updating Appendix A of this policy, in consultation with the WCA Financial Committee and other applicable WCA Staff or advisors.
 
