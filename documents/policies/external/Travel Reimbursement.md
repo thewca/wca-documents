@@ -27,7 +27,7 @@ The purpose of this policy is to define the conditions under which the travel ex
    1. Non-US countries – [US Department of State Foreign Per Diem Rates](https://aoprals.state.gov/web920/per_diem.asp)
    2. 48 continental US states – [US General Services Administration CONUS Per Diem Rates](https://www.gsa.gov/travel/plan-book/per-diem-rates)
    3. Alaska, Hawaii, and US territories – [US Department of Defense OCONUS Per Diem Rates](https://www.travel.dod.mil/Travel-Transportation-Rates/Per-Diem/Per-Diem-Rate-Lookup/)
-2. Lodging expenses can only be claimed for the night before a competition begins, nights during a competition, and the night after a competition ends.
+2. Lodging expenses for travel to a competition can only be claimed for the night before a competition begins, nights during a competition, and the night after a competition ends. Lodging expenses for travel on official WCA business outside of a competition can only be claimed for nights before or after days where WCA business is undertaken.
 3. If anyone not explicitly named and authorized for WCA-funded travel is charged for a meal on the same receipt as someone whose travel is being funded, the meal expense must be prorated to only cover the portion of the food for the funded staff member(s) and a prorated portion of the tip (if applicable).
 4. Meal expenses can only be claimed for days during a competition, or for the day before or after a competition if WCA-funded travel is taking place on that day.
 5. Tips can be claimed as a meal expense but do count against the total daily meal expense limit.
