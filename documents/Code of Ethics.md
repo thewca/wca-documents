@@ -1,6 +1,6 @@
 # Code of Ethics
 
-### Version 2.4 {.version}
+### Version 2.5 {.version}
 
 The Code of Ethics must be considered by all Staff members of the World Cube Association (WCA), referred to in this document as “WCA Staff”, as a standard for actions and decisions they will be making when acting on behalf of the WCA within their role. “Listed Delegates” refers to WCA Delegates who are publicly displayed on the “General info” tab of an official WCA Competition.
 
@@ -53,7 +53,7 @@ The official communication channel for the WIC is via email. For any concerns ab
       1. WCA Staff should always be aware of their target audience (e.g. their age, experience, nationality, etc.) and their tone/language when they make statements while acting in their capacity as WCA Staff.
 3. **Conduct of Official WCA Competitions**
    1. Decisions on incidents required to be made by a WCA Delegate must only be made by those listed on the WCA competition page.
-      1. Non-listed Delegates can make decisions on incidents only with the approval of the listed Delegate(s).
+      1. Non-listed Delegates and non-Delegates can make decisions on incidents only with the approval of the listed Delegate(s).
    2. Decisions on competition changes should be approved by both Organizer(s) and listed Delegate(s) after discussion. This includes decisions before, during, and after the competition.
    3. WCA Delegates should work in conjunction with the Organizer(s) to hold the events requested by the Organizer(s).
       1. Possible reasons for declining Organizers’ requests include:
