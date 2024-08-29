@@ -10,7 +10,7 @@ The purpose of this policy is to outline the procedures for individual WCA Staff
    1. Through the course of of their role, WCA Staff Members may gain the ability to make payments on behalf of the WCA (e.g. explicit access to a bank account or payment card details). This includes abilities with limited scope, such as access to an online service which has WCA payment details pre-linked.
    2. As a general principle, WCA Staff Members should only grant the ability to make payments to other WCA Staff Members sparingly and when it is necessary for them to act in the scope of their role within the WCA.
    3. The posession of payment ability does not authorize individual Staff Members to act in a manner which will cause the WCA to incur costs. 
-   4. WCA Staff Members who use their ability to make payments in a manner not in line with the WCA Bylaws, Motions, Policies (including this policy) and/or Codes are considered to have acted outside the scope of their role within the WCA. The WCA reserves to take action in line with the WCA Code of Ethics or applicable laws in such an instance. 
+   4. WCA Staff Members who use their ability to make payments in a manner not in line with the WCA Bylaws, Motions, Policies (including this policy) and/or Codes are considered to have acted outside the scope of their role within the WCA. The WCA reserves the right to take action in line with the WCA Code of Ethics or applicable laws in such an instance. 
 2. Authority to make Payments
    1. Specific individual Staff Members, or Staff Members with defined roles, have the authority to make payments.
       1. Where an individual Staff Member is named, the role in which capacity they have authorization is specified. If the WCA Staff Member ceases to hold that role the authorization is considered invalid.
@@ -21,15 +21,15 @@ The purpose of this policy is to outline the procedures for individual WCA Staff
    1. WCA Staff Members with payment authority may not authorize payment to themselves, an immediate relative, or an organization where they are a director, owner, or involved in the management of finances.
 4. Prior to authorizing a payment, individuals with payment authority must:
    1. Determine the payment category;
-   2. Ensure the payment complies with (as applicable) the WCA Bylaws, the WCA Motions, WCA Policies, and/or the WCA Board approved budget for that year;
-   3. Ensure that the payment has necessary documentation for accounting purposes;
-   4. Ensure that the individual making payment does not have a conflict of interest; and,
-   5. Ensure that the payment is within the authorized payment level for that individual and payment category.
+   2. Ensure the payment complies with (as applicable) the WCA Bylaws, the WCA Motions, WCA Policies, and/or the most recent applicable WCA Board approved budget;
+   3. Ensure that the payment has necessary documentation;
+   4. Ensure that they (the individual making the payment) do not have a conflict of interest; and,
+   5. Ensure that the payment is within their authorized payment level for that individual and payment category.
   
 ## Appendix A {.page-break-before}
 ### Categories of Payment Authority
 1. Gear Team Orders
-   1. Placing of orders for timing equipment with Speedstacks. Limit refers to estimated cost of order.
+   1. Placing of orders for timing equipment with Speedstacks or other providers. Limit refers to estimated cost of order.
 2. Championship Support
    1. Sponsorship payments to WCA Major Championships within the budget allocations to each championship.
 3. Travel Funding
@@ -39,9 +39,9 @@ The purpose of this policy is to outline the procedures for individual WCA Staff
 5. RO Support
    1. Payments relating to expenses approved in line with the Regional Organization Support Policy
 6. Other Contracts
-   1. Payments of contractors amounts in line with contracts entered into by the WCA.
+   1. Payments to contractors of amounts in line with contracts entered into by the WCA.
 7. Other Budget Items
-   1. Other items explicitly included in the approved annual budget, such as Audit & Accountancy expenses, legal expenses, WCA Championship Presence, Insurance
+   1. Other items explicitly included in the approved annual budget, for example: legal expenses, insurance.
   
 ### Authorized Individuals
 All figures are in US Dollars. Transactions in foreign currencies should be converted to the US Dollar equivalent amount. Reminder, all payments above these figures or not in these categories must be explicitly authorized via a vote of the WCA Board.
