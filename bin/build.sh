@@ -21,7 +21,7 @@ convert_to_pdf() {
     pdf_path="${file%.md}.pdf"
     html_path="${file%.md}.html"
 
-    if [[ "$file" =~ build/documents/(motions|minutes)/(([a-zA-Z0-9.\-]|[[:blank:]])+)\.md ]]; then
+    if [[ "$file" =~ build/documents/(motions|minutes)/(([a-zA-Z0-9._\-]|[[:blank:]])+)\.md ]]; then
       # We need this for minutes and motions to have the correct document title. Otherwise it uses "{.text-center}"
       # or "SUBMISSION OF PROPOSED MOTION".
       document_title=${BASH_REMATCH[2]}
