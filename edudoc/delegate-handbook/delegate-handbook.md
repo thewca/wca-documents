@@ -1,6 +1,6 @@
 # Delegate Handbook
 
-The _Delegate Handbook_ is an educational and referential resource for WCA Delegates of all levels of experience, whether you’re a newly appointed Trainee Delegate or a Full Delegate with a hundred competitions under your belt. This document attempts to lay a foundation for both the required responsibilities and the most common scenarios faced by a Delegate so that every WCA competition can run with consistent levels of fairness and quality.
+The _Delegate Handbook_ is an educational and referential resource for WCA Delegates of all levels of experience, whether you're a newly appointed Trainee Delegate or a Full Delegate with a hundred competitions under your belt. This document attempts to lay a foundation for both the required responsibilities and the most common scenarios faced by a Delegate so that every WCA competition can run with consistent levels of fairness and quality.
 
 This document is _not_ a guide for how to organize or run a competition. While a WCA Delegate often fulfills many of the organizational tasks, those may also be handled by non-Delegate organizers. As such, organizational details are generally not included in this document, and can instead be found within the [Organizer Guidelines](https://www.worldcubeassociation.org/organizer-guidelines).
 
@@ -51,7 +51,7 @@ There is a lot of information that is relevant to all WCA Staff, not simply Dele
   - [New Competitor Tutorial](#new-competitor-tutorial)
   - [Competing as a Delegate](#competing-as-a-delegate)
     - [Conduct](#conduct)
-    - [Self Incidents](#self-incidents)
+    - [Your Own Incidents](#your-own-incidents)
   - [Scoretaking](#scoretaking)
     - [Common Scoretaking Issues](#common-scoretaking-issues)
     - [Records and Notable Solves](#records-and-notable-solves)
@@ -143,7 +143,7 @@ There are multiple tiers of Delegates, each with their own responsibilities with
 
 ### Trainee Delegates
 
-A Delegate will typically start their journey by being appointed as a Trainee Delegate. A Trainee Delegate’s primary responsibility is learning how to Delegate WCA competitions. Usually, this will involve shadowing another Delegate to learn the ropes of delegating. This generally includes the full competition lifecycle, from working with organizers to organize a competition, to preparing for the competition, to delegating at the competition, to posting results and writing reports after the competition, and interacting with other WCA Staff in internal communications.
+A Delegate will typically start their journey by being appointed as a Trainee Delegate. A Trainee Delegate's primary responsibility is learning how to Delegate WCA competitions. Usually, this will involve shadowing another Delegate to learn the ropes of delegating. This generally includes the full competition lifecycle, from working with organizers to organize a competition, to preparing for the competition, to delegating at the competition, to posting results and writing reports after the competition, and interacting with other WCA Staff in internal communications.
 
 When appointed, a Trainee Delegate gains access to:
 
@@ -160,11 +160,11 @@ A Trainee Delegate has the same permissions and responsibilities as a Junior Del
 
 A Trainee Delegate is a Community Member, and not a member of WCA Staff. However, a Trainee Delegate is still expected to embody the full responsibilities of a Delegate, and shall behave as a representative of the WCA in accordance with the Mission, Spirit, Policies, and Code of Ethics of the WCA.
 
-A Trainee Delegate’s training period is not just an evaluation of their skills, it is an opportunity for the Trainee Delegate to understand more fully what is expected of them. Sometimes a Trainee Delegate finds that delegating is not a good match for them, and that is okay. A Trainee Delegate may withdraw their appointment at any time by submitting a resignation letter to their Senior Delegate with a carbon copy (CC) to the WCA Board and WCA Executive Assistants Team (WEAT).
+A Trainee Delegate's training period is not just an evaluation of their skills, it is an opportunity for the Trainee Delegate to understand more fully what is expected of them. Sometimes a Trainee Delegate finds that delegating is not a good match for them, and that is okay. A Trainee Delegate may withdraw their appointment at any time by submitting a resignation letter to their Senior Delegate with a carbon copy (CC) to the WCA Board and WCA Executive Assistants Team (WEAT).
 
 After 12 months, a Trainee Delegate will automatically lose their appointment as a Trainee Delegate, unless their Senior Delegate extends the appointment with approval from the WCA Board.
 
-A Trainee Delegate is promoted to Junior Delegate after their Senior Delegate determines their readiness for promotion. This is usually after a Trainee Delegate demonstrates their capability as a Delegate over the course of a few competitions. A Senior Delegate may not be able to personally evaluate the performance of a Trainee Delegate, and may consult Regional Delegates as well as Full and Junior Delegates local to the Trainee Delegate in order to get a better understanding of the Trainee Delegate’s performance.
+A Trainee Delegate is promoted to Junior Delegate after their Senior Delegate determines their readiness for promotion. This is usually after a Trainee Delegate demonstrates their capability as a Delegate over the course of a few competitions. A Senior Delegate may not be able to personally evaluate the performance of a Trainee Delegate, and may consult Regional Delegates as well as Full and Junior Delegates local to the Trainee Delegate in order to get a better understanding of the Trainee Delegate's performance.
 
 ### Junior Delegates
 
@@ -180,14 +180,14 @@ A Junior Delegate has the same responsibilities as a Trainee Delegate, and addit
 
 After a Junior Delegate has held the position for at least one year, and has successfully managed at least three WCA Competitions, a Senior Delegate may promote a Junior Delegate to Full Delegate. On a quarterly basis, the WEAT checks which Junior Delegates are eligible for promotion and will request Senior Delegates to choose who they believe are ready for promotion. Once a Senior Delegate returns to the WEAT with their selected candidates for promotion, the WEAT will request feedback from various WCA teams and committees:
 
-- WCA Competition Announcement Team (WCAT), who look into the cleanliness of competition submissions. Generally, this is determined by the number and severity of mistakes in competition submissions, the timeliness of competition submissions (minimal submissions with under 30 days until the competition), and responsiveness to email queries. The Delegate must have confirmed at least one competition (by clicking the "Confirm" button themselves) to be eligible for a positive review from the WCAT. All of the Delegate’s confirmed competitions may be considered, with more consideration paid to recent competitions.
-- WCA Quality Assurance Committee (WQAC), who look into the timeliness of Delegate Reports being submitted, scramble accountability at that Delegate’s competitions, and the general quality of their competitions. All of the Delegate’s competitions may be considered, with more consideration paid to recent competitions.
-- WCA Results Team (WRT), who look into the cleanliness of a Delegate’s result submissions, change requests, and responsiveness to WRT questions. The Delegate must have submitted results at least three times to be eligible for a positive review from the WRT.
+- WCA Competition Announcement Team (WCAT), who look into the cleanliness of competition submissions. Generally, this is determined by the number and severity of mistakes in competition submissions, the timeliness of competition submissions (minimal submissions with under 30 days until the competition), and responsiveness to email queries. The Delegate must have confirmed at least one competition (by clicking the "Confirm" button themself) to be eligible for a positive review from the WCAT. All of the Delegate's confirmed competitions may be considered, with more consideration paid to recent competitions.
+- WCA Quality Assurance Committee (WQAC), who look into the timeliness of Delegate Reports being submitted, scramble accountability at that Delegate's competitions, and the general quality of their competitions. All of the Delegate's competitions may be considered, with more consideration paid to recent competitions.
+- WCA Results Team (WRT), who look into the cleanliness of a Delegate's result submissions, change requests, and responsiveness to WRT questions. The Delegate must have submitted results at least three times to be eligible for a positive review from the WRT.
 - WCA Regulations Committee (WRC), who use the Incidents section of Delegate Reports to determine that incidents are being handled correctly and change requests are made promptly after feedback is provided.
 - WCA Financial Committee (WFC), who verify that dues are paid within 30 days and that other invoices are paid in a timely manner. This is not applicable to Delegates who have their dues covered by a Regional Organization. See [Paying Competition Dues](#paying-competition-dues) for more information on how Dues may be paid.
 - WCA Integrity Committee (WIC), who verify that there are no active investigations into the Delegate.
 
-If the Senior Delegate, WCA teams, committees, and the Board all agree that a Junior Delegate is ready for promotion, the Senior Delegate will promote the Junior Delegate to Full Delegate. A promotion to Full Delegate is recognition of that individual’s hard work and contribution to the WCA over a period of time while maintaining high standards. If a Delegate is not promoted, their promotion is simply postponed until the next promotions cycle (next quarter).
+If the Senior Delegate, WCA teams, committees, and the Board all agree that a Junior Delegate is ready for promotion, the Senior Delegate will promote the Junior Delegate to Full Delegate. A promotion to Full Delegate is recognition of that individual's hard work and contribution to the WCA over a period of time while maintaining high standards. If a Delegate is not promoted, their promotion is simply postponed until the next promotions cycle (next quarter).
 
 ### Full Delegates
 
@@ -197,9 +197,9 @@ Full Delegate is the highest level that most Delegates will attain in their care
 
 ### Regional Delegates
 
-Alongside the normal responsibilities of a Full Delegate, a Regional Delegate helps oversee and manage competitions in a broader region than their immediate local cubing community. They are responsible for maintaining quality standards in their local community and supporting their local Full Delegates, Junior Delegates, and Trainee Delegates in performing their respective roles. Regional Delegates are expected to act as a leader of Delegates within their region, to encourage continuous improvement of competition quality, and evaluate area’s needs for additional Delegates. A Regional Delegate’s responsibilities are largely the same as a Senior Delegate’s, but the smaller assigned region allows a Regional Delegate to pay closer attention to the needs of their region and their Delegates than a Senior Delegate may be able to.
+Alongside the normal responsibilities of a Full Delegate, a Regional Delegate helps oversee and manage competitions in a broader region than their immediate local cubing community. They are responsible for maintaining quality standards in their local community and supporting their local Full Delegates, Junior Delegates, and Trainee Delegates in performing their respective roles. Regional Delegates are expected to act as a leader of Delegates within their region, to encourage continuous improvement of competition quality, and evaluate area's needs for additional Delegates. A Regional Delegate's responsibilities are largely the same as a Senior Delegate's, but the smaller assigned region allows a Regional Delegate to pay closer attention to the needs of their region and their Delegates than a Senior Delegate may be able to.
 
-Regional Delegates are appointed by a Senior Delegate in conjunction with the WCA Board on an as-needed basis as determined by the Senior Delegate. A Regional Delegate’s appointment time is indefinite, although a Regional Delegate can step down from their position voluntarily or have their appointment removed by the WCA Board in consultation with the Senior Delegate if they do not fulfill their responsibilities.
+Regional Delegates are appointed by a Senior Delegate in conjunction with the WCA Board on an as-needed basis as determined by the Senior Delegate. A Regional Delegate's appointment time is indefinite, although a Regional Delegate can step down from their position voluntarily or have their appointment removed by the WCA Board in consultation with the Senior Delegate if they do not fulfill their responsibilities.
 
 Not all regions have a Regional Delegate. In the case that no Regional Delegate exists, the Senior Delegate fulfills their responsibilities.
 
@@ -239,7 +239,7 @@ As a WCA Delegate, you may occasionally become aware of confidential information
 - Delegate Reports.
 - Internal WCA emails.
 - Non-public personal information of competitors as described in the [WCA Privacy Statement](https://www.worldcubeassociation.org/privacy) and [Regulation 2d](https://www.worldcubeassociation.org/regulations/#2d).
-  - Exception: contact information of competitors can be shared with their explicit permission. Permission grants are one-way; if Person A gives you permission to share their contact information with Person B, only give the contact information of Person A to Person B, and do not give Person B’s personal information to anyone else.
+  - Exception: contact information of competitors can be shared with their explicit permission. Permission grants are one-way; if Person A gives you permission to share their contact information with Person B, only give the contact information of Person A to Person B, and do not give Person B's personal information to anyone else.
 - Personal information of WCA Staff.
 - Banned competitors list.
 
@@ -257,7 +257,7 @@ In general, use your best judgment about confidentiality, and err on the side of
 Delegates who fail to do their duties may be placed on probation. The full details of probation can be viewed in the [WCA Delegate Probationary Status Policy](https://documents.worldcubeassociation.org/documents/policies/internal/Delegate%20Probationary%20Status.pdf). Probation is an internal designation which only the Delegate on probation, Regional Delegate, Senior Delegate, Board, and relevant committees and/or teams would be aware of. A Delegate may be placed on probation for:
 
 - Late Delegate report submissions.
-  - After 2 consecutive late reports, the WEAT will inform their Senior Delegate, who may then put the Delegate on probation. After submitting 3 consecutive reports on time, the Delegate’s probation can be removed.
+  - After 2 consecutive late reports, the WEAT will inform their Senior Delegate, who may then put the Delegate on probation. After submitting 3 consecutive reports on time, the Delegate's probation can be removed.
 - Late results submissions.
 - Late payment of Invoices for WCA Dues or equipment orders.
 - Quality issues. Examples of quality issues includes, but are not limited to:
@@ -274,7 +274,7 @@ A Delegate has a number of responsibilities before a competition happens. The _D
 
 ## Competitions and Your Community
 
-Among a Delegate’s responsibilities are fostering the health of their local cubing community. Every cubing community is different, with a unique combination of factors that determine the best competition frequency, size, and event selection for the community.
+Among a Delegate's responsibilities are fostering the health of their local cubing community. Every cubing community is different, with a unique combination of factors that determine the best competition frequency, size, and event selection for the community.
 
 ### Competition Frequency
 
@@ -335,7 +335,7 @@ There is a spectrum of how WCA competitions are organized, with organizer-led co
 
 In practice, fully organizer-led competitions are rare, as there are many possible points of failure that could prevent a competition from happening entirely, or happening at an unacceptably low level of quality. On the other hand, Delegate-led competitions are common in very small cubing communities with only one or two Delegates, as well as in very large and mature regions that have many Delegates under the umbrella of a Regional Organization.
 
-Most competitions lie somewhere between these two extremes. Some Delegates may prefer to get proposals on potential venues from members of their community, but otherwise organize the competitions themselves. Other times, a Delegate will work with the organizer to guide them through the entire organizational process, effectively performing many of the organizational tasks themselves. As an organizer gets more experienced and demonstrates capability, a Delegate may feel more comfortable relaxing this level of supervision. Ultimately, however, the WCA Delegate is responsible for making sure that all organizational tasks are completed by the time the competition begins, so most Delegates will maintain some degree of involvement in the organizational process.
+Most competitions lie somewhere between these two extremes. Some Delegates may prefer to get proposals on potential venues from members of their community, but otherwise organize the competitions themselves. Other times, a Delegate will work with the organizer to guide them through the entire organizational process, effectively performing many of the organizational tasks themself. As an organizer gets more experienced and demonstrates capability, a Delegate may feel more comfortable relaxing this level of supervision. Ultimately, however, the WCA Delegate is responsible for making sure that all organizational tasks are completed by the time the competition begins, so most Delegates will maintain some degree of involvement in the organizational process.
 
 ### Interacting with Organizers
 
@@ -381,7 +381,7 @@ The following are guidelines for filling out the [New Competition page](https://
 
 The usage of the schedule and events tab is mandatory for every WCA Competition.
 
-- The "Manage Events" page is under the "Edit" section on the left sidebar. You must fill out the number of rounds for each event and the round formats, cutoffs, time limits, and advancement conditions for each round. Don’t forget to press save! This will create an "Events" tab on the competition page, which will be visible to everyone. This is used as an events overview for competitors.
+- The "Manage Events" page is under the "Edit" section on the left sidebar. You must fill out the number of rounds for each event and the round formats, cutoffs, time limits, and advancement conditions for each round. Don't forget to press save! This will create an "Events" tab on the competition page, which will be visible to everyone. This is used as an events overview for competitors.
 - Once the events page is set up, you can create the schedule. The "Manage Schedule" page is under the "Edit" section. There you will find all of the events and rounds which you filled out on the "Manage Events" page. When you have filled the schedule out with all the rounds in their respective allocated time slots, press save. This will create a new "Schedule" tab on the competition website. All the information in the "Events" tab will also be found there.
 
 After you have followed all the steps and double-checked that everything is correct, you scroll to the bottom of the competition form and press "Confirm" (this button is not available to Trainee Delegates). This action will create an email notification to all Delegates of the competition, your Senior Delegate, and the WCAT. This email is used to notify the WCAT that your competition is ready to be reviewed. It may take up to 48 hours before you receive a reply. This email thread will then be the official announcement thread of the competition in case you need to make any changes. Do not add anyone to this thread unless you have a very good reason for it. You are not allowed to add the organizers to this thread, unless the organizers are other WCA staff members who have a good reason to be added.
@@ -408,7 +408,7 @@ Keep these points in mind when requesting a Fewest Moves Simultaneous Competitio
 
 ### Making Changes to an Existing Competition
 
-All requests for changes to an existing competition must be made using "Reply All" on the same email thread which was created when you confirmed the competition. The email thread will include all listed Delegates of the competition, with the Senior and Regional Delegate for the competition’s region, and the WCAT in CC.
+All requests for changes to an existing competition must be made using "Reply All" on the same email thread which was created when you confirmed the competition. The email thread will include all listed Delegates of the competition, with the Senior and Regional Delegate for the competition's region, and the WCAT in CC.
 
 To add a Delegate, reply-all to the email thread, add the new Delegate to the CC field of the email, and ask "Could we add \<Delegate Name> (\<WCA ID>) as a Delegate for this competition?", then wait for WCAT approval. To remove a Delegate, the same process applies; mention the name of the Delegate and ask for them to be removed, and the WCAT will remove the Delegate.
 
@@ -427,7 +427,7 @@ Closing/extending the registration period:
 
 Increasing the competitor limit:
 
-- Delegates can request a change to the competitor limit of a competition by providing a valid reason. Potential reasons for increasing the competitor limit are that you have a larger venue than initially expected or the competitor to guest ratio is lower than expected or that you chose a competitor limit that was too low to begin with. Do not increase the competitor limit if there’s any likelihood of it being crammed in the venue. Registrations must **never** be accepted before the WCAT approves the limit increase.
+- Delegates can request a change to the competitor limit of a competition by providing a valid reason. Potential reasons for increasing the competitor limit are that you have a larger venue than initially expected or the competitor to guest ratio is lower than expected or that you chose a competitor limit that was too low to begin with. Do not increase the competitor limit if there's any likelihood of it being crammed in the venue. Registrations must **never** be accepted before the WCAT approves the limit increase.
 
 ## Managing Registrations
 
@@ -454,7 +454,7 @@ Below are the most common issues with registration data:
 
 On abbreviations in competitor names:
 
-- Competitor names are required to contain a full last name (as noted on a person’s legal document) and reasonable first name or nickname they can be called by.
+- Competitor names are required to contain a full last name (as noted on a person's legal document) and reasonable first name or nickname they can be called by.
 - The name of the competitor must be roman-readable. Competitors are allowed to have the locally written name if they wish. The localized version must be surrounded by parentheses and added after the roman-readable name. Example: Hanako Yamada (山田映奈子).
 - Double letter abbreviations such as "AJ", "TJ", etc. are permitted as a first or middle name if a competitor wishes to be called accordingly.
 - Single letter abbreviations ("A.", "B.", etc.) for first and last names are not permitted unless this is how the name is displayed on an ID document.
@@ -508,11 +508,11 @@ Generation of groups is an organizer responsibility, but as a Delegate it is you
 - Skewb
 - Square-1
 
-For non-first rounds, it is a good practice to put all of the similarly skilled competitors in one group to ensure that they receive the same scrambles. Use the previous round’s results to determine which groups to place competitors in.
+For non-first rounds, it is a good practice to put all of the similarly skilled competitors in one group to ensure that they receive the same scrambles. Use the previous round's results to determine which groups to place competitors in.
 
 ## Competition Cancelation and Rescheduling
 
-Once a competition is announced, it is the expectation and responsibility of the Delegates to commit to seeing the competition through on the original date announced. Competitors and their families will have made arrangements and financial commitments to attend on that day, and it is in everyone’s best interest to honor those commitments.
+Once a competition is announced, it is the expectation and responsibility of the Delegates to commit to seeing the competition through on the original date announced. Competitors and their families will have made arrangements and financial commitments to attend on that day, and it is in everyone's best interest to honor those commitments.
 
 cancelations can only happen when there is no safe or feasible alternative. This is only an option in extenuating circumstances such as:
 
@@ -533,7 +533,7 @@ If you encounter issues such as these where canceling a competition appears nece
 
 # Day of the Competition
 
-It’s the big day, and you are a Delegate at a competition. Your presence allows the competition to be WCA-recognized, and your responsibilities are making sure that it follows the standards put forth by the WCA.
+It's the big day, and you are a Delegate at a competition. Your presence allows the competition to be WCA-recognized, and your responsibilities are making sure that it follows the standards put forth by the WCA.
 
 ## Setup and Environment
 
@@ -570,7 +570,7 @@ When checking in a new competitor, verify the following information:
 
 - Name, including spelling and capitalization. Have the competitor view their written name to confirm that it is correct. Pre-printed name tags are a great place to do this.
 - Date of birth.
-- Region of representation. According to [Regulation 2e](https://www.worldcubeassociation.org/regulations/#2e), competitors must represent a country of which they hold citizenship. Take extra caution when verifying a competitor’s country of registration, as many competitors will mistakenly indicate their country of residence or heritage.
+- Region of representation. According to [Regulation 2e](https://www.worldcubeassociation.org/regulations/#2e), competitors must represent a country of which they hold citizenship. Take extra caution when verifying a competitor's country of registration, as many competitors will mistakenly indicate their country of residence or heritage.
 - Verbally confirm that they have never competed at a WCA competition before.
 
 In the case that a new competitor does not have a form of identification available, it is acceptable to allow the competitor to verbally confirm their name and date of birth. If no documentation of citizenship can be provided, make a note for this competitor and inform them to send the documentation to you via email after the competition. Competitors without any citizenship may compete as "Stateless" under [Regulation 2e3](https://www.worldcubeassociation.org/regulations/#2e3). Contact the WRT if you encounter such a competitor.
@@ -583,52 +583,52 @@ While a new competitor tutorial is not required, it is recommended, as it helps 
 - If there is a day when very few newcomers are expected, such as a day focused around blindfolded events, you may skip the tutorial entirely and hold it on another day.
 - If there are potentially multiple days that a newcomer may attend for the first time, consider holding multiple new competitor tutorials on each day of the competition.
 
-Typically, a Delegate is best suited for this task because of their familiarity with the Regulations. In cases where the Delegate doesn’t speak the local language, it may be best to choose an organizer or trusted competitor to give the new competitor tutorial. If there are a large number of newcomers, it may be best to have two separate tutorials so that everyone can both see and hear the tutorial more easily.
+Typically, a Delegate is best suited for this task because of their familiarity with the Regulations. In cases where the Delegate doesn't speak the local language, it may be best to choose an organizer or trusted competitor to give the new competitor tutorial. If there are a large number of newcomers, it may be best to have two separate tutorials so that everyone can both see and hear the tutorial more easily.
 
 The following points are an outline of a new competitor tutorial for a WCA competition. Depending on the specific events of the competition, it may be a good idea to have a secondary judging tutorial before an event that has specific judging instructions. For example, 3x3x3 Blindfolded judging does not have the judge time inspection and has them hold a sight blocker, while Clock allows competitors to manipulate pins during inspection, requires judges to check both sides of the puzzle, and does not have +2s. Modify the tutorial as necessary to fit the needs of your competition.
 
-- How to read a nametag, or otherwise determine the competitor’s competing, judging, scrambling, and/or running groups.
-- What to do when the competitor’s group is called
-- How to compete
-  - Telling the judge they are ready
-  - Inspection time, including penalties
-  - How to start the timer properly
-    - Hand position, particularly using fingers to start timer
-    - Waiting for the green light on the timer
-  - How to stop the timer properly
-    - Flat hands; no karate chops
-  - How to sign for attempts
+- How to read a nametag, or otherwise determine the competitor's competing, judging, scrambling, and/or running groups.
+- What to do when the competitor's group is called.
+- How to compete.
+  - Telling the judge they are ready.
+  - Inspection time, including penalties.
+  - How to start the timer properly.
+    - Hand position, particularly using fingers to start the timer.
+    - Waiting for the green light on the timer.
+  - How to stop the timer properly.
+    - Flat hands; no "karate chops".
+  - How to sign for attempts.
     - Check that the time matches the timer and is written legibly. Times which are not written legibly will be interpreted in the worst way possible. Competitors can ask their judge to re-write times if they are not easily readable.
-  - How to call over a Delegate
-- How to judge
-  - Asking the competitor if they are ready and waiting for the competitor’s ready signal
-  - Judging inspection, including lifting the cube cover, operating the stopwatch, and making callouts
-    - Emphasize that only "8 seconds" and "12 seconds" are called out, not 15 or 17 seconds
-    - Stopping the stopwatch when the competitor starts their solve, so that the actual time of the inspection is measured
+  - How to call over a Delegate.
+- How to judge.
+  - Asking the competitor if they are ready and waiting for the competitor's ready signal.
+  - Judging inspection, including lifting the cube cover, operating the stopwatch, and making callouts.
+    - Emphasize that only "8 seconds" and "12 seconds" are called out, not 15 or 17 seconds.
+    - Stopping the stopwatch when the competitor starts their solve, so that the actual time of the inspection is measured.
   - What to look for when the competitor starts their solve, including:
     - Timer start hand position
     - Whether the competitor is touching the puzzle
-  - How to judge during the solve
-    - Pay attention. Don’t cube, use your phone, or engage in conversation
-    - Don’t distract the competitor during the solve. Sit still and be quiet
-    - Watch the competitor for any regulation violations
-    - Pay close attention to how the competitor stops their timer, and make sure they are using their hands with palms flat and facing down
-  - Finishing the solve
-    - The first step is to evaluate whether the cube is solved
-    - Do not touch the puzzle, use only your eyes
+  - How to judge during the solve.
+    - Pay attention. Don't cube, use your phone, or engage in conversation.
+    - Don't distract the competitor during the solve. Sit still and be quiet.
+    - Watch the competitor for any regulation violations.
+    - Pay close attention to how the competitor stops their timer, and make sure they are using their hands with palms flat and facing down.
+  - Finishing the solve.
+    - The first step is to evaluate whether the cube is solved.
+      - Do not touch the puzzle, use only your eyes.
     - How to evaluate the cube for +2s:
-      - On a 3x3x3, explain that a single 90 degree turn (e.g. U or U’) is a +2
-      - Explain that a double move (e.g. U2 or R2) is also a +2, and not considered 2 separate moves
-      - Explain that a slice move (e.g. M or M2) is considered 2 moves, and is thus a DNF
-      - If the cube is close to the limit for a +2 penalty (45 degrees), and the judge cannot determine the final state, call over a Delegate to make the final decision
-    - Explain that a corner twist is a DNF
-    - Explain how missing pieces affect the solved state
-      - The complexity of regulation 5b5 can make this difficult for competitors to understand. Emphasize that judges can call over a Delegate if they are not certain about how to rule certain missing pieces
-    - How to write the final time
-      - Emphasize legible handwriting
-    - How to write the final time if there are penalties
-    - Ask the competitor to sign for the attempt
-  - What to do after the attempt is over (this may vary depending on how your competition is being run)
+      - Explain that a single turn (e.g. U or U') is a +2 on an NxNxN puzzle
+      - Explain that a "double move" (e.g. U2 or R2) is also a +2, and not considered two separate moves
+      - Explain that a slice move (e.g. M or M2) is considered as two outer moves, and is thus a DNF
+      - Tell them that if the cube is close to the limit for a +2 penalty (e.g. 45 degrees on NxNxN puzzles), and the judge cannot determine the final state, they should call over a Delegate to make the final decision
+    - Explain that a corner twist is a DNF.
+    - Explain how missing pieces affect the solved state.
+      - The complexity of regulation 5b5 can make this difficult for competitors to understand. Emphasize that judges can call over a Delegate if they are not certain about how to rule certain missing pieces.
+    - How to write the final time.
+      - Emphasize legible handwriting.
+    - How to write the final time, if there are penalties.
+    - Ask the competitor to sign for the attempt.
+  - What to do after the attempt is over (this may vary depending on how your competition is being run).
 
 ## Competing as a Delegate
 
@@ -642,7 +642,7 @@ If there are no other Delegates available, you can consider appointing a member 
 
 Follow the same rules for yourself that you would apply to other competitors while competing, particularly on matters surrounding scramble secrecy. While competing, remain in the designated competition or waiting areas, do not interact with the scrambling table, and avoid handling incidents on scrambles in your group which you have not yet seen.
 
-### Self Incidents
+### Your Own Incidents
 
 Inevitably, an incident will occur to you while you are competing. While Delegates are authorized to issue extras to themselves, they must exercise caution while doing so, as it can appear unfair to other competitors. Have a higher bar for issuing extras to yourself. For example, have a higher tolerance to sudden noises than the average competitor and only grant yourself an extra in the case of exceptional distraction. If there are other Delegates of this competition, call them over to issue the extra when possible. If there are no other Delegates available, call over a trusted and experienced community member to verify the reasonableness of the extra for transparency.
 
@@ -656,7 +656,7 @@ As the Delegate you are ultimately responsible for the results that get entered 
 
 When assigning someone to do scoretaking using WCA Live, do not let them use your WCA account. Instead, have them log in with their own WCA account, and add the user as a scoretaker under the competition settings on WCA Live.
 
-If you are logging in to WCA Live on a device which is not yours, such as an organizer’s laptop, you are **strongly** encouraged to use the one-time code sign in method for security reasons. Typing your password in on a device that you do not control is an extremely simple way to steal your WCA account’s login credentials, given a nefariously motivated individual. **Do not use the one-time code to allow someone else to log into your account. Instead, add their account as a scoretaker as mentioned above**. Because your WCA account gives you access to the personal information of hundreds of thousands of people, do not allow anyone else to access or use your WCA account under any circumstances.
+If you are logging into WCA Live on a device which is not yours, such as an organizer's laptop, you are **strongly** encouraged to use the one-time code sign in method for security reasons. Typing your password in on a device that you do not control is an extremely simple way to steal your WCA account's login credentials, given a nefariously-motivated individual. **Do not use the one-time code to allow someone else to log into your account. Instead, add their account as a scoretaker as mentioned above**. Because your WCA account gives you access to the personal information of hundreds of thousands of people, do not allow anyone else to access or use your WCA account under any circumstances.
 
 ### Common Scoretaking Issues
 
@@ -666,40 +666,33 @@ Using an HTML table here because Markdown formatters and renderers often can't p
 
 <table>
   <tr>
-   <td><strong>Issue</strong>
-   </td>
-   <td><strong>Resolution</strong>
+   <td>**Issue**</td>
+   <td>**Resolution**</td>
+  </tr>
+  <tr>
+   <td>Time is not written clearly</td>
+   <td>
+   [Guideline A7c+](https://www.worldcubeassociation.org/regulations/guidelines.html#A7c+) states that you must make sure the time is clearly written and correctly formatted. Any ambiguous numbers are interpreted the worst reasonable way.</br></br>
+   It is preferable that final results reflect the correct results instead of what is recorded due to an inattentive competitor or judge. With sufficient evidence (e.g. a video of the attempt with a clear view of the final timer display), enter the actual time that occurred regardless of the ambiguity of the scorecard.
    </td>
   </tr>
   <tr>
-   <td>Time is not written clearly
-   </td>
-   <td><a href="https://www.worldcubeassociation.org/regulations/guidelines.html#A7c+">Guideline A7c+</a> states that you must make sure the time is clearly written and correctly formatted. Any ambiguous numbers are interpreted the worst reasonable way.
-<p>
-It is preferable that final results reflect the correct results instead of what is recorded due to an inattentive competitor or judge. With sufficient evidence (e.g. a video of the attempt with a clear view of the final timer display), enter the actual time that occurred regardless of the ambiguity of the scorecard.
-   </td>
-  </tr>
-  <tr>
-   <td>DNS result recorded on scorecard
-   </td>
-   <td>Some confused judges will write "DNS" on the scorecard for instances when the competitor fails to start the timer correctly, or other pre-solve issues. DNS is only used when the competitor is eligible for an attempt but decides to forfeit it. Unless you can verify that the attempt is a genuine DNS, it is safer to change this result to DNF.
-<p>
-One or more sequential DNS results at the end of a scorecard are much more likely to be genuine than a DNS followed by valid times.
+   <td>DNS result recorded on scorecard</td>
+   <td>
+   Some confused judges will write "DNS" on the scorecard for instances when the competitor fails to start the timer correctly, or other pre-solve issues. DNS is only used when the competitor is eligible for an attempt but decides to forfeit it. Unless you can verify that the attempt is a genuine DNS, it is safer to change this result to DNF.</br></br>
+   One or more sequential DNS results at the end of a scorecard are much more likely to be genuine than a DNS followed by valid times.
    </td>
   </tr>
   <tr>
-   <td>Competitor did not sign for an attempt
-   </td>
-   <td>If the competition is not over, you may call over the competitor to sign for the attempt after the fact via [Regulation A7c5](https://www.worldcubeassociation.org/regulations/#A7c5). Otherwise, enter the attempt as a DNF. Video or photographic evidence may not be used in lieu of a missing signature.
-<p>
-Entering a DNF attempt often prompts the competitor to appear once they check their results on WCA Live. You may still allow the competitor to sign for the attempt at your discretion.
+   <td>Competitor did not sign for an attempt</td>
+   <td>
+   If the competition is not over, you may call over the competitor to sign for the attempt after the fact via [Regulation A7c5](https://www.worldcubeassociation.org/regulations/#A7c5). Otherwise, enter the attempt as a DNF. Video or photographic evidence may not be used in lieu of a missing signature.</br></br>
+   Entering a DNF attempt often prompts the competitor to appear once they check their results on WCA Live. You may still allow the competitor to sign for the attempt at your discretion.
    </td>
   </tr>
   <tr>
-   <td>Judge did not sign for an attempt
-   </td>
-   <td>If the competition is not over, you may call over the judge to sign for the attempt after the fact via [Regulation A7c5](https://www.worldcubeassociation.org/regulations/#A7c5). The judge must be the same judge who actually judged that attempt, and another person may not sign for the attempt. If the judge cannot be quickly identified, you may ask the competitor to look for the judge and bring them to you. Otherwise, input the time as a DNF.
-   </td>
+   <td>Judge did not sign for an attempt</td>
+   <td>If the competition is not over, you may call over the judge to sign for the attempt after the fact via [Regulation A7c5](https://www.worldcubeassociation.org/regulations/#A7c5). The judge must be the same judge who actually judged that attempt, and another person may not sign for the attempt. If the judge cannot be quickly identified, you may ask the competitor to look for the judge and bring them to you. Otherwise, input the time as a DNF.</td>
   </tr>
 </table>
 
@@ -713,17 +706,17 @@ In the case that a misscramble is found during the competition, no matter how mi
 
 #### World Record Social Media Posts
 
-World records are one of the largest drivers of the WCA’s public outreach. When one occurs, Delegates are encouraged to fill out the [World Record Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSeLrkLhFnIy1QNGoWoZT4jsOIibNJ_xc9qTd_YKBpcuMIq-LA/viewform) so that the WCA Communication Team (WCT) can make posts on WCA social media pages regarding the new world record. An example of a world record post can be found [here](https://www.instagram.com/p/C3tazeXN9ZO/).
+World records are one of the largest drivers of the WCA's public outreach. When one occurs, Delegates are encouraged to fill out the [World Record Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSeLrkLhFnIy1QNGoWoZT4jsOIibNJ_xc9qTd_YKBpcuMIq-LA/viewform) so that the WCA Communication Team (WCT) can make posts on WCA social media pages regarding the new world record. An example of a world record post can be found [here](https://www.instagram.com/p/C3tazeXN9ZO/).
 
-When a new world record is achieved, a lot of attention is directed towards the WCA. These world record social media posts are most effective when they are posted during this excitement. Fill out the form as soon as the record has been verified by checking the scrambles, validating the scorecard, and resolving any possible incidents.
+When a new world record is achieved, a lot of attention may be directed towards the WCA. These world record social media posts are most effective when they are posted during this excitement. Fill out the form as soon as the record has been verified by checking the scrambles, validating the scorecard, and resolving any possible incidents.
 
-Before submitting a photo of the competitor through the form, be sure to gain the competitor’s consent to be posted on the WCA’s social media pages.
+Before submitting a photo of the competitor through the form, be sure to gain the competitor's consent to be posted on the WCA's social media pages.
 
 ### Missing Competitor Results
 
-When the data for a round is fully entered, you may have competitors without results. Presumably, this is because they did not compete, but it’s good to verify this, as losing a competitor’s results leads to a very poor competitor experience.
+When the data for a round is fully entered, you may have competitors without results. Presumably, this is because they did not compete, but it's good to verify this, as losing a competitor's results leads to a very poor competitor experience.
 
-Scorecards that are pre-labeled with the competitor’s name are highly recommended for all WCA competitions, as a blank scorecard with the competitor’s name after the round is complete is very strong evidence that the competitor did not compete. Once you have their blank scorecard, you can safely drop them from the round from WCA Live. If a blank scorecard cannot be found, it is likely that their results were misplaced. Scorecards can get stuck together or lost inside cube covers, and sometimes the competitor will take the scorecard without realizing its importance in scoretaking. If you still cannot locate the scorecard and the competitor can verify that they did their attempts, grant the competitor provisional extra attempts for the entire round and enter those as the result. If the original scorecard reappears, replace the provisional extra attempts with the original times.
+Scorecards that are pre-labeled with the competitor's name are highly recommended for all WCA competitions, as a blank scorecard with the competitor's name after the round is complete is very strong evidence that the competitor did not compete. Once you have their blank scorecard, you can safely drop them from the round from WCA Live. If a blank scorecard cannot be found, it is likely that their results were misplaced. Scorecards can get stuck together or lost inside cube covers, and sometimes the competitor will take the scorecard without realizing its importance in scoretaking. If you still cannot locate the scorecard and the competitor can verify that they did their attempts, grant the competitor provisional extra attempts for the entire round and enter those as the result. If the original scorecard reappears, replace the provisional extra attempts with the original times. You should explain how this process works to the competitor.
 
 ## +2 Calls and Penalties {#plus2-calls-and-penalties}
 
@@ -739,7 +732,7 @@ One side effect of these regulations is that there are certain Square-1 states t
 
 ![](images/sq1-plus-2.jpg){.centered width=50%}
 
-In this example, a (1, 0) / (-1, -1), and then a partial slice under 90 degrees has been applied to the puzzle. This is only a +2 penalty because the (1, 0) is under the misalignment threshold of 45 degrees for (U, D) moves, and so is not a penalty. The slice is over the misalignment threshold of 90 degrees, and incurs a +2 penalty. The (-1, -1) once again is under the misalignment threshold, as U and D moves are considered separately according to [Guideline 10f4+](https://www.worldcubeassociation.org/regulations/guidelines.html#10f4+). Finally, the partial slice is under the 90 degree threshold. In conclusion, only 1 move has been made above the penalty threshold, so the final ruling is that this is a +2 penalty.
+In this example, a (1, 0) / (-1, -1), and then a partial slice under 90 degrees have been applied to the puzzle. This is only a +2 penalty because the (1, 0) is under the misalignment threshold of 45 degrees for (U, D) moves, and so is not a penalty. The slice is over the misalignment threshold of 90 degrees, and incurs a +2 penalty. The (-1, -1) once again is under the misalignment threshold, as U and D moves are considered separately according to [Guideline 10f4+](https://www.worldcubeassociation.org/regulations/guidelines.html#10f4+). Finally, the partial slice is under the 90 degree threshold. In conclusion, only 1 move has been made above the penalty threshold, so the final ruling is that this is a +2 penalty.
 
 ## Regulation 3j: Reasonable Wear
 
@@ -749,13 +742,13 @@ If an illegal puzzle is found during a round, any completed attempts may be repl
 
 ## Regulation 5b5: Popped Puzzles
 
-[Regulation 5b5](https://www.worldcubeassociation.org/regulations/#5b5) is one of the most notoriously difficult regulations to rule on because of the vast number of final resting states and ambiguous piece positions when not fully placed. When you encounter a difficult-to-rule resting state of the final puzzle, refer to the [Regulation 5b5 Visual Guide](https://drive.google.com/file/d/15XszaCGNvy3Dk6X6qERzZWZaDH1RH04z/view) to help you make the final decision.
+[Regulation 5b5](https://www.worldcubeassociation.org/regulations/#5b5) is one of the most notoriously difficult regulations to rule on because of the vast number of final resting states and ambiguous piece positions when not properly attached. When you encounter a difficult-to-rule resting state of the final puzzle, refer to the [Regulation 5b5 Visual Guide](https://drive.google.com/file/d/15XszaCGNvy3Dk6X6qERzZWZaDH1RH04z/view) to help you make the final decision.
 
 ## Incidents
 
-Beyond ensuring that a WCA competition adheres to the WCA Regulations, a Delegate’s primary responsibility at competitions is resolving incidents. According to the [Regulation 11a](https://www.worldcubeassociation.org/regulations/#11a) and its sub-regulations, an incident is defined as:
+Beyond ensuring that a WCA competition adheres to the WCA Regulations, a Delegate's primary responsibility at competitions is resolving incidents. According to the [Regulation 11a](https://www.worldcubeassociation.org/regulations/#11a) and its sub-regulations, an incident is defined as:
 
-> [11a1](https://www.worldcubeassociation.org/regulations/#11a1)) Incorrect execution of event procedures, by officials or competitors.
+> [11a1](https://www.worldcubeassociation.org/regulations/#11a1)) Incorrect execution of event procedures by officials or competitors.
 
 > [11a2](https://www.worldcubeassociation.org/regulations/#11a2)) Interference or facility interruptions (e.g. power failure, emergency alarm activation).
 
@@ -765,17 +758,17 @@ Beyond ensuring that a WCA competition adheres to the WCA Regulations, a Delegat
 
 > [11b](https://www.worldcubeassociation.org/regulations/#11b)) If an incident occurs, the WCA Delegate determines an impartial and appropriate course of action.
 
-> [11d](https://www.worldcubeassociation.org/regulations/#11d)) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make a decision based on fair sportsmanship (also see Regulation 11e3).
+> [11d](https://www.worldcubeassociation.org/regulations/#11d)) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make a decision based on fair sportsmanship (also see [Regulation 11e3](https://www.worldcubeassociation.org/regulations/#11e3)).
 
 As a Delegate, your goal is to resolve any incidents which occur, while keeping in mind the fairness of the final resolution.
 
 ### Extras
 
-Extra attempts are often issued to competitors to resolve incidents in order to prevent a competitor from being unfairly advantaged or disadvantaged. Always keep fairness in mind when issuing an extra attempt, as some competitors may attempt to take advantage of extras by replacing a bad solve. Use your discretion when issuing an extra. If you believe that a competitor may be taking advantage of an incident by requesting an extra, you may reject extra attempt requests.
+Extra attempts are often issued to competitors to resolve incidents in order to prevent a competitor from being unfairly advantaged or disadvantaged. Always keep fairness in mind when issuing an extra attempt, as some competitors may attempt to take advantage of extras by replacing a bad solve. Use your discretion when issuing an extra. If you believe that a competitor may be taking advantage of an incident by requesting an extra, you may reject their request.
 
 When an incident arises, encourage competitors to stop the attempt immediately by calling over a Delegate with the timer still running. This is because a competitor who completes the solve then has the option to determine whether or not the attempt is a bad result before requesting an extra, effectively giving them a second shot at the attempt. According to [Guideline 11e+++](https://www.worldcubeassociation.org/regulations/guidelines.html#11e+++), use stronger discretion when granting an extra attempt after the solve is finished. Only grant the extra in exceptional circumstances. However, do note that for very short events, it may be difficult for a competitor to pause mid-solve. Keep the length of the attempt in mind when evaluating whether to grant an extra attempt, and be less lenient for events longer than a few seconds.
 
-The following is a general decision tree for handling incidents, and gives you a general idea of what to consider and what the outcome usually is for an incident. However, **this decision tree is always welcome to be overruled by the Delegate if they believe their decision is more fair.**
+The following is a general decision tree for handling incidents, and gives you a general idea of what to consider and what the outcome usually is for an incident. However, **this decision tree is always welcome to be overruled by the Delegate if they believe their decision is more fair**.
 
 ![](images/extra-decision-tree.png){.centered width=90%}
 
@@ -783,15 +776,15 @@ The following is a general decision tree for handling incidents, and gives you a
 
 If you are ever unsure of whether it is fair to issue an extra, or do not have time to fully investigate the circumstances around an incident, you may always issue a provisional extra. A provisional extra is an extra that is not guaranteed to be accepted as the final result. Communicate to the competitor that you are granting a provisional extra and explain that whether the original time or the extra time will stand will be determined at a future time.
 
-If the provisional extra determines whether or not an individual advances to another round, you may choose to allow the affected competitor to compete provisionally as well. Inform them that their attempts for the next rounds are provisional, and may be thrown away depending on the final result of the other competitor’s provisional extra. Take caution when exercising this option, as it can often result in confusion for the affected competitor(s). Additionally, if this situation occurs more than once in a competition, rule all instances similarly in order to be fair to all competitors at that competition.
+If the provisional extra determines whether or not an individual advances to a subsequent round, you may choose to allow the affected competitor to compete provisionally as well. Inform them that their attempts for the subsequent rounds are provisional, and may be annulled depending on the final result of the other competitor's provisional extra. Take caution when exercising this option, as it can often result in confusion for the affected competitor(s). Additionally, if this situation occurs more than once in a competition, rule all instances similarly in order to be fair to all competitors at that competition.
 
 At any point, you may re-evaluate the fairness of the provisional extra and make a final ruling on whether or not it counts for the official attempt. However, if you are still unsure about a final ruling, describe the incident in the Incidents section of the Delegate Report and request WRC feedback. They will review the situation and provide a final ruling on whether to keep the provisional extra.
 
 ### Regulation A7g
 
-> A7g) At the discretion of the WCA Delegate, an incident or penalty caused by a competitor's inexperience may be replaced with an extra attempt.
+> [A7g](https://www.worldcubeassociation.org/regulations/#A7g)) At the discretion of the WCA Delegate, an incident or penalty caused by a competitor's inexperience may be replaced with an extra attempt.
 
-Many new competitors will inadvertently break the Regulations due to their unfamiliarity with the Regulations and processes of a WCA competition or an event’s specific regulations. In these cases, you are always encouraged to use [Regulation A7g](https://www.worldcubeassociation.org/regulations/#A7g) to issue an extra to these competitors. An inexperienced competitor defined by A7g may not necessarily be new to WCA competitions, such as a competitor who is returning to WCA competitions after a long time or a competitor who is unfamiliar with a specific event. For example, a blindfolded-focused competitor who is newly competing in other speedsolving events may not be used to the judge lifting the cube cover for them. Use your discretion when issuing extras for incidents like these.
+Many new competitors will inadvertently break the Regulations due to their unfamiliarity with the Regulations and processes of a WCA competition or an event's specific regulations. In these cases, you are always encouraged to use [Regulation A7g](https://www.worldcubeassociation.org/regulations/#A7g) to issue an extra to these competitors. An inexperienced competitor defined by A7g may not necessarily be new to WCA competitions, such as a competitor who is returning to WCA competitions after a long time or a competitor who is unfamiliar with a specific event. For example, a blindfolded-focused competitor who is newly competing in other speedsolving events may not be used to the judge lifting the cube cover for them. Use your discretion when issuing extras for incidents like these.
 
 A7g does not allow penalties to be waived, according to [Guideline A7g++](https://www.worldcubeassociation.org/regulations/guidelines.html#A7g++). An A7g-eligible competitor who gets a +2 due to their unfamiliarity with the Regulations may be granted an extra attempt which fully replaces the original attempt. However, a +2 penalty alone is not a sufficient reason to justify granting an extra attempt to a new competitor, as this would effectively just be an additional attempt that would replace a poor result. There must be extenuating circumstances, such as confusion about the Regulations, to grant an extra for a +2.
 
@@ -805,125 +798,101 @@ Using an HTML table here because Markdown formatters and renderers often can't p
 
 <table>
   <tr>
-   <td><strong>Incident</strong>
-   </td>
-   <td><strong>Resolution</strong>
+   <td>**Incident**</td>
+   <td>**Resolution**</td>
+  </tr>
+  <tr>
+   <td>Judge did not reset timer</td>
+   <td>
+   [Regulation A3b](https://www.worldcubeassociation.org/regulations/#A3b) indicates that resetting the timer is the judge's responsibility. This means that the competitor is not considered at fault for this incident. Issue an extra, remind the judge to make sure the timer is reset before any attempt, and additionally inform the competitor that they are allowed to reset the timer in inspection if they ever notice it isn't reset in the future.</br></br>
+   If the competitor repeatedly fails to notice that the timer is not reset, especially within a single round, you may use your discretion to not issue an extra.
    </td>
   </tr>
   <tr>
-   <td>Judge did not reset timer
-   </td>
-   <td><a href="https://www.worldcubeassociation.org/regulations/#A3b">Regulation A3b</a> indicates that resetting the timer is the judge’s responsibility. This means that the competitor is not considered at fault for this incident. Issue an extra, remind the judge to make sure the timer is reset before any attempt, and additionally inform the competitor that they are allowed to reset the timer in inspection if they ever notice it isn’t reset in the future.
-<p>
-If the competitor repeatedly fails to notice that the timer is not reset, especially within a single round, you may use your discretion to not issue an extra.
-   </td>
-  </tr>
-  <tr>
-   <td>Timer was in 4-pad mode
-   </td>
-   <td><a href="https://www.worldcubeassociation.org/regulations/#7f4">Regulation 7f4</a> dictates that the timer must be in 2-pad mode. Because changing modes on a Gen 5 timer takes 5 seconds, it is not reasonable to expect the competitor to switch modes in inspection. Issue an extra, and inform the judge and competitor to check for the orange light indicating 2-pad mode is active before starting the solve.
-<p>
-Timers occasionally malfunction and may switch to 4-pad mode on their own. In instances like these, make a note of the timer and replace it if the issues continue to persist. If a timer is deemed to be regularly malfunctioning, be more generous when granting extras that may be caused by these malfunctions.
+   <td>Timer was in 4-pad mode</td>
+   <td>
+   [Regulation 7f4](https://www.worldcubeassociation.org/regulations/#7f4) dictates that the timer must be in 2-pad mode. Because changing modes on a Gen 5 timer takes 5 seconds, it is not reasonable to expect the competitor to switch modes in inspection. Issue an extra, and inform the judge and competitor to check for the orange light indicating 2-pad mode is active before starting the solve.</br></br>
+   Timers occasionally malfunction and may switch to 4-pad mode on their own. In instances like these, make a note of the timer and replace it if the issues continue to persist. If a timer is deemed to be regularly malfunctioning, be more generous when granting extras that may be caused by these malfunctions.
    </td>
   </tr>
   <tr>
-   <td>Duplicate scramble reported
-   </td>
-   <td>Do your best to give them the correct scramble. If the correct scramble cannot be confidently determined, issue an extra.
-<p>
-If the competitor has footage or has not solved the puzzle, it is the best way to resolve such incidents. Request to see the footage or the unsolved puzzle and use it to identify which scramble they were given and to give them the correct one.
-<p>
-A duplicate scramble usually means they were given the previous scramble for the current attempt, or the current scramble in the previous attempt. If you can reasonably determine which of these is more likely, give them the correct scramble. If they report another duplicate, give them the other scramble. If neither scramble resolves the incident, grant the competitor an extra.
-<p>
-A competitor may incorrectly report a scramble as a duplicate, which may happen when scrambles share similar features. If this occurs, you may issue an extra if you believe the competitor reported the duplicate in good faith, otherwise you may disqualify the attempt.
+   <td>Duplicate scramble reported</td>
+   <td>
+   Do your best to give them the correct scramble. If the correct scramble cannot be confidently determined, issue an extra.</br></br>
+   If the competitor has footage or has not solved the puzzle, it is the best way to resolve such incidents. Request to see the footage or the unsolved puzzle and use it to identify which scramble they were given and to give them the correct one.</br></br>
+   A duplicate scramble usually means they were given the previous scramble for the current attempt, or the current scramble in the previous attempt. If you can reasonably determine which of these is more likely, give them the correct scramble. If they report another duplicate, give them the other scramble. If neither scramble resolves the incident, grant the competitor an extra.</br></br>
+   A competitor may incorrectly report a scramble as a duplicate, which may happen when scrambles share similar features. If this occurs, you may issue an extra if you believe the competitor reported the duplicate in good faith, otherwise you may disqualify the attempt.
    </td>
   </tr>
   <tr>
-   <td>Revealed puzzle was not the competitor’s
-   </td>
-   <td>Issue an extra for the attempt if it is one the competitor has not seen. If the competitor has already seen the scramble from a previous attempt, no extra is necessary. Then, work to find the competitor’s actual puzzle. It is likely another competitor’s puzzle is also mixed up.
-<p>
-If the scorecard shows the competitor’s name, warn your scramblers to be more careful when scrambling puzzles.
-<p>
-If the scorecard is another competitor’s scorecard, you may tell your competitor to double-check that the scorecard at the station is theirs before beginning the attempt.
+   <td>Revealed puzzle was not the competitor's</td>
+   <td>
+   Issue an extra for the attempt if it is one the competitor has not seen. If the competitor has already seen the scramble from a previous attempt, no extra is necessary. Then, try to find the competitor's actual puzzle. It is likely another competitor's puzzle is also mixed up.</br></br>
+   If the scorecard belongs to the competitor, warn your scramblers to be more careful when scrambling puzzles.</br></br>
+   If it is another competitor's scorecard, you may tell the competitor to double-check that the scorecard at the station is theirs before beginning their attempts.
    </td>
   </tr>
   <tr>
-   <td>Competitor went to wrong solving station
-   </td>
-   <td>Usually grant an extra, but use your discretion if you think the competitor may be particularly careless. As a Delegate, you may avoid these problems if groups are created to avoid duplicate names.
+   <td>Competitor went to wrong solving station</td>
+   <td>Usually grant an extra, but use your discretion if you think the competitor may be particularly careless. As a Delegate, you may avoid these problems if groups are created to avoid duplicate names.</td>
+  </tr>
+  <tr>
+   <td>Competitor saw scramble before attempt</td>
+   <td>Depending on exactly how the competitor saw the puzzle, you may or may not issue an extra. If the competitor accidentally knocked over the cube cover themself, the attempt is a DNF. If the competitor saw the puzzle as a result of a runner or judge knocking over the cube cover or being careless with scramble secrecy, issue an extra. Additionally, consider warning the runner or judge to be more careful to keep the puzzle out of sight from the competitor.</td>
+  </tr>
+  <tr>
+   <td>Judge lifted the cube cover before the competitor was ready</td>
+   <td>
+   If the competitor did not continue with the attempt and immediately called over a Delegate, grant an extra due to a violation of [Regulation A3b2](https://www.worldcubeassociation.org/regulations/#A3b2). However, if you determine that the competitor may have inspected the puzzle and is asking for an extra after determining that the scramble is bad, do not grant an extra.</br></br>
+   If the competitor has already completed the solve, do not issue an extra, as this would unfairly allow the competitor to determine whether they like the outcome of the attempt before asking for an extra ([incident log](https://www.worldcubeassociation.org/incidents/98)).
    </td>
   </tr>
   <tr>
-   <td>Competitor saw scramble before attempt
-   </td>
-   <td>Depending on exactly how the competitor saw the puzzle, you may or may not issue an extra. If the competitor accidentally knocked over the cube cover themselves the attempt is a DNF. If the competitor saw the puzzle as a result of a runner or judge knocking over the cube cover or being careless with scramble secrecy, issue an extra. Additionally, consider warning the runner or judge to be more careful to keep the puzzle out of sight from the competitor.
-   </td>
-  </tr>
-  <tr>
-   <td>Judge lifted the cube cover before the competitor was ready
-   </td>
-   <td>If the competitor did not continue with the attempt and immediately called over a Delegate, grant an extra due to a violation of <a href="https://www.worldcubeassociation.org/regulations/#A3b2">Regulation A3b2</a>. However, if you determine that the competitor may have inspected the puzzle and is asking for an extra after determining that the scramble is bad, do not grant an extra.
-<p>
-If the competitor has already completed the solve, do not issue an extra, as this would unfairly allow the competitor to determine whether they like the outcome of the attempt before asking for an extra (<a href="https://www.worldcubeassociation.org/incidents/98">incident log</a>).
+   <td>Judge did not call "8 seconds" or "12 seconds"</td>
+   <td>
+   Issue an extra. This is a responsibility of the judge and is an important part so that the competitor is aware of how much of their inspection time has elapsed.</br></br>
+   If the competitor is requesting an extra for the judge not performing callouts *after* completing the solve, generally do not issue an extra. Extras are issued to prevent a competitor from being unfairly disadvantaged, and a competitor who noticed that callouts were not being made should stop the attempt immediately and call a Delegate over. Requesting an extra after the attempt is a sign that they may be attempting to replace a poor attempt with a better one.</br></br>
+   If the competitor exceeded inspection due to the judge not performing callouts, consider whether the competitor received an unfair advantage. If you deem it likely that an advantage was gained, such as by achieving an uncharacteristically faster time than the rest of their solves, issue an extra. If no advantage was gained, such as by getting a DNF result or the slowest time in their average, do not issue an extra, as providing one would give the competitor an unfair opportunity to replace a poor result.
    </td>
   </tr>
   <tr>
-   <td>Judge did not call "8 seconds" or "12 seconds"
-   </td>
-   <td>Issue an extra. This is a responsibility of the judge and is an important part so that the competitor is aware of how much of their inspection has elapsed.
-<p>
-If the competitor is requesting an extra for the judge not performing callouts <em>after</em> completing the solve, generally do not issue an extra. Extras are issued to prevent a competitor from being unfairly disadvantaged, and a competitor who noticed that callouts were not being made should stop the attempt immediately and call a Delegate over. Requesting an extra after the attempt is a sign that they may be attempting to replace a poor attempt with a better one.
-<p>
-If the competitor exceeded inspection due to a judge not performing callouts, consider whether the competitor received an unfair advantage. If you deem it likely that an an advantage was gained, such as by achieving an uncharacteristically faster time than the rest of their solves, issue an extra. If no advantage was gained, such as by getting a DNF result or the slowest time in their average, do not issue an extra, as providing one would give the competitor an unfair opportunity to replace a poor result.
+   <td>Judge performed erroneous inspection callouts (e.g. "10 seconds") or did not follow the inspection protocol correctly</td>
+   <td>
+   Issue an extra and instruct the judge on the appropriate callouts to make.</br></br>
+   One notable exception to this is when the judge calls out "15 seconds" or "17 seconds". Although these are not valid callouts according to [Regulations A3b3](https://www.worldcubeassociation.org/regulations/#A3b3) and [A3b4](https://www.worldcubeassociation.org/regulations/#A3b4), granting an extra in these situations would unfairly allow the competitor to retry an attempt where they may otherwise have received a +2 penalty or a DNF.
    </td>
   </tr>
   <tr>
-   <td>Judge performed erroneous inspection callouts (e.g. "10 seconds") or did not follow the inspection protocol correctly
-   </td>
-   <td>Issue an extra and instruct the judge on the appropriate callouts to make.
-<p>
-One notable exception to this is when the judge calls out "15 seconds" or "17 seconds". Although these are not valid callouts according to <a href="https://www.worldcubeassociation.org/regulations/#A3b3">Regulations A3b3</a> and <a href="https://www.worldcubeassociation.org/regulations/#A3b4">A3b4</a>, granting an extra in these situations would unfairly allow the competitor to retry an attempt where they may otherwise have received a +2 penalty or a DNF.
-   </td>
-  </tr>
-  <tr>
-   <td>Competitor is using a device with a front-facing screen
-   </td>
-   <td>The attempt, and any previous attempts with which the device was used, must be changed to a DNF result.
-<p>
-An extra may be granted if the competitor is inexperienced via <a href="https://www.worldcubeassociation.org/regulations/#A7g">Regulations A7g</a>.
+   <td>Competitor is using a device with a front-facing screen</td>
+   <td>
+   The attempt, and any previous attempts with which the device was used, must be changed to a DNF result.</br></br>
+   An extra may be granted if the competitor is inexperienced via [Regulations A7g](https://www.worldcubeassociation.org/regulations/#A7g).
    </td>
   </tr>
   <tr>
-   <td>Competitor is using electronic headphones
-   </td>
-   <td>The attempt, and any previous attempts in which the headphones were used, must be changed to a DNF result.
-<p>
-An extra may be granted if the competitor is inexperienced via <a href="https://www.worldcubeassociation.org/regulations/#A7g">Regulations A7g</a>.
-   </td>
-  </tr>
-  <tr>
-   <td>Competitor is competing with an illegal puzzle
-   </td>
-   <td>The attempts where an illegal puzzle was used may be replaced with an extra at the Delegate’s discretion via <a href="https://www.worldcubeassociation.org/regulations/#3k2a">Regulations 3k2a</a>. Otherwise, the attempts using the illegal puzzle are to be changed to a DNF result.
+   <td>Competitor is using electronic headphones</td>
+   <td>
+   The attempt, and any previous attempts in which the headphones were used, must be changed to a DNF result.</br></br>
+   An extra may be granted if the competitor is inexperienced via [Regulations A7g](https://www.worldcubeassociation.org/regulations/#A7g).
    </td>
   </tr>
   <tr>
-   <td>Timer was reset before time could be fully written on scorecard
-   </td>
-   <td>If the timer was reset by the competitor, the result must be disqualified (DNF) via <a href="https://www.worldcubeassociation.org/regulations/#A6f1">Regulations A6f1</a>, even if there is video, photo, or memory evidence of the full time. **The time must be disqualified even if the time is partially written**, e.g. "18." must not be interpreted as "18.99" via <a href="https://www.worldcubeassociation.org/regulations/guidelines.html#A7c+">Guideline A7c+</a>.
-<p>
-If the timer was reset by a person other than the competitor, or reset for another reason (e.g. a malfunction), video or photo evidence may be used to record the time. If no video or photo evidence exists, you may issue an extra or use the partially written time in conjunction with <a href="https://www.worldcubeassociation.org/regulations/guidelines.html#A7c+">Guideline A7c+</a> as the recorded time. Keep fairness in mind. For example, it is fairer to keep a partially written time of "18.8" recorded as "18.89" than it is to issue an extra, but a partially written time of "2" for a competitor averaging 20-30 seconds does not have a reasonable worst interpretation, so issue an extra.
+   <td>Competitor is competing with an illegal puzzle</td>
+   <td>The attempts where an illegal puzzle was used may be replaced with an extra at the Delegate's discretion via [Regulations 3k2a](https://www.worldcubeassociation.org/regulations/#3k2a). Otherwise, the attempts using the illegal puzzle are to be changed to a DNF result.</td>
+  </tr>
+  <tr>
+   <td>Timer was reset before time could be fully written on scorecard</td>
+   <td>
+   If the timer was reset by the competitor, the result must be disqualified (DNF) via [Regulations A6f1](https://www.worldcubeassociation.org/regulations/#A6f1), even if there is video, photo, or memory evidence of the full time. **The time must be disqualified even if the time is partially written**, e.g. "18." must not be interpreted as "18.99" via [Guideline A7c+](https://www.worldcubeassociation.org/regulations/guidelines.html#A7c+).</br></br>
+   If the timer was reset by a person other than the competitor, or reset for another reason (e.g. a malfunction), video or photo evidence may be used to record the time. If no video or photo evidence exists, you may issue an extra or use the partially written time in conjunction with [Guideline A7c+](https://www.worldcubeassociation.org/regulations/guidelines.html#A7c+) as the recorded time. Keep fairness in mind. For example, it is fairer to keep a partially written time of "18.8" recorded as "18.89" than it is to issue an extra, but a partially written time of "2" for a competitor averaging 20-30 seconds does not have a reasonable worst interpretation, so issue an extra.
    </td>
   </tr>
   <tr>
-   <td>Timer malfunction
-   </td>
-   <td>If the time is strictly **below** 0.06 seconds and the competitor did not stop the timer deliberately, an extra **must** be issued according to <a href="https://www.worldcubeassociation.org/regulations/#A6b1">Regulations A6b1</a>. This is a rare exception to extras being granted according to Delegate discretion.
-<p>
-Make a note of the timer. If it continues to malfunction, remove or replace the timer with one that is functioning properly. It is recommended to mark this timer in some way so that it is not re-introduced to the competition area without being tested first.
-<p>
-If the time is equal to 0.06 seconds or higher, or below 0.06 seconds and the competitor deliberately stopped the timer, the result is a DNF.
+   <td>Timer malfunction</td>
+   <td>
+   If the time is strictly **below** 0.06 seconds and the competitor did not stop the timer deliberately, an extra **must** be issued according to [Regulations A6b1](https://www.worldcubeassociation.org/regulations/#A6b1). This is a rare exception to extras being granted according to Delegate discretion.</br></br>
+   Make note of the timer. If it continues to malfunction, remove or replace the timer with one that is functioning properly. It is recommended to mark this timer in some way so that it is not re-introduced to the competition area without being tested first.</br></br>
+   If the time is equal to 0.06 seconds or higher, or below 0.06 seconds and the competitor deliberately stopped the timer, the result is a DNF.
    </td>
   </tr>
 </table>
@@ -976,7 +945,7 @@ Removing rounds is permitted, but consider it a last resort tool for getting a c
 
 The stakes are lower when you are running ahead of schedule. Naturally, the easiest path forward is to simply continue on ahead of schedule. This will allow for a buffer in case there is a delay that appears later in the competition, and allows you to leave early if you finish ahead of time. Sometimes competitors travel a long way to get to competitions, and they will appreciate being able to get a head start on their journey home. Alternatively, if it is still the morning, consider extending lunch, especially if it is under 1 hour. Having extra time to get food, eat it, relax, and warm up before the competition resumes can add greatly to the experience.
 
-If you still want to fill up some time and you have some longer events that use a cutoff, prefer increasing the cutoff time over increasing the time limit. This is because competitors don’t often sign up for events which they do not expect to meet the time limit. Combined with the fact that changing event registration is disallowed at most competitions, increasing the time limit results in neither significantly more opportunities for competitors nor takes up substantially more time. On the contrary, increasing the cutoff times often allows some competitors who are already signed up to have a better chance at getting a full mean or average, which consequently results in slightly slower rounds. Use your experience with planning competitions to estimate a cutoff time that will extend the round by the desired amount.
+If you still want to fill up some time and you have some longer events that use a cutoff, prefer increasing the cutoff time over increasing the time limit. This is because competitors don't often sign up for events which they do not expect to meet the time limit. Combined with the fact that changing event registration is disallowed at most competitions, increasing the time limit results in neither significantly more opportunities for competitors nor takes up substantially more time. On the contrary, increasing the cutoff times often allows some competitors who are already signed up to have a better chance at getting a full mean or average, which consequently results in slightly slower rounds. Use your experience with planning competitions to estimate a cutoff time that will extend the round by the desired amount.
 
 Other more dramatic options include increasing the size of a subsequent round by increasing the number of competitors who advance. You may also add an additional round entirely. The number of advancing competitors between rounds must still follow the maximum size as stated by [Regulation 9p1](https://www.worldcubeassociation.org/regulations/#9p1). In both cases, keep in mind that some competitors may have already left the venue if they were not expecting to advance to a certain round. Unless you have a good reason to expect that the majority of the competitors who could take advantage of modified advancement conditions will still be present (e.g. a large 2nd round of a popular event like 3x3x3 still ahead of you in the schedule), generally avoid changing advancement conditions.
 
@@ -997,7 +966,7 @@ If your Delegate community has shared equipment, use some time after the competi
 - **Registration Data**: You have to verify that all issues related to registration data have been resolved (see the Administering Registration Data section). If this has already been done before the competition, as is recommended, no bigger issues are expected at this stage.
 - **Score taking errors**: Always double-check scorecards after they are entered. This can be done during or after the competition is finished, but always **before **submitting the results (help from reliable organizers or volunteers can be enrolled). When doing this, remember to check for missing signatures from the judge or competitor and verify that extra attempts were entered at their correct positions in the average, and that the ambiguous times are always entered in the worst reasonable interpretation according to [Guideline A7c+](https://www.worldcubeassociation.org/regulations/guidelines.html#A7c+). It is good practice to have a different person from the initial data enterer perform the double-checking, in case handwriting is interpreted differently.
 
-Also be aware of potential scoretaking errors. Scoretaking software like WCA Live will automatically check for results that exceeded the time limit or did not pass the cutoff, as long as WCA Live is synchronized with the times set in the competition’s edit page on the WCA website. However, if you are not using WCA Live, or if your scoretaking software does not automatically check that the results comply with the WCA Regulations, check that all results comply with the stated cutoffs, time limits, and cumulative time limits that were in place for that round of the competition.
+Also be aware of potential scoretaking errors. Scoretaking software like WCA Live will automatically check for results that exceeded the time limit or did not pass the cutoff, as long as WCA Live is synchronized with the times set in the competition's edit page on the WCA website. However, if you are not using WCA Live, or if your scoretaking software does not automatically check that the results comply with the WCA Regulations, check that all results comply with the stated cutoffs, time limits, and cumulative time limits that were in place for that round of the competition.
 
 - **Cutoffs**: If people do not meet the cutoff for a combined round, their further results have to be blank and they will have no average result. Blank results are different from DNF or DNS results, and are recorded as "no result".
 - **Time limits**: Times that exceeded the time limits must be changed to DNF.
@@ -1011,7 +980,7 @@ After the competition, verify that registration data is accurate. Along with the
 - All newcomers represent a region of which they hold citizenship, and not just their region of residence or heritage.
 - The data for on-the-spot registrants is accurate, as they are particularly error-prone. Pay special attention to those, otherwise crucial information such as WCA IDs and/or dates of birth may be unavailable.
 - All the data of all returners (competitors with a WCA ID) matches their data currently stored in the WCA database. If there is any difference and a correction is needed, request this change (see section on Requesting Changes to Personal Data further below) when submitting the results.
-- If the date of birth for a competitor is still missing after the competition, the WRT will not accept their results. Change it to be blank on the user’s account and do not enter bogus dates such as "1900-01-01". The results must be removed before submitting, and the competitor must be contacted to get their information after which their results may be recognized.
+- If the date of birth for a competitor is still missing after the competition, the WRT will not accept their results. Change it to be blank on the user's account and do not enter bogus dates such as "1900-01-01". The results must be removed before submitting, and the competitor must be contacted to get their information after which their results may be recognized.
 
 ### Submitting Results
 
@@ -1043,7 +1012,7 @@ To submit results for a competition, you must have access to the scrambles that 
     3. Have rounds or entire events been dropped during the competition?
     4. Are there records that must be declined due to [Regulation 9i2](https://www.worldcubeassociation.org/regulations/#9i2)?
     5. What was the main event at the competition? While this is submitted to the WCAT during the competition page submission, this is prior to the competition taking place. The WRT needs to know **how** a main event was treated as such during the competition. This is not necessary if the main event was 3x3x3.
-    6. If there is anything else of importance for the WRT, please don’t hesitate to include it; the more detailed, the better.
+    6. If there is anything else of importance for the WRT, please don't hesitate to include it; the more detailed, the better.
 14. Clearly outline anything irregular with the results submission, such as edits you made manually to the JSON file.
 15. Click "Submit Results" to send the results to the WRT. You and all other Delegates of the competition will receive a confirmation email that the results have been submitted.
 
@@ -1088,7 +1057,7 @@ Additionally, write down anything else worth mentioning about the venue, such as
 
 ### Organization
 
-Write a few sentences about the organization team. You only need a few sentences explaining who the organization team is, whether they did a good job, and whether you’d work with them again. Generally, long-winded stories about the organization team are not necessary.
+Write a few sentences about the organization team. You only need a few sentences explaining who the organization team is, whether they did a good job, and whether you'd work with them again. Generally, long-winded stories about the organization team are not necessary.
 
 ### Budget
 
@@ -1117,13 +1086,13 @@ You may receive responses to your report. If you requested feedback from the WRC
 
 Please keep in mind that the reports mailing list goes out to hundreds of members of WCA Staff. Consider whether your email needs to include the reports mailing list as a recipient. If your email is directed at a small group of individuals, such as a thank you message to an individual or committee, please consider removing unrelated individuals and mailing lists from the email to avoid sending emails irrelevant to the vast majority of WCA Staff.
 
-You may not receive responses to your report. This is fine, as some competitions are fairly standard and don’t prompt any responses. You have done your job with the Delegate report.
+You may not receive responses to your report. This is fine, as some competitions are fairly standard and don't prompt any responses. You have done your job with the Delegate report.
 
 ## Paying Competition Dues
 
-All official WCA competitions must (bar some exceptions) pay a small fee as part of the Dues System. While creating a new competition, the website provides an estimate of WCA Dues based on current exchange rates that assumes the competition reaches its competitor limit. However, if you are ever unsure about how much to expect to pay in Dues while planning a competition, you can use the actual calculation methods described in the [WCA Dues System Policy](https://documents.worldcubeassociation.org/documents/policies/external/Dues%20System.pdf) yourself or reach out to the WFC for official guidance. Please remember that it is the Delegate’s responsibility to review the competition budget before announcement and ensure that Dues are being properly accounted for.
+All official WCA competitions must (bar some exceptions) pay a small fee as part of the Dues System. While creating a new competition, the website provides an estimate of WCA Dues based on current exchange rates that assumes the competition reaches its competitor limit. However, if you are ever unsure about how much to expect to pay in Dues while planning a competition, you can use the actual calculation methods described in the [WCA Dues System Policy](https://documents.worldcubeassociation.org/documents/policies/external/Dues%20System.pdf) yourself or reach out to the WFC for official guidance. Please remember that it is the Delegate's responsibility to review the competition budget before announcement and ensure that Dues are being properly accounted for.
 
-Upon results for a competition being uploaded by the WRT, the WFC will issue an invoice within a few days. This invoice will arrive via email and will contain a link to a third party website for collecting payment. Invoices can be issued either to an individual Delegate or to an organization. For many organizations that organize competitions frequently or are responsible for all competition finances in their region, the WFC has set up redirects so that all of their Dues invoices are sent directly to the organization. If you are delegating in an area that has such an organization, you are probably already familiar with it; however, please reach out to the WFC if you are not sure whether a redirect will apply to your competition’s Dues invoice.
+Upon results for a competition being uploaded by the WRT, the WFC will issue an invoice within a few days. This invoice will arrive via email and will contain a link to a third party website for collecting payment. Invoices can be issued either to an individual Delegate or to an organization. For many organizations that organize competitions frequently or are responsible for all competition finances in their region, the WFC has set up redirects so that all of their Dues invoices are sent directly to the organization. If you are delegating in an area that has such an organization, you are probably already familiar with it; however, please reach out to the WFC if you are not sure whether a redirect will apply to your competition's Dues invoice.
 
 If the invoice is being issued to a Delegate and not redirected to an organization, **only the alphabetically first listed Delegate will receive the invoice**. If you are the Delegate who receives the invoice, it is your duty to inform other Delegates for the competition about the Dues amount, and also to communicate with the WFC regarding this invoice if needed. You may also send the invoice itself to the organization team, another Delegate, an association treasurer, etc. if they will be the one actually completing the payment. If forwarding to someone else to pay, it is highly recommended to request confirmation from them once the payment has been made. There is a payment period of 30 days; invoices must be paid within this timeframe, otherwise there may be repercussions. The Delegates of the competition, specifically the one who receives the invoice, are responsible for ensuring payment is made in time even if the actual payment is being done by someone else.
 
@@ -1133,7 +1102,7 @@ If you ever have any doubts, questions, etc., feel free to send an email to [fin
 
 ## Lost and Found
 
-Competitors frequently lose personal items, particularly puzzles, during a competition. If there are unclaimed items at the end of a competition, you or another Delegate can choose what to do with them. You may attempt to return lost items to their owners, however that is not always feasible or possible. It is appropriate to include a mention of lost items in post-competition communications. Instead of listing the missing items, encourage people to reach out with a description of the item to prevent nefarious actors from claiming other people’s property.
+Competitors frequently lose personal items, particularly puzzles, during a competition. If there are unclaimed items at the end of a competition, you or another Delegate can choose what to do with them. You may attempt to return lost items to their owners, however that is not always feasible or possible. It is appropriate to include a mention of lost items in post-competition communications. Instead of listing the missing items, encourage people to reach out with a description of the item to prevent nefarious actors from claiming other people's property.
 
 # Delegates Outside of the Competition {.page-break-before}
 
@@ -1162,7 +1131,7 @@ A WCA ID is associated with a profile page, which looks like this:
 
 ![](images/profile-page.jpg){.centered width=65%}
 
-All competition results in the WCA’s database are associated with a WCA ID, and this page provides access to all results for an individual competitor, along with other interesting results information.
+All competition results in the WCA's database are associated with a WCA ID, and this page provides access to all results for an individual competitor, along with other interesting results information.
 
 Delegates and WCA Staff with access rights can access the account page for a competitor by clicking the pencil icon on a profile page, or using the manage users tool. These individuals, plus competition organizers, can also access the account page via links provided on the registration tab of a competition.
 
@@ -1176,7 +1145,7 @@ Personal information can be edited by Delegates and organizers for an account wi
 
 ### Handling WCA ID Claims
 
-Because an account is not inherently attached to a WCA ID, it is possible for a person to have a WCA ID but no account. This usually occurs one of three ways: a competitor registered for a competition through on-the-spot registration, a competition opts not to use the WCA’s registration system, or a competitor registered for a WCA competition before there were accounts. When such a competitor creates a new account, they are able to claim an existing WCA ID by selecting a WCA ID and a Delegate who can verify the identity of the individual. This will send a WCA ID claim email to the selected Delegate. If you receive this email, follow the steps in the email to verify the user’s identity and associate their account with their WCA ID.
+Because an account is not inherently attached to a WCA ID, it is possible for a person to have a WCA ID but no account. This usually occurs one of three ways: a competitor registered for a competition through on-the-spot registration, a competition opts not to use the WCA's registration system, or a competitor registered for a WCA competition before there were accounts. When such a competitor creates a new account, they are able to claim an existing WCA ID by selecting a WCA ID and a Delegate who can verify the identity of the individual. This will send a WCA ID claim email to the selected Delegate. If you receive this email, follow the steps in the email to verify the user's identity and associate their account with their WCA ID.
 
 If you receive an email and do not believe you are best suited to handle such a request (e.g. if you are unfamiliar with the competitor), forward the email to a Delegate who you believe may be better able to handle the request. Find an appropriate Delegate by looking at the competition history of the WCA ID and viewing the Delegates of the competitions which the individual competed at. If those Delegates are no longer active, forward the email to the appropriate Senior Delegate.
 
@@ -1186,13 +1155,13 @@ There are several cases for change requests concerning personal data (which invo
 
 There are 2 types of data changes:
 
-1. **Fix**: A fix changes a person’s data for all past and future competitions such that the person's old data is not visible on their competitor profile. This form of data change is commonly applied for:
+1. **Fix**: A fix changes a person's data for all past and future competitions such that the person's old data is not visible on their competitor profile. This form of data change is commonly applied for:
 
 - Correction of previously incorrect data.
 - Any name change in which the competitor does not wish for their previous name to still be displayed anywhere on the WCA website.
 - Any other changes of a sensitive nature (e.g. changes to gender).
 
-2. **Update**: An update internally creates a new sub-profile, so that the previous data remains unchanged for all past competitions and a notice of the change is shown on the competitor’s profile. Such a profile may look like this:
+2. **Update**: An update internally creates a new sub-profile, so that the previous data remains unchanged for all past competitions and a notice of the change is shown on the competitor's profile. Such a profile may look like this:
 
 ![](images/country-change-profile-page.jpg){.centered width=65%}
 
@@ -1203,14 +1172,14 @@ This form of data change is commonly applied for:
 
 **A note on last name changes:** Until July 2024, the WRT executed all non-sensitive last name changes as updates. Competitors now have the choice as to whether they would like their name change executed as a fix or as an update. It is possible for any previous name change update to be changed to a fix by contacting the WRT.
 
-Changes in a competitor’s information can be requested directly by the competitor or through the WCA Delegate. If the competitor contacts the WRT directly, a legal document of identification must be provided. If the Delegate is making the request, they must verify the competitor is the correct person and that the information provided is correct (e.g. dates of birth or last names) or at least sensible (e.g. first name or gender changes). Moreover:
+Changes in a competitor's information can be requested directly by the competitor or through the WCA Delegate. If the competitor contacts the WRT directly, a legal document of identification must be provided. If the Delegate is making the request, they must verify the competitor is the correct person and that the information provided is correct (e.g. dates of birth or last names) or at least sensible (e.g. first name or gender changes). Moreover:
 
 - Date of birth fixes can be requested by the competitor through the [Birthday Change Request Form](https://www.worldcubeassociation.org/contact/dob).
 - Name changes: be sure to request the correct type (fix or update) as described above.
 - Changes in gender: the WRT is more lenient with these and only requires proof of identity. Note: As gender changes are mostly sensitive, the WRT executes such changes (that are technically updates) as fixes.
 - Send all changes to the WRT with the WCA ID, old data, and new data.
 
-Change requests for a person’s region of representation are particularly delicate, as they affect rankings and possibly records. Therefore, such requests must include the following:
+Change requests for a person's region of representation are particularly delicate, as they affect rankings and possibly records. Therefore, such requests must include the following:
 
 - Documentation of the old nationality (if available)
 - Documentation of the new nationality
@@ -1253,7 +1222,7 @@ Depending on your geographic situation as a Delegate, you may receive requests t
 
 If you want to take advantage of WCA Travel Funding, you must submit [an application](https://docs.google.com/forms/d/e/1FAIpQLSex2yNko7m6SL12zuMXD6WtowUNzxsNZYXYjx5yvYKYDOPbhQ/viewform) at least 60 days before the competition date while the competition is still unannounced. If the competition is less than 60 days away or already announced, the application will not be funded. The application must have the official support of a Senior Delegate or Board member as a sponsor and explain how much funding is needed and why the region where the competition will be held cannot provide those funds themselves. The WFC will discuss your application and return a decision to you as quickly as possible so you can move forward with the competition planning process. If your application is approved, the WFC will then work with you to make the necessary purchases (plane tickets, lodging reservations).
 
-If you are able to take advantage of WCA Travel Funding and bring competitions to a new region, please keep an eye out for potential Trainee Delegates (or provide support in training existing ones if there are any). Once a new region gets its own Junior Delegate, then Travel Funding is no longer needed for future competitions there and other new regions around the world can be the beneficiaries of this program instead. Please note that WCA Travel Funding only applies in cases where the Delegate’s travel is strictly necessary to ensure the competition happens at all. It cannot currently be used to send experienced Delegates to continue the training of Junior Delegates or for Senior/Regional Delegates to visit other areas of their region for supervision.
+If you are able to take advantage of WCA Travel Funding and bring competitions to a new region, please keep an eye out for potential Trainee Delegates (or provide support in training existing ones if there are any). Once a new region gets its own Junior Delegate, then Travel Funding is no longer needed for future competitions there and other new regions around the world can be the beneficiaries of this program instead. Please note that WCA Travel Funding only applies in cases where the Delegate's travel is strictly necessary to ensure the competition happens at all. It cannot currently be used to send experienced Delegates to continue the training of Junior Delegates or for Senior/Regional Delegates to visit other areas of their region for supervision.
 
 For more information on the WCA Travel Funding program, please review the [official policy](https://documents.worldcubeassociation.org/documents/policies/external/Travel%20Reimbursement.pdf) or reach out to the WFC directly at [finance@worldcubeassociation.org](mailto:finance@worldcubeassociation.org).
 
@@ -1273,7 +1242,7 @@ Reading Delegate reports of other regions is a great way to expand your knowledg
 
 If you have questions related to the competition, feel free to ask the Delegates by responding to their email. However, do be aware that your response will be sent to hundreds of WCA Staff members, so consider whether or not it is appropriate to remove the Delegate reports mailing list from the CC to avoid sending an email to many people who may not appreciate it showing up in their inbox again.
 
-Furthermore, it is not a Delegate’s responsibility to review other Delegates’ competition reports for regulation or quality violations. If you have a concern regarding the way something was handled at a competition based on the report, privately contact the relevant WCA committee and/or the Senior Delegate for the competition’s region to handle the concern on your behalf.
+Furthermore, it is not a Delegate's responsibility to review other Delegates' competition reports for regulation or quality violations. If you have a concern regarding the way something was handled at a competition based on the report, privately contact the relevant WCA committee and/or the Senior Delegate for the competition's region to handle the concern on your behalf.
 
 If you are a Full Delegate, you can opt out of receiving Delegate Reports by navigating to your WCA profile, clicking on the "edit" button, and unchecking the box "I would like to receive Delegate Reports of WCA Competitions by email". While this box can be unchecked for Junior and Trainee Delegates, you will still receive reports until you are promoted to Full Delegate.
 
@@ -1294,7 +1263,7 @@ To begin the process of inducting a member of your community as a Delegate, foll
 1. Recommend the person to your Senior and Regional Delegate with a reason for why this person should be a Delegate and why the region the person is located in needs a Delegate.
 2. If the Senior Delegate agrees, they will fill out the application form to make the person a Trainee Delegate and submit it to the Board.
 3. If the Board agrees, the Senior Delegate will have the new Trainee Delegate agree to and sign the [Code of Conduct](https://documents.worldcubeassociation.org/documents/Code%20of%20Conduct.pdf) and [Code of Ethics](https://documents.worldcubeassociation.org/documents/Code%20of%20Ethics.pdf), as well as disclose any potential conflicts of interest.
-4. The Senior Delegate will then update the new Trainee Delegate’s status on the WCA website.
+4. The Senior Delegate will then update the new Trainee Delegate's status on the WCA website.
 5. The Trainee Delegate must then send a short introduction email to the Board (and their regional Delegate mailing list if they want to)
 
 After the above steps are completed, the individual will be officially appointed as a new Trainee Delegate.
@@ -1307,13 +1276,13 @@ One of your responsibilities as a Delegate is to foster the health of your local
 - Websites
 - Mailing lists
 
-You are welcome to create a "Community" tab on your competitions’ websites that link to these additional resources.
+You are welcome to create a "Community" tab on your competitions' websites that link to these additional resources.
 
-If you do create an online community, you are responsible for effectively moderating the space. Create rules that align with the WCA’s Code of Conduct, and strive to make the community a welcoming place for everyone. Additionally, take note of the terms of service of the platform you use.
+If you do create an online community, you are responsible for effectively moderating the space. Create rules that align with the WCA's Code of Conduct, and strive to make the community a welcoming place for everyone. Additionally, take note of the terms of service of the platform you use.
 
 ### Business Cards
 
-Delegates are the face of the WCA, and are the Staff members whom most members of the public will interact with. A WCA Delegate often needs to introduce themselves to new people both inside and outside of a competition, and it is useful to have business cards to hand out. The WCA has a business card template that Delegates can use to print their own business cards, which includes a QR code that links to a LinkTree page with various WCA resources.
+Delegates are the face of the WCA, and are the Staff members whom most members of the public will interact with. A WCA Delegate often needs to introduce themself to new people both inside and outside of a competition, and it is useful to have business cards to hand out. The WCA has a business card template that Delegates can use to print their own business cards, which includes a QR code that links to a LinkTree page with various WCA resources.
 
 The templates are designed for use with VistaPrint, which is available in the US, Canada, and many countries in Europe. If you are in a country where VistaPrint is not available, you can use the template to create your own business cards with a local printing service.
 
@@ -1332,7 +1301,7 @@ World Cube Association (Size 8, Bolded)
 
 Junior/Full Delegate (Size 8, Not Bolded)
 
-[Delegate’s WCA Email] (Size 8, Not Bolded)
+[Delegate's WCA Email] (Size 8, Not Bolded)
 :::::
 
 If the font Catamaran does not support your language, you can use a different font as long as it is sans-serif and legible. Contact the WCA Marketing Team at [marketing@worldcubeassociation.org](mailto:marketing@worldcubeassociation.org) if you need assistance choosing an appropriate font.
