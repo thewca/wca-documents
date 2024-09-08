@@ -90,10 +90,11 @@ The WCA Delegate must submit the following information when requesting approval 
 2. Location(s)
    1. A location consists of the country, city, and venue.
    2. The location should also include subregions of the country that are common to include with addresses (e.g. the state a U.S. city is located in).
-   3. Competitions will be accepted regarding proximity if there are no other competitions within 10 km driving distance and less than 5 days away.
-      1. Otherwise, the WCA Competition Announcement Team should review the circumstances of the proposed competition. The WCA Delegate requesting approval for such a competition must provide further information on why the competition should still be accepted. Reasons that will result in an approval include:
-         1. The two competitions don’t have events in common.
-         2. The two competitions take place in different countries.
+   3. Competitions must not be held within 30 km driving distance and 5 days of each other.
+      1. Exception: At most two competitions may be held within 30 km driving distance and 5 days of each other, provided that the events held at each competition do not overlap.
+         1. Multiple competitions in a series are treated as one competition in the context of this exception.
+      2. Exception: The WCA Delegate may request an exception to these restrictions. Such requests will be reviewed by the WCA Competition Announcement Team.
+      3. Exception: These restrictions do not apply to competitions in a series with each other. 
    4. The WCA Competition Announcement Team, together with the Senior Delegate, may impose additional requirements for venues, such as which types of venues are allowed to be used within a region.
       1. Competitions may not be held in a vehicle (e.g. ferry, cruise, plane) unless the vehicle has a dedicated room to hold the event.
    5. 3x3x3 Fewest Moves simultaneous competitions
