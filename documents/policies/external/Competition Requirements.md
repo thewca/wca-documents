@@ -95,7 +95,7 @@ The WCA Delegate must submit the following information when requesting approval 
          1. The two competitions don’t have events in common.
          2. The two competitions take place in different countries.
    4. The WCA Competition Announcement Team, together with the Senior Delegate, may impose additional requirements for venues, such as which types of venues are allowed to be used within a region.
-      1. Competitions may not be held in a vehicle (e.g. ferry, cruise, plane) unless the vehicle has a dedicated room to hold the event.
+      1. Competitions must not be held in a vehicle.
       2. Competitions must not be held in private residences (including rented residences such as hotel rooms or rental homes).
          1. Exception: Delegates may request an exception to this policy. The WCA Competition Announcement Team will review such requests based on the following standards:
             1. Size of the private residence.
