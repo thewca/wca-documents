@@ -96,6 +96,12 @@ The WCA Delegate must submit the following information when requesting approval 
          2. The two competitions take place in different countries.
    4. The WCA Competition Announcement Team, together with the Senior Delegate, may impose additional requirements for venues, such as which types of venues are allowed to be used within a region.
       1. Competitions may not be held in a vehicle (e.g. ferry, cruise, plane) unless the vehicle has a dedicated room to hold the event.
+      2. Competitions must not be held in private residences (including rented residences such as hotel rooms or rental homes).
+         1. Exception: Delegates may request an exception to this policy. The WCA Competition Announcement Team will review such requests based on the following standards:
+            1. Size of the private residence.
+            2. Frequency of competitions in the region.
+            3. Quality of the competition space.
+            4. Availability of alternative venues.
    5. 3x3x3 Fewest Moves simultaneous competitions
       1. 3x3x3 Fewest Moves simultaneous competitions are WCA competitions having only the 3x3x3 Fewest Moves event and taking place simultaneously in different locations.
          1. Any location must be announced at least 14 days (two weeks) before 00:00 UTC of the start date of the competition on the WCA website.
