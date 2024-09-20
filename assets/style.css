@@ -70,6 +70,12 @@ td {
   vertical-align: top;
 }
 
+.scaled-table {
+  transform: scale(0.9);
+  transform-origin: top left;
+  /* width: 120%; */
+}
+
 .bordered-image {
   display: block;
   box-sizing: border-box;

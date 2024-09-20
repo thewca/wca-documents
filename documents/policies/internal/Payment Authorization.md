@@ -46,10 +46,14 @@ The purpose of this policy is to outline the procedures for individual WCA Staff
 ### Authorized Individuals
 All figures are in US Dollars. Transactions in foreign currencies should be converted to the US Dollar equivalent amount. Reminder, all payments above these figures or not in these categories must be explicitly authorized via a vote of the WCA Board.
 
+::: {.scaled-table}
+
 | Staff Member Name    | Individual Role     | Gear Team Orders | Championship Support | Travel Funding | Equipment Funding | RO Support | Other Contracts | Other Budget Items             |
 | -------------------- | ------------------- | ---------------- | -------------------- | -------------- | ----------------- | ---------- | --------------- | ------------------------------ |
 | Blake Thompson       | WCA Board Member    | $10,000          | $50,000              | $5,000         | $10,000           | $5,000     | $10,000         | $5,000. $10,000 for legal fees | 
 | Raymond Goslow       | WCA Treasurer       | $10,000          | $50,000              | $5,000         | $10,000           | $5,000     | $10,000         | $5,000. $10,000 for legal fees |   
 | Edward Hollingdale   | WFC Leader          | $10,000          | $50,000              | $5,000         | $10,000           | $5,000     | $10,000         | $5,000. $10,000 for legal fees |   
 | Daniel M. James      | WFC Member          | $3,000           | $0                   | $0             | $3,000            | $0         | $0              | $0                             |  
+
+:::
 
