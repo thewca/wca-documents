@@ -4,7 +4,7 @@ The WCA Integrity Committee (WIC) is entitled to apply bans and other disciplina
 
 ## Disciplinary Log and Banned Competitors
 
-- A list of banned competitors can be found in the [Disciplinary log](wca{disciplinary}). If a competitor attempts to attend a competition when they are banned from doing so, please contact the WIC.
+- A list of banned competitors can be found in the [Delegate panel](wca{panel/delegate#banned-competitors}). If a competitor attempts to attend a competition when they are banned from doing so, please contact the WIC.
 - Depending on the degree of severity and type of violation of the Code of Conduct, the WIC may ban a competitor from competing or attending competitions. Such a ban will be communicated with local Delegates when it is issued. If a competitor is banned from competing, but not from attending competitions, they are permitted to attend competitions. They may also fulfill the roles of officials at competitions at the discretion of the WCA Delegate.
 - The WIC will publish reports on remarkable cases they've managed and issue a quarterly digest showcasing smaller resolved cases from the previous quarter. These publications aim to educate the community and WCA staff, promoting transparency. You can find them in the announcement section on the WCA homepage and forum, with a comprehensive list available in the [Disciplinary log](wca{disciplinary}).
 
@@ -24,7 +24,7 @@ The WCA Integrity Committee (WIC) is entitled to apply bans and other disciplina
 
 ## Theft at Competitions
 
-- The WIC’s preference is for theft (such as stealing puzzles) to be investigated and resolved locally when possible, as the local Delegates can often resolve these cases better than the WIC. The priority for these cases is getting items returned to owners during the competition. The WIC will generally not apply disciplinary action unless a competitor has been caught stealing after a previous warning or all of the following conditions are met:
+- The WIC's preference is for theft (such as stealing puzzles) to be investigated and resolved locally when possible, as the local Delegates can often resolve these cases better than the WIC. The priority for these cases is getting items returned to owners during the competition. The WIC will generally not apply disciplinary action unless a competitor has been caught stealing after a previous warning or all of the following conditions are met:
   - There is definitive proof of the accused person committing theft (such as a witness seeing them steal, CCTV footage, admission of guilt, etc.).
   - The suspect has been contacted and asked to return missing items.
   - The suspect has been unresponsive/uncooperative and has not returned missing items.
@@ -48,7 +48,7 @@ The Code of Conduct is limited in scope to WCA Competitions and online on offici
 
 - If competitors/parents/others are being impolite or inappropriate in their online interactions related to competitions, then please do your best to respectfully handle the situation (please keep in mind that you are a representative of the WCA). You may reach out to the WIC for advice on how to best handle the situation if the problem persists or you are unsure of how to proceed.
 - If you feel a person may engage in disruptive actions or pose a threat to the safety or well-being or anyone during a WCA-sanctioned competition based on their online behavior, then please contact the WIC.
-- For any incidents on the WCA forum or other official WCA platforms please contact the moderators, such as the WAC on the WCA forums. The WIC would like for minor behavioral incidents to be handled “locally” online on official WCA platforms– such as through the means of warnings, mutes, or bans–before the WIC is contacted to request disciplinary action being enacted. Please only contact the WIC for serious incidents that take place online on official WCA platforms.
+- For any incidents on the WCA forum or other official WCA platforms please contact the WCA Communications Team (WCT). The WIC would like for minor behavioral incidents to be handled "locally" online on official WCA platforms– such as through the means of warnings, mutes, or bans–before the WIC is contacted to request disciplinary action being enacted. Please only contact the WIC for serious incidents that take place online on official WCA platforms.
 
 ## Organizers
 
@@ -82,10 +82,10 @@ The Code of Conduct is limited in scope to WCA Competitions and online on offici
 
 Competitions can be demanding, difficult situations that can add another level of stress. It is essential to remain professional at all times; this will help your interactions with others to go more smoothly, and allow you to positively represent the WCA. Keep in mind the following points when managing a difficult situation:
 
-- Remain calm during your interactions, speak slowly, avoid arguing, avoid shouting, don’t use overly complicated jargon, and try to be understanding of others. Doing this will allow you to handle the situation in a calm manner and avoid conflict.
+- Remain calm during your interactions, speak slowly, avoid arguing, avoid shouting, don't use overly complicated jargon, and try to be understanding of others. Doing this will allow you to handle the situation in a calm manner and avoid conflict.
 - If you are imposing an unpopular ruling, explain clearly why you are doing it. If the competitor is young, it may be beneficial to involve their parent/guardian. Some competitors are easily embarrassed. One way to defuse that tension is to draw from personal experience, and let them know that the same situation has happened to you before.
-  - Example: a young competitor doesn’t start their timer correctly and becomes upset as their attempt has been given a DNF penalty. Speak to their parents, use more straightforward terms such as “disqualify” rather than DNF, to explain what happened. Show the competitor how to start the timer correctly. Tell them about a time it happened to you, maybe a time when you had a particularly good scramble. Give them tips on how you have avoided this happening again.
+  - Example: a young competitor doesn't start their timer correctly and becomes upset as their attempt has been given a DNF penalty. Speak to their parents, use more straightforward terms such as "disqualify" rather than DNF, to explain what happened. Show the competitor how to start the timer correctly. Tell them about a time it happened to you, maybe a time when you had a particularly good scramble. Give them tips on how you have avoided this happening again.
 - If you are becoming frustrated during an interaction, ask for help early or get another Delegate/organizer/trusted person to step in. If this is not possible consider taking a break from the situation and rediscussing the matter with the people involved at a later point in the competition.
 - When there are multiple difficult situations occurring at competitions, try and prioritize what is the most important and where possible assign others (either Delegates, organizers or other trusted individuals) to deal with the less important or less time-critical issues.
-- After you have managed a difficult situation, it is important to debrief. Speak with the other Delegates/organizers/trusted people involved; discuss what went well, what could’ve been improved, what you learned, and avoid blaming others if things went poorly. If you were the only person involved, reach out to a Delegate you trust and debrief.
+- After you have managed a difficult situation, it is important to debrief. Speak with the other Delegates/organizers/trusted people involved; discuss what went well, what could've been improved, what you learned, and avoid blaming others if things went poorly. If you were the only person involved, reach out to a Delegate you trust and debrief.
 - Use the Delegate report as a resource to gather feedback on how you managed the situation, and how you could have managed the situation differently. This also acts as a resource for others to learn how they may be able to manage similar situations.
