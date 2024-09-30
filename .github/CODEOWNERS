@@ -1,3 +1,8 @@
 documents/ @thewca/board
 edudoc/ @thewca/wqac
 editable-image-files/ @thewca/wqac
+bin/ @thewca/software-team
+keys/ @thewca/software-team
+.github/ @thewca/software-team
+.gitignore @thewca/software-team
+Dockerfile @thewca/software-team
