@@ -1,6 +1,9 @@
+# Actual contents that directly reflect on the documents published on the WCA website
 documents/ @thewca/board
 edudoc/ @thewca/wqac
 editable-image-files/ @thewca/wqac
+
+# Technical configuration, deploy scripts, build environments, etc.
 bin/ @thewca/software-team
 keys/ @thewca/software-team
 .github/ @thewca/software-team
