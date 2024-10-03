@@ -88,7 +88,7 @@ There is a lot of information that is relevant to all WCA Staff, not simply Dele
   - [Lost and Found](#lost-and-found)
 - [Delegates Outside of the Competition](#delegates-outside-of-the-competition)
   - [Managing WCA User Accounts](#managing-wca-user-accounts)
-    - [Accounts vs. Profiles (WCA IDs)](#accounts-vs-profiles-wca-ids)
+    - [Accounts vs. Profiles (WCA IDs)](#accounts-vs-wca-ids)
     - [Handling WCA ID Claims](#handling-wca-id-claims)
     - [Requesting Changes to Personal Data](#requesting-changes-to-personal-data)
   - [Acquiring Competition Equipment](#acquiring-competition-equipment)
@@ -364,7 +364,7 @@ There are some rules about how and when competitions must be requested. These ar
 
 The following are guidelines for filling out the [New Competition page](https://www.worldcubeassociation.org/competitions/new). Special rules exist for 3x3x3 Fewest Moves simultaneous competitions which override some of the rules written here. See the [Requesting a 3x3x3 Fewest Moves Simultaneous Competition](#requesting-a-fewest-moves-simultaneous-competition) section for more information.
 
-- The name of the competition must follow the Competition Requirements Policy. Even if you are choosing a name which is obvious for you why it complies with the policy, you must still give an explanation of the name in the "The reason for the name" field.
+- The name of the competition must follow the WCRP. Even if you are choosing a name which is obvious for you why it complies with the policy, you must still give an explanation of the name in the "The reason for the name" field.
   - The competition nickname must be the same as the actual name of the competition if it is 32 or fewer characters with few exceptions. If the name of the competition is over 32 characters, pick a nickname which is as close as possible to the actual name. The nickname is only used for display purposes and is what will be shown on the "Competitions" page and in the "Rankings" page.
   - The ID must be the same as the name or nickname with few exceptions (but spaces and special characters must be removed).
 - When writing the location of the venue, please be sure to write with the correct formatting. Do not write the country name in the "City name" field. If you are from a country that includes the region/state in the "City name" field like the United States, you must write the city name first, and then the state in full.
@@ -390,7 +390,7 @@ After you have followed all the steps and double-checked that everything is corr
 
 A Fewest Moves Simultaneous Competition is a competition taking place in different venues at the same time. At such a competition **only** 3x3x3 Fewest Moves is held and all competitors at all locations get the same scrambles at the same time. These competitions are made to make it easier for competitors to compete in a less popular event which is not very regularly held.
 
-There are differences in the Competition Requirements Policy which apply to Fewest Moves Simultaneous Competitions. These competitions can be held as long as none of the locations are closer than 10 kilometers to a regular competition. Exceptions can be made if both competitions are at least 5 days apart or the other competition does not have 3x3x3 Fewest Moves as an event.
+There are differences in the WCRP which apply to Fewest Moves Simultaneous Competitions. These competitions can be held as long as none of the locations are closer than 10 kilometers to a regular competition. Exceptions can be made if both competitions are at least 5 days apart or the other competition does not have 3x3x3 Fewest Moves as an event.
 
 Keep these points in mind when requesting a Fewest Moves Simultaneous Competition. The following points either supersede the listed point for regular competitions or are additions to the regular competition form:
 
@@ -746,21 +746,7 @@ If an illegal puzzle is found during a round, any completed attempts may be repl
 
 ## Incidents
 
-Beyond ensuring that a WCA competition adheres to the WCA Regulations, a Delegate's primary responsibility at competitions is resolving incidents. According to the [Regulation 11a](https://www.worldcubeassociation.org/regulations/#11a) and its sub-regulations, an incident is defined as:
-
-> [11a1](https://www.worldcubeassociation.org/regulations/#11a1)) Incorrect execution of event procedures by officials or competitors.
-
-> [11a2](https://www.worldcubeassociation.org/regulations/#11a2)) Interference or facility interruptions (e.g. power failure, emergency alarm activation).
-
-> [11a3](https://www.worldcubeassociation.org/regulations/#11a3)) Equipment malfunction.
-
-[Regulations 11b](https://www.worldcubeassociation.org/regulations/#11b) and [11d](https://www.worldcubeassociation.org/regulations/#11d) dictate the course of action expected of any Delegate, and are among the most important responsibilities of a Delegate at a competition:
-
-> [11b](https://www.worldcubeassociation.org/regulations/#11b)) If an incident occurs, the WCA Delegate determines an impartial and appropriate course of action.
-
-> [11d](https://www.worldcubeassociation.org/regulations/#11d)) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make a decision based on fair sportsmanship (also see [Regulation 11e3](https://www.worldcubeassociation.org/regulations/#11e3)).
-
-As a Delegate, your goal is to resolve any incidents which occur, while keeping in mind the fairness of the final resolution.
+Beyond ensuring that a WCA competition adheres to the WCA Regulations, a Delegate's primary responsibility at competitions is resolving incidents. [Regulation 11a](https://www.worldcubeassociation.org/regulations/#11a) and its sub-regulations clarify what is considered to be an incident. Regulations [11b](https://www.worldcubeassociation.org/regulations/#11b) and [11d](https://www.worldcubeassociation.org/regulations/#11d) dictate the course of action expected of any Delegate, and are among the most important responsibilities of a Delegate at a competition. As a Delegate, your goal is to resolve any incidents that occur, while keeping in mind the fairness of the final resolution.
 
 ### Extras
 
@@ -782,8 +768,6 @@ At any point, you may re-evaluate the fairness of the provisional extra and make
 
 ### Regulation A7g
 
-> [A7g](https://www.worldcubeassociation.org/regulations/#A7g)) At the discretion of the WCA Delegate, an incident or penalty caused by a competitor's inexperience may be replaced with an extra attempt.
-
 Many new competitors will inadvertently break the Regulations due to their unfamiliarity with the Regulations and processes of a WCA competition or an event's specific regulations. In these cases, you are always encouraged to use [Regulation A7g](https://www.worldcubeassociation.org/regulations/#A7g) to issue an extra to these competitors. An inexperienced competitor defined by A7g may not necessarily be new to WCA competitions, such as a competitor who is returning to WCA competitions after a long time or a competitor who is unfamiliar with a specific event. For example, a blindfolded-focused competitor who is newly competing in other speedsolving events may not be used to the judge lifting the cube cover for them. Use your discretion when issuing extras for incidents like these.
 
 A7g does not allow penalties to be waived, according to [Guideline A7g++](https://www.worldcubeassociation.org/regulations/guidelines.html#A7g++). An A7g-eligible competitor who gets a +2 due to their unfamiliarity with the Regulations may be granted an extra attempt which fully replaces the original attempt. However, a +2 penalty alone is not a sufficient reason to justify granting an extra attempt to a new competitor, as this would effectively just be an additional attempt that would replace a poor result. There must be extenuating circumstances, such as confusion about the Regulations, to grant an extra for a +2.
@@ -792,9 +776,7 @@ A7g does not allow penalties to be waived, according to [Guideline A7g++](https:
 
 The following incidents occur frequently at competitions, and usually have a standard way of getting resolved:
 
-<!---
-Using an HTML table here because Markdown formatters and renderers often can't present the information in a way that is easy to read when editing.
--->
+<!-- Using an HTML table here because Markdown formatters and renderers often can't present the information in a way that is easy to read when editing -->
 
 <table>
   <tr>
@@ -914,7 +896,7 @@ Competitors requiring accommodations are encouraged to contact the organization 
 
 ## Handling Behavioral Issues
 
-At a competition you may find that you are required to address the disruptive behavior of a competitor or spectator. Always be respectful but assertive about addressing poor behavior. The specifics of any situation can vary widely and there is no one-size-fits-all solution to handling them. The WIC has created a document outlining [Guidelines for Disciplinary Incidents](https://documents.worldcubeassociation.org/edudoc/guidelines-for-disciplinary-incidents/guidelines-for-disciplinary-incidents.pdf), and as a Delegate, read through the document to familiarize yourself with the information contained.
+At a competition you may find that you are required to address the disruptive behavior of a competitor or spectator. Always be respectful but assertive about addressing poor behavior. The specifics of any situation can vary widely and there is no one-size-fits-all solution to handling them. The WIC has created a document outlining [Guidelines for Disciplinary Incidents](https://documents.worldcubeassociation.org/edudoc/guidelines-for-disciplinary-incidents/guidelines-for-disciplinary-incidents.pdf), and as a Delegate, read through the document to familiarize yourself with the information.
 
 ## Preparing for Subsequent Rounds
 
@@ -924,7 +906,7 @@ As a Delegate, pay special attention to the creation of groups for subsequent ro
 
 ## Modifications to the Schedule or Events
 
-Sometimes things go wrong, and you run behind schedule. Other times, you end up ahead of schedule. In both cases, your organization team may be compelled to adjust the schedule of upcoming events in order to recalibrate with the reality of how the competition is running. There are a number of important considerations that you must be aware of as a Delegate when modifying the schedule that come from both the WCA Regulations and the WCA Competition Requirements Policy.
+Sometimes things go wrong, and you run behind schedule. Other times, you end up ahead of schedule. In both cases, your organization team may be compelled to adjust the schedule of upcoming events in order to recalibrate with the reality of how the competition is running. There are a number of important considerations that you must be aware of as a Delegate when modifying the schedule that come from both the WCA Regulations and the WCRP.
 
 If you decide to modify the details of a competition, including the advancement conditions, time limits, cutoffs, or number of rounds, you must update these details on the WCA website and synchronize WCA Live to prevent issues with scoretaking.
 
@@ -933,29 +915,30 @@ If you decide to modify the details of a competition, including the advancement 
 Running behind schedule is the most common schedule deviation at WCA competitions. You and the organization team have a number of tools at your disposal to potentially get the competition back on track:
 
 - Continuing the competition as-is and ending later than expected
-- Reducing lunch time
-- Reducing advancement conditions, cutoffs, or time limits
+- Reducing lunchtime
+- Tightening advancement conditions
+- Reducing cutoffs or time limits
 - Removing rounds
 
-You are allowed to change the advancement conditions of a competition according to [Regulation 9p2a](https://www.worldcubeassociation.org/regulations/#9p2a), and are allowed to change the cutoff and time limits by [Regulation A1a3](https://www.worldcubeassociation.org/regulations/#A1a3). In both cases, you must consider the fairness of such a change. When possible, announce any changes before affected rounds. While you are allowed to change these details during a round, avoid it if at all possible. [Guideline A1a3+](https://www.worldcubeassociation.org/regulations/guidelines.html#A1a3+) explains how modifications to the time limit or cutoff can disadvantage competitors because it can potentially change the strategy of a competitor.
+You are allowed to change the advancement conditions of a competition according to [Regulation 9p2a](https://www.worldcubeassociation.org/regulations/#9p2a), and are allowed to change the cutoff and time limits by [Regulation A1a3](https://www.worldcubeassociation.org/regulations/#A1a3). In both cases, you must consider the fairness of such a change. When possible, announce any changes before the affected rounds begin. While you are allowed to change these details during a round, avoid it if at all possible. [Guideline A1a3+](https://www.worldcubeassociation.org/regulations/guidelines.html#A1a3+) explains how modifications to the time limit or cutoff can disadvantage competitors because it can potentially change the strategy of a competitor.
 
-Removing rounds is permitted, but consider it a last resort tool for getting a competition back on schedule. If removing rounds must be done, prioritize removing smaller subsequent rounds in order to affect as few competitors as possible. When canceling a planned final for a short event (e.g. 2x2x2 or Pyraminx), attempt to provide the same scrambles to prospective podium placements by putting the fastest competitors from the previous round in the same group. You are strongly discouraged from removing the first rounds of any event, as this is effectively the same as canceling the event entirely, and providing at least one round of attempts to everyone who signed up for an event is preferable to providing 2+ rounds in another event.
+Removing rounds is permitted, but consider it a last resort tool for getting a competition back on schedule. If removing rounds must be done, prioritize removing smaller subsequent rounds in order to affect as few competitors as possible. When canceling a planned final for a short event (e.g. 2x2x2 or Pyraminx), attempt to provide the same scrambles to prospective podium placements by putting the fastest competitors from the previous round in the same group. You are strongly discouraged from removing an event entirely, as providing at least one round of attempts to everyone who signed up for an event is preferable to providing two or more rounds in another event.
 
 ### Running Ahead of Schedule
 
-The stakes are lower when you are running ahead of schedule. Naturally, the easiest path forward is to simply continue on ahead of schedule. This will allow for a buffer in case there is a delay that appears later in the competition, and allows you to leave early if you finish ahead of time. Sometimes competitors travel a long way to get to competitions, and they will appreciate being able to get a head start on their journey home. Alternatively, if it is still the morning, consider extending lunch, especially if it is under 1 hour. Having extra time to get food, eat it, relax, and warm up before the competition resumes can add greatly to the experience.
+The stakes are lower when you are running ahead of schedule. Naturally, the easiest path forward is to simply continue on ahead of schedule. This will allow for a buffer in case there is a delay that appears later in the competition, and allows you to leave early if you finish ahead of time. Sometimes competitors travel a long way to get to competitions, and they will appreciate being able to get a head start on their journey home. Alternatively, if it is still the morning, consider extending lunchtime, especially if it is under one hour. Having extra time to get food, eat, relax, and warm up before the competition resumes can add greatly to the experience.
 
-If you still want to fill up some time and you have some longer events that use a cutoff, prefer increasing the cutoff time over increasing the time limit. This is because competitors don't often sign up for events which they do not expect to meet the time limit. Combined with the fact that changing event registration is disallowed at most competitions, increasing the time limit results in neither significantly more opportunities for competitors nor takes up substantially more time. On the contrary, increasing the cutoff times often allows some competitors who are already signed up to have a better chance at getting a full mean or average, which consequently results in slightly slower rounds. Use your experience with planning competitions to estimate a cutoff time that will extend the round by the desired amount.
+If you still want to fill up some time and you have some longer events that have a cutoff, prefer increasing the cutoff time over increasing the time limit. This is because competitors don't often sign up for events which they do not expect to meet the time limit for. Combined with the fact that changing event registration is disallowed at most competitions, increasing the time limit results in neither significantly more opportunities for competitors nor takes up substantially more time. On the contrary, increasing the cutoff times often allows some competitors who are already signed up to have a better chance at getting a full mean or average, which consequently results in longer rounds. Use your experience with planning competitions to estimate a cutoff time that will extend the round by the desired amount.
 
-Other more dramatic options include increasing the size of a subsequent round by increasing the number of competitors who advance. You may also add an additional round entirely. The number of advancing competitors between rounds must still follow the maximum size as stated by [Regulation 9p1](https://www.worldcubeassociation.org/regulations/#9p1). In both cases, keep in mind that some competitors may have already left the venue if they were not expecting to advance to a certain round. Unless you have a good reason to expect that the majority of the competitors who could take advantage of modified advancement conditions will still be present (e.g. a large 2nd round of a popular event like 3x3x3 still ahead of you in the schedule), generally avoid changing advancement conditions.
+Other more dramatic options include increasing the number of competitors who advance to a subsequent round. You may also add an additional round entirely. The number of advancing competitors between rounds must still follow the maximum size as stated by [Regulation 9p1](https://www.worldcubeassociation.org/regulations/#9p1). In both cases, keep in mind that some competitors may have already left the venue if they were not expecting to advance to a subsequent round. Unless you have a good reason to expect that the majority of the competitors who could take advantage of modified advancement conditions will still be present (e.g. a large 2nd round of a popular event like 3x3x3 still ahead of you in the schedule), generally avoid changing advancement conditions.
 
-Per point 7.4 of the WCRP announcement criteria, you may not add an event to an ongoing WCA competition, except as an unofficial event.
+As per point 7.4 of the WCRP announcement criteria, you may not add an event to an ongoing WCA competition, except as an unofficial event, for which you would have to use a third-party service.
 
-Finally, remember that running ahead of schedule can cause some competitors to be "late" to their assigned groups, particularly if they are still referencing the original competition schedule. Do not disqualify competitors for being present at the originally scheduled time. If the same event is still ongoing, it is usually fairly simple to add them to an ongoing or future group. Even if this causes a small delay, being ahead of schedule means that you have the buffer time to accommodate it. However, competitors are ultimately responsible for appearing when their group is called, even if the competition is running ahead of schedule. If you feel that accommodating a late competitor is infeasible or otherwise detrimental to the rest of the competition, you are not required to allow them to compete.
+Finally, remember that running ahead of schedule can cause some competitors to come to their assigned groups late (according to the updated schedule) due to them being unaware of the change. Do not disqualify competitors for being present at the originally scheduled time. If the same event is still ongoing, it is usually fairly simple to add them to an ongoing or upcoming group. Even if this causes a small delay, being ahead of schedule means that you have the buffer time to accommodate the competitor. However, competitors are ultimately responsible for appearing when their group is called, even if the competition is running ahead of schedule. If you feel that accommodating a late competitor is infeasible or otherwise detrimental to the rest of the competition, you are not required to allow them to compete.
 
 # After the Competition {.page-break-before}
 
-When the competition is over, **physical records from the competition must be retained by a Delegate of the competition for at least 90 days and digital records for 7 years according to the WCA Competition Requirements Policy.** Generally speaking, paper records tend to be only scorecards and solution sheets for 3x3x3 Fewest Moves attempts. Digital records can include scrambles, results, financial records, and contracts created through organizing competitions. The Delegate who will compile competition results and write incidents for the Delegate report is encouraged to hold paper records as reference material. Digital records related to scrambles and the competition Delegate Report will be maintained by the WCA after results are uploaded, and it is. As a Delegate, it is your responsibility to make sure that organizers have processes in place to maintain digital records related to competition finances for at least seven years. This can be done ahead of the competition as part of ensuring the competition organizers have a budget and reasonable levels of financial management. Encourage organizers to check requirements for financial record keeping for the government where the competition was held. The WCA expects financial records to be available for 7 years, but local government requirements may be higher than this.
+When the competition is over, **physical records from the competition must be retained by a Delegate of the competition for at least 90 days and digital records for 7 years according to the WCRP.** Generally speaking, paper records tend to be only scorecards and solution sheets for 3x3x3 Fewest Moves attempts. Digital records can include scrambles, results, financial records, and contracts created through organizing competitions. The Delegate responsible for compiling the competition results and writing the incidents for the Delegate report is encouraged to keep paper records as reference material. Digital records related to the scrambles and the Delegate report will be maintained by the WCA after the results are uploaded. As a Delegate, it is your responsibility to make sure that organizers have processes in place to maintain digital records related to competition finances for at least seven years. This can be done ahead of the competition as part of ensuring the competition organizers have a budget and reasonable levels of financial management. Encourage organizers to check requirements for financial record keeping for the government where the competition was held. The WCA expects financial records to be available for seven years, but your local government requirement may be higher than this, in which case you should follow that instead.
 
 If your Delegate community has shared equipment, use some time after the competition to coordinate who is taking the equipment home so that they have it ready for the next competition.
 
@@ -966,25 +949,25 @@ If your Delegate community has shared equipment, use some time after the competi
 - **Registration Data**: You have to verify that all issues related to registration data have been resolved (see the Administering Registration Data section). If this has already been done before the competition, as is recommended, no bigger issues are expected at this stage.
 - **Score taking errors**: Always double-check scorecards after they are entered. This can be done during or after the competition is finished, but always **before **submitting the results (help from reliable organizers or volunteers can be enrolled). When doing this, remember to check for missing signatures from the judge or competitor and verify that extra attempts were entered at their correct positions in the average, and that the ambiguous times are always entered in the worst reasonable interpretation according to [Guideline A7c+](https://www.worldcubeassociation.org/regulations/guidelines.html#A7c+). It is good practice to have a different person from the initial data enterer perform the double-checking, in case handwriting is interpreted differently.
 
-Also be aware of potential scoretaking errors. Scoretaking software like WCA Live will automatically check for results that exceeded the time limit or did not pass the cutoff, as long as WCA Live is synchronized with the times set in the competition's edit page on the WCA website. However, if you are not using WCA Live, or if your scoretaking software does not automatically check that the results comply with the WCA Regulations, check that all results comply with the stated cutoffs, time limits, and cumulative time limits that were in place for that round of the competition.
+Also be aware of potential scoretaking errors. Scoretaking software like WCA Live will automatically check for results that exceeded the time limit or did not pass the cutoff, as long as WCA Live is synchronized with the WCA website. However, if you are not using WCA Live, or if your scoretaking software does not automatically check that the results comply with the WCA Regulations, check that all results comply with the stated cutoffs, time limits, and cumulative time limits that were in place for that round of the competition.
 
-- **Cutoffs**: If people do not meet the cutoff for a combined round, their further results have to be blank and they will have no average result. Blank results are different from DNF or DNS results, and are recorded as "no result".
-- **Time limits**: Times that exceeded the time limits must be changed to DNF.
-- **Cumulative time limits**: Make sure that the round format is correct (i.e. not using a cutoff), and that all times for a round with a cumulative time limit do not sum up to exceed the limit.
+- **Cutoffs**: if people do not meet the cutoff for a combined round, their further results have to be blank and they will have no average result. Blank results are different from DNF or DNS results, and are recorded as "no result".
+- **Time limits**: attempts that exceeded the time limits must be changed to DNF.
+- **Cumulative time limits**: if a round has a cumulative time limit, make sure that the round format is correct (i.e. not using a cutoff), and that the total of all attempts from one result does not exceed the limit.
 
 ### Double-checking Registration Data
 
 After the competition, verify that registration data is accurate. Along with the requirements listed in [Administering Registration Data](#administering-registration-data), check that:
 
-- All newcomers are real newcomers. If you are absolutely certain that someone competed before, add their WCA ID before submission. You can do this by editing their account and manually assigning a WCA ID to them. If you get an error about mismatching data, double check with the competitor that they are indeed a returner, and you will need to contact the WRT to correct it. If there are any doubts, do not add a WCA ID and mention the issue to the WRT when submitting.
+- All newcomers are real newcomers. If you are absolutely certain that someone has competed before, add their WCA ID before submission. You can do this by editing their account and manually assigning a WCA ID to them. If you get an error about mismatching data, double-check with the competitor that they have indeed competed before, and if so, you will need to contact the WRT to correct this. If there are any doubts, do not add a WCA ID and mention the issue to the WRT when submitting.
 - All newcomers represent a region of which they hold citizenship, and not just their region of residence or heritage.
-- The data for on-the-spot registrants is accurate, as they are particularly error-prone. Pay special attention to those, otherwise crucial information such as WCA IDs and/or dates of birth may be unavailable.
-- All the data of all returners (competitors with a WCA ID) matches their data currently stored in the WCA database. If there is any difference and a correction is needed, request this change (see section on Requesting Changes to Personal Data further below) when submitting the results.
-- If the date of birth for a competitor is still missing after the competition, the WRT will not accept their results. Change it to be blank on the user's account and do not enter bogus dates such as "1900-01-01". The results must be removed before submitting, and the competitor must be contacted to get their information after which their results may be recognized.
+- The data for on-the-spot registrants is accurate, as they are particularly error-prone. Pay special attention to those, because otherwise crucial information such as WCA IDs and/or dates of birth may be unavailable.
+- All the data for all competitors with an existing WCA ID matches their data currently stored in the WCA database. If there are any discrepancies and a correction is needed, request this change when submitting the results (see the [Requesting Changes to Personal Data](#requesting-changes-to-personal-data) section).
+- If the date of birth for a competitor is still missing after the competition, the WRT will not accept their results. Change it to be blank on the user's account and do not enter bogus dates such as "1900-01-01". The results must be removed before submitting, and the competitor must be contacted to get their information, after which their results may be recognized.
 
 ### Submitting Results
 
-To submit results for a competition, you must have access to the scrambles that were generated using TNoodle. Then follow these steps:
+To submit the results for a competition, you must have access to the scrambles that were generated using TNoodle. Then follow these steps:
 
 1. Modify the events tab with any changes that were made during the competition, such as adjusting a cutoff or adding a round.
 2. Adjust the number of scramble sets for each round. You may have generated additional backup scramble sets that were unused, or generated additional scramble sets during the competition. The number of scramble sets must exactly match the number of scramble sets that were used during the round.
@@ -995,16 +978,16 @@ To submit results for a competition, you must have access to the scrambles that 
 7. Upload the generated scrambles from TNoodle to Scramble Matcher. Go to the folder where you saved the scramble sets after generating scrambles and select `/Interchange/<competition-name>.json` to upload. If you generated multiple sets of scrambles, such as when generating an emergency set during the competition, you can upload multiple JSON files.
 8. Assign scrambles to scramble sets by clicking the "Automatically Assign Scrambles" button. Navigate along the left hand side for each round and drag any scramble sets which were not used during the competition to the "Available" column.
 9. When all scramble sets are assigned to rounds, return to the main page and click the "Get Results JSON" button. This downloads a JSON file which contains the complete competition results.
-10. Submit results by going to the competition website and navigating to the Upload Results page. Upload the JSON file downloaded from the last step, then click the validate button. The website will run a series of checks on the results for common issues, and provide a list of errors and warnings.
-11. Resolve all errors. Read the message provided next to the error, as it contains useful information about the problem. They can often be fixed by going back to one of the previous steps. When all errors are resolved, you will need to create and upload a new JSON file from step 4 onwards and revalidate. **Do not forget to synchronize once again in WCA Live!** Common errors are:
+10. Submit the results by going to the competition website and navigating to the Upload Results page. Upload the JSON file downloaded from the last step, then click the validate button. The website will run a series of checks on the results for common issues, and provide a list of errors and warnings.
+11. Resolve all errors. Read the message provided next to the error, as it contains useful information about the problem. They can often be fixed by repeating one of the previous steps. When all errors are resolved, you will need to create and upload a new JSON file from step 4 onwards and revalidate. **Do not forget to synchronize once again in WCA Live!** Common errors are:
     1. Unexpected results for an event. This will happen if the results contain an event that was not officially listed for the competition. You will need to appeal to the WCA Board who will either add the event or reject the addition.
-    2. Missing results for an event. This may happen if you have an event listed and nobody competed in the event you will need the WRT to remove the event in order to upload your results.
-    3. Unexpected/missing results for a round. You will need to modify the competition events on the WCA website with what happened at the competition.
-    4. Unexpected/missing scrambles for a round. Double check Scrambles Matcher to ensure that all scrambles intended to be used are checked.
+    2. Missing results for an event. This may happen if you have an event listed and nobody competed in the event. You will need the WRT to remove the event in order to upload your results.
+    3. Unexpected/missing results for a round. You will need to modify the competition events on the WCA website with an explanation of what happened at the competition.
+    4. Unexpected/missing scrambles for a round. Double-check Scramble Matcher to ensure that all scrambles intended to be used are checked.
     5. Unexpected/missing scrambles for a group. You will need to modify the events tab with the correct number of groups that were held at the competition.
-    6. The number of persons in the competition (###) is above the competitor limit. You will need to remove the competitors above the limit or to appeal to the WRC and request the limit to be changed retroactively.
-    7. Wrong country/name for person. You will need to correct the data for the person. If there is a country/name change request, please include all required information for such cases as described below to the WRT.
-    8. Any regulation error must be rectified.
+    6. The number of persons in the competition (###) is above the competitor limit. You will need to remove the competitors above the limit or appeal to the WRC and request for the limit to be changed retroactively.
+    7. Wrong country/name for person. You will need to correct the data for the person. If there is a country/name change request, please provide all required information for such cases to the WRT as described below.
+    8. Any Regulations-related error must be rectified.
 12. Review the remaining warnings. Read the messages provided and evaluate whether the warning is an actual issue or not. If it is, fix the issue and upload a new JSON file.
 13. **Provide explanations for all remaining warnings**. At this point, the only remaining warnings will be ones which you have verified to be false positives, such as persons with names matching existing WCA IDs. Provide explanations for anything weird that happened such as "competitor opted not to finish average and resulted in DNS", as the WRT will likely ask about it. Additionally, here are some common items that can be listed in the message:
     1. Are there any name changes requested? If so, please list the WCA ID, old name, new name, and which version of the name is included in the submitted JSON file.
@@ -1012,18 +995,18 @@ To submit results for a competition, you must have access to the scrambles that 
     3. Have rounds or entire events been dropped during the competition?
     4. Are there records that must be declined due to [Regulation 9i2](https://www.worldcubeassociation.org/regulations/#9i2)?
     5. What was the main event at the competition? While this is submitted to the WCAT during the competition page submission, this is prior to the competition taking place. The WRT needs to know **how** a main event was treated as such during the competition. This is not necessary if the main event was 3x3x3.
-    6. If there is anything else of importance for the WRT, please don't hesitate to include it; the more detailed, the better.
+    6. If there is anything else of importance for the WRT, please don't hesitate to include it; the more detailed - the better.
 14. Clearly outline anything irregular with the results submission, such as edits you made manually to the JSON file.
 15. Click "Submit Results" to send the results to the WRT. You and all other Delegates of the competition will receive a confirmation email that the results have been submitted.
 
 ### Requesting Changes to Competition Results
 
-If changes need to be made to competition results after they have been submitted, the following information must be provided via "reply all" in the **results email thread** of the competition:
+If changes need to be made to competition results after they have been submitted, the following information must be provided via "Reply All" in the **results email thread** of the competition:
 
-- Competition name and/or competition ID
-- WCA ID and name of the competitor
-- Event and round
-- Time(s) to be changed. Please provide both old and new times for a clear internal historical change record
+- Competition name and/or competition ID.
+- WCA ID and name of the competitor.
+- Event and round.
+- Time(s) to be changed. Please provide both old and new times for a clear internal historical change record.
 
 Here is an example of a proper change request corresponding to the list above:
 
@@ -1035,19 +1018,19 @@ Here is an example of a proper change request corresponding to the list above:
 
 Notes:
 
-- If you fail to provide all of the information above, the WRT will likely ask you to resend a complete change request. The WCA ID, which is the unique key to identify competitors in the WCA database, must never be missing. All results changes must be sent via "reply all" to the original results thread where you submitted the JSON of the competition.
+- If you fail to provide all of the information above, the WRT will likely ask you to resend a complete change request. The WCA ID, which is the unique key to identify competitors in the WCA database, must never be missing. All results changes must be sent via "Reply All" to the original results thread where you submitted the JSON of the competition.
 - If the change stems from a clerical mistake, e.g. a mistake during data entry, just emailing the WRT in the results submission thread is enough. If, however, the change arises from WRC or WIC feedback, the relevant committee must be included in CC.
 - For significant changes, e.g. retroactive disqualification of results, Delegates are advised to inform the affected competitor(s) by email or chat before or right after sending the change request to the WRT.
 
 ## Delegate Reports
 
-After every competition, the Delegates must submit a Delegate report. The purpose of the Delegate report is to prove that the competition was run according to the Regulations and at a sufficient level of quality, as well as share information that may be relevant to other Delegates. The Delegate report must be submitted within one week of the end of the competition. If you need an extension on your Delegate report, inform your Senior Delegate and CC the WEAT with a notice as soon as possible.
+After every competition, the Delegates must submit a Delegate report. The purpose of the Delegate report is to prove that the competition was run according to the Regulations and at a sufficient level of quality, as well as to share information that may be relevant to other Delegates. The Delegate report must be submitted within one week of the end of the competition. If you need an extension on your Delegate report, inform your Senior Delegate and CC the WEAT with a notice as soon as possible.
 
 Each of the following sections will describe what to put in each section of the Delegate Report. In general, only interesting or notable items need to be written.
 
 ### Venue
 
-You are strongly recommended to post pictures of the competition setup and venue in your report. These pictures help other Delegates get a sense for what your competition was like, and also help the WQAC and the WRC verify that the WCA Scramble Accountability Policy was followed. In the pictures, show:
+You are strongly recommended to post pictures of the competition setup and venue in your report. These pictures help other Delegates get a sense for what your competition was like, and also help the WQAC and the WRC verify that the WCA Scramble Accountability Policy was followed. The photos should show the following:
 
 1. General setup overview
 2. Scrambling area(s)
@@ -1065,24 +1048,24 @@ Itemized lists are not required, but you may share them if you desire. At a mini
 
 1. Was any income generated from the competition aside from registration fees?
 2. Did the competition make a profit or lose money?
-3. Which entity or individual managed the competition finances and who will be taking the extra money or loss of money? (Typically, this is a Regional Organization or sub-Regional Organization)
+3. Which entity or individual managed the competition finances and who will be taking the extra money or loss of money? Typically, this is a Regional Organization or sub-Regional Organization.
 4. Were any Delegate expenses covered?
 
 ### Incidents
 
-Include any notable incidents from the competition. Notable incidents are usually ones that are not included in the [Common Incident table](#common-incidents). Not every extra or +2 is an incident worth mentioning in the report. Focus your time on the incidents which may be useful for other Delegates to learn from. Of course, any incidents requiring WRC or WIC feedback need to be written here.
+Include any notable incidents from the competition. Notable incidents are usually ones that are not included in the [Common Incidents](#common-incidents) table. Not every extra or +2 is an incident worth mentioning in the report. Focus your time on the incidents which may be useful for other Delegates to learn from. Of course, any incidents requiring WRC or WIC feedback need to be written here.
 
-Number the incidents in this section so that an incident can be uniquely referenced if there are any questions in the email thread. Include the name of the Delegate(s) who handled an incident, as this helps the WRC make a better judgment on Delegate promotions.
+Number the incidents in this section so that an incident can be uniquely referenced if there are any questions in the email thread. Include the name of the Delegate(s) who handled each incident, as this helps the WRC make a better judgment on Delegate promotions.
 
 If you provided any special accommodations provided under [Regulation 2s](https://www.worldcubeassociation.org/regulations/#2s), you must list them in this section.
 
 ### Remarks
 
-The Remarks section is where you may provide any additional information or personal reflections on the competition that you do not feel fits in any of the other sections.
+The Remarks section is where you may provide any additional information or personal reflections on the competition that you do not feel fit in any of the other sections.
 
 ### Responses to Your Report
 
-You may receive responses to your report. If you requested feedback from the WRC or the WIC, expect a response from them. If they do not respond after a couple of weeks, you are encouraged to bump your email chain to remind them.
+You may receive responses to your report. If you requested feedback from the WRC or the WIC, expect a response from them. If they do not respond after a couple of weeks, it's best to send them another email in the same thread, reminding them about your requested feedback.
 
 Please keep in mind that the reports mailing list goes out to hundreds of members of WCA Staff. Consider whether your email needs to include the reports mailing list as a recipient. If your email is directed at a small group of individuals, such as a thank you message to an individual or committee, please consider removing unrelated individuals and mailing lists from the email to avoid sending emails irrelevant to the vast majority of WCA Staff.
 
@@ -1094,9 +1077,9 @@ All official WCA competitions must (bar some exceptions) pay a small fee as part
 
 Upon results for a competition being uploaded by the WRT, the WFC will issue an invoice within a few days. This invoice will arrive via email and will contain a link to a third party website for collecting payment. Invoices can be issued either to an individual Delegate or to an organization. For many organizations that organize competitions frequently or are responsible for all competition finances in their region, the WFC has set up redirects so that all of their Dues invoices are sent directly to the organization. If you are delegating in an area that has such an organization, you are probably already familiar with it; however, please reach out to the WFC if you are not sure whether a redirect will apply to your competition's Dues invoice.
 
-If the invoice is being issued to a Delegate and not redirected to an organization, **only the alphabetically first listed Delegate will receive the invoice**. If you are the Delegate who receives the invoice, it is your duty to inform other Delegates for the competition about the Dues amount, and also to communicate with the WFC regarding this invoice if needed. You may also send the invoice itself to the organization team, another Delegate, an association treasurer, etc. if they will be the one actually completing the payment. If forwarding to someone else to pay, it is highly recommended to request confirmation from them once the payment has been made. There is a payment period of 30 days; invoices must be paid within this timeframe, otherwise there may be repercussions. The Delegates of the competition, specifically the one who receives the invoice, are responsible for ensuring payment is made in time even if the actual payment is being done by someone else.
+If the invoice is being issued to a Delegate and not redirected to an organization, **only the alphabetically first listed Delegate will receive the invoice**. If you are the Delegate who receives the invoice, it is your duty to inform other Delegates for the competition about the Dues amount, and also to communicate with the WFC regarding this invoice if needed. You may also send the invoice itself to the organization team, another Delegate, an association treasurer, etc., if they will be the ones actually completing the payment. If forwarding to someone else to pay, it is highly recommended to request confirmation from them once the payment has been made. There is a payment period of 30 days; invoices must be paid within this timeframe, otherwise there may be repercussions. The Delegates of the competition, specifically the one who receives the invoice, are responsible for ensuring payment is made in time, even if the actual payment is being done by someone else.
 
-If you ever need an invoice to actually be written out in the name of someone else (not just forwarded to that person for payment), the WFC can manually amend who the invoice is issued to after you receive it. In order to do so, please forward the invoice back to the WFC and list the name of the person or organization as it should be shown on the invoice along with their email and any other info that must be included on the invoice. Once the invoice has been amended, it will be emailed to the new contact.
+If you ever need an invoice to actually be written out in the name of someone else (not just forwarded to that person for payment), the WFC can manually amend whom the invoice is issued to after you receive it. In order to do so, please forward the invoice back to the WFC and list the name of the person or organization as it should be shown on the invoice along with their email and any other info that must be included on the invoice. Once the invoice has been amended, it will be emailed to the new contact.
 
 If you ever have any doubts, questions, etc., feel free to send an email to [finance@worldcubeassociation.org](mailto:finance@worldcubeassociation.org), and they will get back to you as soon as possible.
 
@@ -1110,30 +1093,30 @@ This section covers the responsibilities of a Delegate outside of directly deleg
 
 ## Managing WCA User Accounts
 
-### Accounts vs. Profiles (WCA IDs) {#accounts-vs-profiles-wca-ids}
+### Accounts vs. WCA IDs (Profiles) {#accounts-vs-wca-ids}
 
 The difference between accounts (WCA accounts, website accounts, users) and WCA IDs (profiles, IDs, persons) is a common source of confusion, as they share a number of key items of personal data:
 
-|                          | Account | WCA ID |
-| ------------------------ | ------- | ------ |
-| Email address            | Yes     | No     |
-| Name                     | Yes     | Yes    |
-| Birthdate                | Yes     | Yes    |
-| Gender                   | Yes     | Yes    |
-| Region of representation | Yes     | Yes    |
-| Results                  | No      | Yes    |
+|                          | Account | WCA ID (Profile) |
+| ------------------------ | ------- | ---------------- |
+| Email address            | Yes     | No               |
+| Name                     | Yes     | Yes              |
+| Birthdate                | Yes     | Yes              |
+| Gender                   | Yes     | Yes              |
+| Region of representation | Yes     | Yes              |
+| Results                  | No      | Yes              |
 
 A prospective competitor must create an account before registering for their first competition, unless that registration does not use the WCA website. They provide their own personal data, which is not verified at this stage. It is possible for an individual to have multiple website accounts.
 
-A competitor's personal information is verified at their first competition (see the Administering Registration Data section above). When results for this competition are posted, a new WCA ID will be created for the competitor, containing the personal data from their account (or separately provided registration data for registrations not using the WCA website). Their account will automatically be linked to this WCA ID. A competitor must only have one WCA ID, as this is their unique identifier within the WCA.
+A competitor's personal information is verified at their first competition (see the [Administering Registration Data](#administering-registration-data) section). When results for this competition are posted, a new WCA ID will be created for the competitor, containing the personal data from their account (or separately provided registration data for registrations not using the WCA website). Their account will automatically be linked to this WCA ID. A competitor must only have one WCA ID, as this is their unique identifier within the WCA.
 
 A WCA ID is associated with a profile page, which looks like this:
 
 ![](images/profile-page.jpg){.centered width=65%}
 
-All competition results in the WCA's database are associated with a WCA ID, and this page provides access to all results for an individual competitor, along with other interesting results information.
+All competition results in the WCA database are associated with a WCA ID, and this page provides access to all results for an individual competitor, along with other interesting results information.
 
-Delegates and WCA Staff with access rights can access the account page for a competitor by clicking the pencil icon on a profile page, or using the manage users tool. These individuals, plus competition organizers, can also access the account page via links provided on the registration tab of a competition.
+Delegates and WCA Staff with access rights can access the account page for a competitor by clicking the pencil icon on a profile page or by using the manage users tool. These individuals, as well as the competition organizers, can also access the account page via links provided on the registration tab of a competition.
 
 ::::: {.page-break-before}
 The account page may look like this:
@@ -1141,7 +1124,7 @@ The account page may look like this:
 ![](images/account-page.jpg){.centered width=60%}
 :::::
 
-Personal information can be edited by Delegates and organizers for an account without a WCA ID, but for accounts with a linked ID, only the WRT can make such changes (see the Requesting Changes to Personal Data section, below). Delegates can remove the linked WCA ID from one account (with some exceptions, which the WRT must handle) and assign it to another account. In order for a WCA ID to be linked to an account the personal data fields in both must match.
+Personal information can be edited by Delegates and organizers for an account without a WCA ID, but for accounts with a linked ID, only the WRT can make such changes (see the [Requesting Changes to Personal Data](#requesting-changes-to-personal-data) section below). Delegates can remove the linked WCA ID from one account (with some exceptions, which the WRT must handle) and assign it to another account. In order for a WCA ID to be linked to an account the personal data fields in both must match.
 
 ### Handling WCA ID Claims
 
@@ -1189,20 +1172,11 @@ Change requests for a person's region of representation are particularly delicat
   - When did the competitor obtain the new nationality?
 - **Note**: residing in a region is **not **equivalent to having citizenship for that region.
 
-Finally, the rules for competitor names described in the Administering Registration Data section also apply for name changes.
+Finally, the rules for competitor names described in the [Administering Registration Data](#administering-registration-data) section also apply for name changes.
 
 ## Acquiring Competition Equipment
 
-The WCA has negotiated discounted prices for competition equipment from Speed Stacks. Here is the current price list:
-
-- Tournament display (includes cord and adapter): $90.00
-- StackMat G5 (timer, mat, bag): $24.50
-- G5 timer only: $18.00
-- Mat only: $8.80
-- Extra data cord: $3.00
-- Extra AC adapter: $3.00
-
-Prices do not include taxes and shipping. Within the US and Canada, shipping adds somewhere around $15-30 per box (their largest box fits 5 display sets). If you live somewhere else, shipping costs can be substantially higher. Your local jurisdiction may also incur customs fees. Contact the WCA Marketing Team if you have questions regarding shipping.
+The WCA has negotiated discounted prices for competition equipment from Speed Stacks. The current price list can be found on the gear order form below. Prices do not include taxes and shipping. Within the US and Canada, shipping adds somewhere around $15-30 per box (their largest box fits 5 display sets). If you live somewhere else, shipping costs can be substantially higher. Your local jurisdiction may also incur customs fees. Contact the WCA Marketing Team if you have questions regarding shipping.
 
 You may place an order using the [WCA Gear Order Form](https://docs.google.com/forms/d/e/1FAIpQLSc594bJA55CahKr7F8P-oHK44tn0cZ9NBZst0H5udwKnmh9Og/viewform). A member of the WCA Marketing Team will make the order and guide you through the ordering process. Once the order ships, you will receive an invoice from the WFC, which you can pay via Stripe (card payment), PayPal, or bank transfer.
 
@@ -1222,7 +1196,7 @@ Depending on your geographic situation as a Delegate, you may receive requests t
 
 If you want to take advantage of WCA Travel Funding, you must submit [an application](https://docs.google.com/forms/d/e/1FAIpQLSex2yNko7m6SL12zuMXD6WtowUNzxsNZYXYjx5yvYKYDOPbhQ/viewform) at least 60 days before the competition date while the competition is still unannounced. If the competition is less than 60 days away or already announced, the application will not be funded. The application must have the official support of a Senior Delegate or Board member as a sponsor and explain how much funding is needed and why the region where the competition will be held cannot provide those funds themselves. The WFC will discuss your application and return a decision to you as quickly as possible so you can move forward with the competition planning process. If your application is approved, the WFC will then work with you to make the necessary purchases (plane tickets, lodging reservations).
 
-If you are able to take advantage of WCA Travel Funding and bring competitions to a new region, please keep an eye out for potential Trainee Delegates (or provide support in training existing ones if there are any). Once a new region gets its own Junior Delegate, then Travel Funding is no longer needed for future competitions there and other new regions around the world can be the beneficiaries of this program instead. Please note that WCA Travel Funding only applies in cases where the Delegate's travel is strictly necessary to ensure the competition happens at all. It cannot currently be used to send experienced Delegates to continue the training of Junior Delegates or for Senior/Regional Delegates to visit other areas of their region for supervision.
+If you are able to take advantage of WCA Travel Funding and bring competitions to a new region, please keep an eye out for potential Trainee Delegates or provide support in training existing ones if there are any. Whenever a new region gets its own Junior Delegate, Travel Funding is no longer needed for future competitions there and other new regions around the world can be the beneficiaries of this program instead. Please note that WCA Travel Funding only applies in cases where the Delegate's travel is strictly necessary to ensure the competition happens at all. It cannot currently be used to send experienced Delegates to continue the training of Junior Delegates or for Senior/Regional Delegates to visit other areas of their region for supervision.
 
 For more information on the WCA Travel Funding program, please review the [official policy](https://documents.worldcubeassociation.org/documents/policies/external/Travel%20Reimbursement.pdf) or reach out to the WFC directly at [finance@worldcubeassociation.org](mailto:finance@worldcubeassociation.org).
 
@@ -1234,13 +1208,13 @@ As both a Delegate and a member of WCA Staff, you will be receiving emails not d
 - Other regions have different cultures and ways of running competitions, so what works in one region does not necessarily work everywhere.
 - Tone is not always clearly communicated via text.
 
-Be aware that some conversations are simply not relevant to some people. The WCA has over 500 volunteers with different responsibilities throughout the organization. When sending an email, it is good email etiquette to review the list of recipients and consider whether each of them needs to receive the email, or if a smaller list of recipients is the intended audience for your message. For discussions with a small number of people, using Reply-All is often fine, but use stronger discretion when replying to large mailing lists such as staff or Delegate reports.
+Be aware that some conversations are simply not relevant to some people. The WCA has hundreds of volunteers with different responsibilities throughout the organization. When sending an email, it is good email etiquette to review the list of recipients and consider whether each of them needs to receive the email, or if a smaller list of recipients is the intended audience for your message. For discussions with a small number of people, using "Reply All" is often fine, but use stronger discretion when replying to large mailing lists such as staff or Delegate reports.
 
 ### Replying to Delegate Reports
 
 Reading Delegate reports of other regions is a great way to expand your knowledge as a Delegate, as well as to gain a better understanding for how competitions might be run in other regions. Feedback from Delegates is especially helpful whenever WRC or WIC feedback is requested, as the incidents which require feedback are often the least straightforward ones and have the most to learn from.
 
-If you have questions related to the competition, feel free to ask the Delegates by responding to their email. However, do be aware that your response will be sent to hundreds of WCA Staff members, so consider whether or not it is appropriate to remove the Delegate reports mailing list from the CC to avoid sending an email to many people who may not appreciate it showing up in their inbox again.
+If you have questions related to the competition, feel free to ask the Delegates by responding to their email. However, do be aware that your response will be sent to hundreds of WCA Staff members, so consider whether or not it is appropriate to remove the Delegate reports mailing list from CC to avoid sending an email to many people who may not appreciate it showing up in their inbox again.
 
 Furthermore, it is not a Delegate's responsibility to review other Delegates' competition reports for regulation or quality violations. If you have a concern regarding the way something was handled at a competition based on the report, privately contact the relevant WCA committee and/or the Senior Delegate for the competition's region to handle the concern on your behalf.
 
@@ -1258,7 +1232,7 @@ Further disagreements with the result of a dispute may be escalated to an appeal
 
 There may be a time when you want to make a member of your community a Delegate. Some reasons a new Delegate may be needed are to alleviate the workload of existing Delegates or to provide a more local Delegate who can better serve the needs of a remote cubing community. However, there are no hard and fast rules about how many Delegates are required for a given region, or where Delegates should be located. Discuss with any other local, Regional, or Senior Delegate whether adding a new Delegate is an appropriate step for your community.
 
-To begin the process of inducting a member of your community as a Delegate, follow the following steps:
+To begin the process of inducting a member of your community as a Delegate, follow these steps:
 
 1. Recommend the person to your Senior and Regional Delegate with a reason for why this person should be a Delegate and why the region the person is located in needs a Delegate.
 2. If the Senior Delegate agrees, they will fill out the application form to make the person a Trainee Delegate and submit it to the Board.
@@ -1278,7 +1252,7 @@ One of your responsibilities as a Delegate is to foster the health of your local
 
 You are welcome to create a "Community" tab on your competitions' websites that link to these additional resources.
 
-If you do create an online community, you are responsible for effectively moderating the space. Create rules that align with the WCA's Code of Conduct, and strive to make the community a welcoming place for everyone. Additionally, take note of the terms of service of the platform you use.
+If you do create an online community, you are responsible for effectively moderating the space. Create rules that align with the WCA's Code of Conduct and Code of Ethics, and strive to make the community a welcoming place for everyone. Additionally, take note of the terms of service of the platform you use.
 
 ### Business Cards
 
@@ -1289,9 +1263,9 @@ The templates are designed for use with VistaPrint, which is available in the US
 The following are steps to create a business card using VistaPrint. Screenshots of each step are available [here](https://imgur.com/a/i28RZmo).
 
 1. Download the business card assets from the [WMT Google Drive](https://drive.google.com/drive/folders/1QG4Zg5vGTzxzwMxEkLmFvtM0iV_KhIC1). _Note: only Staff members with a WCA email address can access this link._
-2. Go to [https://www.vistaprint.com/business-cards](https://www.vistaprint.com/business-cards)
-3. Go to "Upload Design", choose "Standard Horizontal" for style, and upload "wcaCardBackground.png"
-4. Click "Make more edits" on the bottom
+2. Go to the [VistaPrint website](https://www.vistaprint.com/business-cards).
+3. Go to "Upload Design", choose "Standard Horizontal" for style, and upload `wcaCardBackground.png`.
+4. Click "Make more edits" on the bottom.
 5. Using the font Catamaran and the reference images as a guide, position four text boxes with the following text:
 
 ::::: {.indent}
@@ -1306,12 +1280,12 @@ Junior/Full Delegate (Size 8, Not Bolded)
 
 If the font Catamaran does not support your language, you can use a different font as long as it is sans-serif and legible. Contact the WCA Marketing Team at [marketing@worldcubeassociation.org](mailto:marketing@worldcubeassociation.org) if you need assistance choosing an appropriate font.
 
-6. Add "wcaLogo.png" as an image and position it using the reference image as a guide
-7. Add local/regional information on the back (optional)
-8. Once purchased, this cost can be reimbursed using competition funds
+6. Add `wcaLogo.png` as an image and position it using the reference image as a guide.
+7. Add local/regional information on the back (optional).
+8. Once purchased, this cost can be reimbursed using competition funds.
 
 ## Contributing to the Delegate Handbook
 
-The _Delegate Handbook_ is an ever-evolving resource, and is subject to change as the WCA and the cubing community change. All members of WCA staff are encouraged to contribute! If you want to fix, improve, or otherwise change the document, it can be found in the [WCA Documents GitHub repository](https://github.com/thewca/wca-documents). If you already know how to use Git and GitHub, the best way to contribute is by opening a Pull Request or an Issue. Otherwise, send a message to the WCA Quality Assurance Committee at [quality@worldcubeassociation.org](mailto:quality@worldcubeassociation.org), and describe the changes you would like to propose.
+The _Delegate Handbook_ is an ever-evolving resource, and is subject to change as the WCA and the cubing community change. All members of WCA staff are encouraged to contribute! If you want to fix, improve, or otherwise change the document, it can be found in the [WCA Documents GitHub repository](https://github.com/thewca/wca-documents). If you already know how to use Git and GitHub, the best way to contribute is by opening a Pull Request or an Issue. Otherwise, send a message to the WCA Quality Assurance Committee at [quality@worldcubeassociation.org](mailto:quality@worldcubeassociation.org) and describe the changes you would like to propose.
 
 Due to the length and complexity of this document, as well as the need to update it semi-regularly, there is currently no option to create official translations of the Delegate Handbook. Since the language used for communication within the WCA is English, it is expected that most Delegates will be able to read this document.
