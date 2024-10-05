@@ -589,46 +589,46 @@ The following points are an outline of a new competitor tutorial for a WCA compe
 
 - How to read a nametag, or otherwise determine the competitor's competing, judging, scrambling, and/or running groups.
 - What to do when the competitor's group is called.
-- How to compete.
+- How to compete:
   - Telling the judge they are ready.
   - Inspection time, including penalties.
-  - How to start the timer properly.
+  - How to start the timer properly:
     - Hand position, particularly using fingers to start the timer.
     - Waiting for the green light on the timer.
-  - How to stop the timer properly.
+  - How to stop the timer properly:
     - Flat hands; no "karate chops".
   - How to sign for attempts.
     - Check that the time matches the timer and is written legibly. Times which are not written legibly will be interpreted in the worst way possible. Competitors can ask their judge to re-write times if they are not easily readable.
   - How to call over a Delegate.
-- How to judge.
+- How to judge:
   - Asking the competitor if they are ready and waiting for the competitor's ready signal.
   - Judging inspection, including lifting the cube cover, operating the stopwatch, and making callouts.
     - Emphasize that only "8 seconds" and "12 seconds" are called out, not 15 or 17 seconds.
-    - Stopping the stopwatch when the competitor starts their solve, so that the actual time of the inspection is measured.
+    - Emphasize that they should only stop the stopwatch when the competitor starts their solve so that the actual time of the inspection is measured.
   - What to look for when the competitor starts their solve, including:
-    - Timer start hand position
-    - Whether the competitor is touching the puzzle
-  - How to judge during the solve.
+    - Timer start hand position.
+    - Whether the competitor is touching the puzzle.
+  - How to judge during the solve:
     - Pay attention. Don't cube, use your phone, or engage in conversation.
     - Don't distract the competitor during the solve. Sit still and be quiet.
     - Watch the competitor for any regulation violations.
-    - Pay close attention to how the competitor stops their timer, and make sure they are using their hands with palms flat and facing down.
+    - Pay close attention to how the competitor stops their timer and make sure they are using their hands with palms flat and facing down.
   - Finishing the solve.
     - The first step is to evaluate whether the cube is solved.
       - Do not touch the puzzle, use only your eyes.
     - How to evaluate the cube for +2s:
-      - Explain that a single turn (e.g. U or U') is a +2 on an NxNxN puzzle
-      - Explain that a "double move" (e.g. U2 or R2) is also a +2, and not considered two separate moves
-      - Explain that a slice move (e.g. M or M2) is considered as two outer moves, and is thus a DNF
-      - Tell them that if the cube is close to the limit for a +2 penalty (e.g. 45 degrees on NxNxN puzzles), and the judge cannot determine the final state, they should call over a Delegate to make the final decision
+      - Explain that a single turn (e.g. U or U') is a +2 on an NxNxN puzzle.
+      - Explain that a "double move" (e.g. U2 or R2) is also a +2, and not considered two separate moves.
+      - Explain that a slice move (e.g. M or M2) is considered two outer moves, and is thus a DNF.
+      - Tell them that if the cube is close to the limit for a +2 penalty (e.g. 45 degrees on NxNxN puzzles), and the judge cannot determine the final state, they should call over a Delegate to make the final decision.
     - Explain that a corner twist is a DNF.
     - Explain how missing pieces affect the solved state.
       - The complexity of regulation 5b5 can make this difficult for competitors to understand. Emphasize that judges can call over a Delegate if they are not certain about how to rule certain missing pieces.
     - How to write the final time.
       - Emphasize legible handwriting.
-    - How to write the final time, if there are penalties.
+    - How to write the final time if there are penalties.
     - Ask the competitor to sign for the attempt.
-  - What to do after the attempt is over (this may vary depending on how your competition is being run).
+  - What to do after the attempt is over. This may vary depending on how your competition is being run.
 
 ## Competing as a Delegate
 
@@ -915,7 +915,7 @@ If you decide to modify the details of a competition, including the advancement 
 Running behind schedule is the most common schedule deviation at WCA competitions. You and the organization team have a number of tools at your disposal to potentially get the competition back on track:
 
 - Continuing the competition as-is and ending later than expected
-- Reducing lunchtime
+- Reducing the allotted time for lunch
 - Tightening advancement conditions
 - Reducing cutoffs or time limits
 - Removing rounds
@@ -979,7 +979,7 @@ To submit the results for a competition, you must have access to the scrambles t
 8. Assign scrambles to scramble sets by clicking the "Automatically Assign Scrambles" button. Navigate along the left hand side for each round and drag any scramble sets which were not used during the competition to the "Available" column.
 9. When all scramble sets are assigned to rounds, return to the main page and click the "Get Results JSON" button. This downloads a JSON file which contains the complete competition results.
 10. Submit the results by going to the competition website and navigating to the Upload Results page. Upload the JSON file downloaded from the last step, then click the validate button. The website will run a series of checks on the results for common issues, and provide a list of errors and warnings.
-11. Resolve all errors. Read the message provided next to the error, as it contains useful information about the problem. They can often be fixed by repeating one of the previous steps. When all errors are resolved, you will need to create and upload a new JSON file from step 4 onwards and revalidate. **Do not forget to synchronize once again in WCA Live!** Common errors are:
+11. Resolve all errors. Read the message provided next to the error, as it contains useful information about the problem. They can often be fixed by going back to one of the previous steps. When all errors are resolved, you will need to create and upload a new JSON file from step 4 onwards and revalidate. **Do not forget to synchronize once again in WCA Live!** Common errors are:
     1. Unexpected results for an event. This will happen if the results contain an event that was not officially listed for the competition. You will need to appeal to the WCA Board who will either add the event or reject the addition.
     2. Missing results for an event. This may happen if you have an event listed and nobody competed in the event. You will need the WRT to remove the event in order to upload your results.
     3. Unexpected/missing results for a round. You will need to modify the competition events on the WCA website with an explanation of what happened at the competition.
@@ -987,7 +987,7 @@ To submit the results for a competition, you must have access to the scrambles t
     5. Unexpected/missing scrambles for a group. You will need to modify the events tab with the correct number of groups that were held at the competition.
     6. The number of persons in the competition (###) is above the competitor limit. You will need to remove the competitors above the limit or appeal to the WRC and request for the limit to be changed retroactively.
     7. Wrong country/name for person. You will need to correct the data for the person. If there is a country/name change request, please provide all required information for such cases to the WRT as described below.
-    8. Any Regulations-related error must be rectified.
+    8. Any Regulations-related errors must be rectified.
 12. Review the remaining warnings. Read the messages provided and evaluate whether the warning is an actual issue or not. If it is, fix the issue and upload a new JSON file.
 13. **Provide explanations for all remaining warnings**. At this point, the only remaining warnings will be ones which you have verified to be false positives, such as persons with names matching existing WCA IDs. Provide explanations for anything weird that happened such as "competitor opted not to finish average and resulted in DNS", as the WRT will likely ask about it. Additionally, here are some common items that can be listed in the message:
     1. Are there any name changes requested? If so, please list the WCA ID, old name, new name, and which version of the name is included in the submitted JSON file.
