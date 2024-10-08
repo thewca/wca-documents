@@ -2,6 +2,7 @@
 documents/ @thewca/board
 edudoc/ @thewca/wqac
 editable-image-files/ @thewca/wqac
+documents-guide @thewca/wqac
 
 # Technical configuration, deploy scripts, build environments, etc.
 bin/ @thewca/software-team
