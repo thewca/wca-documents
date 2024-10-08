@@ -14,6 +14,9 @@ if [ -z "$(docker images | grep wca-pdf-builder)" ]; then
   docker rmi wca-pdf-builder
 fi
 
+# Create the build directory first, because if it were created by the container, it would be owned by root
+mkdir -p build
+
 if [ "$1" = "--rebuild" ] || [ "$2" = "--rebuild" ] || [ "$image_exists" = true ]; then
   docker build --tag wca-pdf-builder --build-arg USER_ID=$(id -u) --build-arg GROUP_ID=$(id -g) . || exit
 fi
