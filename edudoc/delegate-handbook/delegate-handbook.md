@@ -553,7 +553,7 @@ You may receive questions regarding on-the-spot registration at the competition.
 Some regions have created alternative waiting list formats that can allow for maximizing the number of competitors who get to compete and to mitigate no-shows. The Extra Registration Requirements must clearly outline these policies in order to implement them. Here are some examples of acceptable formats that have been approved in the past when the process was explicitly outlined in the Extra Registration Requirements:
 
 1. Competitors on the waiting list may be added in the order of the waiting list after the waiting list deadline if the conditions are specified.
-2. Competitors attempting to register on the spot when registration is full may be added on the day of the competition in order of arrival when on-the-spot registration is enabled, if the conditions are specified.
+2. Competitors attempting to register on the spot when registration is full may be added on the day of the competition in order of arrival when on-the-spot registration is enabled if the conditions are specified.
    1. On-the-spot registrations must not be accepted before competitors on the waiting list, unless otherwise specified.
 3. If an online waiting list is not used and registration is full, competitors attempting to register on the spot may be added on the day of the competition in order of arrival when on-the-spot registration is enabled, if specified.
 4. Other policies may be accepted at the discretion of the WCAT.
@@ -612,7 +612,8 @@ The following points are an outline of a new competitor tutorial for a WCA compe
     - Pay attention. Don't cube, use your phone, or engage in conversation.
     - Don't distract the competitor during the solve. Sit still and be quiet.
     - Watch the competitor for any regulation violations.
-    - Pay close attention to how the competitor stops their timer and make sure they are using their hands with palms flat and facing down.
+    - Pay close attention to how the competitor stops their timer.
+      - Make sure they are using their hands with palms flat and facing down.
   - Finishing the solve.
     - The first step is to evaluate whether the cube is solved.
       - Do not touch the puzzle, use only your eyes.
@@ -762,7 +763,7 @@ The following is a general decision tree for handling incidents, and gives you a
 
 If you are ever unsure of whether it is fair to issue an extra, or do not have time to fully investigate the circumstances around an incident, you may always issue a provisional extra. A provisional extra is an extra that is not guaranteed to be accepted as the final result. Communicate to the competitor that you are granting a provisional extra and explain that whether the original time or the extra time will stand will be determined at a future time.
 
-If the provisional extra determines whether or not an individual advances to a subsequent round, you may choose to allow the affected competitor to compete provisionally as well. Inform them that their attempts for the subsequent rounds are provisional, and may be annulled depending on the final result of the other competitor's provisional extra. Take caution when exercising this option, as it can often result in confusion for the affected competitor(s). Additionally, if this situation occurs more than once in a competition, rule all instances similarly in order to be fair to all competitors at that competition.
+If the provisional extra determines whether or not an individual advances to a subsequent round, you may choose to allow the affected competitor to compete provisionally as well. Inform them that their attempts for the subsequent rounds are provisional, and may be invalidated depending on the final result of the other competitor's provisional extra. Take caution when exercising this option, as it can often result in confusion for the affected competitor(s). Additionally, if this situation occurs more than once in a competition, rule all instances similarly in order to be fair to all competitors at that competition.
 
 At any point, you may re-evaluate the fairness of the provisional extra and make a final ruling on whether or not it counts for the official attempt. However, if you are still unsure about a final ruling, describe the incident in the Incidents section of the Delegate Report and request WRC feedback. They will review the situation and provide a final ruling on whether to keep the provisional extra.
 
@@ -934,7 +935,7 @@ Other more dramatic options include increasing the number of competitors who adv
 
 As per point 7.4 of the WCRP announcement criteria, you may not add an event to an ongoing WCA competition, except as an unofficial event, for which you would have to use a third-party service.
 
-Finally, remember that running ahead of schedule can cause some competitors to come to their assigned groups late (according to the updated schedule) due to them being unaware of the change. Do not disqualify competitors for being present at the originally scheduled time. If the same event is still ongoing, it is usually fairly simple to add them to an ongoing or upcoming group. Even if this causes a small delay, being ahead of schedule means that you have the buffer time to accommodate the competitor. However, competitors are ultimately responsible for appearing when their group is called, even if the competition is running ahead of schedule. If you feel that accommodating a late competitor is infeasible or otherwise detrimental to the rest of the competition, you are not required to allow them to compete.
+Finally, remember that running ahead of schedule can cause some competitors to arrive late to their assigned groups, due to them referencing the old schedule. Do not disqualify competitors for being present at the originally scheduled time. If the same event is still ongoing, it is usually fairly simple to add them to an ongoing or upcoming group. Even if this causes a small delay, being ahead of schedule means that you have the buffer time to accommodate the competitor. However, competitors are ultimately responsible for appearing when their group is called, even if the competition is running ahead of schedule. If you feel that accommodating a late competitor is infeasible or otherwise detrimental to the rest of the competition, you are not required to allow them to compete.
 
 # After the Competition {.page-break-before}
 
@@ -953,7 +954,7 @@ Also be aware of potential scoretaking errors. Scoretaking software like WCA Liv
 
 - **Cutoffs**: if people do not meet the cutoff for a combined round, their further results have to be blank and they will have no average result. Blank results are different from DNF or DNS results, and are recorded as "no result".
 - **Time limits**: attempts that exceeded the time limits must be changed to DNF.
-- **Cumulative time limits**: if a round has a cumulative time limit, make sure that the round format is correct (i.e. not using a cutoff), and that the total of all attempts from one result does not exceed the limit.
+- **Cumulative time limits**: if a round has a cumulative time limit, make sure that the round format is correct (i.e. not using a cutoff), and that the total of all attempts from the same round (or multiple rounds, if the cumulative limit is shared) does not exceed the limit.
 
 ### Double-checking Registration Data
 
@@ -1232,7 +1233,7 @@ Further disagreements with the result of a dispute may be escalated to an appeal
 
 There may be a time when you want to make a member of your community a Delegate. Some reasons a new Delegate may be needed are to alleviate the workload of existing Delegates or to provide a more local Delegate who can better serve the needs of a remote cubing community. However, there are no hard and fast rules about how many Delegates are required for a given region, or where Delegates should be located. Discuss with any other local, Regional, or Senior Delegate whether adding a new Delegate is an appropriate step for your community.
 
-To begin the process of inducting a member of your community as a Delegate, follow these steps:
+To begin the process of inducting a member of your community as a Delegate, take the following steps:
 
 1. Recommend the person to your Senior and Regional Delegate with a reason for why this person should be a Delegate and why the region the person is located in needs a Delegate.
 2. If the Senior Delegate agrees, they will fill out the application form to make the person a Trainee Delegate and submit it to the Board.
