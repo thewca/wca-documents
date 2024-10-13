@@ -112,11 +112,13 @@ A vacancy or vacancies on the Board shall exist in the event that the actual num
 ### 3.7 Resignation
 Except as provided below, any director may resign at any time by giving written notice to the Chair, the Executive Director, or the Secretary (as each are defined in Section 6.1). The resignation shall take effect upon receipt of notice or at any later time specified in the notice. Unless otherwise specified in the notice, the resignation need not be accepted to be effective. If a director’s resignation is effective at a later time, the Board may elect a successor to take office as of the date when the resignation becomes effective. Except on notice to the Attorney General of California, no director may resign if the WCA would be left without a duly elected director or directors.
 
-### 3.8 Removal
+### 3.8 Removal by directors or by meeting
 A director may be removed from office at any time, with or without cause, by a vote of a majority of directors then in office, or a vote of a majority of members at a properly announced meeting, provided that a quorum is present. No reduction in the authorized number of directors shall have the effect of removing any director before that director’s term of office expires unless the reduction also provides for the removal of that specified director in accordance with these Bylaws and the Nonprofit Corporation Law.
 
 ### 3.9 Filling Vacancies
-Vacancies on the Board may be filled, at a regular or special meeting of the Board, by approval of the Board or, if the number of directors then in office is less than a quorum, by (i) the unanimous written consent of the directors then in office, (ii) the affirmative vote of a majority of directors then in office at a meeting held with notice in accordance with Section 4.4 or waiver of notice in accordance with Section 4.6, or (iii) a sole remaining director. A director elected to fill an existing vacancy shall hold office for the unexpired portion of the term, or until his or her death, resignation, or removal from office.
+Unless a vacancy is specified to be filled by a process elsewhere in these bylaws, vacancies on the Board may be filled at a regular or special meeting of the Board, by approval of the Board or, if the number of directors then in office is less than a quorum, by (i) the unanimous written consent of the directors then in office, (ii) the affirmative vote of a majority of directors then in office at a meeting held with notice in accordance with Section 4.4 or waiver of notice in accordance with Section 4.6, or (iii) a sole remaining director. A director elected to fill an existing vacancy shall hold office for the unexpired portion of the term, or until his or her death, resignation, or removal from office.
+
+If there are no directors remaining, then the team responsible for maintaining for the Code of Ethics shall start an immediate election to elect the authorized number of directors.
 
 ### 3.10 Compensation and Reimbursement
 Directors shall not receive any compensation for their services as directors. The Board may authorize the advancement or reimbursement to a director of actual reasonable expenses incurred in carrying out his or her duties as a director.
@@ -128,6 +130,17 @@ Whenever a director or officer has a financial or personal interest in any matte
 2. No interested officer or director may vote or lobby on the matter or be counted in determining the existence of a quorum at the meeting of the Board at which such matter is voted upon.
 3. Any transaction in which a director or officer has a financial or personal interest shall be duly approved by members of the Board not so interested or connected as being in the best interests of the organization.
 4. The minutes of meetings at which such votes are taken shall record such disclosure, abstention, and rationale for approval.
+
+### 3.12 Removal by petition
+A petition signed by five percent of voting members may call for one or more votes to remove directors (per Section 13). Such a petition may either call for multiple simultaneous votes to remove one separate director each (covering any subset of directors), or alternatively for a single vote to remove all directors.
+
+If any removal votes pass, the team/committee responsible maintaining for the Code of Ethics shall immediately begin an election to replace the removed director(s), and replacements cannot be appointed by remaining Board members themselves.
+
+## 3.13 Disclosure of override
+If the Board uses its powers specified in the Bylaws to override a process specified in the WCA Documents, or to override an action that is specified as a right or duty of someone else in the WCA Documents (and not also explicitly specified as a right or duty of the Board in the WCA Documents), the Board must publicly disclose and explain the necessity of this action. If such a disclosure has not been published, the override shall be considered null and void.
+
+## 3.14 Voting member nullification of override
+A petition signed by five percent of voting members may call for an anonymous vote (per Section 13) to nullify an override performed by the Board (as described in 3.13). This vote shall require a supermajority (⅔) to pass.
 
 ## 4. Board Meetings {.page-break-before}
 ### 4.1 Regular Meetings
@@ -270,3 +283,11 @@ In anticipation of or during an emergency, as defined in Section 5140(n)(5) of t
 
 ## 12. Amendment {.page-break-before}
 Except as otherwise provided by law, these Bylaws may be amended or repealed and new bylaws adopted by approval of the Board, or by a supermajority (⅔) vote of the membership at a properly announced meeting.
+
+## 13. Votes called by voting member petitions
+
+If a vote is called by a voting member petiton, the vote(s) shall be conducted by the team/committee responsible maintaining for the Code of Ethics. The vote shall be scheduled with at least two weeks notice, must include a voting period of at least 48 hours, and must conclude within a month of the date the vote was called.
+
+Each vote shall be an anonymous vote by voting members, with a quorum of 1/3 of voting members. Unless otherwise specified, the vote shall pass with a simple majority. If quorom is not reached for a given vote, the vote is considered to fail.
+
+Multiple such votes may be held simultaneously, in which case their results shall take effect at the same time.
