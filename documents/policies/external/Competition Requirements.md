@@ -85,7 +85,8 @@ The WCA Delegate must submit the following information when requesting approval 
    11. The name cannot contain any trademarks unless the organization team is formally authorized, in writing, to use such names.
    12. Names should not contain any unnecessary words (e.g. "Competition", "Comp").
    13. The competition short name and ID must resemble the competition name.
-       1. The competition short name and ID should only be modified if the competition name is too long (more than 32 characters). Exception: groups of competitions may have modified short names and IDs to ensure consistency with past and future competitions.
+      1. The competition short name and ID should only be modified if the competition name is too long (more than 32 characters). 
+         1. Exception: groups of competitions may have modified short names and IDs to ensure consistency with past and future competitions.
       2. The competition short name must contain a locational identifier.
 2. Location(s)
    1. A location consists of the country, city, and venue.
@@ -169,8 +170,7 @@ The WCA Delegate must submit the following information when requesting approval 
       1. If there is a deadline, it must not be earlier than the time registration is set to close.
       2. The deadline for adding registered events may be left blank, in which competitors may add registered events up until an event takes place.
       3. Competitors may choose not to compete in an event they are registered for.
-      4. Exception: for competitions with only one event, the deadline for adding registered events may be omitted.
-      5. At the discretion of the WCA Delegate(s), a competitor who is deemed to have made a mistake with the user interface during the registration process (e.g. registering for the inverse list of events that they intended) can be granted an exception to the deadline for adding registered events.
+      4. At the discretion of the WCA Delegate(s), a competitor who is deemed to have made a mistake with the user interface during the registration process (e.g. registering for the inverse list of events that they intended) can be granted an exception to the deadline for adding registered events.
    5. The registration requirements may include the conditions of the waiting list if one is to be used. Competitions are expected to use a waiting list unless specified by the organization team.
       1. Registrants will be placed on the waiting list if they have completed all requirements for a valid registration, but the competitor limit has been filled. Registrants from the waiting list will be accepted in the order that their registration was completed once a spot becomes available.
       2. It must be stated what the deadline is for accepting a registrant on the waiting list.
