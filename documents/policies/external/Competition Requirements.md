@@ -108,6 +108,7 @@ The WCA Delegate must submit the following information when requesting approval 
          1. Competitions held alongside 3x3x3 Fewest Moves simultaneous competitions should have a break around the simultaneous competition in case of schedule delays.
       4. A National Championship holding only 3x3x3 Fewest Moves may be a part of a simultaneous competition alongside a competition holding the National Championship status of another country.
          1. 3x3x3 Fewest Moves simultaneous competitions holding the National Championship status of two or more countries must recognize and award champion titles and their respective prizes to the winners in all the regions that take part.
+      5. A competitor must compete at the same location for all of their attempts at a 3x3x3 Fewest Moves simultaneous competition.
    6. Series
       1. Series are a special classification that can be assigned to WCA Competitions held less than 33 days apart for which the distance between them is less than 200 km, with the intention to accommodate more competitors to compete in one area.
          1. Series may be accepted if the need for competitions in an area is so great that the community will benefit from having multiple competitions held in a short period of time.
