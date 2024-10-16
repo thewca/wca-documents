@@ -1,6 +1,6 @@
 # WCA Competition Requirements Policy
 
-### Version 5.2 {.version}
+### Version 5.3 {.version}
 
 ## Purpose
 The purpose of this policy is to define the requirements and processes that a competition must meet and follow in order to be recognized as a WCA Competition.
@@ -85,17 +85,24 @@ The WCA Delegate must submit the following information when requesting approval 
    11. The name cannot contain any trademarks unless the organization team is formally authorized, in writing, to use such names.
    12. Names should not contain any unnecessary words (e.g. "Competition", "Comp").
    13. The competition short name and ID must resemble the competition name.
-       1. The competition short name and ID should only be modified if the competition name is too long (more than 32 characters). Exception: groups of competitions may have modified short names and IDs to ensure consistency with past and future competitions.
+      1. The competition short name and ID should only be modified if the competition name is too long (more than 32 characters). 
+         1. Exception: groups of competitions may have modified short names and IDs to ensure consistency with past and future competitions.
       2. The competition short name must contain a locational identifier.
 2. Location(s)
    1. A location consists of the country, city, and venue.
    2. The location should also include subregions of the country that are common to include with addresses (e.g. the state a U.S. city is located in).
-   3. Competitions will be accepted regarding proximity if there are no other competitions within 10 km driving distance and less than 5 days away.
-      1. Otherwise, the WCA Competition Announcement Team should review the circumstances of the proposed competition. The WCA Delegate requesting approval for such a competition must provide further information on why the competition should still be accepted. Reasons that will result in an approval include:
-         1. The two competitions don’t have events in common.
-         2. The two competitions take place in different countries.
+   3. Competitions must not be held within 30 km driving distance and 5 days of each other.
+      1. The WCA Delegate may request an exception to these restrictions, which shall be reviewed by the WCA Competition Announcement Team, with the following conditions:
+         1. At most two competitions may be held within 30 km driving distance and 5 days of each other, provided that the events held at each competition do not overlap.  
+         2. These restrictions do not apply to competitions in the same series. Multiple competitions in a series shall be treated as one competition in the context of these exceptions.
    4. The WCA Competition Announcement Team, together with the Senior Delegate, may impose additional requirements for venues, such as which types of venues are allowed to be used within a region.
-      1. Competitions may not be held in a vehicle (e.g. ferry, cruise, plane) unless the vehicle has a dedicated room to hold the event.
+      1. Competitions must not be held in a vehicle, including but not limited to trains, boats, and airplanes.
+      2. Competitions must not be held in private residences (including rented residences such as hotel rooms or rental homes).
+         1. Exception: Delegates may request an exception to this policy. The WCA Competition Announcement Team will review such requests based on the following standards:
+            1. Size of the private residence.
+            2. Frequency of competitions in the region.
+            3. Quality of the competition space.
+            4. Availability of alternative venues.
    5. 3x3x3 Fewest Moves simultaneous competitions
       1. 3x3x3 Fewest Moves simultaneous competitions are WCA competitions having only the 3x3x3 Fewest Moves event and taking place simultaneously in different locations.
          1. Any location must be announced at least 14 days (two weeks) before 00:00 UTC of the start date of the competition on the WCA website.
@@ -108,6 +115,7 @@ The WCA Delegate must submit the following information when requesting approval 
          1. Competitions held alongside 3x3x3 Fewest Moves simultaneous competitions should have a break around the simultaneous competition in case of schedule delays.
       4. A National Championship holding only 3x3x3 Fewest Moves may be a part of a simultaneous competition alongside a competition holding the National Championship status of another country.
          1. 3x3x3 Fewest Moves simultaneous competitions holding the National Championship status of two or more countries must recognize and award champion titles and their respective prizes to the winners in all the regions that take part.
+      5. A competitor must compete at the same location for all of their attempts at a 3x3x3 Fewest Moves simultaneous competition.
    6. Series
       1. Series are a special classification that can be assigned to WCA Competitions held less than 33 days apart for which the distance between them is less than 200 km, with the intention to accommodate more competitors to compete in one area.
          1. Series may be accepted if the need for competitions in an area is so great that the community will benefit from having multiple competitions held in a short period of time.
@@ -168,8 +176,7 @@ The WCA Delegate must submit the following information when requesting approval 
       1. If there is a deadline, it must not be earlier than the time registration is set to close.
       2. The deadline for adding registered events may be left blank, in which competitors may add registered events up until an event takes place.
       3. Competitors may choose not to compete in an event they are registered for.
-      4. Exception: for competitions with only one event, the deadline for adding registered events may be omitted.
-      5. At the discretion of the WCA Delegate(s), a competitor who is deemed to have made a mistake with the user interface during the registration process (e.g. registering for the inverse list of events that they intended) can be granted an exception to the deadline for adding registered events.
+      4. At the discretion of the WCA Delegate(s), a competitor who is deemed to have made a mistake with the user interface during the registration process (e.g. registering for the inverse list of events that they intended) can be granted an exception to the deadline for adding registered events.
    5. The registration requirements may include the conditions of the waiting list if one is to be used. Competitions are expected to use a waiting list unless specified by the organization team.
       1. Registrants will be placed on the waiting list if they have completed all requirements for a valid registration, but the competitor limit has been filled. Registrants from the waiting list will be accepted in the order that their registration was completed once a spot becomes available.
       2. It must be stated what the deadline is for accepting a registrant on the waiting list.
@@ -210,6 +217,10 @@ The WCA Delegate must submit the following information when requesting approval 
    3. An additional day may be added to the competition after the originally planned days, if the organization team wants to offer additional events (see 7.4).
       1. None of the originally announced events may be held on this new day.
          2. Exception: A significant delay on the previous day, if every affected competitor agrees.
+   4. Official events at a competition must not run for more than a 16-hour period without a break of 10 hours or more.
+   5. The schedule must include a distinct timeframe for all rounds of official events at the time of announcement.
+      1. Exception: Events that the organization team plans to hold simultaneously may be displayed in the same timeframe.
+      2. Exception: The Delegate may request to announce a competition with an incomplete schedule. Such requests will be reviewed by the WCA Competition Announcement Team
 9. Championships
    1. A championship type is assigned to competitions that are National, Continental, or World Championships.
       1. A competition must be located entirely within the region where the championship type is selected.
