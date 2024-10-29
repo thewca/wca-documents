@@ -95,6 +95,7 @@ The WCA Delegate must submit the following information when requesting approval 
       1. The WCA Delegate may request an exception to these restrictions, which shall be reviewed by the WCA Competition Announcement Team, with the following conditions:
          1. At most two competitions may be held within 30 km driving distance and 5 days of each other, provided that the events held at each competition do not overlap.  
          2. These restrictions do not apply to competitions in the same series. Multiple competitions in a series shall be treated as one competition in the context of these exceptions.
+         3. These restrictions do not apply to competitions in different countries.
    4. The WCA Competition Announcement Team, together with the Senior Delegate, may impose additional requirements for venues, such as which types of venues are allowed to be used within a region.
       1. Competitions must not be held in a vehicle, including but not limited to trains, boats, and airplanes.
       2. Competitions must not be held in private residences (including rented residences such as hotel rooms or rental homes).
