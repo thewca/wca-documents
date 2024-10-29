@@ -218,10 +218,11 @@ The WCA Delegate must submit the following information when requesting approval 
    3. An additional day may be added to the competition after the originally planned days, if the organization team wants to offer additional events (see 7.4).
       1. None of the originally announced events may be held on this new day.
          2. Exception: A significant delay on the previous day, if every affected competitor agrees.
-   4. Official events at a competition must not run for more than a 16-hour period without a break of 10 hours or more.
-   5. The schedule must include a distinct timeframe for all rounds of official events at the time of announcement.
-      1. Exception: Events that the organization team plans to hold simultaneously may be displayed in the same timeframe.
-      2. Exception: The Delegate may request to announce a competition with an incomplete schedule. Such requests will be reviewed by the WCA Competition Announcement Team
+   4. Official events at a competition must not run for more than a 16-hour period without a break of 9 hours or more.
+   5. The schedule must include a distinct timeframe for all planned rounds of official events at the time of announcement.
+      1. This schedule may change after announcement but must be accurate to the best of the organization team's knowledge.
+      2. Exception: Events that the organization team plans to hold simultaneously may be displayed in the same timeframe.
+      3. Exception: The Delegate may request to announce a competition with an incomplete schedule. Such requests will be reviewed by the WCA Competition Announcement Team
 9. Championships
    1. A championship type is assigned to competitions that are National, Continental, or World Championships.
       1. A competition must be located entirely within the region where the championship type is selected.
