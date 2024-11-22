@@ -11,14 +11,6 @@ One of the first impressions you will have with new competitors is the ‘intro 
 - **Make it competition appropriate** - for example, do not give a long tutorial on how to judge blindfolded events if your competition is not holding them. Additionally, make sure to explain the correct method for how judging at your competition will run (clarify if there will be fixed judges or not, how many stages there are, etc). When you are explaining judging, mention that you prefer people to check with a delegate if they’re not sure about something. Mention that everyone does this.
 - **Alert competitors about regulation A7g** - Regulation A7g states “At the discretion of the WCA Delegate, an incident or penalty caused by a new competitor's inexperience may be replaced with an extra attempt.” Let them know this! Introduce the Delegate(s) at your competition and tell the competitors that if some confusion or controversy arises they can call a Delegate over so they can resolve the issue (e.g. decide whether or not an extra should be granted).
 
-::::: {.box .example}
-**German intro for new competitors:**
-[German Tutorial (ENG)](https://docs.google.com/document/d/1eN4Tk12JtW2mFSLfopNsSr61Cp9qyhCo-hFoyoimfCM/edit?usp=sharing)
-
-**Utah intro for new competitors:**
-[Competitor Tutorial](https://docs.google.com/document/d/1ceY3Q3oA9GUO8tFDEgNhX1cgn3RQGS4-FaEQSLISvSg/edit?usp=sharing)
-:::::
-
 ## How to talk to new competitors
 
 Many newcomers will be rather young, maybe even small children, so make sure that they feel welcome! Do this as an organizer by hosting a friendly tutorial (mentioned above), but also as a competitor - have a chat with them in the competitor waiting area about what they average or what their favourite event is. It will go a long way in making them feel welcome, and hopefully they will want to come to more competitions.
