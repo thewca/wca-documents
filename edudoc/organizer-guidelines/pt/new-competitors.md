@@ -11,14 +11,6 @@ Uma das primeiras impressões que você terá com os novos competidores é a exp
 - **Torne-o adequado à competição** - por exemplo, não dê um longo tutorial sobre como julgar modalidades com os olhos vendados se a sua competição não os realizar. Além disso, certifique-se de explicar o método correto de ajuizamento da sua competição (esclareça se haverá juízes fixos ou não, quantas estações de resolução existem, etc). Ao explicar o ajuizamento, mencione que prefere que as pessoas verifiquem com um delegado se não tiverem certeza sobre algo. Mencione que toda gente faz isto.
 - **Alertar os competidores sobre o regulamento A7g** - O regulamento A7g afirma “A critério do Delegado da WCA, um incidente ou penalidade causado pela inexperiência de um novo competidor pode ser substituído por uma tentativa extra.” Deixe-os saber disso! Apresente o(s) Delegado(s) da sua competição e diga aos competidores que, se surgir alguma confusão ou controvérsia, eles podem chamar um Delegado para resolver o problema (por exemplo, decidir se uma resolução extra deve ou não ser concedida).
 
-::::: {.box .example}
-**Introdução alemã para novos competidores:**
-[German Tutorial (ENG)](https://docs.google.com/document/d/1eN4Tk12JtW2mFSLfopNsSr61Cp9qyhCo-hFoyoimfCM/edit?usp=sharing)
-
-**Introdução de Utah para novos competidores:**
-[Competitor Tutorial](https://docs.google.com/document/d/1ceY3Q3oA9GUO8tFDEgNhX1cgn3RQGS4-FaEQSLISvSg/edit?usp=sharing)
-:::::
-
 ## Como falar com novos competidores
 
 Muitos competidores novos serão bastante jovens, talvez até crianças pequenas, portanto, certifique-se de que eles se sentem bem-vindos! Faça isso como um organizador apresentando um tutorial amigável (mencionado acima), mas também como um competidor - converse com eles na área de espera de competidores sobre a sua média ou o seu evento favorito. Isso fará com que eles se sintam bem-vindos e espera-se que eles queiram participar em mais competições.
