@@ -7,7 +7,7 @@ The purpose of this policy is to define how the WCA handles contractors who prov
 
 ## Policy
 1. The Board in its absolute discretion has the ability to determine the need for the WCA to seek assistance from a contractor in delivering key services for the functioning of the organization
-   1.Team or Committee leaders may approach the Board with a proposal to have part of the duties of their team or committee be handled by a contractor
+   1. Team or Committee leaders may approach the Board with a proposal to have part of the duties of their team or committee be handled by a contractor
 2. Where the need for a contractor is established the Board shall establish a subcommittee of WCA staff responsible for the management and oversight of the work to be carried out.
    1. The subcommittee may include but is not limited to:
       1. At least one Board member;
