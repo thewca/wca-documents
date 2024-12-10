@@ -165,7 +165,7 @@ The WCA Delegate must submit the following information when requesting approval 
    2. The registration requirements must include the registration period(s) with a clearly defined time range with a start and end time and date.
       1. The first registration period must be announced publicly on the WCA website at least 48 hours before it starts.
          1. An active registration period may be extended after request of the Delegate.
-         2. The competition's WCA Delegate(s) and/or members of the organization team may register for the competition prior to the first registration period, however their registration(s) must not be approved until the first registration period has started.
+         2. The competition's WCA Delegate(s) and/or members of the organization team may register for the competition prior to the first registration period.
             1. The number of WCA Delegates and members of the organization team registered for the competition prior to the first registration period must not exceed 20% of the competitor limit.
       2. Additional registration periods may be added.
          1. These registration periods should begin at least 24 hours after being actioned by WCAT but may begin earlier at WCAT discretion.
