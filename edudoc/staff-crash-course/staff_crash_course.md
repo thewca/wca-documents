@@ -19,18 +19,18 @@ WCA Staff should be familiar with all the documents related to their work as WCA
 
 The primary form of communication for the WCA is emails. All channels are managed by a platform called Google Groups; you should have been added to all relevant groups already as these are handled automatically when you are officially added to the team on the WCA website.\
 **When you respond to an email, use the “Reply All” option.** This is to ensure that all relevant people on the thread are still getting the reply.\
-Whatever mail interface you’re using, go and find the “Reply All” button. It will become your best friend. In particular, it helps to keep the team’s GGroup in a Carbon Copy (CC). Some interfaces (e.g. GMail) also allow setting “Reply All” as default reply option, which can be very helpful.
+Whatever mail interface you’re using, go and find the “Reply All” button. It will become your best friend. In particular, it helps to keep the team’s GGroup in a Carbon Copy (CC). Some interfaces (e.g. GMail) also allow setting “Reply All” as the default reply option, which can be very helpful.
 
 When there are important matters within a region, or regarding a specific Delegate, you should CC the Senior Delegate.
 
-Please remember that the expected response time for WCA is 48 hours. If you are having trouble meeting this response time, please inform the recipient that you are expecting to give a delayed reply.\
+Please remember that the expected response time for WCA communications is 48 hours. If you are having trouble meeting this response time, please inform the recipient that you are expecting to give a delayed reply.\
 Additionally, if you have not received a reply in a timely manner, you should ping the corresponding party. While it is the responsibility of the corresponding party to take the appropriate action, sometimes you will need to gently remind them to do so.
 
-More broadly speaking, the preferred  approach is “over-communication” in the WCA by keeping all relevant persons in the loop at all times. If you think there is a topic which other staff members should see, please add them to as a Carbon Copy (CC) to the email. For example, if you escalate an issue about a specific Delegate to any Team/Committee, be sure to include their Senior and/or Regional Delegate in CC.
+More broadly speaking, the preferred  approach is “over-communication” in the WCA, which keeps all relevant persons in the loop at all times. If you think there is a topic which other staff members should see, please add them as a Carbon Copy (CC) to the email. For example, if you escalate an issue about a specific Delegate to any Team/Committee, be sure to include their Senior and/or Regional Delegate in CC.
 
 ## Making changes to recipients {.page-break-before}
 
-When you make changes to the recipients, make this clear at the top of the email. If there is a need to include another team/committee to the thread then begin by writing a “+” along with the name of the team/committee so everyone is aware. When removing someone from a thread they were once a part of you write a “-” followed by their name. For Example:
+When you make any changes to the list of recipients, please make this clear at the top of the email. If there is a need to include another team/committee to the thread then begin by writing a “+” along with the name of the team/committee so everyone is aware. When removing someone from a thread they were once a part of you write a “-” followed by their name. For Example:
 
 ::::: {.indent}
 Hello **recipient name**,
@@ -46,12 +46,13 @@ Lastly, for team/committee internal discussion you can take a shortcut by removi
 
 ## Representation
 
-Every WCA Staff member will also have received login credentials for their own personal *@worldcubeassociation.org* email account hosted by GSuite.\
+Every WCA Staff member will also have received login credentials for their personal *@worldcubeassociation.org* email account hosted by GSuite.\
+
 This account must always be used when sending WCA-related emails. Exceptions may be made only if the Staff Member has issues with the GSuite Software in the region where they live.
 
 Configure your new GSuite account to include a signature that comprises your name and your position (and nothing else, like 3x3 PBs or YouTube channels!). Be aware that this signature will be visible to **any recipient, along with a legal disclaimer for recipients outside of the** *@worldcubeassociation.org* domain.
 
-Think twice before sending any form of private messages through this account. You should never use this email for any work that is not related to the WCA. Please refer to the [WCA Email Account Policy](wcadoc{documents/policies/internal/Email%20Account.pdf}) for details.
+Think twice before sending any form of private messages through this account. You should never use this email for any work that is unrelated to the WCA. Please refer to the [WCA Email Account Policy](wcadoc{documents/policies/internal/Email%20Account.pdf}) for details.
 
 ## Mailing Lists
 
@@ -59,7 +60,7 @@ There are several mailing lists which all have their dedicated audience and purp
 Other significant mailing lists include:
 
   - [reports@worldcubeassociation.org](mailto:reports@worldcubeassociation.org) - Recipient channel for all Delegate reports, worldwide. You can opt-in on your WCA profile settings page.
-  - [staff@worldcubeassociation.org](mailto:staff@worldcubeassociation.org) - This is the channel where communication related to the entire organization takes place. Only the really heavy stuff like global discussions belong here.
+ - [staff@worldcubeassociation.org](mailto:staff@worldcubeassociation.org) - This is the channel where communications related to the entire organization takes place. Only the really heavy stuff like global discussions belong here.
   - [announcements@worldcubeassociation.org](mailto:announcements@worldcubeassociation.org) - This channel is only used for one-off announcements which are very important and for changes approved by the Board. This channel will never be the main recipient, and is only ever to be referred to in BCC. As previously mentioned, all discussions will be made on [staff@worldcubeassociation.org](mailto:staff@worldcubeassociation.org)
   - [delegates@worldcubeassociation.org](mailto:delegates@worldcubeassociation.org) - Communication for all Delegates. This is used only if the expected target to reach is only Delegates. It is mandatory for all Delegates to read these discussions! Usually [staff@worldcubeassociation.org](mailto:staff@worldcubeassociation.org) will be better used for discussions.
 
