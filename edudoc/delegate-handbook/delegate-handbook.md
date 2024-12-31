@@ -570,7 +570,7 @@ When checking in a new competitor, verify the following information:
 
 - Name, including spelling and capitalization. Have the competitor view their written name to confirm that it is correct. Pre-printed name tags are a great place to do this.
 - Date of birth.
-- Region of representation. According to [Regulation 2e](https://www.worldcubeassociation.org/regulations/#2e), competitors must represent a country of which they hold citizenship. Take extra caution when verifying a competitor's country of registration, as many competitors will mistakenly indicate their country of residence or heritage.
+- Country. According to [Regulation 2e](https://www.worldcubeassociation.org/regulations/#2e), competitors must represent a country of which they hold citizenship. Take extra caution when verifying a competitor's country of registration, as many competitors will mistakenly indicate their country of residence or heritage.
 - Verbally confirm that they have never competed at a WCA competition before.
 
 In the case that a new competitor does not have a form of identification available, it is acceptable to allow the competitor to verbally confirm their name and date of birth. If no documentation of citizenship can be provided, make a note for this competitor and inform them to send the documentation to you via email after the competition. Competitors without any citizenship may compete as "Stateless" under [Regulation 2e3](https://www.worldcubeassociation.org/regulations/#2e3). Contact the WRT if you encounter such a competitor.
@@ -1104,7 +1104,7 @@ The difference between accounts (WCA accounts, website accounts, users) and WCA 
 | Name                     | Yes     | Yes              |
 | Birthdate                | Yes     | Yes              |
 | Gender                   | Yes     | Yes              |
-| Region of representation | Yes     | Yes              |
+| Country                  | Yes     | Yes              |
 | Results                  | No      | Yes              |
 
 A prospective competitor must create an account before registering for their first competition, unless that registration does not use the WCA website. They provide their own personal data, which is not verified at this stage. It is possible for an individual to have multiple website accounts.
@@ -1163,7 +1163,7 @@ Changes in a competitor's information can be requested directly by the competito
 - Changes in gender: the WRT is more lenient with these and only requires proof of identity. Note: As gender changes are mostly sensitive, the WRT executes such changes (that are technically updates) as fixes.
 - Send all changes to the WRT with the WCA ID, old data, and new data.
 
-Change requests for a person's region of representation are particularly delicate, as they affect rankings and possibly records. Therefore, such requests must include the following:
+Change requests for a person's country are particularly delicate, as they affect rankings and possibly records. Therefore, such requests must include the following:
 
 - Documentation of the old nationality (if available)
 - Documentation of the new nationality
