@@ -1,6 +1,6 @@
 # WCA Dues System Policy
 
-### Version 1.8 {.version}
+### Version 1.9 {.version}
 
 ## Purpose
 The WCA Dues System is a program by which the WCA will collect revenue on a per-competitor-per-competition basis from WCA Delegates and/or Regional Organizations in order to further the Mission and the Spirit of the WCA. The policy intends that WCA Delegates and/or Regional Organizations will fund the amount owed either by charging registration fees to their competitors, soliciting competition sponsors, or by using some other means of collecting money on behalf of their respective communities.
@@ -21,6 +21,7 @@ The WCA Dues System is a program by which the WCA will collect revenue on a per-
       2. A Delegate with one or more late outstanding Dues payments is subject to probation according to the WCA Delegate Probationary Status Policy.
    2. WCA Delegates or Regional Organizations may pay the Dues amount using PayPal, Stripe (card payment), or bank transfer.
       1. Details for how to make these payments will be included in the invoice sent to the Delegate or Regional Organization.
+      2. Invoices paid via bank transfer will receive a 2% rebate, provided in the form of credit that can be applied to future Dues invoices.
    3. The Dues amount owed for a competition will be calculated on a per-competitor basis.
       1. Each competition will have a per-competitor Dues amount owed, calculated according to Appendix A.
       2. The total amount owed for the competition will be the per-competitor Dues amount owed multiplied by the number of competitors who participated in the competition.
@@ -33,6 +34,7 @@ The WCA Dues System is a program by which the WCA will collect revenue on a per-
 3. Countries are assigned into one of six bands with an associated per-competitor Dues amount, with updates made periodically at the discretion of the WFC.
    1. The per-competitor Dues amount for Band 5 is called the Base Due amount and is set by this policy at USD $3.00. The per-competitor Dues amount for all other bands is a fraction of the Base Due amount as determined and periodically updated by the WFC.
      1. The per-competitor Dues amount for Band 0 is always zero as countries in Band 0 are not subject to Dues.
+   2. A region not recognized separately by the WCA may be subject to a different country band from the country it falls within, based on geographic separation and/or economic differences, at the discretion of the WFC.
 4. To determine the Dues amount based on the country band, look up the competition’s band and the associated per-competitor Dues amount in the [country bands list](https://www.worldcubeassociation.org/wfc/country-bands).
 5. To determine the Dues amount based on registration fees, follow the flow below:
    1. For countries in Bands 3, 4, and 5, the Dues amount based on registration fees is equal to 15% of the base registration fee as stated on the WCA website, as converted to US Dollars based on the exchange rate on the final day of the competition.
@@ -46,7 +48,8 @@ The WCA Dues System is a program by which the WCA will collect revenue on a per-
 1. Band 0 countries are countries which do not owe any Dues to the WCA for competitions held there.
    1. This only applies for competitions that are held while the country maintains a Band 0 status.
 2. Band 0 status applies when a country meets one or more of the following conditions:
-   1. The country has newly joined the WCA (at most 5 competitions have been completed in the country and it has been less than 2 years since the first competition in the country).
+   1. The country has newly joined the WCA (at most 5 competitions have been completed in the country).
+      1. A region not recognized separately by the WCA may be treated as having newly joined the WCA and therefore be eligible for Band 0 status, based on geographic separation and/or economic differences from the country it falls within, at the discretion of the WFC.
    2. The country is subject to financial restrictions according to the Regional Restrictions Policy.
       1. If the country’s financial restrictions under the Regional Restrictions policy are lifted, then the WFC will return the country to the band in which it would otherwise be placed.
    3. The country faces substantial difficulties making payments to the WCA via the supported payment methods due to their financial system and/or laws.
