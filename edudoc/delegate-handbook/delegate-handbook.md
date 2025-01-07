@@ -637,7 +637,9 @@ The competition is now underway! Most likely at some point during the competitio
 
 ### Conduct
 
-Even while competing, you are still representing the WCA as a Delegate. A listed Delegate at a competition does not cease to be a Delegate when they are competing. A solo Delegate still needs to be able to handle incidents arising from other competitors, even if they are in the same round. If there are other **listed** Delegates at the competition, it is recommended that you communicate with them and temporarily pass off incident-handling responsibilities while you are competing so that you minimize the risk of causing incidents for yourself during the round.
+Even while competing, you are still representing the WCA as a Delegate. A listed Delegate at a competition does not cease to be a Delegate when they are competing. A solo Delegate still needs to be able to handle incidents arising from other competitors, even if they are in the same round. 
+
+If there are other **listed** Delegates at the competition, try not to place all Delegates in the same group. If you are a solo Delegate, but there are some **unlisted** Delegates at the competition, it is recommended that you communicate with them and temporarily pass off incident-handling responsibilities while you are competing so that you minimize the risk of causing incidents for yourself during the round.
 
 If there are no other Delegates available, you can consider appointing a member of the organization team as an incident handler via [Regulation 1c](https://www.worldcubeassociation.org/regulations/#1c). It is best to explicitly list out the responsibilities you are granting to an individual appointed this way, such as: "You can make +2 penalty calls and issue extras during incidents until the end of this group. When I am done, explain any Delegate calls you made to me." As the Delegate, you are ultimately accountable for how these responsibilities are carried out, so it is important to review any Delegate calls by appointed individuals.
 
