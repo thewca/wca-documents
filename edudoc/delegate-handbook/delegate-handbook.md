@@ -880,7 +880,7 @@ The following incidents occur frequently at competitions, and usually have a sta
    <td>
    If the time is strictly **below** 0.06 seconds, an extra **must** be issued according to [Regulations A6b1](https://www.worldcubeassociation.org/regulations/#A6b1) unless the competitor stopped the timer deliberately or caused the timer to stop by starting it in an usual manner.</br></br>
    Make note of the timer. If it continues to malfunction, remove or replace the timer with one that is functioning properly. It is recommended to mark this timer in some way so that it is not re-introduced to the competition area without being tested first.</br></br>
-   If the time is equal to 0.06 seconds or higher, or below 0.06 seconds and the competitor stopped the timer with the puzzle unsolved, the result is a DNF.
+   If the time is equal to 0.06 seconds or higher, or below 0.06 seconds and the competitor stopped the timer, the result is a DNF.
    </td>
   </tr>
 </table>
