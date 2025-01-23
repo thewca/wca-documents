@@ -537,7 +537,7 @@ It's the big day, and you are a Delegate at a competition. Your presence allows 
 
 ## Setup and Environment
 
-Regardless of whether organizers or venue staff are setting up the competition area, ensure that the layout of the competition abides by the WCA Regulations. These regulations are outlined in [Article 7: Environment](https://www.worldcubeassociation.org/regulations/#article-7-environment). In addition, [Regulation 1c1](https://www.worldcubeassociation.org/regulations/#1c1) dictates that your competition must follow the [WCA Scramble Accountability Policy](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf). If the Regulations cannot be followed, the results of the competition risk being retroactively removed. Review the competition setup and make any changes necessary to make it fully compliant with WCA policies. Pay especially close attention to zoning; the scrambling area must be visually isolated from all areas that may have competitors not involved in organizing or scrambling the ongoing group.
+Regardless of whether organizers or venue staff are setting up the competition area, ensure that the layout of the competition abides by the WCA Regulations. These regulations are outlined in [Article 7: Environment](https://www.worldcubeassociation.org/regulations/#article-7-environment). In addition, [Regulation 1c](https://www.worldcubeassociation.org/regulations/#1c) dictates that your competition must follow any applicable WCA policies or requirements. This includes the [WCA Scramble Accountability Policy](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf). If the Regulations cannot be followed, the results of the competition risk being retroactively removed. Review the competition setup and make any changes necessary to make it fully compliant with WCA policies. Pay especially close attention to zoning; the scrambling area must be visually isolated from all areas that may have competitors not involved in organizing or scrambling the ongoing group.
 
 ## Check-In and Registration
 
@@ -690,7 +690,8 @@ Using an HTML table here because Markdown formatters and renderers often can't p
    <td>Competitor did not sign for an attempt</td>
    <td>
    If the competition is not over, you may call over the competitor to sign for the attempt after the fact via [Regulation A7c5](https://www.worldcubeassociation.org/regulations/#A7c5). Otherwise, enter the attempt as a DNF. Video or photographic evidence may not be used in lieu of a missing signature.</br></br>
-   Entering a DNF attempt often prompts the competitor to appear once they check their results on WCA Live. You may still allow the competitor to sign for the attempt at your discretion.
+   Entering a DNF attempt often prompts the competitor to appear once they check their results on WCA Live. You may still allow the competitor to sign for the attempt at your discretion.</br></br>
+   For inexperienced competitors, additional leniency is permitted by [Regulation A7c8](https://www.worldcubeassociation.org/regulations/#A7c8): missing signatures may be added at any time at your discretion. 
    </td>
   </tr>
   <tr>
@@ -701,11 +702,11 @@ Using an HTML table here because Markdown formatters and renderers often can't p
 
 ### Records and Notable Solves
 
-When a record, such as a world record or continental record, or an otherwise notable solve occurs, such as a top-5 3x3x3 single, it is strongly recommended to review the scrambles with the record holder to verify that they were scrambled correctly (note: for 5x5x5, 6x6x6, 7x7x7, and Megaminx, this is not necessary according to [Regulation 4g1](https://www.worldcubeassociation.org/regulations/#4g1)). If the competitor had their solves filmed, request to review the footage of every attempt and check that the scrambles match the expected scrambles.
+When a record, such as a world record or continental record, or an otherwise notable solve occurs, it is strongly recommended to review the scrambles with the competitor to verify that they were scrambled correctly, as [Regulation 11i1](https://www.worldcubeassociation.org/regulations/#11i1) requires any misscrambles on these solves to be replaced with an extra attempt (note: for 5x5x5, 6x6x6, 7x7x7, and Megaminx, this is not necessary according to [Regulation 11i1e](https://www.worldcubeassociation.org/regulations/#11i1e)). If the competitor had their solves filmed, request to review the footage of every attempt and check that the scrambles match the expected scrambles.
 
 If no footage is available, ask the competitor to reconstruct their solve from the correct scramble. Top cubers are generally able to recognize scrambles which they previously received and reconstruct them, especially for shorter events. A record-breaking solution is likely to also be rather lucky, so keep in mind whether the reconstruction provided by the competitor seems realistic. If the competitor is unable to reconstruct the solution, it may be a sign that they did not receive the correct scramble.
 
-In the case that a misscramble is found during the competition, no matter how minor, give an extra for that attempt. Do not attempt to use the original intended scramble, as there may be features of the scramble that are identical to the correct scramble.
+In the case that a misscramble is found for an attempt meeting the criteria in [Regulation 11i1](https://www.worldcubeassociation.org/regulations/#11i1) during the competition, no matter how minor, give an extra for that attempt.
 
 #### World Record Social Media Posts
 
@@ -741,7 +742,7 @@ In this example, a (1, 0) / (-1, -1), and then a partial slice under 90 degrees 
 
 [Regulation 3j](https://www.worldcubeassociation.org/regulations/#3j) defines what is considered reasonable wear for a puzzle to be used in a competition. To increase the consistency in how reasonable wear is evaluated, the WRC has created a [Regulation 3j Visual Guide](https://drive.google.com/file/d/1m6THsA8fXRN7QFM4ApJbm6eVODKGbMLx/view) to assist Delegates in making rulings regarding wear. Familiarize yourself with the examples included in the guide. Some cases of wear will not perfectly match the provided examples. Make your best judgment by extrapolating from the given examples. If there is doubt about the legality of a puzzle, it is safest to request that a competitor use a different puzzle to prevent their results from being retroactively removed.
 
-If an illegal puzzle is found during a round, any completed attempts may be replaced with extras at your discretion via [Regulation 3k2a](https://www.worldcubeassociation.org/regulations/#3k2a). If the round has already been completed, such as may be the case if an illegal puzzle is discovered to have been used in Round 1 during Round 2, these attempts may not be replaced with extras.
+If an illegal puzzle is found during a round, any completed attempts may be replaced with extras at your discretion via [Regulation 3k2a](https://www.worldcubeassociation.org/regulations/#3k2a). If the round has already been completed, such as may be the case if an illegal puzzle is discovered to have been used in Round 1 during Round 2, these attempts may not be replaced with extras. Exception: for inexperienced competitors, extras may be given after the round is complete using [Regulation A7g](https://www.worldcubeassociation.org/regulations/#A7g), but may not be given if a subsequent round has started, due to [Regulation 9l](https://www.worldcubeassociation.org/regulations/#9l).
 
 ## Regulation 5b5: Popped Puzzles
 
@@ -755,7 +756,7 @@ Beyond ensuring that a WCA competition adheres to the WCA Regulations, a Delegat
 
 Extra attempts are often issued to competitors to resolve incidents in order to prevent a competitor from being unfairly advantaged or disadvantaged. Always keep fairness in mind when issuing an extra attempt, as some competitors may attempt to take advantage of extras by replacing a bad solve. Use your discretion when issuing an extra. If you believe that a competitor may be taking advantage of an incident by requesting an extra, you may reject their request.
 
-When an incident arises, encourage competitors to stop the attempt immediately by calling over a Delegate with the timer still running. This is because a competitor who completes the solve then has the option to determine whether or not the attempt is a bad result before requesting an extra, effectively giving them a second shot at the attempt. According to [Guideline 11e+++](https://www.worldcubeassociation.org/regulations/guidelines.html#11e+++), use stronger discretion when granting an extra attempt after the solve is finished. Only grant the extra in exceptional circumstances. However, do note that for very short events, it may be difficult for a competitor to pause mid-solve. Keep the length of the attempt in mind when evaluating whether to grant an extra attempt, and be less lenient for events longer than a few seconds.
+When an incident arises, encourage competitors to stop the attempt immediately by calling over a Delegate with the timer still running. This is because a competitor who completes the solve then has the option to determine whether or not the attempt is a bad result before requesting an extra, effectively giving them a second shot at the attempt. According to [Guideline 11e+++](https://www.worldcubeassociation.org/regulations/guidelines.html#11e+++), use stronger discretion when granting an extra attempt after the solve is finished. Only grant the extra in exceptional circumstances. However, do note that for very short events, it may be difficult for a competitor to pause mid-attempt. Keep the length of the attempt in mind when evaluating whether to grant an extra attempt, and be less lenient for events longer than a few seconds.
 
 The following is a general decision tree for handling incidents, and gives you a general idea of what to consider and what the outcome usually is for an incident. However, **this decision tree is always welcome to be overruled by the Delegate if they believe their decision is more fair**.
 
@@ -771,7 +772,7 @@ At any point, you may re-evaluate the fairness of the provisional extra and make
 
 ### Regulation A7g
 
-Many new competitors will inadvertently break the Regulations due to their unfamiliarity with the Regulations and processes of a WCA competition or an event's specific regulations. In these cases, you are always encouraged to use [Regulation A7g](https://www.worldcubeassociation.org/regulations/#A7g) to issue an extra to these competitors. An inexperienced competitor defined by A7g may not necessarily be new to WCA competitions, such as a competitor who is returning to WCA competitions after a long time or a competitor who is unfamiliar with a specific event. For example, a blindfolded-focused competitor who is newly competing in other speedsolving events may not be used to the judge lifting the cube cover for them. Use your discretion when issuing extras for incidents like these.
+Many new competitors will inadvertently break the Regulations due to their unfamiliarity with the Regulations and processes of a WCA competition or an event's specific regulations. In these cases, you are always encouraged to use [Regulation A7g](https://www.worldcubeassociation.org/regulations/#A7g) to issue an extra to these competitors. An inexperienced competitor may not necessarily be new to WCA competitions, such as a competitor who is returning to WCA competitions after a long time or a competitor who is unfamiliar with a specific event ([Guideline A7g++++](https://www.worldcubeassociation.org/regulations/guidelines.html#A7g++++)). For example, a blindfolded-focused competitor who is newly competing in other speedsolving events may not be used to the judge lifting the cube cover for them. Use your discretion when issuing extras for incidents like these.
 
 A7g does not allow penalties to be waived, according to [Guideline A7g++](https://www.worldcubeassociation.org/regulations/guidelines.html#A7g++). An A7g-eligible competitor who gets a +2 due to their unfamiliarity with the Regulations may be granted an extra attempt which fully replaces the original attempt. However, a +2 penalty alone is not a sufficient reason to justify granting an extra attempt to a new competitor, as this would effectively just be an additional attempt that would replace a poor result. There must be extenuating circumstances, such as confusion about the Regulations, to grant an extra for a +2.
 
@@ -803,6 +804,7 @@ The following incidents occur frequently at competitions, and usually have a sta
   <tr>
    <td>Duplicate scramble reported</td>
    <td>
+   [Regulation 11j](https://www.worldcubeassociation.org/regulations/#11j) provides requirements for such incidents.</br></br>
    Do your best to give them the correct scramble. If the correct scramble cannot be confidently determined, issue an extra.</br></br>
    If the competitor has footage or has not solved the puzzle, it is the best way to resolve such incidents. Request to see the footage or the unsolved puzzle and use it to identify which scramble they were given and to give them the correct one.</br></br>
    A duplicate scramble usually means they were given the previous scramble for the current attempt, or the current scramble in the previous attempt. If you can reasonably determine which of these is more likely, give them the correct scramble. If they report another duplicate, give them the other scramble. If neither scramble resolves the incident, grant the competitor an extra.</br></br>
@@ -823,7 +825,7 @@ The following incidents occur frequently at competitions, and usually have a sta
   </tr>
   <tr>
    <td>Competitor saw scramble before attempt</td>
-   <td>Depending on exactly how the competitor saw the puzzle, you may or may not issue an extra. If the competitor accidentally knocked over the cube cover themself, the attempt is a DNF. If the competitor saw the puzzle as a result of a runner or judge knocking over the cube cover or being careless with scramble secrecy, issue an extra. Additionally, consider warning the runner or judge to be more careful to keep the puzzle out of sight from the competitor.</td>
+   <td>Depending on exactly how the competitor saw the puzzle, you may or may not issue an extra. If the competitor accidentally knocked over the cube cover themself, [Regulation A2e2](https://www.worldcubeassociation.org/regulations/#A2e2) requires a DNF. If the competitor saw the puzzle as a result of a runner or judge knocking over the cube cover or being careless with scramble secrecy, issue an extra. Additionally, consider warning the runner or judge to be more careful to keep the puzzle out of sight from the competitor.</td>
   </tr>
   <tr>
    <td>Judge lifted the cube cover before the competitor was ready</td>
@@ -850,7 +852,8 @@ The following incidents occur frequently at competitions, and usually have a sta
   <tr>
    <td>Competitor is using a device with a front-facing screen</td>
    <td>
-   The attempt, and any previous attempts with which the device was used, must be changed to a DNF result.</br></br>
+   The attempt must be changed to a DNF result.</br></br>
+   Any previous attempts in which the device was used must also be changed to DNF. The penalty for previous attempts may be lifted at your discretion if you believe the competitor did not get assistance from the screen, but you must not allow them to keep using the screen in such way.</br></br>
    An extra may be granted if the competitor is inexperienced via [Regulations A7g](https://www.worldcubeassociation.org/regulations/#A7g).
    </td>
   </tr>
@@ -875,9 +878,9 @@ The following incidents occur frequently at competitions, and usually have a sta
   <tr>
    <td>Timer malfunction</td>
    <td>
-   If the time is strictly **below** 0.06 seconds and the competitor did not stop the timer deliberately, an extra **must** be issued according to [Regulations A6b1](https://www.worldcubeassociation.org/regulations/#A6b1). This is a rare exception to extras being granted according to Delegate discretion.</br></br>
+   If the time is strictly **below** 0.06 seconds, an extra **must** be issued according to [Regulations A6b1](https://www.worldcubeassociation.org/regulations/#A6b1) unless the competitor stopped the timer deliberately or caused the timer to stop by starting it in an usual manner.</br></br>
    Make note of the timer. If it continues to malfunction, remove or replace the timer with one that is functioning properly. It is recommended to mark this timer in some way so that it is not re-introduced to the competition area without being tested first.</br></br>
-   If the time is equal to 0.06 seconds or higher, or below 0.06 seconds and the competitor deliberately stopped the timer, the result is a DNF.
+   If the time is equal to 0.06 seconds or higher, or below 0.06 seconds and the competitor stopped the timer, the result is a DNF.
    </td>
   </tr>
 </table>
