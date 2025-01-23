@@ -853,7 +853,7 @@ The following incidents occur frequently at competitions, and usually have a sta
    <td>Competitor is using a device with a front-facing screen</td>
    <td>
    The attempt must be changed to a DNF result.</br></br>
-   Any previous attempts in which the device was used must also be changed to DNF. The penalty for previous attempts may be lifted at your discretion if you believe the competitor did not gain assistance from the screen, but you must not allow use of the screen to continue.</br></br>
+   Any previous attempts in which the device was used must also be changed to DNF. The penalty for previous attempts may be lifted at your discretion if you believe the competitor did not get assistance from the screen, but you must not allow them to keep using the screen in such way.</br></br>
    An extra may be granted if the competitor is inexperienced via [Regulations A7g](https://www.worldcubeassociation.org/regulations/#A7g).
    </td>
   </tr>
