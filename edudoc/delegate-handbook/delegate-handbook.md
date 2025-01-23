@@ -691,7 +691,7 @@ Using an HTML table here because Markdown formatters and renderers often can't p
    <td>
    If the competition is not over, you may call over the competitor to sign for the attempt after the fact via [Regulation A7c5](https://www.worldcubeassociation.org/regulations/#A7c5). Otherwise, enter the attempt as a DNF. Video or photographic evidence may not be used in lieu of a missing signature.</br></br>
    Entering a DNF attempt often prompts the competitor to appear once they check their results on WCA Live. You may still allow the competitor to sign for the attempt at your discretion.</br></br>
-   For inexperienced competitors, additional lenience is permitted by [Regulation A7c8](https://www.worldcubeassociation.org/regulations/#A7c8) and missing signaturs may be added at any time at your discretion. 
+   For inexperienced competitors, additional leniency is permitted by [Regulation A7c8](https://www.worldcubeassociation.org/regulations/#A7c8): missing signatures may be added at any time at your discretion. 
    </td>
   </tr>
   <tr>
