@@ -16,7 +16,7 @@ Persons who are Registered Speedcubers have the role of Non-voting Member of the
 4. Statuses of Registered Speedcubers <br> All Registered Speedcubers have one or more of the following statuses of Registration:
    1. Active. Any Registered Speedcuber who has competed in any WCA Competition in the last 24 months.
    2. Passive. Any Registered Speedcuber who is not considered an active Registered Speedcuber.
-   3. Suspended. Any Registered Speedcuber who is not eligible to compete in any WCA Competition for a defined period because of a disciplinary ruling by the WCA in accordance with [WCA Motion : Suspensions and other Sanctions](wcadoc{documents/motions/15.2024.1 - Suspensions and other Sanctions.pdf}).
+   3. Suspended. Any Registered Speedcuber who is not eligible to compete in any WCA Competition for a defined period because of a disciplinary ruling by the WCA in accordance with [WCA Motion : Suspensions and other Sanctions](wcadoc{documents/motions/Suspensions and other Sanctions.pdf}).
 5. Rights of Registered Speedcubers
    1. The rights of Registered Speedcubers regarding their Registration in the WCA are defined by the role of Non-voting Member in the Bylaws and in the Motions.
    2. The rights of Registered Speedcubers in WCA Competitions are defined by the role of Competitor in the WCA Regulations.

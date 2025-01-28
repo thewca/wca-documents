@@ -11,9 +11,9 @@ They will be glad to help you out.
 WCA Staff should be familiar with all the documents related to their work as WCA Staff. All relevant documents can be found on [the documents page](wca{documents}) and on [the Staff panel](wca{panel}). The Staff panel section is available only to WCA Staff and contains Staff exclusive knowledge. Therefore, all documents on that page should be read. The documents section contains various knowledge regarding how the WCA functions and is available to the public. Not all documents in this section are necessary to know by heart, however here are the ones that are absolutely necessary to know well:
 
   - [The Code of Ethics](wcadoc{documents/Code%20of%20Ethics.pdf}); This describes how all WCA Staff must act and what they must abide by.
-  - [The Spirit of the WCA](wcadoc{documents/motions/01.2021.1%20-%20Spirit.pdf}).
-  - If you are a member of a committee or team; [The Committees and Teams Motion](wcadoc{documents/motions/10.2022.0%20-%20Committees%20and%20Teams.pdf}). This will explain how committees and teams operate. Additionally, you will find the relevant motion for your committee or team amongst the other listed motions on the documents page.
-  - If you are a Delegate; [The Delegates Motion](wcadoc{documents/motions/08.2022.1%20-%20Delegates.pdf}). This will explain how your work as a Delegate will be conducted. There is also a specific Crash Course for Delegates that you should familiarize yourself with.
+  - [The Spirit of the WCA](wcadoc{documents/motions/Spirit.pdf}).
+  - If you are a member of a committee or team; [The Committees and Teams Motion](wcadoc{documents/motions/Committees%20and%20Teams.pdf}). This will explain how committees and teams operate. Additionally, you will find the relevant motion for your committee or team amongst the other listed motions on the documents page.
+  - If you are a Delegate; [The Delegates Motion](wcadoc{documents/motions/Delegates.pdf}). This will explain how your work as a Delegate will be conducted. There is also a specific Crash Course for Delegates that you should familiarize yourself with.
 
 ## Email
 
