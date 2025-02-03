@@ -11,22 +11,22 @@
 The WCA Board of Directors is the leadership team of the WCA and its highest authority.
 
 1. The WCA Board has the following duties:
-   1. To guide, serve, and unite the WCA Community in accordance with the [WCA Motion : Objectives](wcadoc{documents/motions/03.2021.1 - Objectives.pdf}).
-   2. To oversee, guide, and supervise all Staff of the WCA in accordance with the [WCA Motion : Objectives](wcadoc{documents/motions/03.2021.1 - Objectives.pdf}).
-   3. To oversee, guide, and supervise all structural and day-to-day activities of the WCA in accordance with the [WCA Motion : Objectives](wcadoc{documents/motions/03.2021.1 - Objectives.pdf}).
+   1. To guide, serve, and unite the WCA Community in accordance with the [WCA Motion : Objectives](wcadoc{documents/motions/Objectives.pdf}).
+   2. To oversee, guide, and supervise all Staff of the WCA in accordance with the [WCA Motion : Objectives](wcadoc{documents/motions/Objectives.pdf}).
+   3. To oversee, guide, and supervise all structural and day-to-day activities of the WCA in accordance with the [WCA Motion : Objectives](wcadoc{documents/motions/Objectives.pdf}).
    4. To oversee, guide, and supervise all relationships with Regional Organizations and Sponsors.
    5. To mobilize Staff, Regional Organizations, and Competition Organizers to organize WCA Competitions on local, national, continental, and world level, well distributed in time and geographical location, and to ensure the quality of WCA Competitions up to the maximum extent.
    6. To represent the WCA in dealings with other relevant organizations and with media.
    7. To negotiate or oversee the negotiation of all contracts on behalf of the WCA in consultation with the appropriate Committees.
-   8. To be accountable for the finances of the WCA, to oversee financial management of the WCA, and to ensure the WCA has sufficient procedures and resources to meet its financial obligations and regulatory requirements in accordance with the [WCA Motion : Finances](wca{documents/motions/11.2024.1 - Finances.pdf}).
+   8. To be accountable for the finances of the WCA, to oversee financial management of the WCA, and to ensure the WCA has sufficient procedures and resources to meet its financial obligations and regulatory requirements in accordance with the [WCA Motion : Finances](wca{documents/motions/Finances.pdf}).
 2. The WCA Board has the following rights:
-   1. To amend the Bylaws and their Motions. Such rights must be exercised in accordance with [WCA Motion : Amendments of Bylaws and Motions](wcadoc{documents/motions/13.2024.1 - Amendments of Motions.pdf}).
-   2. To approve amendments to the Regulations. Such rights must be exercised in accordance with [WCA Motion : Amendments of Regulations](wcadoc{documents/motions/14.2022.1 - Amendments of Regulations.pdf}).
+   1. To amend the Bylaws and their Motions. Such rights must be exercised in accordance with [WCA Motion : Amendments of Bylaws and Motions](wcadoc{documents/motions/Amendments of Motions.pdf}).
+   2. To approve amendments to the Regulations. Such rights must be exercised in accordance with [WCA Motion : Amendments of Regulations](wcadoc{documents/motions/Amendments of Regulations.pdf}).
    3. To establish and remove Committees or change their duties. Such rights must be exercised in accordance with the Motion relative to every Committee.
-   4. To instate and remove Senior Delegates. Such rights must be exercised in accordance with [WCA Motion : Senior Delegates](wcadoc{documents/motions/09.2024.1 - Senior Delegates.pdf}).
-   5. To instate and remove Regional Delegates. Such rights must be exercised in accordance with [WCA Motion : Regional Delegates](wcadoc{documents/motions/09.2024.2 - Regional Delegates.pdf}).
-   6. To suspend or take other sanctions against Registered Speedcubers and to reinstate Registered Speedcubers that have been suspended. Such rights must be exercised in accordance with [WCA Motion : Suspensions and other Sanctions](wcadoc{documents/motions/15.2024.1 - Suspensions and other Sanctions.pdf}).
-   7. To approve the annual budget proposal of the WCA Financial Committee in accordance with [WCA Motion : Finances](wcadoc{documents/motions/11.2024.1 - Finances.pdf}).
+   4. To instate and remove Senior Delegates. Such rights must be exercised in accordance with [WCA Motion : Senior Delegates](wcadoc{documents/motions/Senior Delegates.pdf}).
+   5. To instate and remove Regional Delegates. Such rights must be exercised in accordance with [WCA Motion : Regional Delegates](wcadoc{documents/motions/Regional Delegates.pdf}).
+   6. To suspend or take other sanctions against Registered Speedcubers and to reinstate Registered Speedcubers that have been suspended. Such rights must be exercised in accordance with [WCA Motion : Suspensions and other Sanctions](wcadoc{documents/motions/Suspensions and other Sanctions.pdf}).
+   7. To approve the annual budget proposal of the WCA Financial Committee in accordance with [WCA Motion : Finances](wcadoc{documents/motions/Finances.pdf}).
    8. To accept or not accept results of WCA Competitions as official, according to the procedures in the Regulations.
    9. To overrule any decision under control of the WCA, as long as the overruling complies with the WCA Bylaws, their Motions, and the Regulations.
    10. To appoint financial auditors based on all applicable legal requirements.
