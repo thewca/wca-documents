@@ -82,7 +82,7 @@ Please note, it is possible for basically anyone to forge a mail as if it were s
 
 ## Communicating Dates and Times
 
-Whenever trying to arrange a meeting or set a deadline that requires agreement on an exact point in time, remember to send your suggestion in UTC. What is breakfast time for you may be the middle of the night for someone else on your team. UTC helps eliminate a lot of misunderstandings.i
+Whenever trying to arrange a meeting or set a deadline that requires agreement on an exact point in time, remember to send your suggestion in UTC. What is breakfast time for you may be the middle of the night for someone else on your team. UTC helps eliminate a lot of misunderstandings.
 
 ## Chrome Profiles
 
