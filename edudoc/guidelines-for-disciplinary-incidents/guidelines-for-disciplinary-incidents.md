@@ -10,7 +10,7 @@ The WCA Integrity Committee (WIC) is entitled to apply bans and other disciplina
 
 ## Handling Behavioral Issues of Competitors at Competitions
 
-- Delegates should primarily address minor behavioral issues of competitors at competitions themselves using [2j](wca{regulations/#2j}), [2k](wca{regulations/#2k}), and [2l](wca{regulations/#2l}) of the regulations and applicable sub-points.
+- Delegates should primarily address minor behavioral issues of competitors at competitions themselves using [2j](https://www.worldcubeassociation.org/regulations/#2j), [2k](https://www.worldcubeassociation.org/regulations/#2k), and [2l](https://www.worldcubeassociation.org/regulations/#2l) of the regulations and applicable sub-points.
   - If Delegates have not first tried to handle minor behavior issues by giving warnings and disqualifying competitors under regulation 2k, then the WIC is much less likely to apply any disciplinary action. We would like Delegates to attempt to handle minor incidents at a local level first before WIC gets involved. However, the WIC would like Delegates to report noteworthy behavioral issues so the WIC can record them. The WIC is always willing to give advice and take disciplinary action as needed.
 - If any extraordinary cases occur, please describe them in the Delegate Report.
   - Please be aware the WIC will likely contact you for further information regarding the case.
