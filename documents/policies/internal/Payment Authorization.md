@@ -54,6 +54,7 @@ All figures are in US Dollars. Transactions in foreign currencies should be conv
 | Raymond Goslow       | WCA Treasurer       | $10,000          | $50,000              | $5,000         | $10,000           | $5,000     | $10,000         | $5,000. $10,000 for legal fees |   
 | Edward Hollingdale   | WFC Leader          | $10,000          | $50,000              | $5,000         | $10,000           | $5,000     | $10,000         | $5,000. $10,000 for legal fees |   
 | Daniel M. James      | WFC Member          | $3,000           | $0                   | $0             | $3,000            | $0         | $0              | $0                             |  
+| Shain Papalotl Longbehn | WFC Member          | $3,000           | $0                   | $0             | $3,000            | $0         | $0              | $0                             |
 
 :::
 
