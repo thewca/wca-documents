@@ -1,6 +1,6 @@
 # WCA Payment Authorization Policy
 
-### Version 1.0 {.version}
+### Version 1.1 {.version}
 
 ## Purpose
 The purpose of this policy is to outline the procedures for individual WCA Staff Members to make payments on behalf of the WCA, and to authorize specific individuals. 
