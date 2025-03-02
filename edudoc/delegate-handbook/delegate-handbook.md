@@ -112,7 +112,7 @@ While WCA Delegates are highly experienced members of their community and often 
 
 ## The Roles of a WCA Delegate
 
-As outlined in the [WCA Delegates Motion](https://documents.worldcubeassociation.org/documents/motions/08.2024.1%20-%20Delegates.pdf) of the WCA, a WCA Delegate is responsible for:
+As outlined in the [WCA Delegates Motion](https://documents.worldcubeassociation.org/documents/motions/Delegates.pdf) of the WCA, a WCA Delegate is responsible for:
 
 - Ensuring the Regulations are followed at WCA competitions
 - Submitting competition results
@@ -1230,7 +1230,7 @@ Since there are a lot of Delegate reports sent out, you may find it helpful to s
 
 ### Disputes and Appeals
 
-Some decisions made by WCA Staff may be controversial. Any individual affected by a decision (e.g. the Delegate of a competition where an incident occurred, or the competitor whose results are disputed) may file a dispute in accordance with the [Disputes Motion](https://documents.worldcubeassociation.org/documents/motions/16.2024.1%20-%20Disputes.pdf). The committee responsible for reviewing the dispute will provide a decision within 60 days. As a Delegate, you are responsible for ensuring that the decision of the team or committee handling the dispute is carried out immediately. Usually, this requires you to send an email to the WRT with the requested result changes.
+Some decisions made by WCA Staff may be controversial. Any individual affected by a decision (e.g. the Delegate of a competition where an incident occurred, or the competitor whose results are disputed) may file a dispute in accordance with the [Disputes Motion](https://documents.worldcubeassociation.org/documents/motions/Disputes.pdf). The committee responsible for reviewing the dispute will provide a decision within 60 days. As a Delegate, you are responsible for ensuring that the decision of the team or committee handling the dispute is carried out immediately. Usually, this requires you to send an email to the WRT with the requested result changes.
 
 Further disagreements with the result of a dispute may be escalated to an appeal. Even if an appeal was filed, you must still carry out the original decision of the dispute until the result of the appeal is provided.
 

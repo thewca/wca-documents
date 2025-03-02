@@ -1,0 +1,239 @@
+# SUBMISSION OF PROPOSED MOTION
+
+**Motion number:** 2.2024.1  
+**Subject:** Definitions  
+**Intent:** Define WCA terminology  
+**Submitted by:** WCA Board  
+**Date:** August 1, 2024
+
+# Motion
+
+Within WCA we use the following definitions for terminology.
+
+<table>
+  <thead>
+    <tr>
+      <th>Term</th>
+      <th>Definition</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Board Member</td>
+      <td>A Member of the WCA Board. Board Members are WCA Staff Members with Voting Rights.</td>
+    </tr>
+    <tr>
+      <td>Bylaws</td>
+      <td>The Bylaws of the WCA.</td>
+    </tr>
+    <tr>
+      <td>Code</td>
+      <td>A set of rules or ideas approved by the WCA Board to direct the standards for conduct of Community Members and members of WCA Staff.</td>
+    </tr>
+    <tr>
+      <td>Code of Conduct</td>
+      <td>The code of the WCA containing principles of conduct for Community Members.</td>
+    </tr>
+    <tr>
+      <td>Code of Ethics</td>
+      <td>The code of the WCA containing principles of conduct for WCA Staff.</td>
+    </tr>
+    <tr>
+      <td>Committee/Team</td>
+      <td>A Committee/Team of the WCA that has been appointed by the WCA under the terms of the WCA Bylaws or any of the Motions. Leaders and Senior Members of Committees/Teams are WCA Staff with Voting Rights and the rest of Committees/Teams members are WCA Staff without Voting Rights.</td>
+    </tr>
+    <tr>
+      <td>Committee/Team Leader</td>
+      <td>A WCA Staff Member with Voting Rights who leads a WCA Committee/Teams.</td>
+    </tr>
+    <tr>
+      <td>Committee/Team Member</td>
+      <td>A WCA Staff Member without Voting Rights who performs activities for the WCA in a WCA Committee/Team.</td>
+    </tr>
+    <tr>
+      <td>Committee/Team Senior Member</td>
+      <td>A Committee/Team Member who has been promoted to a Senior Member by its Leader. Committee/Team Senior Members are WCA Staff Members with Voting Rights.</td>
+    </tr>
+    <tr>
+      <td>Community</td>
+      <td>The Community of the WCA as formed by all Staff, Registered Speedcubers, Regional Organizations, Partners, Spectators, and users of official WCA online services.</td>
+    </tr>
+    <tr>
+      <td>Competition Organizer</td>
+      <td>Persons who are responsible for the organization of a WCA Competition, as defined in the WCA Regulations and WCA Competition Requirements Policy.</td>
+    </tr>
+    <tr>
+      <td>Competitor</td>
+      <td>A participant at a WCA Competition.</td>
+    </tr>
+    <tr>
+      <td>Continent</td>
+      <td>A geographical area consisting of a group of countries, limited to: <br> Africa, Asia, Europe, North America, Oceania, South America.</td>
+    </tr>
+    <tr>
+      <td>Council</td>
+      <td>A Council of the WCA that has been appointed by the WCA under the terms of the WCA Bylaws or any of the Motions.</td>
+    </tr>
+    <tr>
+      <td>Council Leader</td>
+      <td>A Community Member of the WCA who leads a WCA Council.</td>
+    </tr>
+    <tr>
+      <td>Council Member</td>
+      <td>A Community Member of the WCA who performs activities for the WCA in a WCA Council.</td>
+    </tr>
+    <tr>
+      <td>Country</td>
+      <td>Any country, state, territory or a part of territory recognized by the international community, in conformity with the Olympic Charter and the IOC regulations. <br> The Regulations contain the accepted list of countries.</td>
+    </tr>
+    <tr>
+      <td>Event</td>
+      <td>A particular contest within a WCA Competition.</td>
+    </tr>
+    <tr>
+      <td>Full Delegate</td>
+      <td>A WCA Staff Member with Voting Rights who has been appointed by the WCA to perform the role of WCA Delegate.</td>
+    </tr>
+    <tr>
+      <td>Junior Delegate</td>
+      <td>A WCA Staff Member without Voting Rights who has been appointed by the WCA to perform the role of WCA Delegate.</td>
+    </tr>
+    <tr>
+      <td>Majority</td>
+      <td>More than half of the valid votes.</td>
+    </tr>
+    <tr>
+      <td>Member with Voting Rights</td>
+      <td>
+        <p>An appointed WCA Staff Member with Voting Rights.</p>
+        <ul>
+          <li>Director</li>
+          <li>Officer</li>
+          <li>Committee/Team Leader</li>
+          <li>Committee/Team Senior Member</li>
+          <li>Senior Delegate</li>
+          <li>Regional Delegate</li>
+          <li>Full Delegate</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Officer</td>
+      <td>
+        <p>An appointed Officer of the WCA under the terms of the WCA Bylaws.</p>
+        <ul>
+          <li>Chair</li>
+          <li>Executive Director</li>
+          <li>Secretary</li>
+          <li>Treasurer</li>
+          <li>Vice-Chair</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Partner</td>
+      <td>
+        <p>An acknowledged person or party who is not a Staff Member of the WCA, with whom the WCA works together for the Objectives of the WCA. This could be:</p>
+        <ul>
+          <li>Sponsor</li>
+          <li>Competition Organizer</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Policy</td>
+      <td>A set of rules or ideas approved by the WCA Board that either help, guide, or regulate the Community.</td>
+    </tr>
+    <tr>
+      <td>Regional Delegate</td>
+      <td>A WCA Staff Member with Voting Rights and Full Delegate who has been appointed by the WCA to manage a group of WCA Delegates and report to the Senior Delegate.</td>
+    </tr>
+    <tr>
+      <td>Regional Organization</td>
+      <td>An Organization that has been acknowledged by the WCA as a representative of the WCA in a region. <br> Regional Organizations are Members of the WCA.</td>
+    </tr>
+    <tr>
+      <td>Registered Speedcuber</td>
+      <td>A person who has competed in one or more WCA Competitions. Registered Speedcubers have a personal WCA ID and have the role of Non-voting Member in WCA.</td>
+    </tr>
+    <tr>
+      <td>Regulations</td>
+      <td>The Regulations of the WCA as approved for use in WCA Competitions.</td>
+    </tr>
+    <tr>
+      <td>Senior Delegate</td>
+      <td>A WCA Staff Member with Voting Rights and Full Delegate who has been appointed by the WCA to manage a group of WCA Delegates.</td>
+    </tr>
+    <tr>
+      <td>Speedcubing</td>
+      <td>The sport of solving twisty puzzles.</td>
+    </tr>
+    <tr>
+      <td>Supermajority</td>
+      <td>A majority of at least 2/3 of the valid votes.</td>
+    </tr>
+    <tr>
+      <td>Trainee Delegate</td>
+      <td>A WCA Community Member who has been appointed by the WCA to train for the role of WCA Delegate.</td>
+    </tr>
+    <tr>
+      <td>Twisty puzzles</td>
+      <td>Puzzles that are manipulated by twisting their mechanisms. Most famous of these puzzles is the Rubik’s Cube.</td>
+    </tr>
+    <tr>
+      <td>Valid Vote</td>
+      <td>
+        <p>A valid vote is a vote that conforms to all requirements of the involved vote/poll/election, excluding:</p>
+        <ul>
+          <li>unintelligible votes</li>
+          <li>votes for more options than the number required</li>
+          <li>votes delivered outside the required time frame</li>
+        </ul>
+        <p>Abstentions and blank votes do not count when determining a majority or a supermajority. <br> Valid votes, abstentions, and blank votes are counted to determine whether a quorum is met.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>Voting Rights</td>
+      <td>The right to vote in elections and approval processes as described in the Bylaws and Motions. These rights are given to a selection of WCA Staff Members only.</td>
+    </tr>
+    <tr>
+      <td>WCA</td>
+      <td>World Cube Association.</td>
+    </tr>
+    <tr>
+      <td>WCA Board</td>
+      <td>The Board of Directors of the WCA.</td>
+    </tr>
+    <tr>
+      <td>WCA Competition</td>
+      <td>A competition acknowledged by the WCA, regulated by the Regulations, and overseen by a WCA Delegate.</td>
+    </tr>
+    <tr>
+      <td>WCA Delegate</td>
+      <td>A role defined in the Motions and in the WCA Regulations to oversee official WCA Competitions on behalf of the WCA.</td>
+    </tr>
+    <tr>
+      <td>WCA Staff</td>
+      <td>
+        <p>An appointed Staff Member of the WCA.</p>
+        <ul>
+          <li>Director</li>
+          <li>Officer</li>
+          <li>Committee/Team Leader</li>
+          <li>Committee/Team Senior Member</li>
+          <li>Committee/Team Member</li>
+          <li>Senior Delegate</li>
+          <li>Regional Delegate</li>
+          <li>Full Delegate</li>
+          <li>Junior Delegate</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<style>
+  tr > td:first-child {
+    white-space: nowrap;
+  }
+</style>
