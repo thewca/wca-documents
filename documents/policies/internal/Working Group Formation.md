@@ -7,9 +7,9 @@ The purpose of this policy is to provide guidelines for the formation and operat
 
 ## Policy
 1. Definition of a Working Group
-   1. A working group is a temporary team of WCA Staff and/or community members established to address a specific project or area of interest within the organization. Working groups are tasked with generating ideas, providing recommendations, and executing initiatives related to their assigned focus area
+   1. A working group is a temporary team of WCA Volunteers and/or community members established to address a specific project or area of interest within the organization. Working groups are tasked with generating ideas, providing recommendations, and executing initiatives related to their assigned focus area
 2. Formation
-   1. Working groups may be proposed by any WCA Staff member.
+   1. Working groups may be proposed by any WCA Volunteer.
    2. The Working group must be sponsored by a team leader, a Senior Delegate, a Director or an Officer.
    3.  Proposals for working groups should be submitted in writing to the Board of Directors for review and approval.
 3. Approval Process
@@ -20,7 +20,7 @@ The purpose of this policy is to provide guidelines for the formation and operat
    2. The leader will serve as the primary point of contact between the working group and the Board of Directors.
 5. Composition
    1. Each working group shall consist of a minimum of four (4) members, including a designated leader. 
-   2. The leader should determine the most appropriate membership for the specific working group.  The leader should consider if there should be representation from particular WCA teams or committees or if membership should be open to all WCA staff.
+   2. The leader should determine the most appropriate membership for the specific working group.  The leader should consider if there should be representation from particular WCA teams or committees or if membership should be open to all WCA Volunteers.
    3. Priority may be given to individuals with relevant expertise or experience. 
 6. Diversity and Inclusion
    1. The WCA is committed to fostering a diverse and inclusive environment. When forming working groups, efforts should be made to ensure representation from individuals from diverse backgrounds, with a wide range of perspectives, and experiences. This includes but is not limited to factors such as race, ethnicity, gender, age, sexual orientation, abilities, and socio-economic status. 
