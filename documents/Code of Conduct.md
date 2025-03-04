@@ -1,12 +1,12 @@
 # Code of Conduct
 
-### Version 1.1 {.version}
+### Version 1.2 {.version}
 
 The Code of Conduct must be considered by all members of the World Cube Association (WCA) Community, as a standard for actions and behavior. Members of the WCA Community include, but are not limited to: Registered Speedcubers, Competitions Organizers, Guests, WCA Officials, Users on the official WCA Forum. 
 
 These actions should uphold the Spirit and Mission of the WCA while not breaking any Regulations, Motions or Policies. 
 
-Registered Speedcubers who are qualified as “WCA Staff” must also uphold the Code of Ethics as a standard for actions and decisions they will be making when acting on behalf of the WCA within their role. 
+Registered Speedcubers who are qualified as WCA Volunteer must also uphold the Code of Ethics as a standard for actions and decisions they will be making when acting on behalf of the WCA within their role. 
 
 This Code covers previously known issues, as well as issues that the WCA foresees as requiring additional guidance. This document will be updated periodically to incorporate new topics as they are brought to the attention of the WCA, and will also be reviewed regularly. 
 
