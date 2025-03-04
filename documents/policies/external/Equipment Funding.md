@@ -36,9 +36,9 @@ An application for funding must be submitted by a WCA Delegate or acknowledged W
 3. For all equipment that is not timing equipment, the cost of the equipment along with documentation of the cost.
 4. An explanation of why they are not able to purchase the equipment themselves or the conflicting financial priorities that would have to be sacrificed to purchase the equipment.
 5. An estimate of how often the equipment will be used for WCA Competitions. 
-6. The WCA Staff, Trainee Delegate or Regional Organization who will act as custodian for the equipment. 
+6. The WCA Volunteer, Trainee Delegate or Regional Organization who will act as custodian for the equipment. 
 
-The WCA Financial Committee (WFC) will evaluate the application, asking for assistance from the WCA Board of Directors, other WCA Committee or Teams, WCA Staff Members, or outside sources as needed. Once the application has been researched and considered, the WFC will vote on whether to fund the requested equipment fully, partially, or not at all. The WFC will then inform the applicant of the decision.
+The WCA Financial Committee (WFC) will evaluate the application, asking for assistance from the WCA Board of Directors, other WCA Committee or Teams, WCA Volunteers, or outside sources as needed. Once the application has been researched and considered, the WFC will vote on whether to fund the requested equipment fully, partially, or not at all. The WFC will then inform the applicant of the decision.
 
 The funding decision for each application will be made on a case-by-case basis depending on the merits of the application and the budgeted amount for equipment approved by the WCA Board of Directors.
 
@@ -50,7 +50,7 @@ The method of procuring the equipment will vary. The WCA will use one of the fol
 3. Making an advance of funds to the applicant for purchasing the equipment themselves. In this case, the applicant must purchase the equipment, provide all receipts, and refund any funds not used for the equipment purchase within 30 days of receiving the advance. Failure to use the funds for the purpose they have been provided may lead to WCA disciplinary procedures and/or legal action.
 
 ### Equipment Custodian
-The WCA will remain the owner of the purchased equipment and reserves the right to require its return (at the expense of the WCA) at any time. However, as part of the application process, one or more custodians will be approved by the WFC to hold, maintain, and care for the equipment. A custodian must be a WCA Staff Member, a WCA Trainee Delegate, or an acknowledged WCA Regional Organization. 
+The WCA will remain the owner of the purchased equipment and reserves the right to require its return (at the expense of the WCA) at any time. However, as part of the application process, one or more custodians will be approved by the WFC to hold, maintain, and care for the equipment. A custodian must be a WCA Volunteer, a WCA Trainee Delegate, or an acknowledged WCA Regional Organization. 
 
 Risk for any loss or damage to the equipment passes to the custodian upon delivery, and any loss or damage must be promptly reported to the WFC. Equipment custodians are expected to take proper care of equipment (though regular wear and tear is expected) and remain accountable for loss or damage even if it is temporarily loaned to another Delegate or organizer. The custodian will also be responsible for promptly responding to any inquiries from the WFC about the status, location, and use of the equipment. 
 
