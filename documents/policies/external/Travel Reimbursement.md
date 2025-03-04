@@ -3,7 +3,7 @@
 ### Version 2.0 {.version}
 
 ## Purpose
-The purpose of this policy is to define the conditions under which the travel expenses of World Cube Association (WCA) Staff can be paid by the organization in order to further the Mission and the Spirit of the WCA.
+The purpose of this policy is to define the conditions under which the travel expenses of World Cube Association (WCA) Volunteers can be paid by the organization in order to further the Mission and the Spirit of the WCA.
 
 ## Policy
 ### Allowable Expenses
@@ -29,7 +29,7 @@ The purpose of this policy is to define the conditions under which the travel ex
    3. Alaska, Hawaii, and US territories – [US Department of Defense OCONUS Per Diem Rates](https://www.travel.dod.mil/Travel-Transportation-Rates/Per-Diem/Per-Diem-Rate-Lookup/)
 2. Lodging expenses for travel to a competition can only be claimed for the night before a competition begins, nights during a competition, and the night after a competition ends. Lodging expenses for travel on official WCA business outside of a competition can only be claimed for nights before or after days where WCA business is undertaken.
 3. Meal expenses can only be claimed for days during a competition, days during which official WCA business is undertaken, or days on which WCA-funded travel is taking place.
-4. If anyone not explicitly named and authorized for WCA-funded travel is charged for a meal on the same receipt as someone whose travel is being funded, the meal expense must be prorated to only cover the portion of the food for the funded staff member(s) and a prorated portion of the tip (if applicable).
+4. If anyone not explicitly named and authorized for WCA-funded travel is charged for a meal on the same receipt as someone whose travel is being funded, the meal expense must be prorated to only cover the portion of the food for the funded WCA Volunteer(s) and a prorated portion of the tip (if applicable).
 5. Tips can be claimed as a meal expense but do count against the total daily meal expense limit.
 6. Alcohol cannot be claimed as a meal expense.
    
