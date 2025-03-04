@@ -1,6 +1,6 @@
 # WCA Payment Authorization Policy
 
-### Version 1.0 {.version}
+### Version 1.1 {.version}
 
 ## Purpose
 The purpose of this policy is to outline the procedures for individual WCA Staff Members to make payments on behalf of the WCA, and to authorize specific individuals. 
@@ -54,6 +54,7 @@ All figures are in US Dollars. Transactions in foreign currencies should be conv
 | Raymond Goslow       | WCA Treasurer       | $10,000          | $50,000              | $5,000         | $10,000           | $5,000     | $10,000         | $5,000. $10,000 for legal fees |   
 | Edward Hollingdale   | WFC Leader          | $10,000          | $50,000              | $5,000         | $10,000           | $5,000     | $10,000         | $5,000. $10,000 for legal fees |   
 | Daniel M. James      | WFC Member          | $3,000           | $0                   | $0             | $3,000            | $0         | $0              | $0                             |  
+| Shain Papalotl Longbehn | WFC Member          | $3,000           | $0                   | $0             | $3,000            | $0         | $0              | $0                             |
 
 :::
 
