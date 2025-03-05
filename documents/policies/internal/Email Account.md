@@ -1,6 +1,6 @@
 # WCA Email Account Policy
 
-### Version 1.2 {.version}
+### Version 1.3 {.version}
 
 ## Purpose
 The purpose of this policy is to outline the guidelines and requirements of individual user accounts and group accounts on the worldcubeassociation.org domain. This policy applies to all WCA Volunteers and anyone else who is assigned (or given access to) a corporate email. Since WCA Volunteers who use WCA email are representing the World Cube Association, they must be aware that they represent the WCA whenever they send emails from such an account.
