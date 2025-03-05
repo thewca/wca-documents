@@ -1,6 +1,6 @@
 # WCA Working Group Formation Policy
 
-### Version 1.0 {.version}
+### Version 1.1 {.version}
 
 ## Purpose
 The purpose of this policy is to provide guidelines for the formation and operation of working groups within the World Cube Association (WCA) in order to facilitate collaboration, innovation, and progress in specific focus areas.
