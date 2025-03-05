@@ -1,6 +1,6 @@
 # WCA Regional Restrictions Policy
 
-### Version 1.1 {.version}
+### Version 1.2 {.version}
 
 ## Purpose
 The purpose of this policy is to list the financial and other restrictions which the WCA applies to specific regions.
