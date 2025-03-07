@@ -8,7 +8,7 @@ This Code covers previously known issues, as well as issues that the WCA foresee
 
 Disciplinary procedures are handled by the WCA Integrity Committee (WIC) as outlined in item 3 of this document.
 
-The official communication channel for the WIC is via email. For any concerns about the conduct of Registered Speedcubers, contact the WIC: [integrity@worldcubeassociation.org](mailto:integrity@worldcubeassociation.org).
+The official communication channel for the WIC is via email. For any concerns about the conduct of a Member of the WCA Community, contact the WIC: [integrity@worldcubeassociation.org](mailto:integrity@worldcubeassociation.org).
 
 ::::: {.page-break-before}
 :::::
@@ -18,7 +18,7 @@ The official communication channel for the WIC is via email. For any concerns ab
       1. that it is their personal responsibility to familiarize themselves with all of the requirements of the Code of Conduct, including what conduct constitutes an offense under the Code of Conduct;
       2. to submit to the exclusive jurisdiction of any WCA Delegate, WCA Committee or WCA Board of Directors convened under the Disciplinary Procedure to hear and determine charges brought (and any appeals in relation thereto) pursuant to the Code of Conduct; and
       3. not to bring any proceedings to any court or other forum that are inconsistent with the foregoing submission to the jurisdiction of WCA Delegates, WCA Committees or WCA Board.
-   2. While taking into account Article 1.1, the WCA and Members of the WCA Community shall be responsible for promoting Code of Conduct awareness and education amongst Members of the WCA Community; in particular WCA Officials.
+   2. While taking into account Article 1.1, the WCA and Members of the WCA Community shall be responsible for promoting Code of Conduct awareness and education amongst Members of the WCA Community; in particular WCA Volunteers.
 2. **Conduct**
    1. Every member of the WCA Community must behave with respect towards the representatives of the WCA, other Registered Speedcubers, spectators, press and partners. This applies to behavior during WCA Competitions and also online, on official WCA platforms. Members of the WCA Community are expected to conduct themselves according to the following values:
       1. Compassion: treat others as you would like to be treated.
@@ -34,7 +34,7 @@ The official communication channel for the WIC is via email. For any concerns ab
       7. Advocating for, or encouraging, any of the above behavior.
    3. The status of the WCA as a 100% volunteer-run nonprofit must be upheld by all Community Members. This means that:
       1. Finances for WCA Competitions must be handled according to the WCA Code of Ethics, section “Finances”.
-      2. Leftover money must not be retained by Organizers who are not  Regional Organizations or WCA Delegates, who must abide by the Code of Ethics (2.3.1). Leftover money shall thus be reinvested and used for Community activities.
+      2. Leftover money must not be retained by Organizers who are not Regional Organizations or WCA Delegates, who must abide by the Code of Ethics (2.3.1). Leftover money shall thus be reinvested and used for Community activities.
 3. **Disciplinary Procedure**
    1. Violations of the Code of Conduct will be analyzed and evaluated by the WCA Integrity Committee.
    2. Violations of the Code of Conduct can result in Suspensions and other Sanctions.
