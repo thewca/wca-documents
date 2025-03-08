@@ -1,6 +1,6 @@
 # WCA Logo Usage Policy
 
-### Version 2.0 {.version}
+### Version 2.1 {.version}
 
 ## Purpose
 
@@ -14,9 +14,9 @@ The logo covered by this policy is the [logo registered with the US Patent and T
 
 The registered symbol (®) must be included in all contexts and jurisdictions where the logo is used.
 
-### WCA Staff
+### WCA Volunteers
 
-Members of WCA Staff may use the WCA logo on internal documents, presentations, and other materials related to their work for the WCA.
+WCA Volunteers may use the WCA logo on internal documents, presentations, and other materials related to their work for the WCA.
 
 ### WCA Competitions
 
