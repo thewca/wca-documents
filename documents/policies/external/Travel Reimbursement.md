@@ -3,7 +3,7 @@
 ### Version 2.1 {.version}
 
 ## Purpose
-The purpose of this policy is to define the conditions under which the travel expenses of World Cube Association (WCA) Volunteers can be paid by the organization in order to further the Mission and the Spirit of the WCA.
+The purpose of this policy is to define the conditions under which the travel expenses of WCA Volunteers can be paid by the organization in order to further the Mission and the Spirit of the WCA.
 
 ## Policy
 ### Allowable Expenses
