@@ -82,7 +82,8 @@ The official communication channel for the WIC is via email. For any concerns ab
       1. Delegates may provide advice and should ensure that the competition organization team is negotiating a fair deal.
    6. WCA Volunteers must take all steps possible to exclude themselves from any decisions in which they have a conflict of interest.
 5. **Abuse of Power**
-   1. A WCA Volunteers member must not use their power within the organization/community to unfairly benefit an individual or group, including, but not limited to:
+   1. A WCA Volunteer must not use their power within the organization/community to unfairly benefit an individual or group, including, but not limited to:
+
       1. Monetary benefit
       2. Benefit of personal results
       3. Increase in internal position
