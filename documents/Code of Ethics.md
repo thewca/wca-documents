@@ -2,7 +2,7 @@
 
 ### Version 2.6 {.version}
 
-The Code of Ethics must be considered by all World Cube Association (WCA) Volunteers as a standard for actions and decisions they will be making when acting on behalf of the WCA within their role. “Listed Delegates” refers to WCA Delegates who are publicly displayed on the “General info” tab of an official WCA Competition.
+The Code of Ethics must be considered by all WCA Volunteers as a standard for actions and decisions they will be making when acting on behalf of the WCA within their role. “Listed Delegates” refers to WCA Delegates who are publicly displayed on the “General info” tab of an official WCA Competition.
 
 These actions and decisions should be made in such a manner that, if consistently performed by WCA Volunteers, the [Spirit and Mission](wcadoc{documents/motions/01.2021.1 - Spirit.pdf}) of the WCA would continue to be upheld while not breaking any [Regulations](wca{regulations}), [Motions, or Policies](wca{documents}).
 
