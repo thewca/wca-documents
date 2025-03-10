@@ -7,7 +7,7 @@ The purpose of this policy is to provide guidelines for the formation and operat
 
 ## Policy
 1. Definition of a Working Group
-   1. A working group is a temporary team of WCA Volunteers and/or community members established to address a specific project or area of interest within the organization. Working groups are tasked with generating ideas, providing recommendations, and executing initiatives related to their assigned focus area
+   1. A working group is a temporary team of WCA Volunteers and/or Community members established to address a specific project or area of interest within the organization. Working groups are tasked with generating ideas, providing recommendations, and executing initiatives related to their assigned focus area
 2. Formation
    1. Working groups may be proposed by any WCA Volunteer.
    2. The Working group must be sponsored by a team leader, a Senior Delegate, a Director or an Officer.
