@@ -92,7 +92,7 @@ Setup 1 is making use of a Competitor Waiting Area. The Scrambling Area is prope
 
 Setup 2 is also making use of a Competitor Waiting Area. The Scrambling Area is properly visually isolated from both the Competitor Waiting Area and the solving stations. There is no visual barrier between the Competitor Waiting Area and the solving stations, which there should be. This setup is acceptable, but the distance between the Competitor Waiting Area and the solving stations should be considered by the organization team and the WCA Delegate to ensure adherence to point 3.4 of this policy.
 
-### Setup 3 (<span style="color: red">bad</span>) {.text-center .page-break-before}
+### Setup 3 (<span style="color: red">bad</span>) {.text-center}
 
 ![](images/manchester-2018.png){.bordered-image width=65%}
 
