@@ -1,6 +1,6 @@
 # WCA Delegate Probationary Status Policy
 
-### Version 1.4 {.version}
+### Version 1.5 {.version}
 
 ## Policy
 Delegates who fail to do their duties may be placed on probation. This is an internal designation which only the Delegate on probation, Regional Delegate, Senior Delegate, Board, and relevant committees and/or teams would be aware of.
@@ -22,7 +22,7 @@ Delegates who have late outstanding payments for competition Dues or gear orders
 ### Probation Due to Quality Issues
 At the discretion of the Senior Delegate, Delegates may be placed on probation due to quality issues, including, but not limited to:
 
-- Failure to reply to or communicate with WCA Staff members
+- Failure to reply to or communicate with WCA Volunteers
 - Failure to process WCA ID claims in a reasonable timeframe
 - Repeated carelessness when submitting competitions for announcement
 - Repeated carelessness when submitting competition results or corrections
