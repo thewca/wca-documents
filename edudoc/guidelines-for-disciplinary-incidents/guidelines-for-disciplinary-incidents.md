@@ -44,7 +44,7 @@ The WCA Integrity Committee (WIC) is entitled to apply sanctions, based on the m
   - Talk to any suspects and ask direct questions. If they confess and return any missing items, thank them for their honesty and warn them to avoid stealing in the future if they deliberately took the item. Keep the age and maturity of the individual in mind.
   - Ask the venue for security camera footage to identify potential suspects if possible.
 - If puzzles were not returned at the competition, but you believe you know who may have stolen them then contact them and ask for the puzzles to be returned. Contact the WIC if the individual is not responsive or is unwilling to return the puzzles.
-- Report incidents of theft to the WIC so that we can note down competitor's names in case there are repeated cases of theft in the future.
+- Report incidents of theft to the WIC so that we can note down competitors' names in case there are repeated cases of theft in the future.
 
 ## Handling Behavioral Issues of Spectators at Competitions {.page-break-before}
 
