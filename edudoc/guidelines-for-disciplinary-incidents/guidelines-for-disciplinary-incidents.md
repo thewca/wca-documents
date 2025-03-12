@@ -22,7 +22,7 @@ The WCA Integrity Committee (WIC) is entitled to apply sanctions, based on the m
     5. Additional disqualifications – If the behavior persists at the next competition despite full disqualification being utilized, disqualify the competitor again and escalate the matter to WIC.
   - If these steps are not followed for behavioral issues that do not cause a safety concern, the WIC will likely not be willing to intervene.
 - For extreme situations where competitor safety may be involved, please contact local law enforcement immediately. Once the immediate concerns of safety have been addressed, contact the WIC with all evidence gathered for the WIC to use in their investigation. Safety is priority, and the WIC cannot provide legal or emergency guidance.
-- In the Delegate Report, the WIC generally advises to maintain anonymity for all types of incidents, however this is not required for typical incidents (such as disruptions and simple 3BLD peeking incidents).
+- In the Delegate Report, the WIC generally advises to maintain anonymity for all types of incidents, however this is not required for typical incidents (such as disruptions and simple blindfolded peeking incidents).
   - If any extraordinary cases occur, default to a brief, anonymized version of the incident and follow-up with the WIC privately with further details, particularly if the competitor is notable. The WIC will still provide feedback on anonymized versions for general awareness.
   - If the WIC incident is sensitive (including but not limited to crimes, harassment, assault, etc.), please exclude all details from your report and email the WIC separately.
   - Follow-up with the WIC with full details.
