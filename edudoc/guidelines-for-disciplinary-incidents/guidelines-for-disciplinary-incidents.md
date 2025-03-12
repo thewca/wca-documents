@@ -12,7 +12,7 @@ The WCA Integrity Committee (WIC) is entitled to apply sanctions, based on the m
 
 ## Handling Behavioral Issues of Competitors at Competitions
 
-- Delegates should primarily address minor behavioral issues of competitors at competitions themselves using [2j](wca{regulations/full/#2j}), [2k](wca{regulations/full/#2k}), and [2l](wca{regulations/full/#2l}) of the regulations and applicable sub-points.
+- Delegates should primarily address minor behavioral issues of competitors at competitions themselves using Regualtions [2j](wca{regulations/full/#2j}), [2k](wca{regulations/full/#2k}), and [2l](wca{regulations/full/#2l}) and applicable sub-points.
   - If Delegates have not first tried to handle minor behavior issues by giving warnings and disqualifying competitors under [Regulation 2k](wca{regulations/full/#2k}), then the WIC is much less likely to apply any disciplinary action. We would like Delegates to attempt to handle minor incidents at a local level first before WIC gets involved. However, the WIC would like Delegates to report noteworthy behavioral issues so the WIC can record them and provide guidance, if needed. 
   - The WIC recommends the following escalation steps for behavioral issues that do not cause a safety concern (physical or emotional):
     1. General reminder – A polite reminder reinforcing correct behavior.
