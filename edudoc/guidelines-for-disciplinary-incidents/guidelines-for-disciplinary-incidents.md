@@ -29,7 +29,7 @@ The WCA Integrity Committee (WIC) is entitled to apply sanctions, based on the m
   - Please be aware the WIC will likely contact you for further information regarding the case.
 - Please contact the WIC (tagging in the Delegate Report or directly):
   - If the conflict cannot be resolved locally.
-  - If you believe that a person should be officially warned by the WIC or banned from competitions. 
+  - If you believe that a person should be officially warned by the WIC or banned from competitions.
   - If you believe that similar incidents may occur in the future and that it would be beneficial for the WIC to document the incident.
 
 ## Theft at Competitions
