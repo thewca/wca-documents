@@ -1,6 +1,6 @@
 # WCA Competition Requirements Policy
 
-### Version 5.3 {.version}
+### Version 5.4 {.version}
 
 ## Purpose
 The purpose of this policy is to define the requirements and processes that a competition must meet and follow in order to be recognized as a WCA Competition.
@@ -80,7 +80,7 @@ The WCA Delegate must submit the following information when requesting approval 
         3. A commonly used demonym of the region or its residents,
         4. Local language specific to the region,
         5. Other locational identifiers may be accepted at the discretion of the WCAT.
-   8. Competitions may not be named after a living cuber, member of the organization team, or any competition staff, including pseudonyms or online tags of such people.
+   8. Competitions may not be named after a living cuber, member of the organization team, or any competition volunteers, including pseudonyms or online tags of such people.
    9. Names must not contain possibly offensive parts or memes.
    10. The name cannot contain website domains or anything susceptible to be interpreted as a link, hashtag or in general an electronic identifier.
    11. The name cannot contain any trademarks unless the organization team is formally authorized, in writing, to use such names.
@@ -197,7 +197,7 @@ The WCA Delegate must submit the following information when requesting approval 
       2. A round of an event must have planned advancement conditions if there is a subsequent round of the event.
       3. A round may have a cutoff. A round with a cutoff is a cutoff round, with the formats as outlined in [WCA Regulation 9b)](wca{regulations/#9b}).
    2. Only results from events that appear on the competition website in the Events tab and Schedule will be recognized.
-      1. Groups held for smaller subsections of competitors (e.g., competition staff), at a different time than the rest of the round, must be highlighted in the schedule.
+      1. Groups held for smaller subsections of competitors (e.g., competition volunteers), at a different time than the rest of the round, must be highlighted in the schedule.
          1.  The competition delegates should carefully consider the fairness and need when reviewing such schedules.
       2. Other events may only be held unofficially.
    3. The winner of the main event of the competition should be considered the overall winner of the competition.
