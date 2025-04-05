@@ -1,15 +1,15 @@
 # WCA Payment Authorization Policy
 
-### Version 1.2 {.version}
+### Version 1.3 {.version}
 
 ## Purpose
 The purpose of this policy is to outline the procedures for individual WCA Volunteers to make payments on behalf of the WCA, and to authorize specific individuals. 
 
 ## Policy
 1. Ability to make Payments
-   1. Through the course of of their role, WCA Volunteers may gain the ability to make payments on behalf of the WCA (e.g. explicit access to a bank account or payment card details). This includes abilities with limited scope, such as access to an online service which has WCA payment details pre-linked.
+   1. Through the course of their role, WCA Volunteers may gain the ability to make payments on behalf of the WCA (e.g. explicit access to a bank account or payment card details). This includes abilities with limited scope, such as access to an online service which has WCA payment details pre-linked.
    2. As a general principle, WCA Volunteers should only grant the ability to make payments to other WCA Volunteers sparingly and when it is necessary for them to act in the scope of their role within the WCA.
-   3. The posession of payment ability does not authorize individual WCA Volunteers to act in a manner which will cause the WCA to incur costs. 
+   3. The possession of payment ability does not authorize individual WCA Volunteers to act in a manner which will cause the WCA to incur costs. 
    4. WCA Volunteers who use their ability to make payments in a manner not in line with the WCA Bylaws, Motions, Policies (including this policy) and/or Codes are considered to have acted outside the scope of their role within the WCA. The WCA reserves the right to take action in line with the WCA Code of Ethics or applicable laws in such an instance. 
 2. Authority to make Payments
    1. WCA Volunteers with defined roles or those specified in Appendix A, have the authority to make payments.
@@ -37,7 +37,7 @@ The purpose of this policy is to outline the procedures for individual WCA Volun
 4. Equipment Funding
    1. Payments relating to expenses approved in line with the Equipment Funding Policy.
 5. RO Support
-   1. Payments relating to expenses approved in line with the Regional Organization Support Policy
+   1. Payments relating to expenses approved in line with the Regional Organization Support Policy.
 6. Other Contracts
    1. Payments to contractors of amounts in line with contracts entered into by the WCA.
 7. Other Budget Items
