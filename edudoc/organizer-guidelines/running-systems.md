@@ -10,7 +10,7 @@ Runners are responsible for picking up puzzle covers with scrambled puzzles from
 
 Runners also look for judges signaling their attention (e.g. holding up the puzzle cover) to pick up covers with solved puzzles and take them back to the scrambling table. At the scrambling table, they then pick up more puzzle covers with scrambled puzzles and repeat the process.
 
-In general, runners never sit down during the group they are running. They actively go between the solving stations and scrambling table to return solved puzzles or to take scrambled puzzles to a solving station.
+In general, runners never sit down during the group they are running. They actively go between the competition area and scrambling table to return solved puzzles or to take scrambled puzzles to a solving station.
 
 Stations can be numbered to ease the runner’s job. This allows them to call the competitor to a specific station or to identify the station the competitor is seated at.
 

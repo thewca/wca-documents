@@ -98,7 +98,7 @@ Groups also make assigning competitors judging, running, and scrambling duties e
 
 ### Submitting your puzzle
 
-Competitors must be ready to submit their puzzle when their group is called. Competitors will find score sheets placed on the puzzle drop-off table. They will search for the score sheet with their name, put their puzzle on it, and then go to the waiting area.
+Competitors must be ready to submit their puzzle when their group is called. Competitors will find score sheets placed on the drop-off table. They will search for the score sheet with their name, put their puzzle on it, and then go to the waiting area.
 
 ::::: {.box .attention}
 Remember that as a competitor, you must be ready to submit your puzzle as soon as your group is called!
@@ -226,26 +226,26 @@ Remember that incorrectly stopping the solve leads to penalties!
 - **Misalignments**:
 
 <table class="table-with-images">
-	<tr>
-		<td>![](images/nopenalty.jpg)</td>
-		<td>**No penalty:** The cube is solved, and the misalignments of every layer compared to its adjacent layers are below 45°.</td>
-	</tr>
-	<tr>
-		<td>![](images/plus2.jpg)</td>
-		<td>**+2:** The cube is solved, but the misaligned layer exceeds 45°, which means the cube is one move away from being solved. Remember that the WCA Regulations consider a puzzle state to be one move away from the solved state if you only need to turn one side of the puzzle to reach the solved state – **even if it is a double turn.**</td>
-	</tr>
-	<tr>
-		<td>![](images/unclear.jpg)</td>
-		<td>**Ask the Delegate:** If it is unclear whether a +2 penalty should be applied, **do not touch the puzzle** and call a Delegate to the station.</td>
-	</tr>
-	<tr>
-		<td>![](images/DNF2moves.jpg)</td>
-		<td>**DNF:** When more than one move is required to solve the puzzle, the result of the attempt is DNF.</td>
-	</tr>
-	<tr>
-		<td>![](images/DNFslice.jpg)</td>
-		<td>**DNF:** If a middle layer of the puzzle is misaligned, this counts as two moves required to solve, as only outer layer turns are counted. Therefore, the result of the attempt is DNF.</td>
-	</tr>
+  <tr>
+    <td>![](images/nopenalty.jpg)</td>
+    <td>**No penalty:** The cube is solved, and the misalignments of every layer compared to its adjacent layers are below 45°.</td>
+  </tr>
+  <tr>
+    <td>![](images/plus2.jpg)</td>
+    <td>**+2:** The cube is solved, but the misaligned layer exceeds 45°, which means the cube is one move away from being solved. Remember that the WCA Regulations consider a puzzle state to be one move away from the solved state if you only need to turn one side of the puzzle to reach the solved state – **even if it is a double turn.**</td>
+  </tr>
+  <tr>
+    <td>![](images/unclear.jpg)</td>
+    <td>**Ask the Delegate:** If it is unclear whether a +2 penalty should be applied, **do not touch the puzzle** and call a Delegate to the station.</td>
+  </tr>
+  <tr>
+    <td>![](images/DNF2moves.jpg)</td>
+    <td>**DNF:** When more than one move is required to solve the puzzle, the result of the attempt is DNF.</td>
+  </tr>
+  <tr>
+    <td>![](images/DNFslice.jpg)</td>
+    <td>**DNF:** If a middle layer of the puzzle is misaligned, this counts as two moves required to solve, as only outer layer turns are counted. Therefore, the result of the attempt is DNF.</td>
+  </tr>
 </table>
 
 ::::: {.box .important}

@@ -8,7 +8,7 @@ Before going through the details of each area, here are a few definitions you sh
 
 - The **score-taking table** is where results are going to be entered into [WCA Live](https://live.worldcubeassociation.org/) or a spreadsheet. These results are for competitors to know their ranking and for you to use to determine podiums and the competitors advancing to subsequent rounds.
 - The **scrambling table** is where scramblers are seated to scramble the puzzles of the groups currently solving.
-- The **puzzle drop-off table** is where competitors submit their puzzles before the start of their group.
+- The **drop-off table** is where competitors submit their puzzles before the start of their group.
 - The **solving stations** are the tables where competitors will be doing their solves.
 
 ## Registration Table & Score-taking
@@ -29,7 +29,7 @@ The WCA website’s online registration allows you to ask competitors how many g
 
 The scrambling table should be reasonably close to the solving stations so that it does not take too long for judges (or “[runners](wcadoc{edudoc/organizer-guidelines/running-systems.pdf})”) to pick up puzzles and move them from the scrambling table to the solving stations and vice versa. There should also be some sort of visual barrier to ensure competitors or guests cannot see scramblers while they are scrambling puzzles.
 
-At smaller competitions, the puzzle drop-off table is often the scrambling table. If you are using a separate puzzle drop-off table, ensure that it is not too far from the scrambling table to make it easier for runners to transport the puzzles.
+At smaller competitions, the drop-off table is often the scrambling table. If you are using a separate drop-off table, ensure that it is not too far from the scrambling table to make it easier for runners to transport the puzzles.
 
 ## Waiting Area
 

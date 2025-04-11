@@ -16,90 +16,90 @@ There is a lot of information that is relevant to all WCA Staff, not just Delega
   - [The Roles of a WCA Delegate](#the-roles-of-a-wca-delegate)
   - [How to Become a Delegate](#how-to-become-a-delegate)
   - [Delegate Tiers](#delegate-tiers)
-		- [Trainee Delegates](#trainee-delegates)
-		- [Junior Delegates](#junior-delegates)
-		- [Full Delegates](#full-delegates)
-		- [Regional Delegates](#regional-delegates)
-		- [Senior Delegates](#senior-delegates)
+    - [Trainee Delegates](#trainee-delegates)
+    - [Junior Delegates](#junior-delegates)
+    - [Full Delegates](#full-delegates)
+    - [Regional Delegates](#regional-delegates)
+    - [Senior Delegates](#senior-delegates)
   - [Email](#email)
   - [Confidentiality](#confidentiality)
   - [Probation](#probation)
 - [Before the Competition](#before-the-competition)
   - [Competitions and Your Community](#competitions-and-your-community)
-		- [Competition Frequency](#competition-frequency)
-		- [Competition Size](#competition-size)
-		- [Event Selection](#event-selection)
+    - [Competition Frequency](#competition-frequency)
+    - [Competition Size](#competition-size)
+    - [Event Selection](#event-selection)
   - [Organizing a Competition](#organizing-a-competition)
-		- [Community Organizers and Delegate Organizers](#community-organizers-and-delegate-organizers)
-		- [Interacting with Organizers](#interacting-with-organizers)
+    - [Community Organizers and Delegate Organizers](#community-organizers-and-delegate-organizers)
+    - [Interacting with Organizers](#interacting-with-organizers)
   - [Requesting a Competition](#requesting-a-competition)
-		- [General Rules](#general-rules)
-		- [Filling Out the New Competition Page](#filling-out-the-new-competition-page)
-		- [Adding Events and a Schedule](#adding-events-and-a-schedule)
-		- [Requesting a Fewest Moves Simultaneous Competition](#requesting-a-fewest-moves-simultaneous-competition)
-		- [Making Changes to an Existing Competition](#making-changes-to-an-existing-competition)
+    - [General Rules](#general-rules)
+    - [Filling Out the New Competition Page](#filling-out-the-new-competition-page)
+    - [Adding Events and a Schedule](#adding-events-and-a-schedule)
+    - [Requesting a Fewest Moves Simultaneous Competition](#requesting-a-fewest-moves-simultaneous-competition)
+    - [Making Changes to an Existing Competition](#making-changes-to-an-existing-competition)
   - [Managing Registrations](#managing-registrations)
-		- [Administering Registration Data](#administering-registration-data)
+    - [Administering Registration Data](#administering-registration-data)
   - [Communicating with Competitors and their Families](#communicating-with-competitors-and-their-families)
   - [Generating Scrambles](#generating-scrambles)
   - [Generating Groups](#generating-groups)
 - [Day of the Competition](#day-of-the-competition)
   - [Setup and Environment](#setup-and-environment)
   - [Check-In and Registration](#check-in-and-registration)
-		- [On-the-Spot Registration](#on-the-spot-registration)
-		- [Verifying First-Time Competitors](#verifying-first-time-competitors)
+    - [On-the-Spot Registration](#on-the-spot-registration)
+    - [Verifying First-Time Competitors](#verifying-first-time-competitors)
   - [First-Time Competitor Tutorial](#first-time-competitor-tutorial)
   - [Competing as a Delegate](#competing-as-a-delegate)
-		- [Conduct](#conduct)
-		- [Your Own Incidents](#your-own-incidents)
+    - [Conduct](#conduct)
+    - [Your Own Incidents](#your-own-incidents)
   - [Score-taking](#score-taking)
-		- [Common Score-taking Issues](#common-score-taking-issues)
-		- [Records and Notable Solves](#records-and-notable-solves)
-				- [World Record Social Media Posts](#world-record-social-media-posts)
-		- [Missing Competitor Results](#missing-competitor-results)
+    - [Common Score-taking Issues](#common-score-taking-issues)
+    - [Records and Notable Solves](#records-and-notable-solves)
+        - [World Record Social Media Posts](#world-record-social-media-posts)
+    - [Missing Competitor Results](#missing-competitor-results)
   - [Penalties](#penalties)
-		- [Square-1 Misalignments](#square-1-misalignments)
+    - [Square-1 Misalignments](#square-1-misalignments)
   - [Regulation 3j: Reasonable Wear](#regulation-3j-reasonable-wear)
   - [Regulation 5b5: Popped Puzzles](#regulation-5b5-popped-puzzles)
   - [Incidents](#incidents)
-		- [Extra Attempts](#extra-attempts)
-				- [Provisional Extra Attempts](#provisional-extra-attempts)
-		- [Regulation A7g](#regulation-a7g)
-		- [Common Incidents](#common-incidents)
+    - [Extra Attempts](#extra-attempts)
+        - [Provisional Extra Attempts](#provisional-extra-attempts)
+    - [Regulation A7g](#regulation-a7g)
+    - [Common Incidents](#common-incidents)
   - [Competitors Requiring Accommodations](#competitors-requiring-accommodations)
   - [Handling Behavioral Issues](#handling-behavioral-issues)
   - [Preparing for Subsequent Rounds](#preparing-for-subsequent-rounds)
   - [Modifications to the Schedule or Events](#modifications-to-the-schedule-or-events)
-		- [Running Behind Schedule](#running-behind-schedule)
-		- [Running Ahead of Schedule](#running-ahead-of-schedule)
+    - [Running Behind Schedule](#running-behind-schedule)
+    - [Running Ahead of Schedule](#running-ahead-of-schedule)
 - [After the Competition](#after-the-competition)
   - [Competition Results](#competition-results)
-		- [Double-checking Registration Data](#double-checking-registration-data)
-		- [Submitting Results](#submitting-results)
-		- [Requesting Changes to Competition Results](#requesting-changes-to-competition-results)
+    - [Double-checking Registration Data](#double-checking-registration-data)
+    - [Submitting Results](#submitting-results)
+    - [Requesting Changes to Competition Results](#requesting-changes-to-competition-results)
   - [Delegate Reports](#Delegate-reports)
-		- [Venue](#venue)
-		- [Organization](#organization)
-		- [Budget](#budget)
-		- [Incidents](#incidents-1)
-		- [Remarks](#remarks)
-		- [Responses to Your Report](#responses-to-your-report)
+    - [Venue](#venue)
+    - [Organization](#organization)
+    - [Budget](#budget)
+    - [Incidents](#incidents-1)
+    - [Remarks](#remarks)
+    - [Responses to Your Report](#responses-to-your-report)
   - [Paying Competition Dues](#paying-competition-dues)
   - [Lost and Found](#lost-and-found)
 - [Delegates Outside of the Competition](#Delegates-outside-of-the-competition)
   - [Managing WCA User Accounts](#managing-wca-user-accounts)
-		- [Accounts vs. Profiles (WCA IDs)](#accounts-vs-wca-ids)
-		- [Handling WCA ID Claims](#handling-wca-id-claims)
-		- [Requesting Changes to Personal Data](#requesting-changes-to-personal-data)
+    - [Accounts vs. Profiles (WCA IDs)](#accounts-vs-wca-ids)
+    - [Handling WCA ID Claims](#handling-wca-id-claims)
+    - [Requesting Changes to Personal Data](#requesting-changes-to-personal-data)
   - [Acquiring Competition Equipment](#acquiring-competition-equipment)
-		- [WCA Equipment Funding](#wca-equipment-funding)
-		- [WCA Travel Funding](#wca-travel-funding)
+    - [WCA Equipment Funding](#wca-equipment-funding)
+    - [WCA Travel Funding](#wca-travel-funding)
   - [Engaging in Internal Discussions](#engaging-in-internal-discussions)
-		- [Replying to Delegate Reports](#replying-to-delegate-reports)
-		- [Disputes and Appeals](#disputes-and-appeals)
+    - [Replying to Delegate Reports](#replying-to-delegate-reports)
+    - [Disputes and Appeals](#disputes-and-appeals)
   - [Recommending a Delegate](#recommending-a-delegate)
   - [Supporting Your Local Community](#supporting-your-local-community)
-		- [Business Cards](#business-cards)
+    - [Business Cards](#business-cards)
   - [Contributing to the Delegate Handbook](#contributing-to-the-delegate-handbook)
 
 # Introduction to Delegating {.page-break-before}
@@ -399,7 +399,7 @@ Remember these points when requesting a Fewest Moves Simultaneous Competition. T
 - Set the coordinates of the competition to one of the listed venues or to a location that has a special meaning to the region where the Fewest Moves Simultaneous Competition is taking place. Worldwide competitions must be set to (0, 0).
 - The city must be listed as “Multiple cities”.
 - The address must be listed as “Multiple locations”.
-- The locations of every venue **must** be individually set under the “Manage schedule” tab. Bogus locations are not allowed in this section.
+- The locations of every venue **must** be individually set under the “Manage schedule” tab. Mock locations are not allowed in this section.
 - Include “Fewest Moves” or “FMC” in the name of the competition to further stress that it is a Fewest Moves Simultaneous Competition.
 - There must be a place on the competition website (e.g. a tab on the WCA website) that clearly displays all of the addresses for the different locations and who will be the official Delegate of that venue. Include additional location-specific information on that tab, such as a specific entry fee or competitor limit for a specific location. When there are different competitor limits for the different locations, this must be written in the Extra Registration Requirements.
 - Every Delegate at a location must be listed as official Delegates of the competition.
@@ -492,18 +492,18 @@ To generate scrambles:
 
 1. **Download and install TNoodle**. You _must_ use the latest version of TNoodle. [You can download TNoodle here.](https://www.worldcubeassociation.org/regulations/scrambles/)
 2. **Adjust the number of scramble sets on the competition website**. This can be found at `https://www.worldcubeassociation.org/competitions/<competition-id>/events/edit`.
-		1. Most of the time, it is a good idea to create an extra scramble set for each round for each event. It is a little more work to adjust it here and then remove them when preparing results, but it is easier to have extra scramble sets readily available when a significant incident occurs rather than having to generate new scramble sets on the fly.
+    1. Most of the time, it is a good idea to create an extra scramble set for each round for each event. It is a little more work to adjust it here and then remove them when preparing results, but it is easier to have extra scramble sets readily available when a significant incident occurs rather than having to generate new scramble sets on the fly.
 3. **Open TNoodle**, which launches a page in your web browser, and log in by authorizing it to use your WCA account and select the competition on the left.
 4. **Generate Scrambles**. Verify the number of scramble sets is correct and provide a secure password that will be used to protect the `.zip` file that is created. Click the “Generate Scrambles” button. The scramble generation process can take some time. When finished, the button will be named “Download Scrambles”. Click it to download the `.zip` file to a location on your computer. **Do not lose this file** since you will need it when matching the scrambles to the results after the competition. It is a good idea to back this up to a secondary storage device or an online cloud service in case of hardware failure.
 5. **Get Files.** Using the password from the previous step, unarchive the `.zip` file. This file will contain the following files related to scramble generation and result submission:
-		1. `Interchange`, which is used when compiling results after the competition. This file contains the full scramble information for the competition in various formats.
-		2. `pdfs`, which contains the scrambles for the competition in a **password-protected** PDF file. These are the same files that are contained in the Computer Display `.zip` file (see below).
-		3. `Printing`, which contains the scrambles for the competition in **unprotected** PDF files and is designed for use when printing the scrambles onto paper.
-				1. As this folder contains all scrambles for the competition in an unprotected format, be very careful when handling this file. **This file must be inaccessible to scramblers using scramble display devices.**
-				2. Printing scrambles is highly discouraged under regular circumstances due to the increased risk of a breach in scramble secrecy. If you must print scrambles, ensure they are always kept secure and only accessible to Delegates at all times.
-		4. `<competition-name> - Computer Display PDF Passcodes - SECRET`, which contains the passcodes to open the scramble set PDFs for each round. Only share this file with the Delegates of the competition.
-				1. Optionally, input the contents of this into https://simonkellly.github.io/scramble-organizer/. You can then create a list in your note-taking app of choice, such as Google Keep, and the passwords will be sorted according to the competition schedule.
-		5. `<competition-name> - Computer Display PDFs.zip`, which is an archive of the corresponding **password-protected** PDFs. Share this with the other Delegates who will display them on laptops or other scramble display devices for scrambling during the competition. **These must be the only accessible scramble-related files on any device that is used for displaying scrambles**.
+    1. `Interchange`, which is used when compiling results after the competition. This file contains the full scramble information for the competition in various formats.
+    2. `pdfs`, which contains the scrambles for the competition in a **password-protected** PDF file. These are the same files that are contained in the Computer Display `.zip` file (see below).
+    3. `Printing`, which contains the scrambles for the competition in **unprotected** PDF files and is designed for use when printing the scrambles onto paper.
+        1. As this folder contains all scrambles for the competition in an unprotected format, be very careful when handling this file. **This file must be inaccessible to scramblers using scramble display devices.**
+        2. Printing scrambles is highly discouraged under regular circumstances due to the increased risk of a breach in scramble secrecy. If you must print scrambles, ensure they are always kept secure and only accessible to Delegates at all times.
+    4. `<competition-name> - Computer Display PDF Passcodes - SECRET`, which contains the passcodes to open the scramble set PDFs for each round. Only share this file with the Delegates of the competition.
+        1. Optionally, input the contents of this into https://simonkellly.github.io/scramble-organizer/. You can then create a list in your note-taking app of choice, such as Google Keep, and the passwords will be sorted according to the competition schedule.
+    5. `<competition-name> - Computer Display PDFs.zip`, which is an archive of the corresponding **password-protected** PDFs. Share this with the other Delegates who will display them on laptops or other scramble display devices for scrambling during the competition. **These must be the only accessible scramble-related files on any device that is used for displaying scrambles**.
 
 When delegating a competition, you only need the Computer Display PDFs and their associated passcodes. To prevent accidental leaks of scramble information, do not bring any of the other files to the competition.
 
@@ -566,7 +566,7 @@ Some regions have created alternative waiting list formats that maximize the num
 
 1. Competitors on the waiting list are added in the order of the waiting list after the waiting list deadline if the conditions are specified.
 2. Competitors attempting to register on the spot when registration is full may be added on the day of the competition in the order of arrival when on-the-spot registration is enabled if the conditions are specified.
-		1. On-the-spot registrations must not be accepted before competitors on the waiting list unless otherwise specified.
+    1. On-the-spot registrations must not be accepted before competitors on the waiting list unless otherwise specified.
 3. If an online waiting list is not used and registration is full, competitors attempting to register on the spot may be added on the day of the competition in the order of arrival when on-the-spot registration is enabled, if specified.
 4. Other policies may be accepted at the discretion of the WCAT.
 
@@ -607,42 +607,42 @@ The following points are an outline of a first-time competitor tutorial for a WC
   - Telling the judge they are ready.
   - Inspection time, including penalties.
   - How to start the timer properly:
-		- Hand position, particularly using fingers to start the timer.
-		- Waiting for the green light on the timer.
+    - Hand position, particularly using fingers to start the timer.
+    - Waiting for the green light on the timer.
   - How to stop the timer properly:
-		- Flat hands (e.g. no “karate chops”).
+    - Flat hands (e.g. no “karate chops”).
   - How to sign for attempts.
-		- Check that the time matches the timer and is written legibly. Times that are not written legibly will be interpreted in the worst way possible. Competitors are allowed to ask their judge to re-write times if they are hard to read.
+    - Check that the time matches the timer and is written legibly. Times that are not written legibly will be interpreted in the worst way possible. Competitors are allowed to ask their judge to re-write times if they are hard to read.
   - How to call over a Delegate.
 - How to judge:
   - Asking the competitor whether they are ready and waiting for the competitor’s ready signal.
   - Judging the inspection, including lifting the puzzle cover, operating the stopwatch, and making callouts.
-		- Emphasize that only “8 seconds” and “12 seconds” are called out, not 15 or 17 seconds.
-		- Emphasize that they should only stop the stopwatch when the competitor starts their solve so that the actual time of the inspection is measured.
+    - Emphasize that only “8 seconds” and “12 seconds” are called out, not 15 or 17 seconds.
+    - Emphasize that they should only stop the stopwatch when the competitor starts their solve so that the actual time of the inspection is measured.
   - What to look for when the competitor starts their solve, including:
-		- Timer start hand position.
-		- Whether the competitor is touching the puzzle.
+    - Timer start hand position.
+    - Whether the competitor is touching the puzzle.
   - How to judge during the solve:
-		- Pay attention. Do not cube, use your phone, or engage in conversation.
-		- Do not distract the competitor during the solve. Sit still and be quiet.
-		- Watch the competitor for any Regulations violations.
-		- Pay close attention to how the competitor stops their timer.
-				- Ensure they are using their hands with palms flat and facing down.
+    - Pay attention. Do not cube, use your phone, or engage in conversation.
+    - Do not distract the competitor during the solve. Sit still and be quiet.
+    - Watch the competitor for any Regulations violations.
+    - Pay close attention to how the competitor stops their timer.
+        - Ensure they are using their hands with palms flat and facing down.
   - Finishing the solve.
-		- The first step is to evaluate whether the cube is solved.
-				- Do not touch the puzzle. Use only your eyes.
-		- How to evaluate the cube for +2s:
-				- Explain that a single turn (e.g. U or U') is a +2 penalty on an NxNxN puzzle.
-				- Explain that a “double move” (e.g. U2 or R2) is also a +2 penalty and not considered two separate moves.
-				- Explain that a slice move (e.g. M or M2) is considered two outer moves and is thus a DNF.
-				- Tell them that if the cube is close to the limit for a +2 penalty (e.g. 45 degrees on NxNxN puzzles), and the judge cannot determine the final state, they should call over a Delegate to make the final decision.
-		- Explain that a corner twist is a DNF.
-		- Explain how missing pieces affect the solved state.
-				- The complexity of Regulation 5b5 can make this difficult for competitors to understand. Emphasize that judges may call over a Delegate if they are uncertain about how to rule specific missing pieces.
-		- How to write the final time.
-				- Emphasize legible handwriting.
-		- How to write the final time when there are penalties.
-		- Ask the competitor to sign for the attempt.
+    - The first step is to evaluate whether the cube is solved.
+        - Do not touch the puzzle. Use only your eyes.
+    - How to evaluate the cube for +2s:
+        - Explain that a single turn (e.g. U or U') is a +2 penalty on an NxNxN puzzle.
+        - Explain that a “double move” (e.g. U2 or R2) is also a +2 penalty and not considered two separate moves.
+        - Explain that a slice move (e.g. M or M2) is considered two outer moves and is thus a DNF.
+        - Tell them that if the cube is close to the limit for a +2 penalty (e.g. 45 degrees on NxNxN puzzles), and the judge cannot determine the final state, they should call over a Delegate to make the final decision.
+    - Explain that a corner twist is a DNF.
+    - Explain how missing pieces affect the solved state.
+        - The complexity of Regulation 5b5 can make this difficult for competitors to understand. Emphasize that judges may call over a Delegate if they are uncertain about how to rule specific missing pieces.
+    - How to write the final time.
+        - Emphasize legible handwriting.
+    - How to write the final time when there are penalties.
+    - Ask the competitor to sign for the attempt.
   - What to do after the attempt is over. This can vary depending on how your competition is being run.
 
 ## Competing as a Delegate
@@ -682,34 +682,34 @@ Using an HTML table here because Markdown formatters and renderers often cannot 
 -->
 
 <table>
-	<tr>
-		<td>**Issue**</td>
-		<td>**Resolution**</td>
-	</tr>
-	<tr>
-		<td>Time is not written clearly.</td>
-		<td>
-		[Guideline A7c+](https://www.worldcubeassociation.org/regulations/guidelines.html#A7c+) states that you must ensure the time is clearly written and correctly formatted. Interpret any ambiguous numbers in the worst reasonable way.</br></br>
-		It is preferable that final results reflect the correct results instead of what is recorded due to an inattentive competitor or judge. With sufficient evidence (e.g. a video of the attempt with a clear view of the final timer display), enter the actual time that occurred regardless of the ambiguity of the score sheet.
-		</td>
-	</tr>
-	<tr>
-		<td>DNS result is recorded on score sheet.</td>
-		<td>Sometimes, judges  mistakenly write “DNS” on the score sheet when the competitor fails to start the timer correctly or other pre-solve issues. DNS results are only given when the competitor is eligible for an attempt but decides to forfeit it. If a judge writes a result as a DNS and you cannot verify that the attempt is a genuine DNS, it is safer to change the result to DNF.</br></br>
-		One or more sequential DNS results at the end of a score sheet are much more likely to be genuine than a DNS followed by valid times.
-		</td>
-	</tr>
-	<tr>
-		<td>Competitor did not sign for an attempt.</td>
-		<td>If the competition is not over, you may call over the competitor to sign for the attempt after the fact per [Regulation A7c5](https://www.worldcubeassociation.org/regulations/#A7c5). Otherwise, enter the attempt as a DNF. You must not use video or photographic evidence in place of a missing signature.</br></br>
-		Entering a DNF result for a missing signature often prompts the competitor to appear once they check their results on WCA Live. You may still allow the competitor to sign for the attempt at your discretion.</br></br>
-		For inexperienced competitors, additional leniency is permitted per [Regulation A7c8](https://www.worldcubeassociation.org/regulations/#A7c8). You may allow missing signatures to be added at any time.
-		</td>
-	</tr>
-	<tr>
-		<td>Judge did not sign for an attempt.</td>
-		<td>If the competition is not over, you may call over the judge to sign for the attempt after the fact per [Regulation A7c5](https://www.worldcubeassociation.org/regulations/#A7c5). The judge must be the same judge who actually judged that attempt. Another person must not sign as the judge for the attempt. If the judge cannot be quickly identified, you could ask the competitor to look for the judge and bring them to you. Otherwise, input the time as a DNF.</td>
-	</tr>
+  <tr>
+    <td>**Issue**</td>
+    <td>**Resolution**</td>
+  </tr>
+  <tr>
+    <td>Time is not written clearly.</td>
+    <td>
+    [Guideline A7c+](https://www.worldcubeassociation.org/regulations/guidelines.html#A7c+) states that you must ensure the time is clearly written and correctly formatted. Interpret any ambiguous numbers in the worst reasonable way.</br></br>
+    It is preferable that final results reflect the correct results instead of what is recorded due to an inattentive competitor or judge. With sufficient evidence (e.g. a video of the attempt with a clear view of the final timer display), enter the actual time that occurred regardless of the ambiguity of the score sheet.
+    </td>
+  </tr>
+  <tr>
+    <td>DNS result is recorded on score sheet.</td>
+    <td>Sometimes, judges  mistakenly write “DNS” on the score sheet when the competitor fails to start the timer correctly or other pre-solve issues. DNS results are only given when the competitor is eligible for an attempt but decides to forfeit it. If a judge writes a result as a DNS and you cannot verify that the attempt is a genuine DNS, it is safer to change the result to DNF.</br></br>
+    One or more sequential DNS results at the end of a score sheet are much more likely to be genuine than a DNS followed by valid times.
+    </td>
+  </tr>
+  <tr>
+    <td>Competitor did not sign for an attempt.</td>
+    <td>If the competition is not over, you may call over the competitor to sign for the attempt after the fact per [Regulation A7c5](https://www.worldcubeassociation.org/regulations/#A7c5). Otherwise, enter the attempt as a DNF. You must not use video or photographic evidence in place of a missing signature.</br></br>
+    Entering a DNF result for a missing signature often prompts the competitor to appear once they check their results on WCA Live. You may still allow the competitor to sign for the attempt at your discretion.</br></br>
+    For inexperienced competitors, additional leniency is permitted per [Regulation A7c8](https://www.worldcubeassociation.org/regulations/#A7c8). You may allow missing signatures to be added at any time.
+    </td>
+  </tr>
+  <tr>
+    <td>Judge did not sign for an attempt.</td>
+    <td>If the competition is not over, you may call over the judge to sign for the attempt after the fact per [Regulation A7c5](https://www.worldcubeassociation.org/regulations/#A7c5). The judge must be the same judge who actually judged that attempt. Another person must not sign as the judge for the attempt. If the judge cannot be quickly identified, you could ask the competitor to look for the judge and bring them to you. Otherwise, input the time as a DNF.</td>
+  </tr>
 </table>
 
 ### Records and Notable Solves
@@ -796,105 +796,105 @@ The following incidents occur frequently at competitions and have a standard way
 <!-- Using an HTML table here because Markdown formatters and renderers often cannot present the information in a way that is easy to read when editing -->
 
 <table>
-	<tr>
-		<td>**Incident**</td>
-		<td>**Resolution**</td>
-	</tr>
-	<tr>
-		<td>Judge did not reset timer.</td>
-		<td>
-		[Regulation A3b](https://www.worldcubeassociation.org/regulations/#A3b) indicates the judge is responsible for resetting the timer. Therefore, the competitor is not considered at fault for this incident. Grant an extra attempt, remind the judge to ensure the timer is reset before any attempt, and inform the competitor for future reference that they are allowed to reset the timer during the inspection phase if they notice it is not reset.</br></br>
-		If the competitor repeatedly fails to notice that the timer is not reset, especially within a single round, you may use your discretion not to grant an extra attempt.
-		</td>
-	</tr>
-	<tr>
-		<td>Timer was in 4-pad mode.</td>
-		<td>
-		[Regulation 7f4](https://www.worldcubeassociation.org/regulations/#7f4) specifies that the timer must be in 2-pad mode. Changing modes on a Gen 5 timer takes several seconds, so it is unreasonable to expect the competitor to switch modes during the inspection phase. Grant an extra attempt and inform the judge and competitor to check the color of the light. An orange light indicates 2-pad mode. A blue light indicates 4-pad mode.</br></br>
-		Timers occasionally malfunction and switch to 4-pad mode on their own. When this happens, make a note of which timer had the issue and replace it if the issue continues to persist. Consider whether the specific timer has recently malfunctioned when granting an extra attempt to a competitor for a potential timer malfunction.
-		</td>
-	</tr>
-	<tr>
-		<td>Duplicate scramble reported.</td>
-		<td>
-		[Regulation 11j](https://www.worldcubeassociation.org/regulations/#11j) specifies what to do when a competitor reports a duplicate scramble.</br></br>
-		Do your best to give them the correct scramble. Grant an extra attempt if the correct scramble cannot be confidently determined.</br></br>
-		If the competitor has video footage or has not solved the puzzle, you may identify which scramble was given and use that information to resolve the incident. You may request to see the video footage from competitors or inspect competitors’ unsolved puzzles.</br></br>
-		When a competitor gets a duplicate scramble, the most likely situation is that the scramblers gave either the previous or current scramble twice. You should be able to reasonably determine which situation is more likely by giving the competitor the correct scramble. If they report another duplicate, give them the previous scramble. If neither scramble resolves the incident, give the competitor an extra attempt.</br></br>
-		A competitor could incorrectly report a scramble as a duplicate, which could happen when scrambles share similar features. If this occurs, you may grant an extra attempt if you believe the competitor reported the duplicate in good faith. Otherwise, you may disqualify the attempt.
-		</td>
-	</tr>
-	<tr>
-		<td>Revealed puzzle was not the competitor’s.</td>
-		<td>
-		If the score sheet belongs to the competitor and the competitor has already seen the scramble from a previous attempt, no extra attempt is necessary. If the scramble state is for an attempt the competitor has not yet completed, grant an extra attempt to replace it. Regardless of whether you are granting an extra attempt, try to find the competitor’s actual puzzle before letting them continue their remaining attempts. It is likely with another competitor’s score sheet due to the puzzles getting swapped at the scrambling table or the puzzle drop-off table.</br></br>
-		If the score sheet belongs to the competitor, warn your scramblers to be more careful when scrambling puzzles.</br></br>
-		If the score sheet belongs to another competitor, you should tell the competitor to double-check that their name is on their score sheet before saying they are ready to start their attempt.
-		</td>
+  <tr>
+    <td>**Incident**</td>
+    <td>**Resolution**</td>
+  </tr>
+  <tr>
+    <td>Judge did not reset timer.</td>
+    <td>
+    [Regulation A3b](https://www.worldcubeassociation.org/regulations/#A3b) indicates the judge is responsible for resetting the timer. Therefore, the competitor is not considered at fault for this incident. Grant an extra attempt, remind the judge to ensure the timer is reset before any attempt, and inform the competitor for future reference that they are allowed to reset the timer during the inspection phase if they notice it is not reset.</br></br>
+    If the competitor repeatedly fails to notice that the timer is not reset, especially within a single round, you may use your discretion not to grant an extra attempt.
+    </td>
+  </tr>
+  <tr>
+    <td>Timer was in 4-pad mode.</td>
+    <td>
+    [Regulation 7f4](https://www.worldcubeassociation.org/regulations/#7f4) specifies that the timer must be in 2-pad mode. Changing modes on a Gen 5 timer takes several seconds, so it is unreasonable to expect the competitor to switch modes during the inspection phase. Grant an extra attempt and inform the judge and competitor to check the color of the light. An orange light indicates 2-pad mode. A blue light indicates 4-pad mode.</br></br>
+    Timers occasionally malfunction and switch to 4-pad mode on their own. When this happens, make a note of which timer had the issue and replace it if the issue continues to persist. Consider whether the specific timer has recently malfunctioned when granting an extra attempt to a competitor for a potential timer malfunction.
+    </td>
+  </tr>
+  <tr>
+    <td>Duplicate scramble reported.</td>
+    <td>
+    [Regulation 11j](https://www.worldcubeassociation.org/regulations/#11j) specifies what to do when a competitor reports a duplicate scramble.</br></br>
+    Do your best to give them the correct scramble. Grant an extra attempt if the correct scramble cannot be confidently determined.</br></br>
+    If the competitor has video footage or has not solved the puzzle, you may identify which scramble was given and use that information to resolve the incident. You may request to see the video footage from competitors or inspect competitors’ unsolved puzzles.</br></br>
+    When a competitor gets a duplicate scramble, the most likely situation is that the scramblers gave either the previous or current scramble twice. You should be able to reasonably determine which situation is more likely by giving the competitor the correct scramble. If they report another duplicate, give them the previous scramble. If neither scramble resolves the incident, give the competitor an extra attempt.</br></br>
+    A competitor could incorrectly report a scramble as a duplicate, which could happen when scrambles share similar features. If this occurs, you may grant an extra attempt if you believe the competitor reported the duplicate in good faith. Otherwise, you may disqualify the attempt.
+    </td>
+  </tr>
+  <tr>
+    <td>Revealed puzzle was not the competitor’s.</td>
+    <td>
+    If the score sheet belongs to the competitor and the competitor has already seen the scramble from a previous attempt, no extra attempt is necessary. If the scramble state is for an attempt the competitor has not yet completed, grant an extra attempt to replace it. Regardless of whether you are granting an extra attempt, try to find the competitor’s actual puzzle before letting them continue their remaining attempts. It is likely with another competitor’s score sheet due to the puzzles getting swapped at the scrambling table or the drop-off table.</br></br>
+    If the score sheet belongs to the competitor, warn your scramblers to be more careful when scrambling puzzles.</br></br>
+    If the score sheet belongs to another competitor, you should tell the competitor to double-check that their name is on their score sheet before saying they are ready to start their attempt.
+    </td>
   </tr>
   <tr>
-		<td>Competitor went to wrong solving station.</td>
-		<td>An extra attempt is usually granted, but use your discretion if you think the competitor is particularly careless. As a Delegate, you could reduce these cases by creating groups with no duplicate names.</td>
+    <td>Competitor went to wrong solving station.</td>
+    <td>An extra attempt is usually granted, but use your discretion if you think the competitor is particularly careless. As a Delegate, you could reduce these cases by creating groups with no duplicate names.</td>
   </tr>
   <tr>
-		<td>Competitor saw scramble before attempt.</td>
-		<td>You may grant an extra attempt depending on exactly how the competitor saw the puzzle. If the competitor accidentally knocked over the puzzle cover themself, the result is a DNF per [Regulation A2e2](https://www.worldcubeassociation.org/regulations/#A2e2). If the competitor saw the puzzle as a result of a runner or judge knocking over the puzzle cover or being careless with scramble secrecy, grant an extra attempt. Additionally, you should warn the runner or judge to be more careful to keep puzzles out of sight from competitors.</td>
-	</tr>
-	<tr>
-		<td>Judge lifted the puzzle cover before the competitor was ready.</td>
-		<td>
-		If the competitor did not continue the attempt and immediately called over a Delegate, grant an extra attempt per [Regulation A3b2](https://www.worldcubeassociation.org/regulations/#A3b2). However, do not grant an extra attempt if you determine that the competitor might have inspected the puzzle and is asking for an extra attempt after determining that the scramble is bad.</br></br>
-		If the competitor has already completed the solve, do not grant an extra attempt, as this would unfairly allow the competitor to determine whether they like the outcome of the attempt before asking for an extra attempt ([incident log](https://www.worldcubeassociation.org/incidents/98)).
-		</td>
-	</tr>
-	<tr>
-		<td>Judge did not call “8 seconds” or “12 seconds” after those times had elapsed.</td>
-		<td>
-		If the competitor has not started the timer, grant an extra attempt. The judge is responsible for making the callouts to inform the competitor of the time elapsed.</br></br>
-		You should not grant an extra attempt if the competitor has completed their solve. A competitor who noticed that the judge did not make the callouts should stop the attempt immediately and call a Delegate over. Requesting an extra after the attempt has ended is a sign that they could be trying to replace a poor attempt with a better one.</br></br>
-		If the competitor exceeded 15 seconds of inspection time due to the judge not performing callouts, consider whether the competitor received an unfair advantage. Grant an extra attempt if you believe it is likely that the competitor gained an advantage, such as by achieving an uncharacteristically faster time than their other solves. Do not grant an extra attempt if the competitor did not gain an advantage, such as by getting a DNF result or the slowest time in their average, as providing an extra attempt would give the competitor an unfair opportunity to replace a poor result.
-		</td>
-	</tr>
-	<tr>
-		<td>Judge performed erroneous inspection phase callouts (e.g. “10 seconds”) or did not follow the inspection phase protocol correctly.</td>
-		<td>
-		Grant an extra attempt and instruct the judge on the appropriate callouts.</br></br>
-		One notable exception to this is when the judge calls out “15 seconds” or “17 seconds”. Although these are invalid callouts according to [Regulations A3b3](https://www.worldcubeassociation.org/regulations/#A3b3) and [A3b4](https://www.worldcubeassociation.org/regulations/#A3b4), granting an extra attempt in these situations would unfairly allow the competitor to retry an attempt where they could have otherwise received a +2 penalty or a DNF.
-		</td>
-	</tr>
-	<tr>
-		<td>Competitor was using a device with a front-facing screen.</td>
-		<td>
-		You may grant an extra attempt if the competitor is inexperienced per [Regulations A7g](https://www.worldcubeassociation.org/regulations/#A7g). Otherwise, the judge must record the attempt as a DNF.</br></br>
-		If the competitor used the device during previous attempts, you must also change those attempts to a DNF result. The penalty for previous attempts may be lifted at your discretion if you believe the competitor did not get assistance from the screen, but you must not allow them to keep using the screen in such a way.</br></br>
-		</td>
-	</tr>
-	<tr>
-		<td>Competitor was using electronic headphones.</td>
-		<td>
-		You may grant an extra attempt if the competitor is inexperienced per [Regulations A7g](https://www.worldcubeassociation.org/regulations/#A7g).</br></br>
-		Otherwise, you must change the attempt and any previous attempts in which the competitor used the headphones to a DNF result.
-		</td>
-	</tr>
-	<tr>
-		<td>Competitor was competing with an illegal puzzle.</td>
-		<td>Delegates may replace attempts where a competitor used an illegal puzzle with extra attempts per [Regulations 3k2a](https://www.worldcubeassociation.org/regulations/#3k2a). Otherwise, the Delegate must change the attempts using the illegal puzzle to a DNF result.</td>
-	</tr>
-	<tr>
-		<td>Timer was reset before time could be fully written on score sheet.</td>
-		<td>
-		If the competitor reset the timer, the result is a DNF per [Regulations A6f1](https://www.worldcubeassociation.org/regulations/#A6f1), even if there is video, photo, or memory evidence of the full time. **The time must be disqualified even if the time is partially written**. For example, “18.” must not be interpreted as “18.99” per [Guideline A7c+](https://www.worldcubeassociation.org/regulations/guidelines.html#A7c+).</br></br>
-		If someone other than the competitor reset the timer, or the timer was reset for another reason (e.g. a malfunction), you may use video or photo evidence to record the time. If no video or photo evidence exists, you may grant an extra attempt or use the partially written time in conjunction with [Guideline A7c+](https://www.worldcubeassociation.org/regulations/guidelines.html#A7c+) as the recorded time. Consider fairness. For example, recording a partially written time of “18.8” as “18.89” is fairer than it is to grant an extra attempt. A partially written time of “2” for a competitor averaging 20-30 seconds does not have a reasonable worst interpretation, so grant an extra attempt.
-		</td>
-	</tr>
-	<tr>
-		<td>Timer malfunctioned.</td>
-		<td>
-		If the time is strictly below 0.06 seconds and you believe the timer malfunctioned, you must grant an extra attempt per [Regulations A6b1](https://www.worldcubeassociation.org/regulations/#A6b1). If the time is strictly below 0.06 seconds and you determine the competitor stopped the timer deliberately or caused it to stop by improperly starting it, the result is a DNF.</br></br>
-		Make a note of the specific timer. If it continues to malfunction, remove or replace it with one that is functioning properly. If it continues to malfunction, remove or replace it with one that is functioning properly. You should mark the malfunctioning timer to prevent it from being reintroduced to the solving area without being tested first.</br></br>
-		If the time equals 0.06 seconds or higher, the result is a DNF.
-		</td>
-	</tr>
+    <td>Competitor saw scramble before attempt.</td>
+    <td>You may grant an extra attempt depending on exactly how the competitor saw the puzzle. If the competitor accidentally knocked over the puzzle cover themself, the result is a DNF per [Regulation A2e2](https://www.worldcubeassociation.org/regulations/#A2e2). If the competitor saw the puzzle as a result of a runner or judge knocking over the puzzle cover or being careless with scramble secrecy, grant an extra attempt. Additionally, you should warn the runner or judge to be more careful to keep puzzles out of sight from competitors.</td>
+  </tr>
+  <tr>
+    <td>Judge lifted the puzzle cover before the competitor was ready.</td>
+    <td>
+    If the competitor did not continue the attempt and immediately called over a Delegate, grant an extra attempt per [Regulation A3b2](https://www.worldcubeassociation.org/regulations/#A3b2). However, do not grant an extra attempt if you determine that the competitor might have inspected the puzzle and is asking for an extra attempt after determining that the scramble is bad.</br></br>
+    If the competitor has already completed the solve, do not grant an extra attempt, as this would unfairly allow the competitor to determine whether they like the outcome of the attempt before asking for an extra attempt ([incident log](https://www.worldcubeassociation.org/incidents/98)).
+    </td>
+  </tr>
+  <tr>
+    <td>Judge did not call “8 seconds” or “12 seconds” after those times had elapsed.</td>
+    <td>
+    If the competitor has not started the timer, grant an extra attempt. The judge is responsible for making the callouts to inform the competitor of the time elapsed.</br></br>
+    You should not grant an extra attempt if the competitor has completed their solve. A competitor who noticed that the judge did not make the callouts should stop the attempt immediately and call a Delegate over. Requesting an extra after the attempt has ended is a sign that they could be trying to replace a poor attempt with a better one.</br></br>
+    If the competitor exceeded 15 seconds of inspection time due to the judge not performing callouts, consider whether the competitor received an unfair advantage. Grant an extra attempt if you believe it is likely that the competitor gained an advantage, such as by achieving an uncharacteristically faster time than their other solves. Do not grant an extra attempt if the competitor did not gain an advantage, such as by getting a DNF result or the slowest time in their average, as providing an extra attempt would give the competitor an unfair opportunity to replace a poor result.
+    </td>
+  </tr>
+  <tr>
+    <td>Judge performed erroneous inspection phase callouts (e.g. “10 seconds”) or did not follow the inspection phase protocol correctly.</td>
+    <td>
+    Grant an extra attempt and instruct the judge on the appropriate callouts.</br></br>
+    One notable exception to this is when the judge calls out “15 seconds” or “17 seconds”. Although these are invalid callouts according to [Regulations A3b3](https://www.worldcubeassociation.org/regulations/#A3b3) and [A3b4](https://www.worldcubeassociation.org/regulations/#A3b4), granting an extra attempt in these situations would unfairly allow the competitor to retry an attempt where they could have otherwise received a +2 penalty or a DNF.
+    </td>
+  </tr>
+  <tr>
+    <td>Competitor was using a device with a front-facing screen.</td>
+    <td>
+    You may grant an extra attempt if the competitor is inexperienced per [Regulations A7g](https://www.worldcubeassociation.org/regulations/#A7g). Otherwise, the judge must record the attempt as a DNF.</br></br>
+    If the competitor used the device during previous attempts, you must also change those attempts to a DNF result. The penalty for previous attempts may be lifted at your discretion if you believe the competitor did not get assistance from the screen, but you must not allow them to keep using the screen in such a way.</br></br>
+    </td>
+  </tr>
+  <tr>
+    <td>Competitor was using electronic headphones.</td>
+    <td>
+    You may grant an extra attempt if the competitor is inexperienced per [Regulations A7g](https://www.worldcubeassociation.org/regulations/#A7g).</br></br>
+    Otherwise, you must change the attempt and any previous attempts in which the competitor used the headphones to a DNF result.
+    </td>
+  </tr>
+  <tr>
+    <td>Competitor was competing with an illegal puzzle.</td>
+    <td>Delegates may replace attempts where a competitor used an illegal puzzle with extra attempts per [Regulations 3k2a](https://www.worldcubeassociation.org/regulations/#3k2a). Otherwise, the Delegate must change the attempts using the illegal puzzle to a DNF result.</td>
+  </tr>
+  <tr>
+    <td>Timer was reset before time could be fully written on score sheet.</td>
+    <td>
+    If the competitor reset the timer, the result is a DNF per [Regulations A6f1](https://www.worldcubeassociation.org/regulations/#A6f1), even if there is video, photo, or memory evidence of the full time. **The time must be disqualified even if the time is partially written**. For example, “18.” must not be interpreted as “18.99” per [Guideline A7c+](https://www.worldcubeassociation.org/regulations/guidelines.html#A7c+).</br></br>
+    If someone other than the competitor reset the timer, or the timer was reset for another reason (e.g. a malfunction), you may use video or photo evidence to record the time. If no video or photo evidence exists, you may grant an extra attempt or use the partially written time in conjunction with [Guideline A7c+](https://www.worldcubeassociation.org/regulations/guidelines.html#A7c+) as the recorded time. Consider fairness. For example, recording a partially written time of “18.8” as “18.89” is fairer than it is to grant an extra attempt. A partially written time of “2” for a competitor averaging 20-30 seconds does not have a reasonable worst interpretation, so grant an extra attempt.
+    </td>
+  </tr>
+  <tr>
+    <td>Timer malfunctioned.</td>
+    <td>
+    If the time is strictly below 0.06 seconds and you believe the timer malfunctioned, you must grant an extra attempt per [Regulations A6b1](https://www.worldcubeassociation.org/regulations/#A6b1). If the time is strictly below 0.06 seconds and you determine the competitor stopped the timer deliberately or caused it to stop by improperly starting it, the result is a DNF.</br></br>
+    Make a note of the specific timer. If it continues to malfunction, remove or replace it with one that is functioning properly. If it continues to malfunction, remove or replace it with one that is functioning properly. You should mark the malfunctioning timer to prevent it from being reintroduced to the solving area without being tested first.</br></br>
+    If the time equals 0.06 seconds or higher, the result is a DNF.
+    </td>
+  </tr>
 </table>
 
 ## Competitors Requiring Accommodations
@@ -981,7 +981,7 @@ Before submitting results, double-check that the registration data is accurate. 
 - Every first-time competitor represents a country where they hold citizenship and not just their country of residence or heritage.
 - The registration data for on-the-spot registrants is accurate, as they are particularly error-prone. Pay special attention to these because otherwise, crucial information such as WCA IDs and/or dates of birth could be unavailable.
 - All the data for every competitor with an existing WCA ID matches the data currently stored in the WCA database. If there are any discrepancies and a correction is needed, request this change when submitting the results (see the [Requesting Changes to Personal Data](#requesting-changes-to-personal-data) section).
-- If the date of birth for a competitor is still missing after the competition, the WRT will not accept their results. Change it to be blank on the user’s account, and do not enter bogus dates such as “1900-01-01”. You must remove these results before submitting and contact the competitor to get their information, after which their results may be recognized.
+- If the date of birth for a competitor is still missing after the competition, the WRT will not accept their results. Change it to be blank on the user’s account, and do not enter mock dates such as “1900-01-01”. You must remove these results before submitting and contact the competitor to get their information, after which their results may be recognized.
 
 ### Submitting Results
 
@@ -998,22 +998,22 @@ To submit the results for a competition, you must have access to the original fo
 9. When all scramble sets are assigned to rounds, return to the main page and click the “Get Results JSON” button. This downloads a JSON file containing the complete competition results and the scramble data.
 10. Submit the results by going to the competition website and navigating to the Upload Results page. Upload the JSON file downloaded from the previous step, then click “Submit”. The website will run a series of checks on the results for common issues and provide a list of errors and warnings.
 11. Resolve every error. Read the message next to each error, as it contains useful information about the problem. The errors can often be resolved by going back to one of the previous steps. When every error is resolved, you will need to create and upload a new JSON file from Step 4 onwards and revalidate. **Do not forget to synchronize once again in WCA Live!** Common errors include the following:
-		1. Unexpected results for an event. This happens when the results contain an event that was not officially listed for the competition. You must appeal to the WCA Board, who will either add the event or reject the addition.
-		2. Missing results for an event. This happens when a competition has an event that no one competed in. You must ask the WRT to remove the event before you re-upload the results.
-		3. Unexpected/missing results for a round. You must modify the competition events on the WCA website with an explanation of what happened at the competition.
-		4. Unexpected/missing scrambles for a round. Double-check Scrambles Matcher to ensure all used scramble sets are properly assigned to their respective rounds.
-		5. Unexpected/missing scrambles for a group. You must modify the events tab to indicate the correct number of scramble sets used in each round.
-		6. The number of persons in the competition (###) is above the competitor limit. You must remove the competitors above the limit or appeal to the WRC and request for the limit to be changed retroactively.
-		7. Wrong country/name for a person. You must correct the data for the person. If there is a country/name change request, please provide all required information for such cases to the WRT as described below.
-		8. Any Regulations-related errors must be rectified.
+    1. Unexpected results for an event. This happens when the results contain an event that was not officially listed for the competition. You must appeal to the WCA Board, who will either add the event or reject the addition.
+    2. Missing results for an event. This happens when a competition has an event that no one competed in. You must ask the WRT to remove the event before you re-upload the results.
+    3. Unexpected/missing results for a round. You must modify the competition events on the WCA website with an explanation of what happened at the competition.
+    4. Unexpected/missing scrambles for a round. Double-check Scrambles Matcher to ensure all used scramble sets are properly assigned to their respective rounds.
+    5. Unexpected/missing scrambles for a group. You must modify the events tab to indicate the correct number of scramble sets used in each round.
+    6. The number of persons in the competition (###) is above the competitor limit. You must remove the competitors above the limit or appeal to the WRC and request for the limit to be changed retroactively.
+    7. Wrong country/name for a person. You must correct the data for the person. If there is a country/name change request, please provide all required information for such cases to the WRT as described below.
+    8. Any Regulations-related errors must be rectified.
 12. Review the remaining warnings. Read the messages provided and evaluate whether the warning is an actual issue. If it is, fix the issue and upload a new JSON file.
 13. **Provide an explanation for each remaining warning**. At this point, the only remaining warnings will be those you have verified as false positives, such as persons with names matching existing WCA IDs. Additionally, provide explanations for anything unusual that happened, such as “competitor chose not to finish average and resulted in DNS”, as the WRT will likely ask about them. Here are some common items that may be listed in the message:
-		1. Are there any name changes requested? If so, please list the WCA ID, old name, new name, and which version of the name is included in the submitted JSON file.
-		2. Are dates of birth missing, or are you uncertain if a WCA ID is missing?
-		3. Have rounds or entire events been dropped during the competition?
-		4. Are there records that must be declined due to [Regulation 9i2](https://www.worldcubeassociation.org/regulations/#9i2)?
-		5. What was the main event at the competition? This is only necessary if the main event was 3x3x3 Cube. Although the prospective main event is submitted to the WCAT during the competition page submission, this is before the competition occurs. The WRT needs to know **how** a main event was treated as such during the competition.
-		6. If there is anything else of importance for the WRT, please do not hesitate to include it. The more detailed it is, the better.
+    1. Are there any name changes requested? If so, please list the WCA ID, old name, new name, and which version of the name is included in the submitted JSON file.
+    2. Are dates of birth missing, or are you uncertain if a WCA ID is missing?
+    3. Have rounds or entire events been dropped during the competition?
+    4. Are there records that must be declined due to [Regulation 9i2](https://www.worldcubeassociation.org/regulations/#9i2)?
+    5. What was the main event at the competition? This is only necessary if the main event was 3x3x3 Cube. Although the prospective main event is submitted to the WCAT during the competition page submission, this is before the competition occurs. The WRT needs to know **how** a main event was treated as such during the competition.
+    6. If there is anything else of importance for the WRT, please do not hesitate to include it. The more detailed it is, the better.
 14. Clearly outline anything irregular with the results submission, such as manual edits you made to the JSON file.
 15. Click “Submit Results” to send the results to the WRT. Every listed Delegate will receive a confirmation email that the results have been submitted.
 

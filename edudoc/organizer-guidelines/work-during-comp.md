@@ -42,7 +42,7 @@ One of the tasks for the organizers is calling volunteers (i.e. scramblers, judg
 
 ## Calling Groups
 
-As a group is finishing up, you should start preparing for the next group. This includes placing the next group of score sheets at the puzzle drop-off table. When the previous group has finished, you need to announce that the next group is now starting. If you do not have a microphone available, make the announcement using a loud voice if needed. Starting the new group also includes getting the volunteers in place, as mentioned in the previous section. Lastly, the Delegate will need to provide access to the next scramble set for the next group.
+As a group is finishing up, you should start preparing for the next group. This includes placing the next group of score sheets at the drop-off table. When the previous group has finished, you need to announce that the next group is now starting. If you do not have a microphone available, make the announcement using a loud voice if needed. Starting the new group also includes getting the volunteers in place, as mentioned in the previous section. Lastly, the Delegate will need to provide access to the next scramble set for the next group.
 
 <div class="spacer"></div>
 

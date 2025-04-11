@@ -1,7 +1,7 @@
 # Competition Templates
 
 ::::: {.box .important}
-Please read this entire document before using any templates!
+READ THIS ENTIRE DOCUMENT before using any templates!
 :::::
 
 The following printable templates are available for you to use at WCA competitions:
