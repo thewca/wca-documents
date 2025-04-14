@@ -14,7 +14,7 @@ This document offers guidance to assist Delegates in navigating common disciplin
 
 ## Handling Behavioral Issues of Competitors at Competitions
 
-- Delegates should primarily address minor behavioral issues of competitors at competitions themselves using Regualtions [2j](wca{regulations/full/#2j}), [2k](wca{regulations/full/#2k}), and [2l](wca{regulations/full/#2l}) and applicable sub-points.
+- Delegates should primarily address minor behavioral issues of competitors at competitions themselves using Regulations [2j](wca{regulations/full/#2j}), [2k](wca{regulations/full/#2k}), and [2l](wca{regulations/full/#2l}) and applicable sub-points.
   - If Delegates have not first tried to handle minor behavior issues by giving warnings and disqualifying competitors under [Regulation 2k](wca{regulations/full/#2k}), then the WIC is much less likely to apply any disciplinary action or open an investigation; following appropriate escalation steps are essential. Delegates should make an attempt to handle minor incidents at a local level first before WIC gets involved. However, the WIC would like Delegates to report noteworthy behavioral issues to record and provide guidance if needed.
   - The WIC recommends the following escalation steps for behavioral issues that do not cause a safety concern (physical or emotional):
     1. General reminder – A polite reminder reinforcing correct behavior.
@@ -23,7 +23,7 @@ This document offers guidance to assist Delegates in navigating common disciplin
     4. Disqualification from the competition – If the disruption continues beyond the previous steps, disqualify the competitor from the rest of the competition, whether or not it occurred at the same competition.
     5. Additional disqualifications – If the behavior persists at the next competition despite full disqualification being utilized, disqualify the competitor again and escalate the matter to WIC.
   - If these steps are not followed for behavioral issues that do not cause a safety concern, the WIC will likely not be willing to intervene.
-- For extreme situations where competitor safety may be involved, please contact local law enforcement immediatetely. Once the immediate concerns of safety have been addressed. Reports to the WIC are secondary. Safety is the priority, and the WIC cannot provide legal or emergency guidance.
+- For extreme situations where competitor safety may be involved, please contact local law enforcement immediately. Once the immediate concerns of safety have been addressed. Reports to the WIC are secondary. Safety is the priority, and the WIC cannot provide legal or emergency guidance.
 - In the Delegate Report, the WIC generally advises to maintain anonymity for all incidents; default to a brief, anonymized version of the incident and follow-up with the WIC privately with further details, particularly if the competitor is notable. The WIC will still provide feedback on anonymized versions for general awareness.
   - If the WIC incident is sensitive (including but not limited to crimes, harassment, assault, etc.), please exclude all details from your report and email the WIC separately.
   - Follow-up with the WIC with full details.
@@ -68,12 +68,18 @@ The [Code of Conduct](wcadoc{documents/Code%20of%20Conduct.pdf}) is limited in s
 
 ## WCA Volunteers {.page-break-before}
 
-- For initial reports, consider contacting the Volunteer's superior alongside the WIC. The Regional Delegate or Senior Delegate are the first contact for Delegate concerns, and Team/Committee Leaders for other Volunteers.
-- If you need to report a violation of the Code of Conduct or Code of Ethics of a WCA Volunteer who is a member of the WIC, then please report this behavior to the WCA Appeals Committee at [appeals@worldcubeassociation.org](mailto:appeals@worldcubeassociation.org).
-- The WIC may be included in these reports for tracking purposes, and to evaluate if a further investigation is needed beyond intervention by a superior.
+-  If a WCA Volunteer violates or is strongly suspected to violate the Code of Conduct or Code of Ethics, report the instance directly to the WIC.
+- The WIC will evaluate if a further investigation is needed beyond intervention by a superior.
 - Ensure the WIC is also the correct team to contact. The WCA Quality Assurance Committee or the WCA Regulations Committee may be a more appropriate point of contact for some concerns.
 - Reports must not be included in Delegate Reports, even if the information is anonymized.
-- If you need to report a violation of the [Code of Conduct](wcadoc{documents/Code%20of%20Conduct.pdf}) or [Code of Ethics](wcadoc{documents/Code%20of%20Ethics.pdf}) of a WCA Volunteer who is a member of the WIC, then please report this behavior to the WCA Appeals Committee at [appeals@worldcubeassociation.org](mailto:appeals@worldcubeassociation.org).
+- If you need to report a violation of the [Code of Conduct](wcadoc{documents/Code%20of%20Conduct.pdf}) or [Code of Ethics](wcadoc{documents/Code%20of%20Ethics.pdf}) of a WCA Volunteer who is a member of the WIC, report this behavior to the WCA Appeals Committee at [appeals@worldcubeassociation.org](mailto:appeals@worldcubeassociation.org).
+- If you need to report a violation of the [Code of Conduct](wcadoc{documents/Code%20of%20Conduct.pdf}) or [Code of Ethics](wcadoc{documents/Code%20of%20Ethics.pdf}) of a WCA Board Member, it's recommended to contact the [WIC Leader and Senior Members](https://www.worldcubeassociation.org/teams-committees-councils#wic) directly.
+
+There may be times when a concern or complaint doesn’t clearly fall under any specific team. It might be outside the WIC’s scope, require general mediation, or feel too minor to submit as a formal report (but still important enough not to ignore). In these cases, contacting the Volunteer’s direct superior can be a useful middle-ground approach. For general reference of these kinds of discussions:
+
+- Trainee / Junior / Full Delegate --> Regional Delegate --> Senior Delegate --> WCA Board
+- Committee Member / Senior Member --> Committee Leader --> WCA Board
+- Team Member / Senior Member --> Team Leader --> WCA Board
 
 ## Cheating
 
