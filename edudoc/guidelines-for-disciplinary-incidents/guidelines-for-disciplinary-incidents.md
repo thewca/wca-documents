@@ -63,7 +63,7 @@ The [Code of Conduct](wcadoc{documents/Code%20of%20Conduct.pdf}) is limited in s
 
 ## Organizers
 
-- If an organizer's behavior falls outside the scope of the [Code of Conduct](wcadoc{documents/Code%20of%20Conduct.pdf}) but is still concerning or disruptive to the community, it is the Delegate’s discretion whether to work with them. For example, if an organizer has made harmful comments on a non-WCA Discord, the Delegate may decide not to work with them.
+- If an organizer's behavior falls outside the scope of the [Code of Conduct](wcadoc{documents/Code%20of%20Conduct.pdf}) but is still concerning or disruptive to the community, it is the Delegate’s discretion whether to work with them. For example, if an organizer has made harmful comments on a non-WCA Discord server, the Delegate may decide not to work with them.
 - Carefully keep track of competition budgets and actual expenditures that take place, documenting expenditures with receipts when possible. If you believe that an organizer or legal entity is retaining leftover money from competitions for personal gain then please contact the WIC.
 
 ## WCA Volunteers {.page-break-before}
