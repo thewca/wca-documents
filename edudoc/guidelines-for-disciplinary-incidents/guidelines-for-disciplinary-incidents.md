@@ -75,7 +75,7 @@ The [Code of Conduct](wcadoc{documents/Code%20of%20Conduct.pdf}) is limited in s
 - If you need to report a violation of the [Code of Conduct](wcadoc{documents/Code%20of%20Conduct.pdf}) or [Code of Ethics](wcadoc{documents/Code%20of%20Ethics.pdf}) of a WCA Volunteer who is a member of the WIC, report this behavior to the WCA Appeals Committee at [appeals@worldcubeassociation.org](mailto:appeals@worldcubeassociation.org).
 - If you need to report a violation of the [Code of Conduct](wcadoc{documents/Code%20of%20Conduct.pdf}) or [Code of Ethics](wcadoc{documents/Code%20of%20Ethics.pdf}) of a WCA Board Member, it's recommended to contact the [WIC Leader and Senior Members](https://www.worldcubeassociation.org/teams-committees-councils#wic) directly.
 
-There may be times when a concern or complaint doesn’t clearly fall under any specific team. It might be outside the WIC’s scope, require general mediation, or feel too minor to submit as a formal report (but still important enough not to ignore). In these cases, contacting the Volunteer’s direct superior can be a useful middle-ground approach. For general reference of these kinds of discussions:
+There may be times when a concern or complaint doesn’t clearly fall under any specific team. It might be outside the WIC’s scope, require general mediation, or feel too minor to submit as a formal report (but still important enough not to ignore). In these cases, contacting the Volunteer’s direct superior can be a useful middle-ground approach. For general reference of these hierarchies:
 
 - Trainee / Junior / Full Delegate --> Regional Delegate --> Senior Delegate --> WCA Board
 - Committee Member / Senior Member --> Committee Leader --> WCA Board
