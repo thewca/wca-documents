@@ -21,6 +21,7 @@ The purpose of this policy is to provide guidelines for the formation and operat
 5. Composition
    1. Each working group shall consist of a minimum of four members, including a designated leader.
    2. The leader should determine the most appropriate membership for the specific working group. The leader should consider if there should be representation from specific Committees/Teams, or if membership should be open to all WCA Volunteers.
+   3. Priority may be given to individuals with relevant expertise or experience.
 6. Diversity and Inclusion
    1. The WCA is committed to fostering a diverse and inclusive environment. When forming working groups, efforts should be made to ensure representation from individuals from diverse backgrounds, with a wide range of perspectives, and experiences. This includes but is not limited to factors such as race, ethnicity, gender, age, sexual orientation, abilities, and socio-economic status.
 7. Responsibilities of Working Group Members
