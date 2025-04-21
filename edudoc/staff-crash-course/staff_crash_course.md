@@ -2,7 +2,7 @@
 
 Hello and welcome to the wonderful community of volunteers who help run the World Cube Association! We are happy to have you among us!
 
-Most of the important rules and common practices you need to know will be described in this document to help you get started. However, the single most important advice is to **ask your Leader and/or Team/Committee when you are uncertain.** They will be happy to help you out!
+Most of the important rules and common practices you need to know will be described in this document to help you get started. However, the single most important advice is to **ask your Leader and/or Committee/Team when you are uncertain.** They will be happy to help you out!
 
 ## Important Documents
 
@@ -10,16 +10,16 @@ WCA Staff should be familiar with every document related to their work as WCA St
 
 - [The Code of Ethics](wcadoc{documents/Code%20of%20Ethics.pdf}) describes how every WCA Staff member must act and what they must abide by.
 - [The Spirit of the WCA](wcadoc{documents/motions/01.2021.1%20-%20Spirit.pdf}).
-- If you are a member of a Team/Committee, [The Committees and Teams Motion](wcadoc{documents/motions/10.2022.0%20-%20Committees%20and%20Teams.pdf}) will explain how Team/Committees operate. Additionally, you will find the relevant motion for your Team/Committee among the other listed motions on the documents page.
+- If you are a member of a Committee/Team, [The Committees and Teams Motion](wcadoc{documents/motions/10.2022.0%20-%20Committees%20and%20Teams.pdf}) will explain how Committees/Teams operate. Additionally, you will find the relevant motion for your Committee/Team among the other listed motions on the documents page.
 - If you are a Delegate, [The Delegates Motion](wcadoc{documents/motions/08.2022.1%20-%20Delegates.pdf}) will explain how your work as a Delegate will be conducted. You should also familiarize yourself with the [Delegate Handbook](wcadoc{edudoc/delegate-handbook/delegate-handbook.pdf}).
 
 ## Email
 
-The primary form of communication for the WCA is emails. All channels are managed by a platform called Google Groups. You should have been added to all relevant groups already, as these are automatically handled when you are officially added to the Team/Committee on the WCA website.
+The primary form of communication for the WCA is emails. All channels are managed by a platform called Google Groups. You should have been added to all relevant groups already, as these are automatically handled when you are officially added to the Committee/Team on the WCA website.
 
 **When you respond to an email, use the “Reply All” option.** This is to ensure that all relevant people on the thread are still getting the reply.
 
-Whichever mail interface you are using, go and find the “Reply All” button. It also helps to keep the Team/ Committee’s Google Group in a Carbon Copy (CC). Some interfaces (e.g. Gmail) also allow setting “Reply All” as the default reply option, which can be useful.
+Whichever mail interface you are using, go and find the “Reply All” button. It also helps to keep the Google Group for the Committee/Team in a Carbon Copy (CC). Some interfaces (e.g. Gmail) also allow setting “Reply All” as the default reply option, which can be useful.
 
 When there are important matters within a region or regarding a specific Delegate, you add the Senior Delegate to the CC field.
 
@@ -27,11 +27,11 @@ Please remember that the expected response time for WCA is 48 hours. If you are 
 
 Additionally, if you have not received a reply in a timely manner, you should follow up with the corresponding party. While it is the corresponding party’s responsibility to take the appropriate action, sometimes you will need to gently remind them to do so.
 
-More broadly speaking, the preferred approach in the WCA is “over-communication”, which keeps every relevant person in the loop at all times. If you think there is a topic that other Volunteers should see, please add them to the CC field. For example, if you escalate an issue about a specific Delegate to any Team/Committee, ensure you add their Senior and/or Regional Delegate to the CC field.
+More broadly speaking, the preferred approach in the WCA is “over-communication”, which keeps every relevant person in the loop at all times. If you think there is a topic that other Volunteers should see, please add them to the CC field. For example, if you escalate an issue about a specific Delegate to any Committee/Team, ensure you add their Senior and/or Regional Delegate to the CC field.
 
 ## Making Changes to Recipients {.page-break-before}
 
-When you make changes to the recipients, make this clear at the top of the email. If there is a need to include another Team/Committee in the thread, then begin by writing a “+” along with the name of the Team/Committee so everyone is aware. When removing someone from a thread, write a “-” followed by their name. For example:
+When you make changes to the recipients, make this clear at the top of the email. If there is a need to include another Committee/Team in the thread, then begin by writing a “+” along with the name of the Committee/Team so everyone is aware. When removing someone from a thread, write a “-” followed by their name. For example:
 
 ::::: {.indent}
 Hello **recipient name**,
@@ -43,7 +43,7 @@ Hello **recipient name**,
 
 If a change is needed and the original recipient needs to know it has gone through and has been taken care of, they can be moved to the BCC field, allowing them to see the last email go through. After that, they will not receive further emails on the thread.
 
-Lastly, for Team/Committee internal discussions, you can take a shortcut by removing everyone except your Team/Committee’s email address and writing, “*[Team/Committee] Only*”.
+Lastly, for Committee/Team internal discussions, you can take a shortcut by removing everyone except your Committee/Team’s email address and writing, “*[Committee/Team] Only*”.
 
 ## Representation
 
@@ -74,7 +74,7 @@ Every WCA Staff member may opt-in to receive Delegate Reports. To do this, the S
 
 ## Public Appearance
 
-Every Staff member is associated with their Team/Committee on the WCA website. Therefore, you will need to demonstrate professionalism if someone were to navigate to your WCA Page. Consequently, please ensure you upload a nice picture of yourself as your avatar. You can upload an avatar and see all the guidelines that apply to WCA Staff [here](wca{profile/edit?section=avatar}).
+Every Staff member is associated with their Committee/Team on the WCA website. Therefore, you will need to demonstrate professionalism if someone were to navigate to your WCA Page. Consequently, please ensure you upload a nice picture of yourself as your avatar. You can upload an avatar and see all the guidelines that apply to WCA Staff [here](wca{profile/edit?section=avatar}).
 
 Staff members should also consider how they appear on online cubing forums (e.g. WCA Forum and Speedsolving Forum). Staff members should also be careful when speaking about internal matters to ensure no confidential information is leaked.
 
@@ -86,14 +86,14 @@ Please remember that it is possible for someone to forge an email as if it were 
 
 ## Communicating Dates and Times
 
-Whenever you are trying to arrange a meeting or set a deadline that requires agreement on an exact point in time, remember to send your suggestion in Coordinated Universal Time (UTC). Your morning time might be the middle of the night for someone else on your Team/Committee. UTC helps eliminate a lot of misunderstandings.
+Whenever you are trying to arrange a meeting or set a deadline that requires agreement on an exact point in time, remember to send your suggestion in Coordinated Universal Time (UTC). Your morning time might be the middle of the night for someone else on your Committee/Team. UTC helps eliminate a lot of misunderstandings.
 
 ## Chrome Profiles
 
 If you have multiple Google accounts in use (e.g. one for personal use and your WCA email), one way to keep things organized is through Chrome Profiles. It allows you to keep all your accounts separate, including bookmarks, passwords, and history. Using Chrome Profiles will prevent you from needing to log in to Google Drive, even if you have already switched accounts. To set up your Chrome Profiles, view the steps [here](https://support.google.com/chrome/answer/2364824?co=GENIE.Platform%3DDesktop&hl=en). Lucas Garron has created a dedicated [color profile](https://chrome.google.com/webstore/detail/color-chrome-theme/ijbkjldjcdhecihbhmofmencofglhhbp) that you can use to tell your profiles apart.
 
-## Team/Committee-Specific Communication
+## Committee/Team-Specific Communication
 
-There might be additional resources and/or rules for your specific Committee. Just as mentioned in the beginning, do reach out to your leader. They will tell you the appropriate procedures for your Team/Committee.
+There might be additional resources and/or rules for your specific Committee/Team. Just as mentioned in the beginning, do reach out to your leader. They will tell you the appropriate procedures for your Committee/Team.
 
 Thank you for your contributions. Enjoy the journey!
