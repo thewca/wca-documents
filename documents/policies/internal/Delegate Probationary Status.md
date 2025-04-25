@@ -15,7 +15,7 @@ Delegates who submit late reports and/or results for two consecutive competition
 ### Probation Due to Late Payments
 Delegates who have late outstanding payments for competition dues or gear orders may be placed on probation with the following restrictions:
 
-1. Unless the Delegate has a valid reason for the late payment (e.g. an exceptional circumstance), as determined by the WCA Financial Committee, then the Delegate will not be allowed to announce any new competitions or place any new gear orders until their outstanding balance is paid.
+1. Unless the Delegate has a valid reason for the late payment (i.e. an exceptional circumstance), as determined by the WCA Financial Committee, then the Delegate will not be allowed to announce any new competitions or place any new gear orders until their outstanding balance is paid.
    1. Competitions that have already been announced and gear orders that have already been shipped will be unaffected.
 2. Following the payment of the outstanding balance, the Delegate may be placed on continued probation limiting the number of upcoming competitions they may have announced at any one time and/or their ability to place gear orders, at the discretion of the WCA Financial Committee or Senior Delegate.
 
