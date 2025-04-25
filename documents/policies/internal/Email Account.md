@@ -44,7 +44,7 @@ WCA Volunteers who do not adhere to this policy may face disciplinary action, in
 - When an individual is no longer a WCA Volunteer, their WCA email account shall be suspended.
    - If an individual becomes a WCA Volunteer again, their WCA email account shall be reinstated.
 - The WCA Google Workplace administrator reserves the right to delete WCA email accounts in certain circumstances.
-   - After a period of 7 years after a WCA Volunteer’s access is revoked, their WCA email, and all related account emails, shall be deleted.
+   - Following a period of 7 years after a WCA Volunteer’s access is revoked, their WCA email account, and all related account emails, shall be deleted.
 
 ### Password resets
 WCA Volunteers requiring a password reset must contact the (WCA Executive Assistants Team)[mailto:assistants@worldcubeassociation.org].
