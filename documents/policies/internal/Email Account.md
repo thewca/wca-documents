@@ -37,7 +37,7 @@ WCA Volunteers are encouraged to create a professional email signature. The emai
 *WCA Delegate for United States (New York)*
 
 ### Disciplinary Action
-WCA Volunteers who do not adhere to this policy may face disciplinary action up to and including dismissal from their Volunteer role.
+WCA Volunteers who do not adhere to this policy may face disciplinary action, including dismissal from their Volunteer role.
 
 ### Account Deletion and Suspension
 
