@@ -21,7 +21,7 @@ The purpose of this policy is to define standards on how official WCA scrambles 
 1. Drop-off table
     1. A drop-off table may be used for the competitors to submit their puzzles when they are called to compete.
     2. A drop-off table is recommended not to be the scrambling table.
-        1. If the scrambling table is also serving the role of a drop-off table, the scramble sequences must not be visible on the table.
+        1. If the scrambling table is also serving the role of a drop-off table, the scrambles must not be visible on the table.
             1. At the discretion of the organization team and/or WCA Delegate, a competitor may submit their puzzle to an official after scrambling has begun.
     3. A drop-off table should be visually isolated from the scrambling table.
 2. Scrambling Area
