@@ -8,7 +8,7 @@ While this document aims to be complete, it cannot be fully comprehensive. While
 
 Finally, the _Delegate Handbook_ aims to reflect official WCA policy, not create it. If any disagreements or contradictions arise, always defer to the policy, regulation, or precedent published through official WCA channels. See the section [Contributing to this Document](#contributing-to-the-delegate-handbook) for information on how to update this document so that it accurately reflects reality once again.
 
-There is a lot of information that is relevant to all WCA Staff, not simply Delegates. If you have not already, read the [WCA Staff Crash Course](https://documents.worldcubeassociation.org/edudoc/staff-crash-course/staff_crash_course.pdf) to get a high-level overview of the responsibilities expected of all WCA Staff.
+There is a lot of information that is relevant to all WCA Staff, not simply Delegates. If you have not already, read the [WCA Staff Crash Course](https://documents.worldcubeassociation.org/edudoc/volunteer-crash-course/volunteer_crash_course.pdf) to get a high-level overview of the responsibilities expected of all WCA Staff.
 
 # Table of Contents {.page-break-before}
 
