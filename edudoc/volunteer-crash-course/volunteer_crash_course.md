@@ -46,7 +46,7 @@ Lastly, for team/committee internal discussion you can take a shortcut by removi
 
 ## Representation
 
-Every WCA Volunteer member will also have received login credentials for their own personal *@worldcubeassociation.org* email account hosted by GSuite.\
+Every WCA Volunteer will also have received login credentials for their own personal *@worldcubeassociation.org* email account hosted by GSuite.\
 This account must always be used when sending WCA-related emails. Exceptions may be made only if the volunteer has issues with the GSuite Software in the region where they live.
 
 Configure your new GSuite account to include a signature that comprises your name and your position (and nothing else, like 3x3 PBs or YouTube channels!). Be aware that this signature will be visible to **any recipient, along with a legal disclaimer for recipients outside of the** *@worldcubeassociation.org* domain.
