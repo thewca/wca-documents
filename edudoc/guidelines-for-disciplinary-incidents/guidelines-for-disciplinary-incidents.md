@@ -6,7 +6,7 @@ The WCA Integrity Committee (WIC) is entitled to apply bans and other disciplina
 
 - A list of banned competitors can be found in the [Delegate panel](wca{panel/delegate#banned-competitors}). If a competitor attempts to attend a competition when they are banned from doing so, please contact the WIC.
 - Depending on the degree of severity and type of violation of the Code of Conduct, the WIC may ban a competitor from competing or attending competitions. Such a ban will be communicated with local Delegates when it is issued. If a competitor is banned from competing, but not from attending competitions, they are permitted to attend competitions. They may also fulfill the roles of officials at competitions at the discretion of the WCA Delegate.
-- The WIC will publish reports on remarkable cases they've managed and issue a quarterly digest showcasing smaller resolved cases from the previous quarter. These publications aim to educate the community and WCA Volunteers, promoting transparency. You can find them in the announcement section on the WCA homepage and forum, with a comprehensive list available in the [Disciplinary log](wca{disciplinary}).
+- The WIC will publish reports on remarkable cases they've managed and issue a quarterly digest showcasing smaller resolved cases from the previous quarter. These publications aim to educate the community and WCA staff, promoting transparency. You can find them in the announcement section on the WCA homepage and forum, with a comprehensive list available in the [Disciplinary log](wca{disciplinary}).
 
 ## Handling Behavioral Issues of Competitors at Competitions
 
@@ -56,10 +56,10 @@ The Code of Conduct is limited in scope to WCA Competitions and online on offici
 - If an organizer has done something outside of the scope of the Code of Conduct that you feel could be problematic, then it is up to discretion of the Delegate to work with that organizer or not. For example, if an organizer has made racist comments on a non-WCA online forum, then the Delegate can choose to not work with that organizer.
 - Carefully keep track of competition budgets and actual expenditures that take place, documenting expenditures with receipts when possible. If you believe that an organizer or legal entity is retaining leftover money from competitions for personal gain then please contact the WIC.
 
-## WCA Volunteer Members {.page-break-before}
+## WCA Staff Members {.page-break-before}
 
-- Like any other competitors, report any violations of the Code of Conduct of WCA Volunteer to the WIC.
-- If you need to report a violation of the Code of Conduct or Code of Ethics of a WCA Volunteer who is a member of the WIC, then please report this behavior to the WCA Appeals Committee at [appeals@worldcubeassociation.org](mailto:appeals@worldcubeassociation.org).
+- Like any other competitors, report any violations of the Code of Conduct of WCA Staff to the WIC.
+- If you need to report a violation of the Code of Conduct or Code of Ethics of a Staff member who is a member of the WIC, then please report this behavior to the WCA Appeals Committee at [appeals@worldcubeassociation.org](mailto:appeals@worldcubeassociation.org).
 
 ## Cheating
 
