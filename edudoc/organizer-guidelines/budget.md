@@ -9,7 +9,7 @@ Making a list with all the expenses is a great way to start and estimate how muc
 - Is the venue free? If not, how much does it cost?
 - Does the venue require liability insurance coverage? If so, how much does it cost?
 - Do you need to pay the venue to set up anything?
-- Is there an additional fee for having venue staff present on the competition days? If so, how much?
+- Is there an additional fee for having venue employees present on the competition days? If so, how much?
 - Does the venue demand any percentage of the money collected from the registrations?
 - Do the Delegates live near the competition venue? Will you need to cover any of their expenses? If so, which ones?
   - You should always try to get the closest Delegate possible to lower the expenses. Nevertheless, Delegate expenses must only include costs incurred directly from attending the competition as a listed Delegate. For more information on covering Delegates’ expenses, see the finance section of the [Code of Ethics](wcadoc{documents/Code%20of%20Ethics.pdf}).

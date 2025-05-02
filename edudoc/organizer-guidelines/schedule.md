@@ -21,7 +21,7 @@ You should also leave enough time at the beginning of your competition to check 
 
 4. How many solving stations will be available?
 
-Knowing how many solving stations can be set up tells you how many people can compete at once. Remember that although more stations can shorten the duration of a round, they also require more judges, scramblers, and possibly runners, depending on the [running system](wcadoc{edudoc/organizer-guidelines/running-systems.pdf}) of your competition. You need to account for the additional time spent looking for volunteers if you do not [assign staff tasks beforehand](wcadoc{edudoc/organizer-guidelines/staff.pdf}).
+Knowing how many solving stations can be set up tells you how many people can compete at once. Remember that although more stations can shorten the duration of a round, they also require more judges, scramblers, and possibly runners, depending on the [running system](wcadoc{edudoc/organizer-guidelines/running-systems.pdf}) of your competition. You need to account for the additional time spent looking for volunteers if you do not [pre-assign volunteer roles](wcadoc{edudoc/organizer-guidelines/volunteers.pdf}).
 
 5. What are the lunch options near the venue?
 
@@ -69,7 +69,7 @@ Always communicate with the Delegates when there are any changes you believe to 
 
 ## Simultaneous Events
 
-Holding multiple events at the same time is an option you can choose, but it is not recommended when you do not have much experience with organizing competitions. Most of the time, a side room will be used to hold 3x3x3 Fewest Moves or a blindfolded event simultaneously to the main competition area. Although simultaneous events make it possible to hold more events in less time, it also requires a larger venue, more equipment, and more staff. Since there must be a Delegate overseeing every area where an official event is taking place, you need multiple Delegates if you are using separate rooms.
+Holding multiple events at the same time is an option you can choose, but it is not recommended when you do not have much experience with organizing competitions. Most of the time, a side room will be used to hold 3x3x3 Fewest Moves or a blindfolded event simultaneously to the main competition area. Although simultaneous events make it possible to hold more events in less time, it also requires a larger venue, more equipment, and more volunteers. Since there must be a Delegate overseeing every area where an official event is taking place, you need multiple Delegates if you are using separate rooms.
 
 ## Making Adjustments to the Schedule
 

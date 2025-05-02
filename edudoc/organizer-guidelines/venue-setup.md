@@ -15,7 +15,7 @@ Before going through the details of each area, here are a few definitions you sh
 
 There are several reasons you might need to keep track of the number of competitors, such as venue requirements, collecting registration money, or handing out participation certificates or souvenirs. You should have a registration table with someone available throughout the day to check in guests and competitors. If possible, the table should be right next to the entrance so you do not miss anyone.
 
-One useful approach for smaller competitions (e.g. 20-60 competitors) is to combine the score-taking table and the registration table. This makes it easier to ensure that the table is always occupied by a staff member. You should have additional staff available at the registration table during specific times, such as at the start of the competition and just before the main event, as those are when most people arrive at the venue.
+One useful approach for smaller competitions (e.g. 20-60 competitors) is to combine the score-taking table and the registration table. This makes it easier to ensure that the table is always occupied by a volunteer. You should have additional volunteers available at the registration table during specific times, such as at the start of the competition and just before the main event, as those are when most people arrive at the venue.
 
 Alternatively, you could combine the score-taking table with the scrambling table so that when the completed score sheets return to the scrambling area, they can immediately be given to the score takers. However, at larger competitions, it is better to have the score-taking table in a separate area or room reserved for the organization team.
 

@@ -44,9 +44,9 @@ There is no single answer to this as this can vary a lot between regions and eve
 Example: In some competitions in China, running judges are preferred, as competitors complete all their attempts in one sitting. Whereas in many parts of Europe, seated judges with runners are preferred, as competitors usually complete all their attempts non-stationary.
 :::::
 
-The running system might also change as the competition progresses (e.g. Using seated judges with runners for first rounds and using running judges for final rounds where less competition staff might be available).
+The running system might also change as the competition progresses (e.g. Using seated judges with runners for first rounds and using running judges for final rounds where less competition volunteers might be available).
 
-Many factors play into the chosen system for a competition such as a lack of staff, a lack of space for solving stations to have more chairs, and a lack of chairs. It is important to always listen to the advice from your Delegates on which system is the most suitable for your competition.
+Many factors play into the chosen system for a competition such as a lack of volunteers, a lack of space for solving stations to have more chairs, and a lack of chairs. It is important to always listen to the advice from your Delegates on which system is the most suitable for your competition.
 
 <div class="spacer"></div>
 

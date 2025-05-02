@@ -12,7 +12,7 @@ You might also need to modify the setup from one event to the next. For example,
 
 ## Registration and Check-in
 
-You need someone at the registration table while competitors are showing up. This is an important yet often overlooked role. If you are the main organizer, you are likely busy in the morning with sorting out other things. You should ask an experienced Community Member in advance whether they would be willing to help you with this. If the organization team consists of more than just yourself, you may assign someone who is not one of the main members responsible for running the competition to do this task.
+You need someone at the registration table while competitors are showing up. This is an important yet often overlooked role. If you are the main organizer, you are likely busy in the morning with sorting out other things. You should ask an experienced Community member in advance whether they would be willing to help you with this. If the organization team consists of more than just yourself, you may assign someone who is not one of the main members responsible for running the competition to fulfill this duty.
 
 You should also consider your schedule, as it is likely that not everyone will show up in the morning if you have placed 3x3x3 Cube or another popular event later in the day.
 
@@ -24,7 +24,7 @@ More information on the setup is in the [Venue Setup document](wcadoc{edudoc/org
 
 ## Score-Taking
 
-You must have someone to enter the results throughout the competition. This does not need to be the same person for the entire competition, but it is often the same few people. If you are the main organizer, this is not something to always assign to yourself, as you will be busy with other tasks and overlooking the competition if concerns arise. If your organization team is large, you should assign someone who is not the main organizer.
+You must have someone to enter the results throughout the competition. This does not need to be the same person for the entire competition, but it is often the same few people. If you are the main organizer, this is not something to always assign to yourself, as you will be busy with other duties and overlooking the competition if concerns arise. If your organization team is large, you should assign someone who is not the main organizer.
 
 Results should be entered in a timely and accurate manner for competitors who are eager to see how they ranked and to ensure enough time to prepare score sheets for subsequent rounds at the competition. If the results are not entered in a timely manner, it might delay the start of a subsequent round due to not having ample time to prepare the score sheets for subsequent rounds.
 
@@ -38,7 +38,7 @@ The organizer in charge of the venue, likely the main organizer, will be asked a
 
 ## Calling Volunteers
 
-One of the tasks for the organizers is calling volunteers (i.e. scramblers, judges, and possibly runners) for each group and ensuring the group proceeds according to plan. The organizers need to check that solving stations have judges, scrambling tables have reliable scramblers, and stages have runners if needed. If you are assigning duties, you could print out an overview of who is scrambling, judging, and running for each group so you can quickly find them during the competition. If someone who is assigned to judge, scramble, or run refuses to fulfill their task or is missing, notify your Delegates.
+One of the organizer duties is calling volunteers (i.e. scramblers, judges, and possibly runners) for each group and ensuring the group proceeds according to plan. The organizers need to check that solving stations have judges, scrambling tables have reliable scramblers, and stages have runners if needed. If you are assigning duties, you could print out an overview of who is scrambling, judging, and running for each group so you can quickly find them during the competition. If someone who is assigned to judge, scramble, or run refuses to fulfill their duty or is missing, notify your Delegates.
 
 ## Calling Groups
 

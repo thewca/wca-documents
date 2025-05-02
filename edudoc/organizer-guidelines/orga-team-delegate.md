@@ -11,7 +11,7 @@ The exact timing of when to contact other people to join your organization team 
 
 If you already have a venue, start contacting people to help you organize the competition. If you do not know a venue yet, you should likely not be reaching out to a Delegate to ensure you are not wasting their time with an idea that has no starting point. However, just showing your interest to other, more experienced people is a good thing. It might motivate them to organize another competition with you.
 
-Once you have assembled an organization team, you should choose a main organizer. The main organizer will be the person who has all of the important information regarding the organization of the competition. They should have good leadership skills since they will be assigning tasks to other organizers and volunteers throughout the competition.
+Once you have assembled an organization team, you should choose a main organizer. The main organizer will be the person who has all of the important information regarding the organization of the competition. They should have good leadership skills since they will be assigning duties to other organizers and volunteers throughout the competition.
 
 ## Contacting a Delegate
 
