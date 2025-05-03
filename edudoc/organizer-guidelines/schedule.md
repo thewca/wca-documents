@@ -21,7 +21,7 @@ You should also leave enough time at the beginning of your competition to check 
 
 4. How many solving stations will be available?
 
-Knowing how many solving stations can be set up tells you how many people can compete at once. Remember that although more stations can shorten the duration of a round, they also require more judges, scramblers, and possibly runners, depending on the [running system](wcadoc{edudoc/organizer-guidelines/running-systems.pdf}) of your competition. You need to account for the additional time spent looking for volunteers if you do not [pre-assign volunteer roles](wcadoc{edudoc/organizer-guidelines/volunteers.pdf}).
+Knowing how many solving stations can be set up tells you how many people can compete at once. Remember that although more stations can shorten the duration of a round, they also require more judges, scramblers, and possibly runners, depending on the [running system](wcadoc{edudoc/organizer-guidelines/running-systems.pdf}) of your competition. You need to account for the additional time spent looking for volunteers if you do not [pre-assign volunteer roles](wcadoc{edudoc/organizer-guidelines/competition-volunteers.pdf}).
 
 5. What are the lunch options near the venue?
 

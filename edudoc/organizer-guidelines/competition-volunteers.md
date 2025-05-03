@@ -47,4 +47,4 @@ Most of the time, there will not be any significant issue assigning volunteer ro
 
 You can find translations of this document below. Contact [quality@worldcubeassociation.org](mailto:quality@worldcubeassociation.org) for instructions on how to add your own translation.
 
-- [Português Europeu (European Portuguese)](wcadoc{edudoc/organizer-guidelines/pt/volunteers.pdf}) - translated by António Gomes
+- [Português Europeu (European Portuguese)](wcadoc{edudoc/organizer-guidelines/pt/competition-volunteers.pdf}) - translated by António Gomes
