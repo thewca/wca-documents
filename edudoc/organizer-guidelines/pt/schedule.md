@@ -21,7 +21,7 @@ Também deve deixar tempo suficiente no início da sua competição para fazer o
 
 4. Quantas estações de resolução estarão disponíveis?
 
-Saber quantas estações de resolução podem ser montadas indica quantas pessoas podem competir ao mesmo tempo. Lembre-se de que, embora mais estações possam encurtar a duração de uma ronda, elas também exigem mais juízes, embaralhadores e possivelmente corredores, dependendo do [sistema de corrida](wcadoc{edudoc/organizer-guidelines/pt/running-systems.pdf}) da sua competição, então precisa levar em conta o tempo extra à procura de voluntários caso não tenha [atribuído tarefas à equipa antecipadamente](wcadoc{edudoc/organizer-guidelines/pt/staff.pdf}).
+Saber quantas estações de resolução podem ser montadas indica quantas pessoas podem competir ao mesmo tempo. Lembre-se de que, embora mais estações possam encurtar a duração de uma ronda, elas também exigem mais juízes, embaralhadores e possivelmente corredores, dependendo do [sistema de corrida](wcadoc{edudoc/organizer-guidelines/pt/running-systems.pdf}) da sua competição, então precisa levar em conta o tempo extra à procura de voluntários caso não tenha [atribuído tarefas à equipa antecipadamente](wcadoc{edudoc/organizer-guidelines/pt/competition-volunteers.pdf}).
 
 5. Quais são as opções de almoço perto do local da competição?
 

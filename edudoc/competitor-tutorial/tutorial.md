@@ -94,7 +94,7 @@ Every event has at least one round. The first round is open to every competitor 
 
 Every round is divided into smaller groups. Groups prevent competition areas from getting crowded. Without groups, every competitor who signed up for an event would be in the competition area at the same time.
 
-Groups also make assigning competitors judging, running, and scrambling duties easier. Different groups use different scramble sets, allowing competitors to volunteer without seeing a scramble that they will attempt in the future.
+Groups also make assigning competitors judging, running, and scrambling assignments easier. Different groups use different scramble sets, allowing competitors to volunteer without seeing a scramble that they will attempt in the future.
 
 ### Submitting your puzzle
 
@@ -106,7 +106,7 @@ Remember that as a competitor, you must be ready to submit your puzzle as soon a
 
 ### Seated judges or running judges
 
-Competitions use different systems, so judges have different roles and duties in each system.
+Competitions use different systems, so judges have different duties in each system.
 
 - **Seated judges** sit at the same solving station and judge multiple competitors in a row. The runners will take the puzzles from the scrambling table, call the competitors, and distribute them to the seated judges. The duties of the judges are just limited to the solving procedure.
 - **Running judges** take the puzzles from the scrambling table, call the relevant competitors in the waiting area, bring them to a station, follow the solving procedure, and then bring the puzzle back to the scrambling table.

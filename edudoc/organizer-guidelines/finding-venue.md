@@ -51,7 +51,7 @@ Consider the following points when determining the competitor limit:
 - The expected number of competitors
 - The selection of events and whether they appeal to spectators
 - The number of spectators
-- The space for the competition area, spectator area, and staff area
+- The space for the competition area, spectator area, and volunteer area
 - The space for the flow of competitors, runners, and judges in the competition area
 - The space for a sponsor or retailer if they are running a booth at the competition
 
