@@ -23,9 +23,9 @@ There are lots of individuals you can get feedback from, so ensure you ask! Comp
 
 There are a few ways to receive feedback from competitors. We recommend surveying the competitors at the competition or online. Here is an [Example survey](https://forms.gle/tKNCW1xdVaCXSzG97) to give you some ideas for what information could be useful to ask of competitors. Another method is making social media posts, especially if you have some sort of forum or group specific to the region where the competition was held.
 
-### Staff
+### Volunteers
 
-If you have any dedicated volunteers, it can be helpful to receive their feedback after the competition! Ensure you ask questions to figure out if there was anything inhibiting volunteers from fulfilling their duties as efficiently as possible.
+If you have any dedicated competition volunteers, it can be helpful to receive their feedback after the competition! Ensure you ask questions to figure out if there was anything inhibiting volunteers from fulfilling their duties as efficiently as possible.
 
 ### Delegates and organizers
 
