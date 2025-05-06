@@ -83,7 +83,7 @@ If any penalty was given, you should always write the original time, the penalti
 
 You can find translations of this document below. Contact [quality@worldcubeassociation.org](mailto:quality@worldcubeassociation.org) for instructions on how to add your own translation.
 
-- [Հայերեն (Armenian)](wcadoc{edudoc/judge-tutorial/judge-tutorial-am.pdf}) - translated by Mayis Jraghatspanyan
+- [Հայերեն (Armenian)](wcadoc{edudoc/judge-tutorial/judge-tutorial-hy.pdf}) - translated by Mayis Jraghatspanyan
 - [Polski (Polish)](wcadoc{edudoc/judge-tutorial/judge-tutorial-pl.pdf}) - translated by Stanislaw Ulbrych
 - [Português Europeu (European Portuguese)](wcadoc{edudoc/judge-tutorial/judge-tutorial-pt.pdf}) - translated by António Gomes
 - [Română (Romanian)](wcadoc{edudoc/judge-tutorial/judge-tutorial-ro.pdf}) - translated by porduska

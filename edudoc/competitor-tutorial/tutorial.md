@@ -332,7 +332,7 @@ _Ensure you adhere to the WCA Regulations and ask a Delegate!_
 
 You can find translations of this document below. Contact [quality@worldcubeassociation.org](mailto:quality@worldcubeassociation.org) for instructions on how to add your own translation.
 
-- [Հայերեն (Armenian)](wcadoc{edudoc/competitor-tutorial/am/tutorial.pdf}) - translated by Mayis Jraghatspanyan
+- [Հայերեն (Armenian)](wcadoc{edudoc/competitor-tutorial/hy/tutorial.pdf}) - translated by Mayis Jraghatspanyan
 - [Português Europeu (European Portuguese)](wcadoc{edudoc/competitor-tutorial/pt/tutorial.pdf}) - translated by António Gomes
 - [Español (Spanish)](wcadoc{edudoc/competitor-tutorial/es/tutorial.pdf}) - translated by Gennaro Monetti
 - [Svenska (Swedish)](wcadoc{edudoc/competitor-tutorial/se/tutorial.pdf})

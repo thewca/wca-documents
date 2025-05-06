@@ -22,5 +22,6 @@ This checklist serves as a tool to help guide you in the organization process an
 
 You can find translations of this document below. Each of these also links to a checklist translated into the same language. Contact [quality@worldcubeassociation.org](mailto:quality@worldcubeassociation.org) for instructions on how to add your own translation.
 
+- [Հայերեն (Armenian)](wcadoc{edudoc/organizer-guidelines/hy/checklist.pdf}) - translated by Mayis Jraghatspanyan
 - [Português Europeu (European Portuguese)](wcadoc{edudoc/organizer-guidelines/pt/checklist.pdf}) - translated by António Gomes
 - [Español (Spanish)](wcadoc{edudoc/organizer-guidelines/es/checklist.pdf}) - translated by Gennaro Monetti
