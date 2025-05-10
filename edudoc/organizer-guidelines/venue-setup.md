@@ -1,6 +1,6 @@
 # Venue Setup
 
-Since there will be dozens of people for several hours in the same place, having a well-set-up venue will not only considerably improve competitors’ and guests’ experiences but also save you from many logistical issues. There are several different areas that make up your venue, so let’s go through each of them.
+Since there will be many people for several hours in the same place, having a well-set-up venue will not only considerably improve competitors’ and guests’ experiences but also save you from many logistical issues. There are several different areas that make up your venue, so let’s go through each of them.
 
 ## Definitions
 

@@ -10,7 +10,7 @@ Runners are responsible for picking up puzzle covers with scrambled puzzles from
 
 Runners also look for judges signaling their attention (e.g. holding up the puzzle cover) to pick up covers with solved puzzles and take them back to the scrambling table. At the scrambling table, they then pick up more puzzle covers with scrambled puzzles and repeat the process.
 
-In general, runners never sit down during the group they are running. They actively go between the competition area and scrambling table to return solved puzzles or to take scrambled puzzles to a solving station.
+In general, runners do not sit down during the group they are running. They actively go between the competition area and scrambling table to return solved puzzles or to take scrambled puzzles to a solving station.
 
 Stations can be numbered to ease the runner’s job. This allows them to call the competitor to a specific station or to identify the station the competitor is seated at.
 
@@ -44,9 +44,9 @@ There is no single answer to this as this can vary a lot between regions and eve
 Example: In some competitions in China, running judges are preferred, as competitors complete all their attempts in one sitting. Whereas in many parts of Europe, seated judges with runners are preferred, as competitors usually complete all their attempts non-stationary.
 :::::
 
-The running system might also change as the competition progresses (e.g. Using seated judges with runners for first rounds and using running judges for final rounds where less competition volunteers might be available).
+The running system might also change as the competition progresses (e.g. using seated judges with runners for first rounds and using running judges for final rounds where fewer competition volunteers might be available).
 
-Many factors play into the chosen system for a competition such as a lack of volunteers, a lack of space for solving stations to have more chairs, and a lack of chairs. It is important to always listen to the advice from your Delegates on which system is the most suitable for your competition.
+Many factors play into the system chosen for a competition such as a lack of volunteers, a lack of space for solving stations to have more chairs, and a lack of chairs. It is important to always listen to the advice from your Delegates on which system is the most suitable for your competition.
 
 <div class="spacer"></div>
 

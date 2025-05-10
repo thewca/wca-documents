@@ -21,7 +21,7 @@ If you are uncertain about something, always ask the Delegate!
 - **Runner**: Runners are responsible for moving puzzles between scramblers and judges.
 - **Scrambler**: Scramblers apply official scramble sequences on competitors’ puzzles. They certify with their signature that the applied scramble was correct.
 
-## Objects at the Competition {.page-break-before}
+## Objects at the Competition
 
 - **Stackmat timer**: This is the official device for measuring times at a competition.
   It will look like one of the three versions below.
@@ -62,7 +62,7 @@ Penalty: Disqualification of the solve
 The judge must not sign the score sheet before they have recorded the result!
 :::::
 
-## Competition Procedure {.page-break-before}
+## Competition Procedure
 
 ### Event
 
@@ -123,7 +123,7 @@ The judge ensures that the competitor is ready for the attempt by asking, “REA
 The judge must ensure that the competitor is ready! Lifting the cover too early could lead to an extra attempt.
 :::::
 
-::::: {.box .attention .page-break-before}
+::::: {.box .attention}
 Remember that competitors have 1 minute to start their attempt once they sit at the station with the puzzle on the mat!
 :::::
 
@@ -164,7 +164,7 @@ When a competitor places their hands on the timer, they will first see a red lig
 Remember that when the competitor starts the timer, their hands must be flat, their palms must be facing down, and they must touch the sensors with their fingers, not their palms. (Penalty: +2s [A4b](http://wca.link/A4b))
 :::::
 
-### Stopping the solve: {.page-break-before}
+### Stopping the solve
 
 When the puzzle is solved, the competitor stops the timer by putting their hands on the sensors. When the competitor stops the timer, they must not be touching the puzzle. Their hands must be flat, and their palms must be facing down.
 
@@ -196,7 +196,7 @@ Both the judge and the competitor must confirm the result on the score sheet wit
 Remember that the competitor needs to check that the written time is correct and readable before signing the attempt!
 :::::
 
-## Important Regulations {.page-break-before}
+## Important Regulations
 
 - **Starting the solve**:
 
@@ -252,7 +252,7 @@ Remember that incorrectly stopping the solve leads to penalties!
 If you are uncertain about penalties, always ask a Delegate!
 :::::
 
-## Important Definitions {.page-break-before}
+## Important Definitions
 
 - **Formats** There are different ways of calculating the results to rank competitors. Here are all the legal formats:
   - **Average of 5**: Every competitor gets five attempts. When they are done, the best and the worst results are discarded, and the average is calculated using the remaining three results.
@@ -268,7 +268,7 @@ If you are uncertain about penalties, always ask a Delegate!
 Extra attempts may be granted only by a Delegate!
 :::::
 
-## What to Avoid as a Competitor {.page-break-before}
+## What to Avoid as a Competitor
 
 - **Never talk about the scrambles before the end of the round.**
 

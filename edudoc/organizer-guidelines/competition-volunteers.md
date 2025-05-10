@@ -4,7 +4,7 @@ Having reliable, competent, and trustworthy volunteers is essential for your com
 
 ## Pre-assigning Volunteer Roles
 
-There are two main ways to assign volunteer roles. You can either do it before the competition or find volunteers on the competition day to work as judges, runners, or scramblers. Both have advantages and disadvantages, so you should be aware of them and pick the one that best fits your local community.
+There are two main ways to assign volunteer roles. You can either do it before the competition, or find volunteers on the competition day to work as judges, runners, or scramblers. Both have advantages and disadvantages, so you should be aware of them and pick the one that best fits your local community.
 
 Pre-assigning volunteer roles is done in one of two ways. You can have dedicated volunteers, or you can assign volunteer roles to regular competitors in advance. For the latter, you might want to use [Groupifier](https://groupifier.jonatanklosko.com/), as it will automatically generate assignments to the competitors for you. For more information on how Groupifier works, check [this link](https://github.com/jonatanklosko/groupifier/wiki/Guide). If you need to make changes to the assignment, consider using [AGE](https://goosly.github.io/AGE/). [Here is the documentation](https://github.com/Goosly/AGE/wiki) for AGE.
 

@@ -543,7 +543,7 @@ If you encounter issues such as these where canceling a competition appears nece
 
 - For financial concerns, such as low registration turnout, the WCAT could involve the WFC to analyze potential solutions. Remember that Delegates are responsible for reviewing the budget prior to the competition announcement and having a plan in the event of unexpectedly low income. Organizing should be done through a Regional Organization or a similar legal entity whenever possible to protect individuals from liability and always have backup funds available. Competitions are unlikely to be canceled solely over a budget deficit. Contact the WFC at the soonest indication that a budget deficit poses a significant risk to the competition for assistance in resolving the situation.
 
-# Day of the Competition
+# Day of the Competition {.page-break-before}
 
 Your presence as a Delegate at a competition allows it to be WCA-recognized. Your responsibility is to ensure that it follows the standards put forth by the WCA.
 

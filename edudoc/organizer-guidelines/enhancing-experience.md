@@ -27,7 +27,7 @@ Online resources can be used to benefit competitors, spectators, sponsors, and o
 
 Posters can be used to provide information to competitors and spectators. Here are a few ways they can be used:
 
-- Remind people of things they should and should not do (e.g. please stay quiet, do not use flash photography, stay 1.5 meters away from competitors).
+- Remind people of things they should and should not do (e.g. please stay quiet, do not use flash photography, stay 1.5 meters away from competitors whiel they are competing).
 - Label areas of importance (e.g. waiting area, quiet room, spectator seating).
 - Convey group information and/or volunteer responsibilities and assignments to competitors by listing the information or by providing a link and/or QR code that directs them to the information online.
 
@@ -72,7 +72,7 @@ Stanchions can be extremely useful for crowd control. Some ways that you can use
 
 Holding events that are not recognized officially can be fun for competitors to participate in and spectators to watch. Some examples of unofficial events include team events, relays, and events with non-WCA puzzles. This can also help the WCA test how these unofficial events could work in official settings in the future.
 
-### Goodies {.page-break-before}
+### Goodies
 
 Giving competitors “goodies” is a great way to enhance their competition experience. Suggestions of goodies that you could give to competitors can include drawstring bags, T-shirts, hoodies, hats, bracelets, stickers, pins, keychains, lanyards, magnets, badges, pens, pencils, phone accessories, sunglasses, and cube logos. Goodies can include branding related to the competition, an organization that held the competition, or competition sponsors.
 

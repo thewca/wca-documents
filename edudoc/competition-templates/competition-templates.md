@@ -19,7 +19,7 @@ The following printable templates are available for you to use at WCA competitio
 
 ## Instructions
 
-1. If you want to use the WCA designs, use the files in the folder for the language used in your region, if available. If you are going to make custom designs, use the files in the `Editable Files` folder. ****Do not**** make Clock cover designs that use a lot of ink because that makes the paper more rigid and may push Clock pins. It is preferable to have a minimal design in Black and White (BW).
+1. If you want to use the WCA designs, use the files in the folder for the language used in your region, if available. If you are going to make custom designs, use the files in the `Editable Files` folder. **Do not** make Clock cover designs that use a lot of ink because that makes the paper more rigid and may push Clock pins. It is preferable to have a minimal design in Black and White (BW).
 2. You can print the template for paper Clock covers, the infographics, and the Multi-Blind cube outlines sheet on a home printer. Print the infographics in color and the other two files in BW. You will need to find a printing service with an industry-grade printer to print the remaining templates. They will require `.pdf` files to make your prints.
 
 ![](images/paper_clock_covers.jpg){.centered width=50%}
@@ -91,6 +91,8 @@ Paper/card templates - Deni Mintsaev <br/>
 3D Clock cover - Francisco Montañés Barbudo and Mitchell Lane <br/>
 Competitor guide and Multi-Blind scrambling guide illustrations - Tom Nelson <br/>
 Multi-Blind cube outlines sheet - Callum Goodyear
+
+<div class="spacer"></div>
 
 ## Translations
 

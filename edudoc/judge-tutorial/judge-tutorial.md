@@ -1,4 +1,4 @@
-# Judging Tutorial for First-time Competitors
+# Judging Tutorial for First-Time Competitors
 
 ### Version 2.1 {.version}
 
@@ -6,7 +6,7 @@ This document is intended for those who have not been a judge before and emphasi
 
 ## Equipment
 
-This is the main equipment and tools required to proceed with a speedsolving attempt:
+These are the main equipment and tools required to proceed with a speedsolving attempt:
 
 **Stackmat timer**: This is the official device for measuring times at a WCA competition. The image below is the latest version of the timer (Gen 5), but the Gen 3 and Gen 4 versions of the timer are also accepted for use at competitions.
 
@@ -16,20 +16,22 @@ This is the main equipment and tools required to proceed with a speedsolving att
 
 ## Judging Procedure
 
-1. Place the scrambled puzzle on the mat and keep it covered before the start of every attempt.
-2. Reset both the Stackmat timer and the stopwatch. If your station has a Gen 5 timer, you will need to press the reset button for a bit longer than usual, and you should also check that the timer is in 2-pad mode. The light should be yellow, **not** blue.
-3. Ask the competitor whether they are ready. They have one minute to get ready.
-4. Once the competitor is ready, uncover the puzzle and start the stopwatch simultaneously to time the inspection phase. This starts the attempt.
-5. After 8 seconds of inspection have elapsed, you must call “8 seconds”. After 12 seconds of inspection have elapsed, you must call “12 seconds”.
+1. Place the scrambled puzzle on the mat and keep it covered until the competitor starts the attempt.
+2. Reset both the Stackmat timer and the stopwatch. If your station has a Gen 5 timer, you will need to press the reset button for a bit longer than with older timers, and you should also check that the timer is in 2-pad mode. The light should be yellow, **not** blue.
+3. Ask the competitor whether they are ready. They have one minute to indicate they are ready.
+4. Once the competitor is ready, simultaneously uncover the puzzle and start the stopwatch to time the inspection phase. This starts the attempt.
+5. After 8 seconds of inspection have elapsed, you must call “8 seconds”. After 12 seconds of inspection have elapsed, you must call “12 seconds”. Howver, do not make any callouts after the competitor has started the timer.
 6. During the inspection, the competitor must not make any move to the puzzle except to correct minor misalignments.
-7. The competitor starts the solve by placing their fingers on the sensors, waiting for the green light to turn on and then removing their hands from the timer.
-8. Stop the stopwatch as soon as the competitor starts the timer (i.e. when the lights start flashing).
+7. The competitor starts the solve by placing their fingers on the sensors, waiting for the green light to turn on, and then removing their hands from the timer.
+8. Stop the stopwatch as soon as the competitor lifts their hands to start the timer.
 9. Once the competitor solves the puzzle, they must stop the timer to finish the solve. Inspect the solved state of the puzzle without touching it (except for the Clock event) and announce the time and any penalties, if applicable.
-10. A final result, including any penalties, is recorded on the score sheet before both the judge and the competitor sign the attempt to verify that the result is correct and accepted.
+10. Record the final result, including any penalties, on the score sheet before both you and the competitor sign for the attempt to verify that the result is correct and accepted.
 
 ## Penalties
 
-**+2 penalty**: is a penalty in which 2 seconds are added to the final result of the attempt. **+2 penalties** are cumulative, meaning the competitor could receive a total penalty of **+4** or even higher. **Did Not Finish** (DNF) is a penalty that results in a disqualification of the attempt. If you are uncertain what should be done in an incident, you should always ask the Delegate for advice.
+**+2 penalty** is a penalty in which 2 seconds are added to the original result of the attempt. **+2 penalties** are cumulative, meaning the competitor could receive a total penalty of **+4** or even higher. 
+
+**Did Not Finish** (DNF) is a penalty that results in a disqualification of the attempt. If you are uncertain what should be done in an incident, you should always ask the Delegate for advice.
 
 Here are some common incidents that could result in a +2 penalty or DNF:
 
@@ -49,7 +51,7 @@ Here are some common incidents that could result in a +2 penalty or DNF:
 
 ![](images/penalty3.png){.centered width=70%}
 
-**+2 penalty**: the competitor fails to start the timer using their fingers with the palms facing down.
+**+2 penalty**: the competitor fails to start the timer using their fingers with their palms facing down.
 
 **+2 penalty**: the competitor fails to stop the timer with their palms facing down.
 
@@ -66,11 +68,11 @@ The image below shows what kinds of misalignments result in a +2 penalty.
 
 Other incidents that result in a penalty include the following:
 
-**DNF**: while inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge or the Delegate. Exception: If the competitor does not gain an advantage by communicating with anyone other than the judge or the Delegate, the result may stand at the discretion of the Delegate.
+**DNF**: while inspecting or solving the puzzle, the competitor communicates with anyone other than the judge or the Delegate. Exception: If the competitor does not gain an advantage by communicating with anyone other than the judge or the Delegate, the result may stand at the discretion of the Delegate.
 
-**DNF**: while inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface.
+**DNF**: while inspecting or solving the puzzle, the competitor receives assistance from anyone or any object other than the surface.
 
-**DNF**: while inspecting or solving the puzzle, the competitor must not use any kind of electronic device (see [Guideline 2i++++](wca{regulations/guidelines.html#2i++++}) for clarification).
+**DNF**: while inspecting or solving the puzzle, the competitor uses some kind of electronic device (see [Guideline 2i++++](wca{regulations/guidelines.html#2i++++}) for clarification).
 
 ## Recording Results
 
@@ -78,6 +80,8 @@ If any penalty was given, you should always write the original time, the penalti
 
 - If a competitor finishes a solve with a time of 17.65 and receives a +2 penalty for not properly starting the timer, the final result should be written as `17.65+2=19.65`.
 - If a competitor finishes a 3x3x3 Cube solve with a time of 12.19 and receives a +2 penalty for inspecting for 16 seconds and a +2 penalty for a 60° misalignment at the end, the final result should be written as `12.19+4=16.19`.
+
+<div class="spacer"></div>
 
 ## Translations
 

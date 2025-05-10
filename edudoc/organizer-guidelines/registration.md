@@ -4,7 +4,7 @@ To handle the competition registrations, you may either use the WCA website or a
 
 ## Registration Requirements
 
-It is important that you make the registration requirements clear on the competition website and that every competitor is subject to the same requirements. A registration is only considered complete if the competitor fulfills **all** of the requirements established (e.g. paying the registration fee). A competitor is **ineligible** to compete if the registration is incomplete (see Regulation [2c1](wca{regulations/#2c1})). If something weird occurs with a competitor’s registration, contact your Delegate to find a solution.
+It is important that you make the registration requirements clear on the competition website and that every competitor is subject to the same requirements. A registration is only considered complete if the competitor fulfills **all** of the requirements established (e.g. paying the registration fee). A competitor is **ineligible** to compete if the registration is incomplete (see Regulation [2c1](wca{regulations/#2c1})). If something unusual occurs with a competitor’s registration, contact your Delegate to find a solution.
 
 Once the registration period starts, the registrations will need to be manually approved. You will see an additional list on the registration tab with all the registrations pending approval. Be aware that taking too long to accept registrations once the requirements have been met could reflect badly on the organization team and could lead competitors (especially first-time competitors) to believe they have done something incorrectly or that something went wrong with their registration. You do not need to accept every registration within minutes, but ensure you accept them in two days at most to avoid issues.
 
@@ -14,9 +14,9 @@ If a person is unable to fulfill one of the registration requirements (e.g. the 
 
 ## Making Changes to the Requirements
 
-Even though making changes is sometimes a possibility, it should only happen in **exceptional** circumstances. You should avoid changes as much as possible. **Every** update on the registration requirements needs to first be approved by the listed Delegates and later by the WCA Competition Announcement Team. If you need to make any changes, communicate with your Delegates early since it could take a few days for the requirements to be updated.
+Even though making changes to the requirements is sometimes a possibility, it should only happen in **exceptional** circumstances. You should avoid changes as much as possible. **Every** update on the registration requirements needs to first be approved by the listed Delegates, and some also require approval by the WCA Competition Announcement Team. If you need to make any changes, communicate with your Delegates early since it could take a few days for the requirements to be updated.
 
-You may change the requirements as the competition gets closer (e.g. increase the registration fees or restrict which events a competitor can register for), but you should inform the competitors of any intended change in advance via the competition website or email.
+You may change the requirements as the competition date gets closer (e.g. increase the registration fees or restrict which events a competitor can register for), but you should inform the competitors of any intended change in advance via the competition website or email.
 
 ::::: {.box .important}
 Changes that affect registered competitors _must_ be clearly announced. Be consistent with what is on the competition website. For example, you _must not_ accept registrations on the spot if the competition website says they will not be available.

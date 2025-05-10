@@ -1,6 +1,6 @@
 # WCA Volunteer Crash Course
 
-Hello and welcome to the wonderful community of Volunteers who help run the World Cube Association! We are happy to have you among us!
+Hello and welcome to the wonderful community of volunteers who help run the World Cube Association! We are happy to have you among us!
 
 Most of the important rules and common practices you need to know will be described in this document to help you get started. However, the single most important advice is to **ask your Leader and/or Committee/Team when you are uncertain.** They will be happy to help you out!
 
