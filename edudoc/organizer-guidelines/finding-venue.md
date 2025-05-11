@@ -26,6 +26,7 @@ You should know a rough set of dates that suits you, the venue, and a local Dele
 
 ::::: {.box .attention}
 You must also follow the requirements set out in the [WCA Competition Requirement Policy](wcadoc{documents/policies/external/Competition%20Requirements.pdf}). You must ensure the dates are realistic so that the competition can be announced at least 28 days before the competition day without putting too much time pressure on the WCA Competition Announcements Team (WCAT). You should also allow enough time for competitors to complete their registration and plan their trip.
+:::::
 
 ::::: {.box .important .page-break-after}
 Please also double-check with the local community and Delegates to avoid breaking the proximity policy stated in the WCA Competition Requirement Policy.
@@ -51,7 +52,7 @@ Consider the following points when determining the competitor limit:
 - The expected number of competitors
 - The selection of events and whether they appeal to spectators
 - The number of spectators
-- The space for the competition area, spectator area, and staff area
+- The space for the competition area, spectator area, and volunteer area
 - The space for the flow of competitors, runners, and judges in the competition area
 - The space for a sponsor or retailer if they are running a booth at the competition
 

@@ -8,12 +8,12 @@ While this handbook aims to be complete, it cannot be fully comprehensive. While
 
 Finally, the _Delegate Handbook_ aims to reflect official WCA policy, not create it. When a disagreement or contradiction arises, always defer to the official policy, Regulation, or precedent published by the WCA. See the [Contributing to this Document](#contributing-to-the-delegate-handbook) section for information on how to update this handbook to accurately reflect reality.
 
-There is a lot of information that is relevant to all WCA Staff, not just Delegates. If you have not already, read the [WCA Staff Crash Course](https://documents.worldcubeassociation.org/edudoc/staff-crash-course/staff_crash_course.pdf) to get a high-level overview of the responsibilities expected of every WCA Staff member.
+There is a lot of information that is relevant to all WCA Volunteers, not just Delegates. If you have not already, read the [WCA Volunteer Crash Course](https://documents.worldcubeassociation.org/edudoc/volunteer-crash-course/volunteer_crash_course.pdf) to get a high-level overview of the responsibilities expected of every WCA Volunteer.
 
 # Table of Contents {.page-break-before}
 
 - [Introduction to Delegating](#introduction-to-delegating)
-  - [The Roles of a WCA Delegate](#the-roles-of-a-wca-delegate)
+  - [The Duties of a WCA Delegate](#the-duties-of-a-wca-delegate)
   - [How to Become a Delegate](#how-to-become-a-delegate)
   - [Delegate Tiers](#delegate-tiers)
     - [Trainee Delegates](#trainee-delegates)
@@ -106,11 +106,11 @@ There is a lot of information that is relevant to all WCA Staff, not just Delega
 
 Delegates are one of the most prominent roles within the World Cube Association. A Delegate represents the WCA at a cubing competition to ensure that competitors adhere to the rules of each event and maintain fair play throughout the competition. Most importantly, all Delegates must have a strong understanding of the [WCA Regulations](https://www.worldcubeassociation.org/regulations/) and their associated [Guidelines](https://www.worldcubeassociation.org/regulations/guidelines.html).
 
-As the face of the WCA to the attendees of a competition, a Delegate has many considerations and responsibilities to effectively fulfill their role. This handbook is designed to capture those considerations and responsibilities in a unified place as a reference handbook for Delegates of all levels of experience.
+As the face of the WCA to the attendees of a competition, a Delegate has many considerations and responsibilities to effectively fulfill their duties. This handbook is designed to capture those considerations and responsibilities in a unified place as a reference handbook for Delegates of all levels of experience.
 
-While Delegates are highly experienced members of their community and often help out as organizers, it is important that they understand the distinction between their role as a Delegate and their role as an organizer. While some organizational tasks are often performed by a Delegate, such as generating groups and providing competition equipment, these are ultimately the organizer’s responsibility. Remember whose role you are fulfilling, as it is important to distinguish actions performed as a representative of the WCA and as a non-WCA organizer.
+While Delegates are highly experienced Community members and often help out as organizers, it is important that they understand the distinction between their role as a Delegate and their role as an organizer. While some organizational tasks are often performed by a Delegate, such as generating groups and providing competition equipment, these are ultimately the organizer’s responsibility. Remember whose duties you are fulfilling, as it is important to distinguish actions performed as a representative of the WCA and as a non-WCA organizer.
 
-## The Roles of a WCA Delegate
+## The Dutiees of a WCA Delegate
 
 As outlined in the [WCA Delegates Motion](https://documents.worldcubeassociation.org/documents/motions/08.2024.1%20-%20Delegates.pdf) of the WCA, a Delegate is responsible for the following:
 
@@ -119,11 +119,11 @@ As outlined in the [WCA Delegates Motion](https://documents.worldcubeassociation
 - Writing competition reports
 - Representing their local community within the WCA
 - Staying up to date on the WCA Regulations
-- Staying up to date on internal conversations with WCA Staff
+- Staying up to date on internal conversations with WCA Volunteers
 
 ## How to Become a Delegate
 
-A person typically becomes a Trainee Delegate after being recommended by a Delegate who has determined that they would like another Delegate to help manage their local community. Candidates are noticed for their maturity and responsibility and are most frequently selected from experienced organizers and competition staff members. The Delegate will recommend the candidate to their Regional Delegate who will review the recommendation and agree or disagree with it.  The recommendation will then be forwarded to the Senior Delegate. If there is no Regional Delegate, the Senior Delegate will review the recommendation instead. If the Senior Delegate approves the appointment, they will send an application to the WCA Board of Directors, who will reject or approve the application. After approval, the Senior Delegate will appoint the candidate as a Trainee Delegate.
+A person typically becomes a Trainee Delegate after being recommended by a Delegate who has determined that they would like another Delegate to help manage their local community. Candidates are noticed for their maturity and responsibility and are most frequently selected from experienced organizers and competition volunteers. The Delegate will recommend the candidate to their Regional Delegate who will review the recommendation and agree or disagree with it.  The recommendation will then be forwarded to the Senior Delegate. If there is no Regional Delegate, the Senior Delegate will review the recommendation instead. If the Senior Delegate approves the appointment, they will send an application to the WCA Board of Directors, who will reject or approve the application. After approval, the Senior Delegate will appoint the candidate as a Trainee Delegate.
 
 The ideal candidate for a new Trainee Delegate has the following:
 
@@ -143,7 +143,7 @@ There are multiple tiers of Delegates, each with their own responsibilities with
 
 ### Trainee Delegates
 
-A Delegate will typically start their journey by being appointed as a Trainee Delegate. A Trainee Delegate’s primary responsibility is learning how to delegate WCA competitions. Usually, this will involve shadowing another Delegate to learn the ropes of delegating. This generally includes the entire competition process: working with organizers, preparing for the competition, delegating at the competition, posting results and writing reports after the competition, and interacting with other WCA Staff in internal communications.
+A Delegate will typically start their journey by being appointed as a Trainee Delegate. A Trainee Delegate’s primary responsibility is learning how to delegate WCA competitions. Usually, this will involve shadowing another Delegate to learn the ropes of delegating. This generally includes the entire competition process: working with organizers, preparing for the competition, delegating at the competition, posting results and writing reports after the competition, and interacting with other WCA Volunteers in internal communications.
 
 When appointed, a Trainee Delegate gains access to the following:
 
@@ -155,10 +155,10 @@ A Trainee Delegate has the same permissions and responsibilities as a Junior Del
 
 - Trainee Delegates cannot post Delegate Reports, confirm competitions, or submit results. Trainee Delegates may still compile results and write Delegate Reports but are only restricted from submitting them.
 - Trainee Delegates cannot delegate a competition without another Junior Delegate or higher. The only exception is when there is an emergency, in which case the WCA Board may allow a Trainee Delegate to Delegate a competition without supervision by another Delegate.
-- Trainee Delegates cannot vote in Staff polls. This is separate from “voting rights” in the WCA.
+- Trainee Delegates cannot vote in Volunteer polls. This is separate from “voting rights” in the WCA.
 - Trainee Delegates are not given WCA email addresses.
 
-A Trainee Delegate is a Community Member and not a WCA Staff member. However, a Trainee Delegate is still expected to embody the full responsibilities of a Delegate and shall behave as a representative of the WCA in accordance with the Mission, Spirit, Policies, and Code of Ethics of the WCA.
+A Trainee Delegate is a Community member and not a WCA Volunteer. However, a Trainee Delegate is still expected to embody the full responsibilities of a Delegate and shall behave as a representative of the WCA in accordance with the Mission, Spirit, Policies, and Code of Ethics of the WCA.
 
 A Trainee Delegate’s training period is not just an evaluation of their skills. It is an opportunity for the Trainee Delegate to understand more fully what is expected of them. Sometimes, a Trainee Delegate finds that delegating is not a good match for them. This is okay! A Trainee Delegate may withdraw their appointment at any time by submitting a resignation letter to their Senior Delegate and adding the WCA Board and WCA Executive Assistants Team (WEAT) to the Carbon Copy (CC) field.
 
@@ -168,7 +168,7 @@ A Trainee Delegate is promoted to Junior Delegate after their Senior Delegate de
 
 ### Junior Delegates
 
-A Junior Delegate is in the lowest tier of WCA Delegates and is officially a WCA Staff member. They have demonstrated sufficient responsibility and are granted the independence to represent the WCA without direct supervision. However, a Junior Delegate is still expected to continue to gain experience in their role and might require attention from their Senior Delegate or local Delegates.
+A Junior Delegate is in the lowest tier of WCA Delegates and is officially a WCA Volunteer. They have demonstrated sufficient responsibility and are granted the independence to represent the WCA without direct supervision. However, a Junior Delegate is still expected to continue to gain experience in their role and might require attention from their Senior Delegate or local Delegates.
 
 A Junior Delegate has the same responsibilities as a Trainee Delegate and gains the following:
 
@@ -193,13 +193,13 @@ If the Senior Delegate, WCA Teams, Committees, and the Board all agree that a Ju
 
 ### Full Delegates
 
-A Full Delegate, also known as simply a Delegate, has the same responsibilities as a Junior Delegate. However, they have demonstrated a commitment to the WCA as an organization and so are granted voting rights within the WCA. When the WCA conducts a formal vote, such as when electing Board Members, only eligible voting members are allowed to vote. Voting members are Full Delegates, Regional Delegates, Senior Delegates, Senior members of WCA Teams and Committees, and leaders of Teams and Committees.
+A Full Delegate, also known as simply a Delegate, has the same responsibilities as a Junior Delegate. However, they have demonstrated a commitment to the WCA as an organization and so are granted voting rights within the WCA. When the WCA conducts a formal vote, such as when electing Board members, only eligible voting members are allowed to vote. Voting members are Full Delegates, Regional Delegates, Senior Delegates, Senior members of WCA Teams and Committees, and leaders of Teams and Committees.
 
-Full Delegate is the highest level that most Delegates will attain in their career as a WCA Staff member. However, there are additional managerial and supervision-based roles for Delegates who wish to take on additional responsibilities within the WCA.
+Full Delegate is the highest level that most Delegates will attain in their career as a WCA Volunteer. However, there are additional managerial and supervision-based duties for Delegates who wish to take on additional responsibilities within the WCA.
 
 ### Regional Delegates
 
-In addition to the responsibilities of a Full Delegate, a Regional Delegate helps oversee and manage competitions in a broader region than their immediate local cubing community. They are responsible for maintaining quality standards in their local community and supporting their local Full Delegates, Junior Delegates, and Trainee Delegates in performing their respective roles. A Regional Delegate is expected to act as a leader of Delegates within their region, encourage continuous improvement of competition quality, and evaluate the area’s needs for additional Delegates. A Regional Delegate’s responsibilities are largely the same as a Senior Delegate’s, but the smaller assigned region allows a Regional Delegate to pay closer attention to the needs of their region and their Delegates than a Senior Delegate can.
+In addition to the responsibilities of a Full Delegate, a Regional Delegate helps oversee and manage competitions in a broader region than their immediate local cubing community. They are responsible for maintaining quality standards in their local community and supporting their local Full Delegates, Junior Delegates, and Trainee Delegates in performing their respective duties. A Regional Delegate is expected to act as a leader of Delegates within their region, encourage continuous improvement of competition quality, and evaluate the area’s needs for additional Delegates. A Regional Delegate’s responsibilities are largely the same as a Senior Delegate’s, but the smaller assigned region allows a Regional Delegate to pay closer attention to the needs of their region and their Delegates than a Senior Delegate can.
 
 Regional Delegates are appointed by a Senior Delegate in conjunction with the WCA Board on an as-needed basis determined by the Senior Delegate. A Regional Delegate’s appointment time is indefinite, although a Regional Delegate may step down from their position voluntarily or have their appointment removed by the WCA Board in consultation with the Senior Delegate if they do not fulfill their responsibilities.
 
@@ -226,26 +226,26 @@ The regions with Senior Delegates are:
 
 ## Email
 
-Most official WCA communication, both within the organization and to the general public, happens via email. When a WCA Staff member sends you an email, you are expected to respond in a timely manner unless special circumstances arise. Most of the time, you are expected to have a response within 48 hours, but within a week at worst. Sometimes, it is unreasonable to write a meaningful response within the time frame, or you are waiting for other people to respond before you can write your response. If this happens, let the sender know that you have seen their message and that you intend to follow up by a specific deadline.
+Most official WCA communication, both within the organization and to the general public, happens via email. When a WCA Volunteer sends you an email, you are expected to respond in a timely manner unless special circumstances arise. Most of the time, you are expected to have a response within 48 hours, but within a week at worst. Sometimes, it is unreasonable to write a meaningful response within the time frame, or you are waiting for other people to respond before you can write your response. If this happens, let the sender know that you have seen their message and that you intend to follow up by a specific deadline.
 
 **Do not use your WCA email for tasks that are explicitly organizer-related, such as contacting sponsors for a competition**, as this could give a false impression that the WCA is organizing the competition. If the competition is being organized by a Regional Organization you are part of, use an email address assigned by your Regional Organization to to perform organizer tasks. Otherwise, use your personal email. You are still expected to use your WCA email for internal communications and communication with competitors about delegating tasks, such as managing personal data.
 
-If you are reaching out to a WCA Staff member, Team, or Committee, it is possible for them to mistakenly overlook your email. After 48 hours, you may follow up on your initial message with a response to get the attention of the recipient.
+If you are reaching out to a WCA Volunteer, Team, or Committee, it is possible for them to mistakenly overlook your email. After 48 hours, you may follow up on your initial message with a response to get the attention of the recipient.
 
 For more information on internal WCA communication, see [Engaging in Internal Discussions](#engaging-in-internal-discussions).
 
 ## Confidentiality
 
-As a Delegate, you might occasionally become aware of confidential information. Please exercise responsibility when discussing such information. The following information is considered confidential and must not be shared outside of WCA Staff:
+As a Delegate, you might occasionally become aware of confidential information. Please exercise responsibility when discussing such information. The following information is considered confidential and must not be shared outside of WCA Volunteers:
 
 - Delegate Reports
 - Internal WCA emails
 - Non-public personal information of competitors as described in the [WCA Privacy Statement](https://www.worldcubeassociation.org/privacy) and [Regulation 2d](https://www.worldcubeassociation.org/regulations/#2d)
   - Exception: the contact information of competitors can be shared with their explicit permission. Permission grants are one-way. If Person A gives you permission to share their contact information with Person B, only give Person A’s contact information to Person B, and do not give Person B’s personal information to anyone else.
-- Personal information of WCA Staff
+- Personal information of WCA Volunteers
 - Banned competitors list
 
-In addition, the following information must be kept confidential even among other WCA Staff members, except for specific individuals on a need-to-know basis, such as those conducting an investigation on behalf of the WIC:
+In addition, the following information must be kept confidential even among other WCA Volunteers, except for specific individuals on a need-to-know basis, such as those conducting an investigation on behalf of the WIC:
 
 - Information regarding an investigation by the WIC, including the identity of individuals involved in the investigation or details about the investigation
 - Information regarding confidential information and partnerships with the WCA and external organizations
@@ -325,7 +325,7 @@ The following is an example competition plan for five competitions that cover al
 | 5x5x5 Blindfolded  |               |               |               |               | ✓   |
 | 3x3x3 Multi-Blind  |               |               |               |               | ✓   |
 
-As a Delegate, you might occasionally find yourself in the position of delegating in a region that does not have established Delegates or does not hold regular competitions. While it could seem like a good idea to choose as many events as possible to afford competitors the rare opportunity to compete in as many events as possible, underdeveloped communities often do not have enough skilled cubers to justify having some of the more advanced events. This can lead to slow rounds when there are not enough skilled individuals to fill important roles like scrambling. Time at WCA-recognized competitions is much more valuable to these communities than it is to well-established communities. If the region is highly underdeveloped and does not get regular access to Delegates, consider holding more rounds of beginner-friendly events with long cutoff times and large advancement groups over less popular events. When regular competitions can be established in those communities, it is safer to start holding less popular events, as time will not be spent catering to events with relatively few people competitors.
+As a Delegate, you might occasionally find yourself in the position of delegating in a region that does not have established Delegates or does not hold regular competitions. While it could seem like a good idea to choose as many events as possible to afford competitors the rare opportunity to compete in as many events as possible, underdeveloped communities often do not have enough skilled cubers to justify having some of the more advanced events. This can lead to slow rounds when there are not enough skilled individuals to fulfill important duties such as scrambling. Time at WCA-recognized competitions is much more valuable to these communities than it is to well-established communities. If the region is highly underdeveloped and does not get regular access to Delegates, consider holding more rounds of beginner-friendly events with long cutoff times and large advancement groups over less popular events. When regular competitions can be established in those communities, it is safer to start holding less popular events, as time will not be spent catering to events with relatively few people competitors.
 
 ## Organizing a Competition
 
@@ -333,11 +333,11 @@ As a Delegate, you will often have more experience organizing WCA competitions t
 
 ### Community Organizers and Delegate Organizers
 
-There is a spectrum of how WCA competitions are organized, with organizer-led competitions on one end and Delegate-led competitions on the other. Organizer-led competitions involve a Community Member doing most of the work preparing for and running a competition, while a Delegate does the minimum amount of work required of them: receiving a competition proposal, confirming a competition on the WCA website, generating scrambles, showing up to the competition in person to verify that the Regulations are being upheld, and submitting results. On the other end of the spectrum are Delegate-led competitions, where a Delegate handles every aspect of organizing a competition and often the overall arc of multiple competitions in a region.
+There is a spectrum of how WCA competitions are organized, with organizer-led competitions on one end and Delegate-led competitions on the other. Organizer-led competitions involve a Community member doing most of the work preparing for and running a competition, while a Delegate does the minimum amount of work required of them: receiving a competition proposal, confirming a competition on the WCA website, generating scrambles, showing up to the competition in person to verify that the Regulations are being upheld, and submitting results. On the other end of the spectrum are Delegate-led competitions, where a Delegate handles every aspect of organizing a competition and often the overall arc of multiple competitions in a region.
 
 In practice, fully organizer-led competitions are rare, as there are many possible points of failure that could prevent a competition from happening entirely or happening at an unacceptably low level of quality. On the other hand, Delegate-led competitions are common in very small cubing communities with only one or two Delegates and in very large and mature regions that have many Delegates under the umbrella of a Regional Organization.
 
-Most competitions lie somewhere between these two extremes. Some Delegates might prefer to get proposals on potential venues from members of their community but otherwise organize the competitions themselves. Other times, a Delegate will work with the organizer to guide them through the entire organizational process, effectively performing many of the organizational tasks themself. As an organizer gets more experienced and demonstrates capability, a Delegate might feel more comfortable relaxing this level of supervision. Ultimately, however, the Delegate is responsible for ensuring that every organizational task is completed by the time the competition begins, so most Delegates will maintain some degree of involvement in the organizational process.
+Most competitions lie somewhere between these two extremes. Some Delegates might prefer to get proposals on potential venues from Community members but otherwise organize the competitions themselves. Other times, a Delegate will work with the organizer to guide them through the entire organizational process, effectively performing many of the organizational tasks themself. As an organizer gets more experienced and demonstrates capability, a Delegate might feel more comfortable relaxing this level of supervision. Ultimately, however, the Delegate is responsible for ensuring that every organizational task is completed by the time the competition begins, so most Delegates will maintain some degree of involvement in the organizational process.
 
 ### Interacting with Organizers
 
@@ -386,7 +386,7 @@ Every WCA competition page must include a schedule tab and an events tab.
 - The “Manage Events” page is under the “Edit” section on the left sidebar. You must fill out the number of rounds for each event and the round formats, cutoffs, time limits, and advancement conditions for each round. Remember to click save! This will create an “Events” tab on the competition page, which will be visible to everyone. This is used as an events overview for competitors.
 - Once the events page is set up, you can create the schedule. The “Manage Schedule” page is under the “Edit” section. You can find all of the events and rounds that you filled out on the “Manage Events” page. When you have filled the schedule out with all the rounds in their respective allocated time slots, click save. This will create a new “Schedule” tab on the competition website. All the information in the “Events” tab will also be found there.
 
-After you have followed all the steps and double-checked that everything is correct, scroll to the bottom of the competition form and click “Confirm”. This button is unavailable to Trainee Delegates. This action will send an email notification to all Delegates of the competition, the Senior Delegate, and the WCAT. This email is used to notify the WCAT that your competition is ready to be reviewed. It could take up to 48 hours before you receive a reply. This email thread will then be the official announcement thread of the competition when you need to make any changes. Do not add anyone to this thread unless you have a compelling reason for it. You are not allowed to add the organizers to this thread unless the organizers are other WCA Staff members who have a good reason to be added.
+After you have followed all the steps and double-checked that everything is correct, scroll to the bottom of the competition form and click “Confirm”. This button is unavailable to Trainee Delegates. This action will send an email notification to all Delegates of the competition, the Senior Delegate, and the WCAT. This email is used to notify the WCAT that your competition is ready to be reviewed. It could take up to 48 hours before you receive a reply. This email thread will then be the official announcement thread of the competition when you need to make any changes. Do not add anyone to this thread unless you have a compelling reason for it. You are not allowed to add the organizers to this thread unless the organizers are other WCA Volunteers who have a good reason to be added.
 
 ### Requesting a Fewest Moves Simultaneous Competition
 
@@ -535,7 +535,7 @@ Cancelations may only happen when there is no safe or feasible alternative. This
 
 If you encounter issues such as these where canceling a competition appears necessary, do not make any significant changes or statements to competitors. Instead, explain the situation to the WCAT on the competition announcement thread, as they can provide guidance on which options are available to prevent competition cancelation. Here are examples of some preventative measures that could be taken:
 
-- If a listed Delegate can no longer attend due to an emergency, the WCA Board may appoint an experienced and trusted Community Member as a temporary Delegate if no other Delegates are available. In this case, take the following steps:
+- If a listed Delegate can no longer attend due to an emergency, the WCA Board may appoint an experienced and trusted Community member as a temporary Delegate if no other Delegates are available. In this case, take the following steps:
 
 1. “Reply All” to the competition announcement thread and add the WCA Board to the CC field.
 2. Explain why you are no longer able to attend and whom you propose as a temporary Delegate.
@@ -543,13 +543,13 @@ If you encounter issues such as these where canceling a competition appears nece
 
 - For financial concerns, such as low registration turnout, the WCAT could involve the WFC to analyze potential solutions. Remember that Delegates are responsible for reviewing the budget prior to the competition announcement and having a plan in the event of unexpectedly low income. Organizing should be done through a Regional Organization or a similar legal entity whenever possible to protect individuals from liability and always have backup funds available. Competitions are unlikely to be canceled solely over a budget deficit. Contact the WFC at the soonest indication that a budget deficit poses a significant risk to the competition for assistance in resolving the situation.
 
-# Day of the Competition
+# Day of the Competition {.page-break-before}
 
 Your presence as a Delegate at a competition allows it to be WCA-recognized. Your responsibility is to ensure that it follows the standards put forth by the WCA.
 
 ## Setup and Environment
 
-Regardless of whether the organization team or venue staff are setting up the competition room, ensure that the competition layout abides by the WCA Regulations. These Regulations are outlined in [Article 7: Environment](https://www.worldcubeassociation.org/regulations/#article-7-environment). In addition, [Regulation 1c](https://www.worldcubeassociation.org/regulations/#1c) outlines that your competition must follow all applicable WCA policies and requirements. This includes the [WCA Scramble Accountability Policy](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf). If the Regulations cannot be followed, the competition results risk being retroactively removed. Review the competition setup and make any changes necessary to make it fully compliant with WCA policies. Pay especially close attention to zoning. The scrambling area must be visually isolated from all areas that could have competitors not involved in organizing or scrambling the ongoing group.
+Regardless of whether the organization team or venue employees are setting up the competition room, ensure that the competition layout abides by the WCA Regulations. These Regulations are outlined in [Article 7: Environment](https://www.worldcubeassociation.org/regulations/#article-7-environment). In addition, [Regulation 1c](https://www.worldcubeassociation.org/regulations/#1c) outlines that your competition must follow all applicable WCA policies and requirements. This includes the [WCA Scramble Accountability Policy](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf). If the Regulations cannot be followed, the competition results risk being retroactively removed. Review the competition setup and make any changes necessary to make it fully compliant with WCA policies. Pay especially close attention to zoning. The scrambling area must be visually isolated from all areas that could have competitors not involved in organizing or scrambling the ongoing group.
 
 ## Check-In and Registration
 
@@ -574,9 +574,9 @@ Above all, the competitor limit must not be exceeded for any reason. Competitor 
 
 ### Verifying First-Time Competitors
 
-Verify the identity of every first-time competitor at their first competition, according to [Regulation 2e](https://www.worldcubeassociation.org/regulations/#2e) and [Guideline 2e++](https://www.worldcubeassociation.org/regulations/guidelines.html#2e++). It is recommended to include a “First-Time Competitor Information” tab on every WCA competition page with instructions for all first-time competitors to bring some form of identification to verify their full name, date of birth, and country of representation. Forms of identification include, but are not limited to, passports, birth certificates, and school ID cards. A check-in table is a perfect place to verify this information, so assign a trusted competition staff member or Delegate to manage the check-in process and verify this information.
+Verify the identity of every first-time competitor at their first competition, according to [Regulation 2e](https://www.worldcubeassociation.org/regulations/#2e) and [Guideline 2e++](https://www.worldcubeassociation.org/regulations/guidelines.html#2e++). It is recommended to include a “First-Time Competitor Information” tab on every WCA competition page with instructions for all first-time competitors to bring some form of identification to verify their full name, date of birth, and country of representation. Forms of identification include, but are not limited to, passports, birth certificates, and school ID cards. A check-in table is a perfect place to verify this information, so assign a trusted competition volunteer or Delegate to manage the check-in process and verify this information.
 
-Printouts with private information, such as a first-time competitor checklist with dates of birth, must remain private and **never** be left unattended at a check-in table. Instruct competition staff members with a sensitive printout so they do not lose sight of it and do not show it to anyone other than the competition staff.
+Printouts with private information, such as a first-time competitor checklist with dates of birth, must remain private and **never** be left unattended at a check-in table. Instruct competition volunteers with a sensitive printout so they do not lose sight of it and do not show it to anyone other than the competition volunteers.
 
 When checking in a first-time competitor, verify the following information:
 
@@ -661,7 +661,7 @@ Follow the same rules for yourself that you would apply to other competitors whi
 
 ### Your Own Incidents
 
-If an incident occurs to you while you are competing, you must be cautious when granting an extra attempt to yourself. Although Delegates are authorized to grant extra attempts to themselves, it could appear unfair to other competitors. Have a higher bar for granting extra attempts to yourself. For example, have a higher tolerance to sudden noises than the average competitor and only grant yourself an extra attempt when there is an exceptional distraction. If there are other Delegates at this competition, call them over to grant the extra attempt whenever possible. If there are no other Delegates available, call over a trusted and experienced Community Member to verify the reasonableness of the extra attempt and demonstrate transparency.
+If an incident occurs to you while you are competing, you must be cautious when granting an extra attempt to yourself. Although Delegates are authorized to grant extra attempts to themselves, it could appear unfair to other competitors. Have a higher bar for granting extra attempts to yourself. For example, have a higher tolerance to sudden noises than the average competitor and only grant yourself an extra attempt when there is an exceptional distraction. If there are other Delegates at this competition, call them over to grant the extra attempt whenever possible. If there are no other Delegates available, call over a trusted and experienced Community member to verify the reasonableness of the extra attempt and demonstrate transparency.
 
 Generally, Delegates do not grant extra attempts to themselves for being distracted by another competitor calling “Delegate”. Such distractions happen often enough that it is unreasonable for a Delegate to not expect such calls during their solves. If such calls are distracting, take steps to increase your noise isolation by wearing non-electronic earmuffs or earplugs.
 
@@ -1086,7 +1086,7 @@ The Remarks section is where you can provide any additional information or perso
 
 You might receive responses to your report. If you requested feedback from the WRC or the WIC, expect a response from them. If they do not respond after a couple of weeks, it is best to send them another email in the same thread reminding them about your requested feedback.
 
-Please remember that the Delegate Reports mailing list goes out to hundreds of WCA Staff members. Consider whether your email needs to include the Delegate Reports mailing list as a recipient. If your email is directed at a small group of individuals, such as a thank you message to a person or Committee, please consider removing unrelated individuals and mailing lists from the email to avoid sending emails irrelevant to the vast majority of WCA Staff.
+Please remember that the Delegate Reports mailing list goes out to hundreds of WCA Volunteers. Consider whether your email needs to include the Delegate Reports mailing list as a recipient. If your email is directed at a small group of individuals, such as a thank you message to a person or Committee, please consider removing unrelated individuals and mailing lists from the email to avoid sending emails irrelevant to the vast majority of WCA Volunteers.
 
 You might not receive responses to your report. This is fine, as some competitions are fairly standard and do not prompt any responses.
 
@@ -1135,7 +1135,7 @@ A WCA ID is associated with a profile page, which looks like this:
 
 All competition results in the WCA database are associated with a WCA ID. This page provides access to all results for an individual competitor, along with other interesting results information.
 
-Delegates and WCA Staff with access rights may access the account page for a competitor by clicking the pencil icon on a profile page or by using the manage users tool. These individuals, as well as the organizers, may also access the account page via links provided on the registration tab of a competition.
+Delegates and WCA Volunteers with access rights may access the account page for a competitor by clicking the pencil icon on a profile page or by using the manage users tool. These individuals, as well as the organizers, may also access the account page via links provided on the registration tab of a competition.
 
 ::::: {.page-break-before}
 The account page should look like this:
@@ -1232,19 +1232,19 @@ For more information on the WCA Travel Funding program, please review the [offic
 
 ## Engaging in Internal Discussions
 
-As both a Delegate and a member of WCA Staff, you will be receiving emails not directly related to your competitions or your local community, such as other Delegate Reports and requests for feedback on new iterations of the Regulations. You may participate in these discussions as much or as little as you wish. If you choose to engage in these discussions, remember the following:
+As both a Delegate and a WCA Volunteer, you will be receiving emails not directly related to your competitions or your local community, such as other Delegate Reports and requests for feedback on new iterations of the Regulations. You may participate in these discussions as much or as little as you wish. If you choose to engage in these discussions, remember the following:
 
 - Be professional and respectful.
 - Other regions have different cultures and ways of running competitions, so what works in one region does not necessarily work everywhere.
 - The tone is not always clearly communicated via text.
 
-Be aware that some conversations are simply irrelevant to some individuals. The WCA has hundreds of volunteers with different responsibilities throughout the organization. When sending an email, review the list of recipients and consider whether each of them needs to receive the email. Consider whether a smaller list of recipients is the intended audience for your message. For discussions with a small number of people, using “Reply All” is often okay. Use stronger discretion when replying to large mailing lists such as Staff or Delegate Reports.
+Be aware that some conversations are simply irrelevant to some individuals. The WCA has hundreds of Volunteers with different responsibilities throughout the organization. When sending an email, review the list of recipients and consider whether each of them needs to receive the email. Consider whether a smaller list of recipients is the intended audience for your message. For discussions with a small number of people, using “Reply All” is often okay. Use stronger discretion when replying to large mailing lists such as [volunteers@worldcubeassociation.org](mailto:volunteers@worldcubeassociation.org) or [reports@worldcubeassociation.org](mailto:reports@worldcubeassociation.org).
 
 ### Replying to Delegate Reports
 
 Reading Delegate Reports of other regions is a great way to expand your knowledge as a Delegate and to gain a better understanding of how competitions might be run in other regions. Feedback from Delegates is especially helpful whenever WRC or WIC feedback is requested, as the incidents that require feedback are often the least straightforward ones and have the most to learn from.
 
-If you have questions related to the competition, you may ask the Delegates by responding to their email. However, do be aware that your response will be sent to hundreds of WCA Staff members, so consider whether it is appropriate to remove the Delegate Reports mailing list from the CC field to avoid sending an email to many people who might not appreciate it showing up in their inbox again.
+If you have questions related to the competition, you may ask the Delegates by responding to their email. However, do be aware that your response will be sent to hundreds of WCA Volunteers, so consider whether it is appropriate to remove the Delegate Reports mailing list from the CC field to avoid sending an email to many people who might not appreciate it showing up in their inbox again.
 
 Furthermore, it is not a Delegate’s responsibility to review other Delegates’ competition reports for Regulation or quality violations. If you have a concern regarding the way something was handled at a competition based on the report, privately contact the relevant WCA Committee and/or the Senior Delegate for the competition’s region to handle the concern on your behalf.
 
@@ -1254,15 +1254,15 @@ Since a lot of Delegate Reports are sent out every week, you might find it usefu
 
 ### Disputes and Appeals
 
-Some decisions made by WCA Staff members might be controversial. Any person affected by a decision (e.g. the Delegate of a competition where an incident occurred or the competitor whose results are disputed) may file a dispute in accordance with the [Disputes Motion](https://documents.worldcubeassociation.org/documents/motions/16.2024.1%20-%20Disputes.pdf). The Committee responsible for reviewing the dispute will provide a decision within 60 days. As a Delegate, you are responsible for ensuring that the decision of the Team or Committee handling the dispute is carried out immediately. Usually, this requires you to send an email to the WRT with the requested result changes.
+Some decisions made by WCA Volunteers might be controversial. Any person affected by a decision (e.g. the Delegate of a competition where an incident occurred or the competitor whose results are disputed) may file a dispute in accordance with the [Disputes Motion](https://documents.worldcubeassociation.org/documents/motions/16.2024.1%20-%20Disputes.pdf). The Committee responsible for reviewing the dispute will provide a decision within 60 days. As a Delegate, you are responsible for ensuring that the decision of the Team or Committee handling the dispute is carried out immediately. Usually, this requires you to send an email to the WRT with the requested result changes.
 
 Further disagreements with the result of a dispute could be escalated to an appeal. Even if an appeal was filed, you must still carry out the original decision of the dispute until the result of the appeal is provided.
 
 ## Recommending a Delegate
 
-While you are delegating, you can look for members of your community who could be trained to become a Delegate. Having more Delegates could alleviate the workload of existing Delegates and could provide more options to better serve the needs of a remote cubing community. There are no precise rules about how many Delegates are required for a specific region or where Delegates should be located. Discuss with any other local, Regional, or Senior Delegate whether adding a new Delegate is an appropriate step for your community.
+While you are delegating, you can look for Community members who could be trained to become a Delegate. Having more Delegates could alleviate the workload of existing Delegates and could provide more options to better serve the needs of a remote cubing community. There are no precise rules about how many Delegates are required for a specific region or where Delegates should be located. Discuss with any other local, Regional, or Senior Delegate whether adding a new Delegate is an appropriate step for your community.
 
-To start the process of inducting a member of your community as a Delegate, take the following steps:
+To start the process of inducting a Community member as a Delegate, take the following steps:
 
 1. Recommend the person to your Senior and Regional Delegate with a reason for why this person should be a Delegate and why the region the person is located in needs a Delegate.
 2. If the Senior Delegate agrees, they will fill out the application form to make the person a Trainee Delegate and submit it to the Board.
@@ -1286,13 +1286,13 @@ If you do create an online community, you are responsible for effectively modera
 
 ### Business Cards
 
-Delegates are the face of the WCA and are the Staff members with whom most members of the public will interact. Delegates often need to introduce themselves to new people both inside and outside of a competition, so it can be useful to have business cards. The WCA has a business card template that Delegates can use to print their own business cards. It includes a QR code that links to a LinkTree page with various WCA resources.
+Delegates are the face of the WCA and are the Volunteers with whom most members of the public will interact. Delegates often need to introduce themselves to new people both inside and outside of a competition, so it can be useful to have business cards. The WCA has a business card template that Delegates can use to print their own business cards. It includes a QR code that links to a LinkTree page with various WCA resources.
 
 The templates are designed for use with VistaPrint, which is available in the USA, Canada, and many countries in Europe. If you are in a country where VistaPrint is unavailable, you can use the template to create your own business cards with a local printing service.
 
 The following are steps to create a business card using VistaPrint. Screenshots of each step are available [here](https://imgur.com/a/i28RZmo).
 
-1. Download the business card assets from the [WMT Google Drive](https://drive.google.com/drive/folders/1QG4Zg5vGTzxzwMxEkLmFvtM0iV_KhIC1). _Note: Only Staff members with a WCA email address can access this link._
+1. Download the business card assets from the [WMT Google Drive](https://drive.google.com/drive/folders/1QG4Zg5vGTzxzwMxEkLmFvtM0iV_KhIC1). _Note: Only Volunteers with a WCA email address can access this link._
 2. Go to the [VistaPrint website](https://www.vistaprint.com/business-cards).
 3. Go to “Upload Design”, choose “Standard Horizontal” for style, and upload `wcaCardBackground.png`.
 4. Click “Make more edits” on the bottom.
@@ -1316,6 +1316,6 @@ If the font Catamaran does not support your language, you can use a different fo
 
 ## Contributing to the Delegate Handbook
 
-The _Delegate Handbook_ is an ever-evolving resource and is subject to change as the WCA and the cubing community change. Every WCA Staff member is encouraged to contribute. If you want to fix, improve, or otherwise change the document, it can be found in the [WCA Documents GitHub repository](https://github.com/thewca/wca-documents). If you already know how to use Git and GitHub, the best way to contribute is by opening a Pull Request or an Issue. Otherwise, send a message to the WCA Quality Assurance Committee at [quality@worldcubeassociation.org](mailto:quality@worldcubeassociation.org) and describe the changes you would like to propose.
+The _Delegate Handbook_ is an ever-evolving resource and is subject to change as the WCA and the cubing community change. every WCA Volunteer is encouraged to contribute. If you want to fix, improve, or otherwise change the document, it can be found in the [WCA Documents GitHub repository](https://github.com/thewca/wca-documents). If you already know how to use Git and GitHub, the best way to contribute is by opening a Pull Request or an Issue. Otherwise, send a message to the WCA Quality Assurance Committee at [quality@worldcubeassociation.org](mailto:quality@worldcubeassociation.org) and describe the changes you would like to propose.
 
 Due to the length and complexity of this document and the need to update it semi-regularly, there is currently no option to create official translations of the Delegate Handbook. Since the language used for communication within the WCA is American English, it is expected that most Delegates can read this document.

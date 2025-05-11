@@ -1,4 +1,4 @@
-# WCA Staff Crash Course
+# WCA Volunteer Crash Course
 
 Hello and welcome to the wonderful community of volunteers who help run the World Cube Association! We are happy to have you among us!
 
@@ -6,9 +6,9 @@ Most of the important rules and common practices you need to know will be descri
 
 ## Important Documents
 
-WCA Staff should be familiar with every document related to their work as WCA Staff. All relevant documents are on [the documents page](wca{documents}) and on [the Staff panel](wca{panel}). The Staff panel section is available only to WCA Staff and contains Staff-exclusive knowledge. Therefore, every document on that page should be read. The documents section contains information on how the WCA functions and is available to the public. Not every document in this section needs to be memorized. However, here are the ones that are absolutely necessary to know well:
+WCA Volunteers should be familiar with every document related to their work as WCA Volunteers. All relevant documents are on [the documents page](wca{documents}) and on [the Volunteer panel](wca{panel}). The Volunteer panel section is available only to WCA Volunteers and contains Volunteer-exclusive knowledge. Therefore, every document on that page should be read. The documents section contains information on how the WCA functions and is available to the public. Not every document in this section needs to be memorized. However, here are the ones that are absolutely necessary to know well:
 
-- [The Code of Ethics](wcadoc{documents/Code%20of%20Ethics.pdf}) describes how every WCA Staff member must act and what they must abide by.
+- [The Code of Ethics](wcadoc{documents/Code%20of%20Ethics.pdf}) describes how every WCA Volunteer must act and what they must abide by.
 - [The Spirit of the WCA](wcadoc{documents/motions/01.2021.1%20-%20Spirit.pdf}).
 - If you are a member of a Committee/Team, [The Committees and Teams Motion](wcadoc{documents/motions/10.2022.0%20-%20Committees%20and%20Teams.pdf}) will explain how Committees/Teams operate. Additionally, you will find the relevant motion for your Committee/Team among the other listed motions on the documents page.
 - If you are a Delegate, [The Delegates Motion](wcadoc{documents/motions/08.2022.1%20-%20Delegates.pdf}) will explain how your work as a Delegate will be conducted. You should also familiarize yourself with the [Delegate Handbook](wcadoc{edudoc/delegate-handbook/delegate-handbook.pdf}).
@@ -47,9 +47,9 @@ Lastly, for Committee/Team internal discussions, you can take a shortcut by remo
 
 ## Representation
 
-Every WCA Staff member will also have received login credentials for their own personal *@worldcubeassociation.org* email account hosted by GSuite.
+Every WCA Volunteer will also have received login credentials for their own personal *@worldcubeassociation.org* email account hosted by GSuite.
 
-This account must always be used when sending WCA-related emails. The only times exceptions may be made are when the Staff Member has issues with the GSuite Software in the region where they live.
+This account must always be used when sending WCA-related emails. The only times exceptions may be made are when the Volunteer has issues with the GSuite Software in the region where they live.
 
 Configure your new GSuite account to include a signature that includes your name and your position. Do not include anything else, such as personal bests or YouTube channels! Be aware that this signature will be visible to **every recipient, along with a legal disclaimer for recipients outside of the** *@worldcubeassociation.org* domain.
 
@@ -62,25 +62,25 @@ There are several mailing lists, all of which have their dedicated audience and 
 Other significant mailing lists include the following:
 
 - [reports@worldcubeassociation.org](mailto:reports@worldcubeassociation.org) - Recipient channel for all Delegate Reports worldwide. You can opt in on your WCA profile settings page.
-- [staff@worldcubeassociation.org](mailto:staff@worldcubeassociation.org) - This is the channel where communication relevant to the entire organization takes place. Only the really heavy topics and global discussions belong here.
-- [announcements@worldcubeassociation.org](mailto:announcements@worldcubeassociation.org) - This channel is only used for one-off important announcements and for changes approved by the Board. This channel will never be the main recipient. It is only ever a recipient in the Blind Carbon Copy (BCC) field. As previously mentioned, every discussion will be made on [staff@worldcubeassociation.org](mailto:staff@worldcubeassociation.org)
-- [Delegates@worldcubeassociation.org](mailto:Delegates@worldcubeassociation.org) -  Communication for all Delegates. This is used only if the expected target to reach is only Delegates. Every Delegate must read these discussions. However,[staff@worldcubeassociation.org](mailto:staff@worldcubeassociation.org) is more commonly used for discussions.
+- [volunteers@worldcubeassociation.org](mailto:volunteers@worldcubeassociation.org) - This is the channel where communication relevant to the entire organization takes place. Only the really heavy topics and global discussions belong here.
+- [announcements@worldcubeassociation.org](mailto:announcements@worldcubeassociation.org) - This channel is only used for one-off important announcements and for changes approved by the Board. This channel will never be the main recipient. It is only ever a recipient in the Blind Carbon Copy (BCC) field. As previously mentioned, every discussion will be made on [volunteers@worldcubeassociation.org](mailto:volunteers@worldcubeassociation.org)
+- [Delegates@worldcubeassociation.org](mailto:Delegates@worldcubeassociation.org) -  Communication for all Delegates. This is used only if the expected target to reach is only Delegates. Every Delegate must read these discussions. However,[volunteers@worldcubeassociation.org](mailto:volunteers@worldcubeassociation.org) is more commonly used for discussions.
 
 **Treat any communication sent through these lists as confidential**! All contents are generally limited to the target audience defined by the recipient list, except for official announcements by Teams and Committees.
 
 ## Delegate Reports
 
-Every WCA Staff member may opt-in to receive Delegate Reports. To do this, the Staff member goes to the “[Edit Profile](wca{profile/edit})” page and scrolls to the bottom, where they can check off the box labeled “I would like to receive Delegate Reports of WCA Competitions by email”. Every Staff member with valuable input is welcome to join in on discussions for Delegate Reports, even if they are not Delegates.
+Every WCA Volunteer may opt-in to receive Delegate Reports. To do this, the Volunteer goes to the “[Edit Profile](wca{profile/edit})” page and scrolls to the bottom, where they can check off the box labeled “I would like to receive Delegate Reports of WCA Competitions by email”. Every Volunteer with valuable input is welcome to join in on discussions for Delegate Reports, even if they are not Delegates.
 
 ## Public Appearance
 
-Every Staff member is associated with their Committee/Team on the WCA website. Therefore, you will need to demonstrate professionalism if someone were to navigate to your WCA Page. Consequently, please ensure you upload a nice picture of yourself as your avatar. You can upload an avatar and see all the guidelines that apply to WCA Staff [here](wca{profile/edit?section=avatar}).
+Every WCA Volunteer is associated with their Committee/Team on the WCA website. Therefore, you will need to demonstrate professionalism if someone were to navigate to your WCA Page. Consequently, please ensure you upload a nice picture of yourself as your avatar. You can upload an avatar and see all the guidelines that apply to WCA Volunteers [here](wca{profile/edit?section=avatar}).
 
-Staff members should also consider how they appear on online cubing forums (e.g. WCA Forum and Speedsolving Forum). Staff members should also be careful when speaking about internal matters to ensure no confidential information is leaked.
+Volunteers should also consider how they appear on online cubing forums (e.g. WCA Forum and Speedsolving Forum). Volunteers should also be careful when speaking about internal matters to ensure no confidential information is leaked.
 
 ## Filters and Spam Folders
 
-Every WCA Staff member should create a filter to permit all mail sent from an *@worldcubeassociation.org* mailing address so they do not miss any important information. This can be done by navigating to [https://mail.google.com/mail/u/0/#settings/filters](https://mail.google.com/mail/u/0/#settings/filters) and scrolling to the bottom where it says “Create a new filter”. There you set the “from” to “worldcubeassociation.org” and click “create filter”. Finally, set it to “Never mark as spam”.
+Every WCA Volunteer should create a filter to permit all mail sent from an *@worldcubeassociation.org* mailing address so they do not miss any important information. This can be done by navigating to [https://mail.google.com/mail/u/0/#settings/filters](https://mail.google.com/mail/u/0/#settings/filters) and scrolling to the bottom where it says “Create a new filter”. There you set the “from” to “worldcubeassociation.org” and click “create filter”. Finally, set it to “Never mark as spam”.
 
 Please remember that it is possible for someone to forge an email as if it were sent from a WCA email account despite not having access to that account. These kinds of emails are usually detected by Gmail spam filters thanks to the SPF/DKIM signatures on the email. Remember that the suggested filter bypasses this check, so you should check the signature when receiving a suspicious email.
 

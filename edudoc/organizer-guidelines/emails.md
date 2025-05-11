@@ -45,7 +45,7 @@ Every organizer and Delegate should be aware of all communication from competito
 
 The body is the message you want to convey. <span style="color:red">Avoid using long sentences without punctuation, and avoid writing using all uppercase letters, all bold, or all underlined.</span> You should only use **bolding**, <u>underlining</u>, or _italicizing_ to emphasize the important keywords in a sentence or key sentences in a paragraph.
 
-Stick to the subject. For example, if the subject mentions groups, you should talk about groups in the email. You can also communicate additional relevant information. **Use the hyperlink feature** whenever you are linking information from a website. Hyperlinks will prevent the recipients from wasting time searching for the webpage or landing on the wrong one. For example, recipients might find information on “XX Open 2024” and mistake it as “XX Open 2025”.**
+Stick to the subject. For example, if the subject mentions groups, you should talk about groups in the email. You can also communicate additional relevant information. **Use the hyperlink feature** whenever you are linking information from a website. Hyperlinks will prevent the recipients from wasting time searching for the webpage or landing on the wrong one. For example, recipients might find information on “XX Open 2024” and mistake it as “XX Open 2025”.
 
 ### Sign-off
 
@@ -101,19 +101,21 @@ Here is some information that you can consider including in an information packe
 - What should parents/guardians filming competitors be mindful of?
 - Where do competitors find their live results?
 - Are there any special practices that are unique to this region?
-::::: {.box .example} Example: Using registration ID instead of initials for scrambling and judging signature, whether to check in at the registration desk once a day or once across the whole competition. :::::
+::::: {.box .example} Example: Using registration ID instead of initials for scrambling and judging signature, whether to check in at the registration desk once a day or once across the whole competition.:::::
 - Has the schedule been recently revised?
 - Who are the sponsors?
 - Where can guests and competitors go while they are waiting for their group?
 - What is the parking situation at the venue?
 - What is your contact information in case someone struggles to find the venue?
-::::: {.box .important} It is highly recommended that you share your email draft with the Delegates and the organization team before sending it to all competitors. :::::
+::::: {.box .important} It is highly recommended that you share your email draft with the Delegates and the organization team before sending it to all competitors.:::::
 
 Parents/guardians tend to worry about their children’s well-being, so it is essential to help ease their worrying. Answer their most common questions in the email to the best of your knowledge or direct them to someone (e.g. a Delegate) who can provide a better answer.
 
 ## Multiple Languages
 
 Suppose English is not widely spoken in the competition’s region. In that case, you should consider translating the essential points in the pre-competition email into the local language. Sometimes, you might need to send the entire pre-competition email in multiple languages. You should find someone else to write it if you do not speak one of the local languages. Depending on where you are, you might need to also include languages from neighboring countries.
+
+<div class="spacer"></div>
 
 ## Translations
 
