@@ -1,108 +1,124 @@
 # Emails
 
-This might not be applicable to everyone or every competition, but it can give competitors an idea of what to expect from the competition. A pre-competition email that acts as an information packet for competitors can be helpful, especially if you have a lot of new competitors.
-
-Some benefits of sending this information packet include:
-
-- New competitors having a better knowledge of what is expected of them.
-- Parents/Guardians of new competitors feeling more comfortable with the new competitors staying at the competition by themselves.
-- Parents/Guardians gaining a better understanding of what’s going on at the competition.
-- Parents/Guardians and competitors being informed of the necessary information for the competition.
-
-## What’s in it?
-
-Here’s a list of things that can be useful to be in the information packet but are **not necessarily needed in every competition**.
-
-- Reminder about groups/group information.
-- Reminder to get in touch if dropping out to recoup on possible refund, subject to registrations terms and conditions.
-- Reminder about competitor tutorials (if there are a lot of first-timers).
-- Reminder for first-timers to bring identification (which will be checked during registration).
-- A reminder of no flash photography.
-- A link to live results.
-- Parents/Guardians tend to worry about their child’s well being, so it’s important to help ease their worrying. Do try to answer their most common questions to the best of your knowledge in the email or direct them to someone (e.g. Delegate(s)) who can give a better answer.
-- Which judging system will be used during the competition (Running judges/Seated judges with runners).
-- Any special practices in the region which foreigners or newcomers might not be aware of.
-
-::::: {.box .example}
-Example: Using registration ID instead of initials for scrambling and judging signature, whether to check-in at the registration desk once a day or once across the whole competition, etc.
-:::::
-
-- Local amenities, cafe, food and drinks where guests and competitors can hang around while waiting for subsequent rounds.
-- Parking at the venue and whether a pass is needed.
-- An opportunity to mention the sponsors.
-- Leave your contact details so people can email, call, or message you if they’re struggling to get to the venue.
-- Any final updates/changes. **Maybe a revised schedule if fewer competitors registered than expected.**
-
-::::: {.box .important}
-It is highly advisable that you share your email draft with the Delegate(s) and the organization team before sending it off to all competitors.
-:::::
-
-## Multiple Languages
-
-If English isn’t widely spoken in the region of the competition, you should consider adapting the important key points into the local language as well before sending out the pre-competition email. On some occasions, you might have to send the pre-competition email in more than one language. It is recommended that if you do not speak one of the local languages, you should find someone who can work with you on it. Depending on where you are, you may need to include languages from neighboring countries too.
-
-Below is more information in regard to general emails, not necessarily in regard to the larger, last minute information email.
-
 ## General Email Structure
 
-As an organizer, you will almost certainly have to use email in some way for your competition. Having a good structure for your emails can make messages look a lot more professional for you and the WCA.
+As an organizer, you will almost certainly need to use email in some way for your competition. A good email structure will make messages look more professional for you and the WCA.
 
 ### Subject
 
-The subject of the email should be **straightforward and simple**. <span style="color:red">Avoid long sentences</span>. Always include the name of the competition in the subject, this lets the recipients know straight away what the email is about. This is especially important when communicating with Delegate(s) as they might have a number of competitions coming up. **Some examples: “Important Information about XX Open 2020”, “XX Open 2020”, “XX Open 2020 groups” etc.**
+The subject of the email should be straightforward. **Avoid long sentences**. Always include the competition name in the subject to let the recipients know what the email is about. The subject is essential when communicating with Delegates since they might have several upcoming competitions.
 
-### Greetings
+Here are some examples of subjects. Replace “XX Open 2025” with the actual name of a competition.
 
-Your greetings can elevate the outlook of the email itself. It makes it look more professional and friendly, especially if the primary language of communication is English. If emailing numerous competitors at the same time, try using “Hi all,” “Dear competitors,” or “Good afternoon” at the beginning of your email.
-If emailing individuals, then try to include their name. **“Hi Jonas,” “Dear Martha,” etc.**
+- “Important Information about XX Open 2025”
+- “XX Open 2025”
+- “XX Open 2025 groups”
 
-Besides a good opening, you’ll want the email to end in a similar manner. The common practice is to close an email with your name and a variation of “**Regards**” above it.
+### Greeting
+
+Your greeting should be the first line of the email. A greeting makes the email look more professional and friendly, especially when the primary language of communication is English. If you are sending an email to several competitors, consider the following greetings:
+
+- Hi all,
+- Dear competitors,
+- Good afternoon,
+
+If you are sending an email to a person, consider including their name in the greeting, like the following:
+
+- Hi Jonas,
+- Hello Martha,
+
+### CC or BCC
+
+::::: {.box .important}
+For privacy reasons, when emailing multiple competitors, you must add them to the **Blind Carbon Copy** (BCC) field instead of the _Carbon Copy_ (CC) field.
+:::::
+
+Use the **CC** field when communicating with **organizers and Delegates**.
+
+::::: {.box .important}
+Always add co-organizers and Delegates to the CC field when responding to a competitor’s email.
+:::::
+
+Every organizer and Delegate should be aware of all communication from competitors, such as competitors withdrawing from the competition, changing their events, or asking for travel advice.
+
+### Body
+
+The body is the message you want to convey. <span style="color:red">Avoid using long sentences without punctuation, and avoid writing using all uppercase letters, all bold, or all underlined.</span> You should only use **bolding**, <u>underlining</u>, or _italicizing_ to emphasize the important keywords in a sentence or key sentences in a paragraph.
+
+Stick to the subject. For example, if the subject mentions groups, you should talk about groups in the email. You can also communicate additional relevant information. **Use the hyperlink feature** whenever you are linking information from a website. Hyperlinks will prevent the recipients from wasting time searching for the webpage or landing on the wrong one. For example, recipients might find information on “XX Open 2024” and mistake it as “XX Open 2025”.
+
+### Sign-off
+
+Your email should end in the same tone that it started with. It should end with a sign-off such as the following:
+
+- Regards,
+- Thanks,
+- Sincerely,
+- Cheers,
+- See you soon,
 
 **Example:**
 
 ::::: {.box .example .text-left}
-Kind Regards
+Kind Regards,
 
 _Your Name_
 :::::
 
-Some variations like “Best Regards,” “Kind Regards,” “See you soon,” or “Thanks” are also acceptable if used appropriately.
-
-### CC or BCC {.page-break-before}
-
-::::: {.box .important}
-When handling group emails, you should always send it out as a **BCC** instead of a _CC_ for privacy reasons.
-:::::
-
-However, **CC** is more applicable when handling communications emails between **organizers and Delegate(s)**.
-
-Always include both organizers and Delegate(s) in the CC list for any changes to the competition or any communication with competitors. **Example: Competitor dropping out, change of events or asking for travel advice.** This way, everyone in the organization team and the Delegate(s) are aware of what's going on during the competition.
-
-### Body
-
-The body is the message you want to convey. <span style="color:red">Avoid using very long sentences without punctuation. Avoid using all caps, all bold or all underline.</span> **Bold**, <u>underline</u> and _italics_ are mainly used to make certain words or sentences stand out. This is usually to emphasize the important keywords of a sentence or key sentences in a paragraph.
-
-Stick to the subject. If the subject is about groups, then the groups must be mentioned. Some additional relevant information can be communicated through the same email. **Use the hyperlink function** whenever you’re linking information from a website. This way the recipients don’t have to google and click through multiple web pages to find the information you’re talking about. This also limits the chance that they go on the wrong website and find the wrong information.
-**Example: Recipients might find information on “XX Open 2019” and mistaken it as “XX Open 2020”.**
-
-#### Example Email
+### Example email
 
 ::::: {.box .example .text-left}
 Subject: Important Information about XX Open 2020
 
 Hello competitor,
 
-Thank you for registering to compete in XX Open 2020. Unfortunately, we did not reach the number registrations in 3x3 necessary to have a 4th round. This means we will not be running the 4th round of 3x3 and the semifinal will now be final instead. The updated schedule can be found here[add link to new schedule].
+Thank you for registering to compete in XX Open 2020. Unfortunately, we did not reach the number of registrations in 3x3x3 Cube necessary for a fourth round. The third round will be the final round instead. You can find the updated schedule here[add the link to the new schedule].
 
-Kind Regards
+Kind Regards,
 
 _Your Name_
 
 Organization Team of XX Open 2020
 :::::
 
+## Pre-Competition Email
+
+A pre-competition email that acts as an information packet for competitors can give competitors an idea of what to expect from the competitors, especially when you have a lot of first-time competitors.
+
+Some benefits of sending this information packet include:
+
+- First-time competitors gain an understanding of how the competition will run.
+- Parents/guardians gain an understanding of how a competition will run.
+- Parents/guardians of young competitors feel more comfortable allowing their competitors to stay at the competition venue by themselves.
+
+Here is some information that you can consider including in an information packet:
+
+- How do groups work? How can competitors find their group information?
+- Which judging system will be used?
+- What should they do if they can no longer attend the competition?
+- Will there be a first-time competitor tutorial?
+- Should first-time competitors bring identification?
+- What should parents/guardians filming competitors be mindful of?
+- Where do competitors find their live results?
+- Are there any special practices that are unique to this region?
+::::: {.box .example} Example: Using registration ID instead of initials for scrambling and judging signature, whether to check in at the registration desk once a day or once across the whole competition.:::::
+- Has the schedule been recently revised?
+- Who are the sponsors?
+- Where can guests and competitors go while they are waiting for their group?
+- What is the parking situation at the venue?
+- What is your contact information in case someone struggles to find the venue?
+::::: {.box .important} It is highly recommended that you share your email draft with the Delegates and the organization team before sending it to all competitors.:::::
+
+Parents/guardians tend to worry about their children’s well-being, so it is essential to help ease their worrying. Answer their most common questions in the email to the best of your knowledge or direct them to someone (e.g. a Delegate) who can provide a better answer.
+
+## Multiple Languages
+
+Suppose English is not widely spoken in the competition’s region. In that case, you should consider translating the essential points in the pre-competition email into the local language. Sometimes, you might need to send the entire pre-competition email in multiple languages. You should find someone else to write it if you do not speak one of the local languages. Depending on where you are, you might need to also include languages from neighboring countries.
+
+<div class="spacer"></div>
+
 ## Translations
 
-Below you can find translations of this document. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
+You can find translations of this document below. Contact [quality@worldcubeassociation.org](mailto:quality@worldcubeassociation.org) for instructions on how to add your own translation.
 
 - [Português Europeu (European Portuguese)](wcadoc{edudoc/organizer-guidelines/pt/emails.pdf}) - translated by António Gomes
