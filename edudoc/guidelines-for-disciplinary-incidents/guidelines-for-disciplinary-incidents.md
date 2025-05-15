@@ -11,7 +11,6 @@ This document helps you navigate common disciplinary incidents. It outlines what
 - Depending on the type and severity of a [Code of Conduct](wcadoc{documents/Code%20of%20Conduct.pdf}) violation, the WIC may ban a competitor from competing or attending competitions. The WIC will inform the local Delegates, usually through the Regional or Senior Delegate. If a competitor is banned from competing but not from attending competitions, they are permitted to attend competitions. They may also fulfill the roles of officials at competitions at the discretion of the Delegate.
 - The WIC issues a quarterly digest of cases from the previous quarter and publishes reports on notable cases. These publications aim to educate the Community and WCA Volunteers and promote transparency. You can find them in the Announcements section of the WCA website and on the WCA Forum. A comprehensive list is available in the [Disciplinary Log](wca{disciplinary}). Delegates will also receive an expanded version of this digest alongside general announcements and resources.
 
-
 ## Handling Behavioral Issues of Competitors at Competitions
 
 - When a competitor is involved in a minor behavioral incident at a competition, you should address it using Regulations [2j](wca{regulations/full/#2j}), [2k](wca{regulations/full/#2k}), and [2l](wca{regulations/full/#2l}) and applicable sub-points.
@@ -47,7 +46,7 @@ This document helps you navigate common disciplinary incidents. It outlines what
 - If puzzles were not returned by the end of the competition, but you believe you know who stole them, contact them and ask for the puzzles to be returned. Contact the WIC if the person is unresponsive or is unwilling to return the puzzles.
 - Report cases of theft to the WIC so they can track them.
 
-## Handling Behavioral Issues of Spectators at Competitions {.page-break-before}
+## Handling Behavioral Issues of Spectators at Competitions
 
 - You should do your best to handle any issues from spectators in a respectful manner. Remember that as a Delegate, you are acting as official representatives of the WCA.
 - Be aware of venue rules and policies. You could ask an official from the venue or local law enforcement to remove people causing problems.
@@ -66,7 +65,7 @@ The scope of the [Code of Conduct](wcadoc{documents/Code%20of%20Conduct.pdf}) is
 - If an organizer’s behavior falls outside the scope of the [Code of Conduct](wcadoc{documents/Code%20of%20Conduct.pdf}) but is still concerning or disruptive to the community, it is the Delegate’s discretion whether to work with them. For example, if an organizer has made harmful comments on a non-WCA Discord server, the Delegate may decide not to work with them.
 - Carefully keep track of competition budgets and actual expenditures that take place, documenting expenditures with receipts whenever possible. If you believe that an organizer or legal entity is retaining leftover money from competitions for personal gain, please contact the WIC.
 
-## WCA Volunteers {.page-break-before}
+## WCA Volunteers
 
 - If a WCA Volunteer violates or is strongly suspected of violating the Code of Conduct or Code of Ethics, report the situation directly to the WIC.
 - The WIC will evaluate whether a further investigation is needed beyond intervention by a superior.
@@ -81,7 +80,7 @@ A concern or complaint might not clearly fall under a specific Committee/Team. I
 - Committee Member / Senior Member --> Committee Leader --> WCA Board
 - Team Member / Senior Member --> Team Leader --> WCA Board
 
-## Cheating
+## Cheating {.page-break-before}
 
 - If cheating is obvious, try to get evidence (e.g. videos, photos, names of people involved, email addresses of witnesses, etc.) and disqualify the competitor using [Regulation 2k2](wca{regulations/full/#2k2}). At your discretion, you may let the suspect complete the attempt or the round before disqualifying them while you gather more evidence.
   - For example, if a competitor is reported to have peeked on their first attempt of 3x3x3 Blindfolded, you might want to watch or record them peeking on their second and third attempts before disqualifying them instead of immediately disqualifying them. This would allow the WIC to have greater evidence, which is necessary for taking disciplinary action.
@@ -97,7 +96,7 @@ The scope of the [Code of Conduct](wcadoc{documents/Code%20of%20Conduct.pdf}) is
 - If you feel it is necessary, communicate with the person about their behavior and contact the WIC, understanding that the WIC might not be able to apply sanctions. In your communications, make it clear that you are contacting them as a concerned person and not a representative of the WCA. For example, do not threaten disciplinary action from the WCA, such as removal from competitions.
   - If harassment or bullying is occurring online, advise the victim to block the perpetrators and contact the website’s administration.
 
-## Managing Difficult Situations {.page-break-before}
+## Managing Difficult Situations
 
 Competitions can be demanding, difficult situations that can add another layer of stress. It is important to remain professional at all times. This will help your interactions with others to go more smoothly and allow you to represent the WCA positively. Remember the following points when managing a difficult situation:
 
