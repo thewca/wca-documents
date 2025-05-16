@@ -252,7 +252,7 @@ Remember that incorrectly stopping the solve leads to penalties!
 If you are uncertain about penalties, always ask a Delegate!
 :::::
 
-## Important Definitions
+## Important Definitions {.page-break-before}
 
 - **Formats** There are different ways of calculating the results to rank competitors. Here are all the legal formats:
   - **Average of 5**: Every competitor gets five attempts. When they are done, the best and the worst results are discarded, and the average is calculated using the remaining three results.
@@ -326,9 +326,7 @@ _Ensure you adhere to the WCA Regulations and ask a Delegate!_
 
 ![](images/competitor-guide.png){.centered width=90%}
 
-<div class="spacer"></div>
-
-## Translations
+## Translations {.page-break-before}
 
 You can find translations of this document below. Contact [quality@worldcubeassociation.org](mailto:quality@worldcubeassociation.org) for instructions on how to add your own translation.
 
