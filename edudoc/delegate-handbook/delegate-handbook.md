@@ -43,7 +43,7 @@ There is a lot of information that is relevant to all WCA Volunteers, not just D
   - [Communicating with Competitors and their Families](#communicating-with-competitors-and-their-families)
   - [Generating Scrambles](#generating-scrambles)
   - [Generating Groups](#generating-groups)
-  - [Competition Cancelation and Rescheduling]
+  - [Competition Cancelation and Rescheduling](#competition-cancelation-and-rescheduling)
 - [Day of the Competition](#day-of-the-competition)
   - [Setup and Environment](#setup-and-environment)
   - [Check-In and Registration](#check-in-and-registration)
