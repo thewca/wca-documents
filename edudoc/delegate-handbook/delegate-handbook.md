@@ -43,6 +43,7 @@ There is a lot of information that is relevant to all WCA Volunteers, not just D
   - [Communicating with Competitors and their Families](#communicating-with-competitors-and-their-families)
   - [Generating Scrambles](#generating-scrambles)
   - [Generating Groups](#generating-groups)
+  - [Competition Cancelation and Rescheduling]
 - [Day of the Competition](#day-of-the-competition)
   - [Setup and Environment](#setup-and-environment)
   - [Check-In and Registration](#check-in-and-registration)
@@ -65,7 +66,7 @@ There is a lot of information that is relevant to all WCA Volunteers, not just D
     - [Extra Attempts](#extra-attempts)
       - [Provisional Extra Attempts](#provisional-extra-attempts)
     - [Regulation A7g](#regulation-a7g)
-    -  [Common Incidents](#common-incidents)
+    - [Common Incidents](#common-incidents)
   - [Competitors Requiring Accommodations](#competitors-requiring-accommodations)
   - [Handling Behavioral Issues](#handling-behavioral-issues)
   - [Preparing for Subsequent Rounds](#preparing-for-subsequent-rounds)
@@ -110,7 +111,7 @@ As the face of the WCA to the attendees of a competition, a Delegate has many co
 
 While Delegates are highly experienced Community members and often help out as organizers, it is important that they understand the distinction between their role as a Delegate and their role as an organizer. While some organizational tasks are often performed by a Delegate, such as generating groups and providing competition equipment, these are ultimately the organizer’s responsibility. Remember whose duties you are fulfilling, as it is important to distinguish actions performed as a representative of the WCA and as a non-WCA organizer.
 
-## The Dutiees of a WCA Delegate
+## The Duties of a WCA Delegate
 
 As outlined in the [WCA Delegates Motion](https://documents.worldcubeassociation.org/documents/motions/08.2024.1%20-%20Delegates.pdf) of the WCA, a Delegate is responsible for the following:
 
@@ -1112,7 +1113,7 @@ This section covers the responsibilities of a Delegate outside of directly deleg
 
 ## Managing WCA User Accounts
 
-### Accounts vs. WCA IDs (Profiles) {#accounts-vs-wca-ids}
+### Accounts vs. Profiles (WCA IDs)
 
 The difference between accounts (i.e. WCA accounts, website accounts, users) and WCA IDs (i.e. profiles, IDs, persons) is a common source of confusion, as they share the following key items of personal data:
 
