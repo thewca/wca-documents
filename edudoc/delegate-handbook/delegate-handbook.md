@@ -89,7 +89,7 @@ There is a lot of information that is relevant to all WCA Volunteers, not just D
   - [Lost and Found](#lost-and-found)
 - [Delegates Outside of the Competition](#delegates-outside-of-the-competition)
   - [Managing WCA User Accounts](#managing-wca-user-accounts)
-    - [Accounts vs. Profiles (WCA IDs)](#accounts-vs-wca-ids)
+    - [Accounts vs. Profiles (WCA IDs)](#accounts-vs-profiles)
     - [Handling WCA ID Claims](#handling-wca-id-claims)
     - [Requesting Changes to Personal Data](#requesting-changes-to-personal-data)
   - [Acquiring Competition Equipment](#acquiring-competition-equipment)
