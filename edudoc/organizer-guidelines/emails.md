@@ -101,13 +101,20 @@ Here is some information that you can consider including in an information packe
 - What should parents/guardians filming competitors be mindful of?
 - Where do competitors find their live results?
 - Are there any special practices that are unique to this region?
-::::: {.box .example} Example: Using registration ID instead of initials for scrambling and judging signature, whether to check in at the registration desk once a day or once across the whole competition.:::::
+
+::::: {.box .example}
+Example: Using registration ID instead of initials for scrambling and judging signature, whether to check in at the registration desk once a day or once across the whole competition.
+:::::
+
 - Has the schedule been recently revised?
 - Who are the sponsors?
 - Where can guests and competitors go while they are waiting for their group?
 - What is the parking situation at the venue?
 - What is your contact information in case someone struggles to find the venue?
-::::: {.box .important} It is highly recommended that you share your email draft with the Delegates and the organization team before sending it to all competitors.:::::
+
+::::: {.box .important}
+It is highly recommended that you share your email draft with the Delegates and the organization team before sending it to all competitors.
+:::::
 
 Parents/guardians tend to worry about their children’s well-being, so it is essential to help ease their worrying. Answer their most common questions in the email to the best of your knowledge or direct them to someone (e.g. a Delegate) who can provide a better answer.
 

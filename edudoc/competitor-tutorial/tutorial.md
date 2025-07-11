@@ -226,33 +226,33 @@ Remember that incorrectly stopping the solve leads to penalties!
 - **Misalignments**:
 
 <table class="table-with-images">
-  <tr>
-    <td>![](images/nopenalty.jpg)</td>
-    <td>**No penalty:** The cube is solved, and the misalignments of every layer compared to its adjacent layers are below 45°.</td>
-  </tr>
-  <tr>
-    <td>![](images/plus2.jpg)</td>
-    <td>**+2:** The cube is solved, but the misaligned layer exceeds 45°, which means the cube is one move away from being solved. Remember that the WCA Regulations consider a puzzle state to be one move away from the solved state if you only need to turn one side of the puzzle to reach the solved state – **even if it is a double turn.**</td>
-  </tr>
-  <tr>
-    <td>![](images/unclear.jpg)</td>
-    <td>**Ask the Delegate:** If it is unclear whether a +2 penalty should be applied, **do not touch the puzzle** and call a Delegate to the station.</td>
-  </tr>
-  <tr>
-    <td>![](images/DNF2moves.jpg)</td>
-    <td>**DNF:** When more than one move is required to solve the puzzle, the result of the attempt is DNF.</td>
-  </tr>
-  <tr>
-    <td>![](images/DNFslice.jpg)</td>
-    <td>**DNF:** If a middle layer of the puzzle is misaligned, this counts as two moves required to solve, as only outer layer turns are counted. Therefore, the result of the attempt is DNF.</td>
-  </tr>
+  <tr>
+    <td>![](images/nopenalty.jpg)</td>
+    <td>**No penalty:** The cube is solved, and the misalignments of every layer compared to its adjacent layers are below 45°.</td>
+  </tr>
+  <tr>
+    <td>![](images/plus2.jpg)</td>
+    <td>**+2:** The cube is solved, but the misaligned layer exceeds 45°, which means the cube is one move away from being solved. Remember that the WCA Regulations consider a puzzle state to be one move away from the solved state if you only need to turn one side of the puzzle to reach the solved state – **even if it is a double turn.**</td>
+  </tr>
+  <tr>
+    <td>![](images/unclear.jpg)</td>
+    <td>**Ask the Delegate:** If it is unclear whether a +2 penalty should be applied, **do not touch the puzzle** and call a Delegate to the station.</td>
+  </tr>
+  <tr>
+    <td>![](images/DNF2moves.jpg)</td>
+    <td>**DNF:** When more than one move is required to solve the puzzle, the result of the attempt is DNF.</td>
+  </tr>
+  <tr>
+    <td>![](images/DNFslice.jpg)</td>
+    <td>**DNF:** If a middle layer of the puzzle is misaligned, this counts as two moves required to solve, as only outer layer turns are counted. Therefore, the result of the attempt is DNF.</td>
+  </tr>
 </table>
 
 ::::: {.box .important}
 If you are uncertain about penalties, always ask a Delegate!
 :::::
 
-## Important Definitions
+## Important Definitions {.page-break-before}
 
 - **Formats** There are different ways of calculating the results to rank competitors. Here are all the legal formats:
   - **Average of 5**: Every competitor gets five attempts. When they are done, the best and the worst results are discarded, and the average is calculated using the remaining three results.
@@ -326,9 +326,7 @@ _Ensure you adhere to the WCA Regulations and ask a Delegate!_
 
 ![](images/competitor-guide.png){.centered width=90%}
 
-<div class="spacer"></div>
-
-## Translations
+## Translations {.page-break-before}
 
 You can find translations of this document below. Contact [quality@worldcubeassociation.org](mailto:quality@worldcubeassociation.org) for instructions on how to add your own translation.
 
