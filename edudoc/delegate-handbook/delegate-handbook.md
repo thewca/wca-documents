@@ -1013,7 +1013,7 @@ To submit the results for a competition, you must have access to the original fo
     2. Are dates of birth missing, or are you uncertain if a WCA ID is missing?
     3. Have rounds or entire events been dropped during the competition?
     4. Are there records that must be declined due to [Regulation 9i2](https://www.worldcubeassociation.org/regulations/#9i2)?
-    5. What was the main event at the competition? This is only necessary if the main event was 3x3x3 Cube. Although the prospective main event is submitted to the WCAT during the competition page submission, this is before the competition occurs. The WRT needs to know **how** a main event was treated as such during the competition.
+    5. What was the main event at the competition? This is only necessary if the main event wasn't 3x3x3 Cube. Although the prospective main event is submitted to the WCAT during the competition page submission, this is before the competition occurs. The WRT needs to know **how** a main event was treated as such during the competition.
     6. If there is anything else of importance for the WRT, please do not hesitate to include it. The more detailed it is, the better.
 14. Clearly outline anything irregular with the results submission, such as manual edits you made to the JSON file.
 15. Click “Submit Results” to send the results to the WRT. Every listed Delegate will receive a confirmation email that the results have been submitted.
