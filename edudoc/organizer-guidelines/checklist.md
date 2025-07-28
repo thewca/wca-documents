@@ -1,40 +1,38 @@
-# Competition checklist for organizers
+# Competition Checklist for Organizers
 
-This document will outline how competition organizers can make sure they have done everything necessary for the organization of their competition.
+This document outlines how organizers can ensure they have done everything necessary to organize their competition.
 
 ::::: {.box .important}
-The checklist itself can be accessed through [this link](https://docs.google.com/spreadsheets/d/1i5QStai9sJSrST2EUPBNwfejI0QeW3ojDJ9Ok-GpFCY).
+You can access the checklist [here](https://docs.google.com/spreadsheets/d/1i5QStai9sJSrST2EUPBNwfejI0QeW3ojDJ9Ok-GpFCY).
 :::::
 
-You will need to download this spreadsheet and add details that are necessary for your specific competition if there are any additional ones.
+This checklist serves as a tool to help guide you in the organization process and to give you a better understanding of it. You may edit a copy of the spreadsheet to suit your needs or the needs of organizers in your region, such as translating it into a local language.
 
 ::::: {.indent}
-The **first** page is a to-do list that outlines the most important tasks you will need to do as an organizer in order to make sure your competition runs smoothly. The second column shows whether or not the step is necessary to do for all competitions. Tick the cells in the third column as you finish the steps over time.
-:::::
-
-::::: {.indent}
-The **second** page is the list of all equipment that you will need for the competition as well as all the things you will need to get printed. First make sure you have everything marked as necessary or “If needed”, in case those items are applicable to your competition. You may write down the necessary amount of everything. Tick the cells in the fourth column as you get all of the items over time.
+The **“Checklist”** tab lists the most important tasks you must do as an organizer to ensure your competition runs smoothly. The second column shows whether the step is necessary at every competition. Tick the cells in the third column as you finish the steps over time.
 :::::
 
 ::::: {.indent}
-The **third** page is the expected budget for your competition. You will need to fill this out before the competition and send it to the Delegate(s). These can be estimates or actual values based on known prices. When using estimates for expenses it is better to overestimate than underestimate.
+The **“Equipment”** tab lists all the equipment you will need for the competition and everything you need to print. First, mark everything as necessary or “If needed” if those items apply to your competition. You can include the amount or quantity of each item in the “Amount” column. Mark the “Done” column as you get each item over time.
 :::::
 
 ::::: {.indent}
-The **fourth** page is the actual budget for your competition. You will need to put the final values of each item AFTER you make the payment as you go. This represents the factual final budget of your competition.
+The **“Expected budget”** tab is the expected budget for your competition. Please complete this form and send it to the Delegates before the competition. These can be estimates or actual values based on known prices. When using estimates for expenses, it is better to overestimate than underestimate.
 :::::
 
 ::::: {.indent}
-The **fifth** and final page is the list of volunteers that are helping you run the competition. This typically refers to people that are NOT listed as organizers or Delegates on the WCA page of the competition, but you may write them down as well. If there are no assigned volunteers, you may delete this page.
+The **“Final budget”** tab is the actual budget for your competition. You will need to put the final values of each item **after** you make the payment as you go.
 :::::
 
-Feel free to download and edit this spreadsheet to suit your personal needs or the needs of competition organizers in your region and feel free to translate it to your local language if necessary. This checklist is only meant to serve as a tool to help guide you in the organization process and to give you a better understanding of it.
+::::: {.indent}
+The **“Volunteers”** tab is the list of volunteers who are helping you run the competition. “Volunteers” typically refers to people **not** listed as organizers or Delegates on the WCA competition page, but you may include them too. If there are no assigned volunteers, you may delete this tab.
+:::::
 
 <div class="spacer"></div>
 
 ## Translations
 
-Below you can find translations of this document. Each of these also links to a checklist translated to the same language. Contact quality@worldcubeassociation.org for instructions on how to add your own translation.
+You can find translations of this document below. Each of these also links to a checklist translated into the same language. Contact [quality@worldcubeassociation.org](mailto:quality@worldcubeassociation.org) for instructions on how to add your own translation.
 
 - [Português Europeu (European Portuguese)](wcadoc{edudoc/organizer-guidelines/pt/checklist.pdf}) - translated by António Gomes
 - [Español (Spanish)](wcadoc{edudoc/organizer-guidelines/es/checklist.pdf}) - translated by Gennaro Monetti
