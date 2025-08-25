@@ -50,7 +50,8 @@ All figures are in US Dollars. Transactions in foreign currencies should be conv
 
 | WCA Volunteer Name    | Individual Role     | Gear Team Orders | Championship Support | Travel Funding | Equipment Funding | RO Support | Other Contracts | Other Budget Items             |
 | -------------------- | ------------------- | ---------------- | -------------------- | -------------- | ----------------- | ---------- | --------------- | ------------------------------ |
-| Blake Thompson       | WCA Board Member    | $10,000          | $50,000              | $5,000         | $10,000           | $5,000     | $10,000         | $5,000. $10,000 for legal fees | 
+| Blake Thompson       | WCA Board Member    | $10,000          | $50,000              | $5,000         | $10,000           | $5,000     | $10,000         | $5,000. $10,000 for legal fees |
+| Dan Smith            | WCA Board Member    | $10,000          | $50,000              | $5,000         | $10,000           | $5,000     | $10,000         | $5,000. $10,000 for legal fees | 
 | Raymond Goslow       | WCA Treasurer       | $10,000          | $50,000              | $5,000         | $10,000           | $5,000     | $10,000         | $5,000. $10,000 for legal fees |   
 | Edward Hollingdale   | WFC Leader          | $10,000          | $50,000              | $5,000         | $10,000           | $5,000     | $10,000         | $5,000. $10,000 for legal fees |   
 | Daniel M. James      | WFC Member          | $3,000           | $0                   | $0             | $3,000            | $0         | $0              | $0                             |  
