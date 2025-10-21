@@ -9,8 +9,15 @@
 ![]({logo}){width=60% margin=auto}
 :::::
 
-## 1. Name {.page-break-before}
+## 1. Identity {.page-break-before}
+### 1.1 Name
 The name of this corporation is World Cube Association (“WCA”).
+
+### 1.2 Purpose
+Our Purpose is to empower the global speedcubing community and uphold a fun and fair competitive environment for all.
+
+### 1.3 Values
+Our values are Community, Fairness, Fun, Excellence and Volunteerism.
 
 ## 2. Membership {.page-break-before}
 ### 2.1 Eligibility for Membership
