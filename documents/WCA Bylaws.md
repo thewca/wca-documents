@@ -9,8 +9,15 @@
 ![]({logo}){width=60% margin=auto}
 :::::
 
-## 1. Name {.page-break-before}
+## 1. Identity {.page-break-before}
+### 1.1 Name
 The name of this corporation is World Cube Association (“WCA”).
+
+### 1.2 Purpose
+Our Purpose is to empower the global speedcubing community and uphold a fun and fair competitive environment for all.
+
+### 1.3 Values
+Our values are Community, Fairness, Fun, Excellence and Volunteerism.
 
 ## 2. Membership {.page-break-before}
 ### 2.1 Eligibility for Membership
@@ -62,7 +69,7 @@ The amount required for annual dues shall be $0 each year for all membership typ
 Each voting member shall be eligible to appoint in writing one voting representative to cast the member’s vote in WCA elections.
 
 ### 2.9 Resignation and Termination
-Any member may resign by filing a written resignation with the secretary. Resignation shall not relieve a member of unpaid dues, or other charges previously accrued. A member can have their membership terminated by a majority vote of the membership.
+Any member may resign by filing a written resignation with the Secretary. Resignation shall not relieve a member of unpaid dues, or other charges previously accrued. A member can have their membership terminated by a majority vote of the membership, or by a supermajority (⅔) vote of the Board.
 
 ### 2.10 Annual Meetings
 An annual meeting of the members shall take place no later than 10 months after the end of the fiscal year, the specific date, time, and location of which will be designated by the chair. The annual meeting shall run according to the following agenda which must be circulated to the members not less than 2 weeks prior to the meeting:
