@@ -183,6 +183,7 @@ The WCA Delegate must submit the following information when requesting approval 
    4. The registration requirements may include the deadline for adding registered events for competitors with completed registrations.
       1. If there is a deadline, it must not be earlier than the time registration is set to close.
       2. The deadline for adding registered events may be left blank, in which competitors may add registered events up until an event takes place.
+         1. If this deadline is left blank and a competitor wishes to add a registered event after the round has started, it may be approved at the delegate's discretion.
       3. Competitors may choose not to compete in an event they are registered for.
       4. At the discretion of the WCA Delegate(s), a competitor who is deemed to have made a mistake with the user interface during the registration process (e.g. registering for the inverse list of events that they intended) can be granted an exception to the deadline for adding registered events.
    5. The registration requirements may include the conditions of the waiting list if one is to be used. Competitions are expected to use a waiting list unless specified by the organization team.
