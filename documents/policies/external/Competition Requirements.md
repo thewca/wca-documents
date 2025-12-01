@@ -90,9 +90,10 @@ The WCA Delegate must submit the following information when requesting approval 
    11. The name cannot contain any trademarks unless the organization team is formally authorized, in writing, to use such names.
    12. Names should not contain any unnecessary words (e.g. "Competition", "Comp").
    13. The competition short name and ID must resemble the competition name.
-      1. The competition short name and ID should only be modified if the competition name is too long (more than 32 characters). 
-         1. Exception: groups of competitions may have modified short names and IDs to ensure consistency with past and future competitions.
-      2. The competition short name must contain a locational identifier.
+       1. The competition short name and ID should only be modified if the competition name is too long (more than 32 characters).
+       2. The competition ID should be the same as the short name without spaces.
+          1. Exception: groups of competitions may have modified short names and IDs to ensure consistency with past and future competitions.
+       3. The competition short name must contain a locational identifier.
 2. Location(s)
    1. A location consists of the country, city, and venue.
    2. The location should also include subregions of the country that are common to include with addresses (e.g. the state a U.S. city is located in).
