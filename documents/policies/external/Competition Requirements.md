@@ -79,11 +79,11 @@ The WCA Delegate must submit the following information when requesting approval 
    5. The competition name must be 50 characters or less, including whitespaces.
    6. If the competition is named after anyone or anything, they must be persons or things lacking any controversial meaning worldwide.
    7. Names must contain a locational identifier. The short name must contain a part of this locational identifier. These include:
-        1. Country, city or administrative division (e.g. state, province, region, district, county, metropolitan area),
+        1. Country, city or administrative division (e.g. state, province, region, district, county, metropolitan area);
            1. An extra locational identifier may be required if the competition's city name is the same as a much larger city at the discretion of WCAT. (Example: London, Texas, USA versus London, UK) 
-        2. The name of the venue,
-        3. A commonly used demonym of the region or its residents,
-        4. Local language specific to the region,
+        2. The name of the venue;
+        3. A commonly used demonym of the region or its residents;
+        4. Words in a local language other than English, French, Portuguese, or Spanish;
         5. Other locational identifiers may be accepted at the discretion of the WCAT.
    8. Competitions may not be named after a living cuber, member of the organization team, or any competition volunteers, including pseudonyms or online tags of such people.
    9. Names must not contain possibly offensive parts or memes.
