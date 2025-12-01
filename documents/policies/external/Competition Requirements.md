@@ -226,9 +226,15 @@ The WCA Delegate must submit the following information when requesting approval 
       1. A competition must be located entirely within the region where the championship type is selected.
          1. Exception: A National Championship that only has 3x3x3 Fewest Moves and that is a part of a simultaneous competition, and has at least one location within the region.
       2. A competition may have multiple championship types.
-      3. A championship type for a region must only be assigned to one competition in a year.
-         1. Exception: Two competitions may have the same Championship status if one of the competitions has only 3x3x3 Fewest Moves as an event and the other competition does not hold the event 3x3x3 Fewest Moves. The two competitions must be held in the same calendar year.
+      3. A championship type for a region must only be assigned on the following basis, with each event held at most once per region per year.
+         1. One competition per region per year is to be considered the Main Championship for the region and is permitted to hold any events. This competition must hold 3x3x3 Cube.
+         2. A competition to be considered the Quiet Championship may be held. This competition is permitted to hold any combination of the following events: 3x3x3 Blindfolded, 3x3x3 Fewest Moves, 4x4x4 Blindfolded, 5x5x5 Blindfolded, and 3x3x3 Multi-Blind.
+            1. Any of the listed events may also be held at the Main Championship, at the discretion of the organization team.
+         3. If a Main Championship is also present, a competition to be considered the Fewest Moves Championship may be held. This competition is permitted to hold only the 3x3x3 Fewest Moves event.
       4. An additional selection process is conducted by the WCA Board for organizing Continental and World Championships.
+      5. If a championship type is being assigned to a competition, a Main Championship must be present, and optionally a Quiet Championship and/or a Fewest Moves Championship.
+      6. Only 3x3x3 Cube may be the main event for a championship competition.
+         1. If present, the Quiet Championship and/or Fewest Moves Championship must have no main event.
    2. Naming
       1. Continental and World Championships names shall be as agreed between the Organizing team and the WCA Board.
       2. If used, the word "Championship" must be singular in the competition name.
