@@ -47,6 +47,10 @@ An official WCA Competition must:
       1. The competition website cannot link to web pages that advertise specific products or services of the sponsor (unless it is the sponsor’s homepage).
       2. The competition website cannot advertise any specific products or services of the sponsor, including any endorsements of quality or price.
    3. The competition website may acknowledge the sponsorship contribution.
+   4. WCA competitions must only collaborate with the following types of organizations:
+      1. Local organizing support (e.g. WCA Regional Organizations, local clubs, university groups, unaffiliated sub-regional organizations, local events/groups unrelated to speedcubing).
+      2. Business entities (e.g. cube stores, general vendors) acting purely as sponsors or advertisers.
+      3. Entities that have received explicit approval from the WCA Board of Directors.
 10. Competitions with proceeds going to a charity must indicate so on the competition website, preferably in the Information section of the 'General info' tab. The name of the charity must be included. Any such charity needs to be recognized in the country where the competition is held.
     1. Having this indicated on the competition website must be done as soon as the charity of the proceeds for has been decided. This must be done prior to the competition taking place.
 
