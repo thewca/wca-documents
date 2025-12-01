@@ -217,6 +217,12 @@ The WCA Delegate must submit the following information when requesting approval 
       1. The competition is at least 5 days away.
       2. A registration period for the competition must have a minimum of 24 hours before it closes.
       3. The competitor limit must not be completely filled.
+   5. The Delegate may request to hold a Head to Head round.
+      1. The Head to Head round must follow Article I of the WCA Regulations
+      2. The request must be made at least 7 days before the start of the competition.
+      3. The WCAT will consider these requests based on the following criteria:
+         1. The number of competitors at the competition.
+         2. The number of rounds of the event for which a Head to Head round is planned.
 8. Schedule
    1. The schedule must be published on the WCA website using the WCA schedule tool.
    2. The schedule should be manageable by the competition's WCA Delegate(s) and adhere to the WCA quality standards.
