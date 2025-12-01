@@ -1,6 +1,8 @@
-::::: {.text-center} DRAFT MINUTES OF ANNUAL MEETING OF THE MEMBERS OF WORLD CUBE ASSOCIATION
+::::: {.text-center}
+MINUTES OF ANNUAL MEETING OF THE MEMBERS OF WORLD CUBE ASSOCIATION
 
-A California Nonprofit Public Benefit Corporation :::::
+A California Nonprofit Public Benefit Corporation
+:::::
 
 On August 12, 2023 at 9:45 a.m. UTC, the Members of the World Cube Association met for an annual meeting in-person at the Rubik’s WCA World Championship in Seoul, Republic of Korea at the Songdo ConvensiA. The following voting Members were present at the meeting:
 
