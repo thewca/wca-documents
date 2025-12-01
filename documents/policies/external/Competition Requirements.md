@@ -16,7 +16,8 @@ An official WCA Competition must:
 4. Be open to all competitors and spectators who wish to attend, up to the maximum capacity stated on the website or otherwise permitted by the venue. 
    1. Any restrictions placed on competitors and/or spectators who can attend must be publicly outlined in the competition information section and approved by the WCA Board or WCA Competition Announcement Team.
    2. Individuals suspended from attending WCA sanctioned competitions must not attend any WCA sanctioned competitions until the period of their suspension has expired (see 1.1 of Suspensions and other Sanctions).
-   3. A WCA Delegate may require individuals to leave the competition venue for behavior that is unlawful/violent/indecent/unsafe, or intentionally damages venue facilities or personal property within the venue. Delegates must take into account the seriousness of the situation and the best possible course of action. Delegates must also report any such incidents to the WCA Integrity Committee to determine the need for disciplinary action.
+      1. The WCA Integrity Committee may cancel the registrations of competitors for upcoming competitions when they are sanctioned.
+   4. A WCA Delegate may require individuals to leave the competition venue for behavior that is unlawful/violent/indecent/unsafe, or intentionally damages venue facilities or personal property within the venue. Delegates must take into account the seriousness of the situation and the best possible course of action. Delegates must also report any such incidents to the WCA Integrity Committee to determine the need for disciplinary action.
 5. Be held on a single date or on two or more consecutive days.
 6. Have at least one official event.
 7. Have at least two competitors.
