@@ -135,14 +135,17 @@ The WCA Delegate must submit the following information when requesting approval 
 5. Competitor limit
    1. The competitor limit can be on either a "first come first served" basis or based upon qualification results or rankings in the WCA world rankings of a previously announced calendar date.
       1. Qualification for an event must be based only on results from the same event.
-        1. Exception: a qualification requirement for the entire competition may be having competed in at least one WCA competition.
-        2. Exception: Any success in a Blindfolded event may be used as a qualification result for other blind events. 
+         1. Exception: a qualification requirement for the entire competition may be having competed in at least one WCA competition.
+         2. Exception: Any success in a Blindfolded event may be used as a qualification result for other blind events. 
       2. Qualification for an event must be based on the official format of the event (average results for “Average of” or “Mean of” events and single results for “Best of” events, as outlined in ([WCA Regulation 9b)](wca{regulations/#9b})))
          1. Average results must be used for 3x3x3 Fewest Moves regardless of the format that the competition will use.
          2. Exception: in case of using average/mean results, single results must be used to break ties.
       3. Qualification for 3x3x3 Multi-Blind must only be based on the number of points achieved in an attempt.
          1. Ties in 3x3x3 Multi-Blind qualification results may be broken by time and then number of unsolved cubes.
       4. The qualification result is based on the last day of the competition at which it was achieved.
+      5. Qualification for an event may be based on results from a certain time period.
+         1. The time period must be at least 90 days.
+         2. The time period must end on the day of the qualification deadline
    2. If the competitor limit for a competition or an event is reached before the competition, the organization team must not approve any additional registrations for the competition or the event.
        1. If on-site registration was advertised and the competitor limit was reached when registration closed, on-site registrations must not be accepted.
    3. The competitor limit is per competition or per event. Per day competitor limits are not allowed.
