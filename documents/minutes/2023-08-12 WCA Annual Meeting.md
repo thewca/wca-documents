@@ -6,9 +6,27 @@ A California Nonprofit Public Benefit Corporation
 
 On August 12, 2023 at 9:45 a.m. UTC, the Members of the World Cube Association met for an annual meeting in-person at the Rubik’s WCA World Championship in Seoul, Republic of Korea at the Songdo ConvensiA. The following voting Members were present at the meeting:
 
-::::: {.text-center} Antonio Kam (甘浩東), Arthur Garcin, Aysha Jamsheer, Blake Thompson, Brendan James Gray, Callum James Goodyear, Carter Kucala, Chan Tak Chuen (陳德泉), Charlie van Ooran, Chenxi Shan (单晨曦), Chris Martin, Daniel James, Daniel Wallin, Edward Hollingdale, Ethan Pride, Fangyuan Chang (常方圆), Gregor Billing, Henrik Buus Aagard, Ilya Tsiareshka, Jacob Ambrose, Jae Park, Jonathan Esparaz, Joshua Feran, Jules Desjardin, Kerrie Jarman, Kristopher De Asis, Laura Holzhauer, Laura Ohrndorf, Lauren Clement, Lina Tissier, Lisa Kucala, Lucas Garron, Mason Langenderfer, Matteo Provasi, Matthew Dickman, Michael Chai (柴天方), Michael Young, Ming Zheng (郑鸣), Mitchell Lane, Nikolai Masson, Niko Ronkainen, Patrick Kleverlaan, Pauline Bonnaudet, Pedro Miranda Moreira, Peri Le Dain, Philippe Virouleau, Przemysław Rogalski, Ron van Bruchem, Rui Reis, Sébastien Auroux, Sachin Arvind, Sarah Strong, Sebastiano Tronto, Shelley Chang, Simone Cantarelli, Somya Srivastava, Stephen Griggs, Tanai Chaikraveephand (ธนัย ชัยกระวีพันธ์), Tim Reynolds, Timothy Lawrance, Tommaso Raposio, Ulrik Bredland, Vicki Otsu, Walker Welch, Wilson Alvis (陈智胜), Zhou Yichen (周奕臣) \<br\>
+::::: {.text-center}
+Antonio Kam (甘浩東), Arthur Garcin, Aysha Jamsheer, Blake Thompson <br>
+Brendan James Gray, Callum James Goodyear, Carter Kucala, Chan Tak Chuen (陳德泉) <br>
+Charlie van Ooran, Chenxi Shan (单晨曦), Chris Martin, Daniel James <br>
+Daniel Wallin, Edward Hollingdale, Ethan Pride, Fangyuan Chang (常方圆) <br>
+Gregor Billing, Henrik Buus Aagard, Ilya Tsiareshka, Jacob Ambrose <br>
+Jae Park, Jonathan Esparaz, Joshua Feran, Jules Desjardin <br>
+Kerrie Jarman, Kristopher De Asis, Laura Holzhauer, Laura Ohrndorf <br>
+Lauren Clement, Lina Tissier, Lisa Kucala, Lucas Garron <br>
+Mason Langenderfer, Matteo Provasi, Matthew Dickman, Michael Chai (柴天方) <br>
+Michael Young, Ming Zheng (郑鸣), Mitchell Lane, Nikolai Masson <br>
+Niko Ronkainen, Patrick Kleverlaan, Pauline Bonnaudet, Pedro Miranda Moreira <br>
+Peri Le Dain, Philippe Virouleau, Przemysław Rogalski, Ron van Bruchem <br>
+Rui Reis, Sébastien Auroux, Sachin Arvind, Sarah Strong <br>
+Sebastiano Tronto, Shelley Chang, Simone Cantarelli, Somya Srivastava <br>
+Stephen Griggs, Tanai Chaikraveephand (ธนัย ชัยกระวีพันธ์), Tim Reynolds, Timothy Lawrance <br>
+Tommaso Raposio, Ulrik Bredland, Vicki Otsu, Walker Welch <br>
+Wilson Alvis (陈智胜), Zhou Yichen (周奕臣) <br>
 
-At the time of the meeting the World Cube Association had 192 voting members. With 66 voting members additionally represented by proxy, a total of 163 voting members were represented at the meeting. As such, a quorum was present. :::::
+At the time of the meeting the World Cube Association had 192 voting members. With 66 voting members additionally represented by proxy, a total of 163 voting members were represented at the meeting. As such, a quorum was present.
+:::::
 
 ### **APPROVAL OF THE MINUTES OF THE PREVIOUS ANNUAL MEETING {.text-center}**
 
@@ -62,7 +80,9 @@ The next meeting shall be conducted in October of 2024 and be made available by 
 
 There being no further business, the meeting was closed at 10:30 a.m. UTC.
 
-::::: {.text-right} \<u\>/s/ Blake Thompson \</u\>
+::::: {.text-right}
+<u>/s/ Blake Thompson</u>
 
-Secretary of the WCA :::::
+Secretary of the WCA
+:::::
 
