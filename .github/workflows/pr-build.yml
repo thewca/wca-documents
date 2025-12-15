@@ -17,7 +17,7 @@ jobs:
       - name: Run the PDF compilation process
         run: bin/build.sh
 
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v6
         with:
           name: build
           path: build
