@@ -1,5 +1,5 @@
 ::::: {.text-center}
-DRAFT MINUTES OF ANNUAL MEETING OF THE MEMBERS OF WORLD CUBE ASSOCIATION
+MINUTES OF ANNUAL MEETING OF THE MEMBERS OF WORLD CUBE ASSOCIATION
 
 A California Nonprofit Public Benefit Corporation
 :::::
@@ -16,8 +16,7 @@ Matteo Provasi, Niko Ronkainen, Nikolay Masson, Oleg Gritsenko <br>
 Olli Vikstedt, Pedro Miranda Moreira, Rui Reis, Sachin Arvind <br>
 Sam Spendla, Saransh Grover, Sebastiano Tronto, Sébastien Auroux <br>
 Serhii Koksharov, Simone Cantarelli, Somya Srivastava, Tim Reynolds <br>
-Ulrik Bredland  <br>
-
+Ulrik Bredland <br>
 
 At the time of the meeting the World Cube Association had 162 voting members. With 28 voting members additionally represented by proxy a total of 65 voting members were represented at the meeting and as such a quorum was present.
 :::::
