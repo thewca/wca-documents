@@ -143,9 +143,8 @@ The WCA Delegate must submit the following information when requesting approval 
       3. Qualification for 3x3x3 Multi-Blind must only be based on the number of points achieved in an attempt.
          1. Ties in 3x3x3 Multi-Blind qualification results may be broken by time and then number of unsolved cubes.
       4. The qualification result is based on the last day of the competition at which it was achieved.
-      5. Qualification for an event may be based on results from a certain time period.
-         1. The time period must be at least 90 days.
-         2. The time period must end on the day of the qualification deadline
+      5. Qualification for an event may be based on results after a certain date.
+         1. The time between the start and end date for qualification times must be at least 90 days.
    2. If the competitor limit for a competition or an event is reached before the competition, the organization team must not approve any additional registrations for the competition or the event.
        1. If on-site registration was advertised and the competitor limit was reached when registration closed, on-site registrations must not be accepted.
    3. The competitor limit is per competition or per event. Per day competitor limits are not allowed.
