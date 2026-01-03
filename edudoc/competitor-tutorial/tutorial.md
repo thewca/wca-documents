@@ -47,7 +47,7 @@ If you are uncertain about something, always ask the Delegate!
   3. properly formatted
   4. clearly readable
 
-![](images/score sheet.png){.centered}
+![](images/scoresheet.png){.centered}
 
 ::::: {.box .attention}
 If a time on a score sheet is illegible, the score taker will enter the worst interpretable result for that attempt.
