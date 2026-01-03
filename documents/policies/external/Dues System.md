@@ -1,6 +1,6 @@
 # WCA Dues System Policy
 
-### Version 1.9 {.version}
+### Version 1.10 {.version}
 
 ## Purpose
 The WCA Dues System is a program by which the WCA will collect revenue on a per-competitor-per-competition basis from WCA Delegates and/or Regional Organizations in order to further the Mission and the Spirit of the WCA. The policy intends that WCA Delegates and/or Regional Organizations will fund the amount owed either by charging registration fees to their competitors, soliciting competition sponsors, or by using some other means of collecting money on behalf of their respective communities.
@@ -37,9 +37,10 @@ The WCA Dues System is a program by which the WCA will collect revenue on a per-
    2. A region not recognized separately by the WCA may be subject to a different country band from the country it falls within, based on geographic separation and/or economic differences, at the discretion of the WFC.
 4. To determine the Dues amount based on the country band, look up the competition’s band and the associated per-competitor Dues amount in the [country bands list](https://www.worldcubeassociation.org/wfc/country-bands).
 5. To determine the Dues amount based on registration fees, follow the flow below:
-   1. For countries in Bands 3, 4, and 5, the Dues amount based on registration fees is equal to 15% of the base registration fee as stated on the WCA website, as converted to US Dollars based on the exchange rate on the final day of the competition.
-   2. For countries in Bands 1 and 2, the Dues amount based on registration fees is equal to 5% of the base registration fee as stated on the WCA website, as converted to US Dollars based on the exchange rate on the final day of the competition.
-   3. For Band 0, the Dues amount based on registration fees is always zero as countries in Band 0 are not subject to Dues.
+   1. For countries in Bands 4 and 5, the Dues amount based on registration fees is equal to 15% of the base registration fee as stated on the WCA website, as converted to US Dollars based on the exchange rate on the final day of the competition.
+   2. For countries in Band 3, the Dues amount based on registration fees is equal to 10% of the base registration fee as stated on the WCA website, as converted to US Dollars based on the exchange rate on the final day of the competition.
+   3. For countries in Bands 1 and 2, the Dues amount based on registration fees is equal to 5% of the base registration fee as stated on the WCA website, as converted to US Dollars based on the exchange rate on the final day of the competition.
+   4. For Band 0, the Dues amount based on registration fees is always zero as countries in Band 0 are not subject to Dues.
 6. For the purpose of calculating the Dues amount based on registration fees, the base registration fee as stated on the WCA website must be equal to the minimum payment required to register for at least one event by a competitor who is not a member of any group eligible for a lowered/waived registration fee.
    1. Exception: if all competitors have an equal opportunity to become a member of a group eligible for a lowered/waived registration fee at no additional cost, the base registration fee may be set to the amount required to register by a member of that group.
 
