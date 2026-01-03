@@ -89,7 +89,7 @@ There is a lot of information that is relevant to all WCA Volunteers, not just D
   - [Lost and Found](#lost-and-found)
 - [Delegates Outside of the Competition](#delegates-outside-of-the-competition)
   - [Managing WCA User Accounts](#managing-wca-user-accounts)
-    - [Accounts vs. Profiles (WCA IDs)](#accounts-vs-profiles)
+    - [Accounts vs. Profiles (WCA IDs)](#accounts-vs.-profiles-wca-ids)
     - [Handling WCA ID Claims](#handling-wca-id-claims)
     - [Requesting Changes to Personal Data](#requesting-changes-to-personal-data)
   - [Acquiring Competition Equipment](#acquiring-competition-equipment)
@@ -773,7 +773,7 @@ When an incident arises during an attempt, encourage competitors to stop the att
 
 The following is a general decision tree for handling incidents. It should give you a general idea of what to consider and the typical outcome of an incident. However, **this decision tree is always welcome to be overruled by the Delegate when they believe their decision is more fair**.
 
-![](images/extra attempt-decision-tree.png){.centered width=90%}
+![](images/extra-decision-tree.png){.centered width=90%}
 
 #### Provisional Extra Attempts
 
