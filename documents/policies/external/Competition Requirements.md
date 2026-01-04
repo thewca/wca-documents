@@ -1,6 +1,6 @@
 # WCA Competition Requirements Policy
 
-### Version 5.4 {.version}
+### Version 5.5 {.version}
 
 ## Purpose
 The purpose of this policy is to define the requirements and processes that a competition must meet and follow in order to be recognized as a WCA Competition.
@@ -16,6 +16,7 @@ An official WCA Competition must:
 4. Be open to all competitors and spectators who wish to attend, up to the maximum capacity stated on the website or otherwise permitted by the venue. 
    1. Any restrictions placed on competitors and/or spectators who can attend must be publicly outlined in the competition information section and approved by the WCA Board or WCA Competition Announcement Team.
    2. Individuals suspended from attending WCA sanctioned competitions must not attend any WCA sanctioned competitions until the period of their suspension has expired (see 1.1 of Suspensions and other Sanctions).
+      1. The WCA Integrity Committee may cancel the registrations of competitors for upcoming competitions when they are sanctioned.
    3. A WCA Delegate may require individuals to leave the competition venue for behavior that is unlawful/violent/indecent/unsafe, or intentionally damages venue facilities or personal property within the venue. Delegates must take into account the seriousness of the situation and the best possible course of action. Delegates must also report any such incidents to the WCA Integrity Committee to determine the need for disciplinary action.
 5. Be held on a single date or on two or more consecutive days.
 6. Have at least one official event.
@@ -47,6 +48,10 @@ An official WCA Competition must:
       1. The competition website cannot link to web pages that advertise specific products or services of the sponsor (unless it is the sponsor’s homepage).
       2. The competition website cannot advertise any specific products or services of the sponsor, including any endorsements of quality or price.
    3. The competition website may acknowledge the sponsorship contribution.
+   4. WCA competitions must only collaborate with the following types of organizations:
+      1. Local organizing support (e.g. WCA Regional Organizations, local clubs, university groups, unaffiliated sub-regional organizations, local events/groups unrelated to speedcubing).
+      2. Business entities (e.g. cube stores, general vendors) acting purely as sponsors or advertisers.
+      3. Entities that have received explicit approval from the WCA Board of Directors.
 10. Competitions with proceeds going to a charity must indicate so on the competition website, preferably in the Information section of the 'General info' tab. The name of the charity must be included. Any such charity needs to be recognized in the country where the competition is held.
     1. Having this indicated on the competition website must be done as soon as the charity of the proceeds for has been decided. This must be done prior to the competition taking place.
 
@@ -74,11 +79,11 @@ The WCA Delegate must submit the following information when requesting approval 
    5. The competition name must be 50 characters or less, including whitespaces.
    6. If the competition is named after anyone or anything, they must be persons or things lacking any controversial meaning worldwide.
    7. Names must contain a locational identifier. The short name must contain a part of this locational identifier. These include:
-        1. Country, city or administrative division (e.g. state, province, region, district, county, metropolitan area),
+        1. Country, city or administrative division (e.g. state, province, region, district, county, metropolitan area);
            1. An extra locational identifier may be required if the competition's city name is the same as a much larger city at the discretion of WCAT. (Example: London, Texas, USA versus London, UK) 
-        2. The name of the venue,
-        3. A commonly used demonym of the region or its residents,
-        4. Local language specific to the region,
+        2. The name of the venue;
+        3. A commonly used demonym of the region or its residents;
+        4. Words in a local language other than English, French, Portuguese, or Spanish;
         5. Other locational identifiers may be accepted at the discretion of the WCAT.
    8. Competitions may not be named after a living cuber, member of the organization team, or any competition volunteers, including pseudonyms or online tags of such people.
    9. Names must not contain possibly offensive parts or memes.
@@ -86,9 +91,10 @@ The WCA Delegate must submit the following information when requesting approval 
    11. The name cannot contain any trademarks unless the organization team is formally authorized, in writing, to use such names.
    12. Names should not contain any unnecessary words (e.g. "Competition", "Comp").
    13. The competition short name and ID must resemble the competition name.
-      1. The competition short name and ID should only be modified if the competition name is too long (more than 32 characters). 
-         1. Exception: groups of competitions may have modified short names and IDs to ensure consistency with past and future competitions.
-      2. The competition short name must contain a locational identifier.
+       1. The competition short name and ID should only be modified if the competition name is too long (more than 32 characters).
+       2. The competition ID should be the same as the short name without spaces.
+          1. Exception: groups of competitions may have modified short names and IDs to ensure consistency with past and future competitions.
+       3. The competition short name must contain a locational identifier.
 2. Location(s)
    1. A location consists of the country, city, and venue.
    2. The location should also include subregions of the country that are common to include with addresses (e.g. the state a U.S. city is located in).
@@ -105,9 +111,7 @@ The WCA Delegate must submit the following information when requesting approval 
    5. 3x3x3 Fewest Moves simultaneous competitions
       1. 3x3x3 Fewest Moves simultaneous competitions are WCA competitions having only the 3x3x3 Fewest Moves event and taking place simultaneously in different locations.
          1. Any location must be announced at least 14 days (two weeks) before 00:00 UTC of the start date of the competition on the WCA website.
-         2. If any location of such competitions is closer than 10 km to any other competition, then:
-            1. both competitions should be at least 5 days apart, or
-            2. the other competition must not have the 3x3x3 Fewest Moves event.
+         2. The proximity policy applies to each location of a simultaneous competition.
       2. Every location must clearly state who is the WCA Delegate for the venue.
             1. There must be a listed non-Trainee Delegate at each venue.
       3. A 3x3x3 Fewest Moves simultaneous competition cannot be part of any other regular competition.
@@ -131,14 +135,16 @@ The WCA Delegate must submit the following information when requesting approval 
 5. Competitor limit
    1. The competitor limit can be on either a "first come first served" basis or based upon qualification results or rankings in the WCA world rankings of a previously announced calendar date.
       1. Qualification for an event must be based only on results from the same event.
-        1. Exception: a qualification requirement for the entire competition may be having competed in at least one WCA competition.
-        2. Exception: Any success in a Blindfolded event may be used as a qualification result for other blind events. 
+         1. Exception: a qualification requirement for the entire competition may be having competed in at least one WCA competition.
+         2. Exception: Any success in a Blindfolded event may be used as a qualification result for other blind events. 
       2. Qualification for an event must be based on the official format of the event (average results for “Average of” or “Mean of” events and single results for “Best of” events, as outlined in ([WCA Regulation 9b)](wca{regulations/#9b})))
          1. Average results must be used for 3x3x3 Fewest Moves regardless of the format that the competition will use.
          2. Exception: in case of using average/mean results, single results must be used to break ties.
       3. Qualification for 3x3x3 Multi-Blind must only be based on the number of points achieved in an attempt.
          1. Ties in 3x3x3 Multi-Blind qualification results may be broken by time and then number of unsolved cubes.
       4. The qualification result is based on the last day of the competition at which it was achieved.
+      5. Qualification for an event may be based on results after a certain date.
+         1. The time between the start and end date for qualification times must be at least 90 days.
    2. If the competitor limit for a competition or an event is reached before the competition, the organization team must not approve any additional registrations for the competition or the event.
        1. If on-site registration was advertised and the competitor limit was reached when registration closed, on-site registrations must not be accepted.
    3. The competitor limit is per competition or per event. Per day competitor limits are not allowed.
@@ -174,6 +180,7 @@ The WCA Delegate must submit the following information when requesting approval 
    4. The registration requirements may include the deadline for adding registered events for competitors with completed registrations.
       1. If there is a deadline, it must not be earlier than the time registration is set to close.
       2. The deadline for adding registered events may be left blank, in which competitors may add registered events up until an event takes place.
+         1. If this deadline is left blank and a competitor wishes to add a registered event after the round has started, it may be approved at the delegate's discretion.
       3. Competitors may choose not to compete in an event they are registered for.
       4. At the discretion of the WCA Delegate(s), a competitor who is deemed to have made a mistake with the user interface during the registration process (e.g. registering for the inverse list of events that they intended) can be granted an exception to the deadline for adding registered events.
    5. The registration requirements may include the conditions of the waiting list if one is to be used. Competitions are expected to use a waiting list unless specified by the organization team.
@@ -210,6 +217,12 @@ The WCA Delegate must submit the following information when requesting approval 
       1. The competition is at least 5 days away.
       2. A registration period for the competition must have a minimum of 24 hours before it closes.
       3. The competitor limit must not be completely filled.
+   5. The Delegate may request to hold a Head to Head round.
+      1. The Head to Head round must follow Article I of the WCA Regulations
+      2. The request must be made at least 7 days before the start of the competition.
+      3. The WCAT will consider these requests based on the following criteria:
+         1. The number of competitors at the competition.
+         2. The number of rounds of the event for which a Head to Head round is planned.
 8. Schedule
    1. The schedule must be published on the WCA website using the WCA schedule tool.
    2. The schedule should be manageable by the competition's WCA Delegate(s) and adhere to the WCA quality standards.
@@ -226,9 +239,15 @@ The WCA Delegate must submit the following information when requesting approval 
       1. A competition must be located entirely within the region where the championship type is selected.
          1. Exception: A National Championship that only has 3x3x3 Fewest Moves and that is a part of a simultaneous competition, and has at least one location within the region.
       2. A competition may have multiple championship types.
-      3. A championship type for a region must only be assigned to one competition in a year.
-         1. Exception: Two competitions may have the same Championship status if one of the competitions has only 3x3x3 Fewest Moves as an event and the other competition does not hold the event 3x3x3 Fewest Moves. The two competitions must be held in the same calendar year.
+      3. A championship type for a region must only be assigned on the following basis, with each event held at most once per region per year.
+         1. One competition per region per year is to be considered the Main Championship for the region and is permitted to hold any events. This competition must hold 3x3x3 Cube.
+         2. A competition to be considered the Quiet Championship may be held. This competition is permitted to hold any combination of the following events: 3x3x3 Blindfolded, 3x3x3 Fewest Moves, 4x4x4 Blindfolded, 5x5x5 Blindfolded, and 3x3x3 Multi-Blind.
+            1. Any of the listed events may also be held at the Main Championship, at the discretion of the organization team.
+         3. If a Main Championship is also present, a competition to be considered the Fewest Moves Championship may be held. This competition is permitted to hold only the 3x3x3 Fewest Moves event.
       4. An additional selection process is conducted by the WCA Board for organizing Continental and World Championships.
+      5. If a championship type is being assigned to a competition, a Main Championship must be present, and optionally a Quiet Championship and/or a Fewest Moves Championship.
+      6. Only 3x3x3 Cube may be the main event for a championship competition.
+         1. If present, the Quiet Championship and/or Fewest Moves Championship must have no main event.
    2. Naming
       1. Continental and World Championships names shall be as agreed between the Organizing team and the WCA Board.
       2. If used, the word "Championship" must be singular in the competition name.
