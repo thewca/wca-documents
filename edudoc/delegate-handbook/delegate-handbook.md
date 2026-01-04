@@ -588,7 +588,7 @@ When checking in a first-time competitor, verify the following information:
   - According to [Regulation 2e](https://www.worldcubeassociation.org/regulations/#2e), competitors must represent a country where they hold citizenship. Take additional caution when verifying a competitor’s country of registration, as many competitors will mistakenly indicate their country of residence or heritage.
 - They have never competed at a WCA competition before
 
-If a first-time competitor does not have a form of identification available, it is acceptable to allow the competitor to verbally confirm their name and date of birth. If they cannot provide a document proving citizenship, make a note for this competitor and inform them to send the documentation to you via email after the competition. Competitors without any citizenship may compete as “Stateless” under [Regulation 2e3](https://www.worldcubeassociation.org/regulations/#2e3). Contact the WCA Results Team (WRT) if you encounter such a competitor.
+If a first-time competitor does not have a form of identification available, it is acceptable to allow the competitor to verbally confirm their name and date of birth. If they cannot provide a document proving citizenship, make a note for this competitor and inform them to send the documentation to you via email after the competition. If a competitor is stateless (has no citizenship of any country), contact the WCA Results Team (WRT) for advice.
 
 ## First-Time Competitor Tutorial
 
@@ -811,7 +811,7 @@ The following incidents occur frequently at competitions and have a standard way
   <tr>
     <td>Timer was in 4-pad mode.</td>
     <td>
-    [Regulation 7f4](https://www.worldcubeassociation.org/regulations/#7f4) specifies that the timer must be in 2-pad mode. Changing modes on a Gen 5 timer takes several seconds, so it is unreasonable to expect the competitor to switch modes during the inspection phase. Grant an extra attempt and inform the judge and competitor to check the color of the light. An orange light indicates 2-pad mode. A blue light indicates 4-pad mode.</br></br>
+    The [Approved Timer List](https://drive.google.com/file/d/1UizYZOY4v-t7YnKcXas0hHzekX-NGuhW/view) specifies that Gen 5 timers must be in 2-pad mode. Changing modes takes several seconds, so it is unreasonable to expect the competitor to switch modes during the inspection phase. Grant an extra attempt and inform the judge and competitor to check the color of the light. An orange light indicates 2-pad mode. A blue light indicates 4-pad mode.</br></br>
     Timers occasionally malfunction and switch to 4-pad mode on their own. When this happens, make a note of which timer had the issue and replace it if the issue continues to persist. Consider whether the specific timer has recently malfunctioned when granting an extra attempt to a competitor for a potential timer malfunction.
     </td>
   </tr>
@@ -864,17 +864,10 @@ The following incidents occur frequently at competitions and have a standard way
     </td>
   </tr>
   <tr>
-    <td>Competitor was using a device with a front-facing screen.</td>
+    <td>Competitor was found using a non-permitted object.</td>
     <td>
-    You may grant an extra attempt if the competitor is inexperienced per [Regulations A7g](https://www.worldcubeassociation.org/regulations/#A7g). Otherwise, the judge must record the attempt as a DNF.</br></br>
-    If the competitor used the device during previous attempts, you must also change those attempts to a DNF result. The penalty for previous attempts may be lifted at your discretion if you believe the competitor did not get assistance from the screen, but you must not allow them to keep using the screen in such a way.</br></br>
-    </td>
-  </tr>
-  <tr>
-    <td>Competitor was using electronic headphones.</td>
-    <td>
-    You may grant an extra attempt if the competitor is inexperienced per [Regulations A7g](https://www.worldcubeassociation.org/regulations/#A7g).</br></br>
-    Otherwise, you must change the attempt and any previous attempts in which the competitor used the headphones to a DNF result.
+    Common examples of non-permitted objects include front facing camera screens and headphones.</br></br>
+    If you believe the competitor did not get assistance from using the object, the result may be kept at your discretion, as per [Regulation 2i](https://www.worldcubeassociation.org/regulations/#2i). Otherwise, the result must be changed to DNF, or you may replace the attempt with an extra if the competitor is inexperienced ([Regulation A7g](https://www.worldcubeassociation.org/regulations/#A7g)). In all cases, the competitor must not be allowed to continue using the non-permitted object.
     </td>
   </tr>
   <tr>
@@ -889,11 +882,18 @@ The following incidents occur frequently at competitions and have a standard way
     </td>
   </tr>
   <tr>
-    <td>Timer malfunctioned.</td>
+    <td>Timer stopped early.</td>
     <td>
     If the time is strictly below 0.06 seconds and you believe the timer malfunctioned, you must grant an extra attempt per [Regulations A6b1](https://www.worldcubeassociation.org/regulations/#A6b1). If the time is strictly below 0.06 seconds and you determine the competitor stopped the timer deliberately or caused it to stop by improperly starting it, the result is a DNF.</br></br>
     Make a note of the specific timer. If it continues to malfunction, remove or replace it with one that is functioning properly. If it continues to malfunction, remove or replace it with one that is functioning properly. You should mark the malfunctioning timer to prevent it from being reintroduced to the solving area without being tested first.</br></br>
-    If the time equals 0.06 seconds or higher, the result is a DNF.
+    If the time equals 0.06 seconds or higher, and there is no evidence of a timer malfunction, the result is a DNF.
+    </td>
+  </tr>
+  <tr>
+    <td>Competitor reported a misscramble.</td>
+    <td>
+    If the result in question is within the scope of [Regulation 11i1](https://worldcubeassociation.org/regulations/#11i1), the attempt must be replaced by an extra.</br><br>
+    Otherwise, you should only grant an extra if the misscramble resulted in a significantly less fair outcome, as per [Regulation 11i2](https://worldcubeassociation.org/regulations/#11i2). This should be an extremely infrequent occurrence, and it would be very clear in incidents where this is required. Some examples include a solved cross on clock, or extremely low move count compared to the normal scramble. 
     </td>
   </tr>
 </table>
