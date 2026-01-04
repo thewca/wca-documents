@@ -9,8 +9,15 @@
 ![]({logo}){width=60% margin=auto}
 :::::
 
-## 1. Name {.page-break-before}
+## 1. Identity {.page-break-before}
+### 1.1 Name
 The name of this corporation is World Cube Association (“WCA”).
+
+### 1.2 Purpose
+Our Purpose is to empower the global speedcubing community and uphold a fun and fair competitive environment for all.
+
+### 1.3 Values
+Our values are Community, Fairness, Fun, Excellence and Volunteerism.
 
 ## 2. Membership {.page-break-before}
 ### 2.1 Eligibility for Membership
@@ -31,29 +38,29 @@ Regional Organization membership is available for registered entities who act to
 
 1. The Regional Organization has a name, address and contact details;
 2. The Regional Organization has a website and a logo;
-3. The Regional Organization provides a current copy of its Bylaws to the WCA;
+3. The Regional Organization provides a current copy of its bylaws to the WCA;
 4. The Regional Organization is registered as a legal entity in the area in which it operates;
 5. The Regional Organization provides a description of their organizational structure;
 6. The Regional Organization provides a clear description of the area they cover along with a report on past activities proving they act as the entity which organises WCA activities within their region.
   
-This membership is active from the moment they are acknowledged by the Board of Directors as meeting the requirements for this category and continues until this membership is revoked either through resignation or termination. This category of members do not have the right to vote in matters of the WCA and any elections.
+This membership is active from the moment they are acknowledged by the Board of Directors as meeting the requirements for this category and continues until this membership is revoked either through resignation or termination (see 2.7 and 2.9). This category of members do not have the right to vote in matters of the WCA and any elections.
 
 ### 2.4 Associate Regional Organization Membership
-Associate Regional Organization membership is available for groups who act to organize WCA activities within their specified regions but however, are not currently a registered entity within the region which they operate. Applications for this type of membership are to be made in writing to the Board of Directors provided the entity meets the following requirements:
+Associate Regional Organization membership is available for groups who act to organize WCA activities within their specified regions but however, are not currently a registered entity within the region in which they operate. Applications for this type of membership are to be made in writing to the Board of Directors provided the entity meets the following requirements:
 
-1. The Regional Organization has a name, address and contact details;
-2. The Regional Organization has a website and a logo;
-3. The Regional Organization provides a current copy of its Bylaws to the WCA;
-4. The Regional Organization provides a description of their organizational structure;
-5. The Regional Organization provides a clear description of the area they cover along with a report on past activities proving they act as the entity which organises WCA activities within their region.
+1. The Associate Regional Organization has a name, address and contact details;
+2. The Associate Regional Organization has a website and a logo;
+3. The Associate Regional Organization provides a current copy of its Bylaws to the WCA;
+4. The Associate Regional Organization provides a description of their organizational structure;
+5. The Associate Regional Organization provides a clear description of the area they cover along with a report on past activities proving they act as the entity which organises WCA activities within their region.
 
-This membership is active from the moment they are acknowledged by the Board of Directors as meeting the requirements for this category and continues until this membership is revoked either through resignation or termination or after two years from the date in which their membership is active. This category of members do not have the right to vote in matters of the WCA and any elections.
+This membership is active from the moment they are acknowledged by the Board of Directors as meeting the requirements for this category and continues until this membership is revoked either through resignation or termination (see 2.7 and 2.9) or after two years from the date in which their membership is active. This category of members do not have the right to vote in matters of the WCA and any elections.
 
 ### 2.5 Individual Voting Members
-Any individual who is currently a Full Delegate, Committee/Team Leader, Committee/Team Senior Member, Director or Officer is automatically considered an individual voting member of the WCA. This membership is active from the moment an individual is promoted to one of the above positions and continues until this membership is revoked either through resignation or termination (see 2.6 and 2.8). This category of members have the right to place a maximum of one vote in matters of the WCA and any elections.
+Any individual who is currently a Full Delegate, Committee/Team Leader, Committee/Team Senior Member, director or officer is automatically considered an individual voting member of the WCA. This membership is active from the moment an individual is promoted to one of the above positions and continues until this membership is revoked either through resignation or termination (see 2.7 and 2.9). This category of members have the right to place a maximum of one vote in matters of the WCA and any elections.
 
 ### 2.6 Individual Non-voting Members
-Any individual who has competed at a past WCA Competition and has an attributed personal WCA ID is automatically considered an individual non-voting member of the WCA. This membership type is active from the moment an individual starts their first official attempt at their first WCA competition and continues until this membership is revoked either through resignation or termination (see 2.6 and 2.8). This category of members does not have the right to vote in matters of the WCA and any elections.
+Any individual who has competed at a past WCA Competition and has an attributed personal WCA ID is automatically considered an individual non-voting member of the WCA. This membership type is active from the moment an individual starts their first official attempt at their first WCA competition and continues until this membership is revoked either through resignation or termination (see 2.7 and 2.9). This category of members does not have the right to vote in matters of the WCA and any elections.
 
 ### 2.7 Annual Dues
 The amount required for annual dues shall be $0 each year for all membership types, unless changed by a majority vote of the members at a properly announced meeting. Continued membership is contingent upon being up-to-date on membership dues.
@@ -62,7 +69,7 @@ The amount required for annual dues shall be $0 each year for all membership typ
 Each voting member shall be eligible to appoint in writing one voting representative to cast the member’s vote in WCA elections.
 
 ### 2.9 Resignation and Termination
-Any member may resign by filing a written resignation with the secretary. Resignation shall not relieve a member of unpaid dues, or other charges previously accrued. A member can have their membership terminated by a majority vote of the membership.
+Any member may resign by filing a written resignation with the Secretary. Resignation shall not relieve a member of unpaid dues, or other charges previously accrued. A member can have their membership terminated by a majority vote of the membership, or by a supermajority (⅔) vote of the Board.
 
 ### 2.10 Annual Meetings
 An annual meeting of the members shall take place no later than 10 months after the end of the fiscal year, the specific date, time, and location of which will be designated by the chair. The annual meeting shall run according to the following agenda which must be circulated to the members not less than 2 weeks prior to the meeting:
@@ -76,7 +83,7 @@ An annual meeting of the members shall take place no later than 10 months after 
 7. Items brought forward to the meeting by members;
 8. Date and place of the next meeting.
 
-### 2.11	Special Meetings
+### 2.11 Special Meetings
 Special meetings may be called by the Chair, the Vice-Chair, or a simple majority of the Board of Directors. A petition signed by five percent of voting members may also call a special meeting.
 
 ### 2.12 Notice of Meetings
@@ -238,7 +245,7 @@ Unless otherwise provided in these Bylaws, and subject to any guidelines and pro
 
 ## 9. Gifts, Grants, and Contracts {.page-break-before}
 ### 9.1 Gifts
-The Board or its designee may accept on behalf of the WCA any contribution, gift, bequest, or device for the charitable purposes of the WCA. Any officer or director who receives any contribution, gift, bequest, or device from any entity the WCA engages with in the past, present, or future shall be considered an interested party for the purposes of the Conflict of Interest policy (3.10).
+The Board or its designee may accept on behalf of the WCA any contribution, gift, bequest, or device for the charitable purposes of the WCA. Any officer or director who receives any contribution, gift, bequest, or device from any entity the WCA engages with in the past, present, or future shall be considered an interested party for the purposes of the Conflict of Interest policy (3.11).
 
 ### 9.2 Grants
 The Board shall exercise itself, or delegate, subject to its supervision, control over grants, contributions, and other financial assistance provided by the WCA, including, without limitation, those made in connection with fiscal sponsorship relationships.

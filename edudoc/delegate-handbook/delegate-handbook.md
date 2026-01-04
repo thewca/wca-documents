@@ -89,7 +89,7 @@ There is a lot of information that is relevant to all WCA Volunteers, not just D
   - [Lost and Found](#lost-and-found)
 - [Delegates Outside of the Competition](#delegates-outside-of-the-competition)
   - [Managing WCA User Accounts](#managing-wca-user-accounts)
-    - [Accounts vs. Profiles (WCA IDs)](#accounts-vs-profiles)
+    - [Accounts vs. Profiles (WCA IDs)](#accounts-vs.-profiles-wca-ids)
     - [Handling WCA ID Claims](#handling-wca-id-claims)
     - [Requesting Changes to Personal Data](#requesting-changes-to-personal-data)
   - [Acquiring Competition Equipment](#acquiring-competition-equipment)
@@ -105,7 +105,7 @@ There is a lot of information that is relevant to all WCA Volunteers, not just D
 
 # Introduction to Delegating {.page-break-before}
 
-Delegates are one of the most prominent roles within the World Cube Association. A Delegate represents the WCA at a cubing competition to ensure that competitors adhere to the rules of each event and maintain fair play throughout the competition. Most importantly, all Delegates must have a strong understanding of the [WCA Regulations](https://www.worldcubeassociation.org/regulations/) and their associated [Guidelines](https://www.worldcubeassociation.org/regulations/guidelines.html).
+Delegates are one of the most prominent roles within the World Cube Association. A Delegate represents the WCA at a cubing competition to ensure that competitors adhere to the rules of each event and maintain fair play throughout the competition. Most importantly, all Delegates must have a strong understanding of the [WCA Regulations](https://www.worldcubeassociation.org/regulations/).
 
 As the face of the WCA to the attendees of a competition, a Delegate has many considerations and responsibilities to effectively fulfill their duties. This handbook is designed to capture those considerations and responsibilities in a unified place as a reference handbook for Delegates of all levels of experience.
 
@@ -575,7 +575,7 @@ Above all, the competitor limit must not be exceeded for any reason. Competitor 
 
 ### Verifying First-Time Competitors
 
-Verify the identity of every first-time competitor at their first competition, according to [Regulation 2e](https://www.worldcubeassociation.org/regulations/#2e) and [Guideline 2e++](https://www.worldcubeassociation.org/regulations/guidelines.html#2e++). It is recommended to include a “First-Time Competitor Information” tab on every WCA competition page with instructions for all first-time competitors to bring some form of identification to verify their full name, date of birth, and country of representation. Forms of identification include, but are not limited to, passports, birth certificates, and school ID cards. A check-in table is a perfect place to verify this information, so assign a trusted competition volunteer or Delegate to manage the check-in process and verify this information.
+Verify the identity of every first-time competitor at their first competition, according to [Regulation 2e](https://www.worldcubeassociation.org/regulations/#2e) and [Regulation 2e++](https://www.worldcubeassociation.org/regulations/#2e++). It is recommended to include a “First-Time Competitor Information” tab on every WCA competition page with instructions for all first-time competitors to bring some form of identification to verify their full name, date of birth, and country of representation. Forms of identification include, but are not limited to, passports, birth certificates, and school ID cards. A check-in table is a perfect place to verify this information, so assign a trusted competition volunteer or Delegate to manage the check-in process and verify this information.
 
 Printouts with private information, such as a first-time competitor checklist with dates of birth, must remain private and **never** be left unattended at a check-in table. Instruct competition volunteers with a sensitive printout so they do not lose sight of it and do not show it to anyone other than the competition volunteers.
 
@@ -690,7 +690,7 @@ Using an HTML table here because Markdown formatters and renderers often cannot 
   <tr>
     <td>Time is not written clearly.</td>
     <td>
-    [Guideline A7c+](https://www.worldcubeassociation.org/regulations/guidelines.html#A7c+) states that you must ensure the time is clearly written and correctly formatted. Interpret any ambiguous numbers in the worst reasonable way.</br></br>
+    [Regulation A7c+](https://www.worldcubeassociation.org/regulations/#A7c+) states that you must ensure the time is clearly written and correctly formatted. Interpret any ambiguous numbers in the worst reasonable way.</br></br>
     It is preferable that final results reflect the correct results instead of what is recorded due to an inattentive competitor or judge. With sufficient evidence (e.g. a video of the attempt with a clear view of the final timer display), enter the actual time that occurred regardless of the ambiguity of the score sheet.
     </td>
   </tr>
@@ -743,13 +743,13 @@ Finally, remember that a penalty is not considered an incident. Penalties correc
 
 #### Square-1 Misalignments
 
-Square-1 misalignments are handled slightly differently from other puzzles. Although [Regulation 10e1](https://www.worldcubeassociation.org/regulations/#10e1) defines +2 penalties as requiring one additional move to solve, the metric for misalignments overrides the metric for moves per [Guideline 10e1+](https://www.worldcubeassociation.org/regulations/guidelines.html#10e1+). The misalignment thresholds for Square-1 are at most 45 degrees (U/D) or 90 degrees (/).
+Square-1 misalignments are handled slightly differently from other puzzles. Although [Regulation 10e1](https://www.worldcubeassociation.org/regulations/#10e1) defines +2 penalties as requiring one additional move to solve, the metric for misalignments overrides the metric for moves per [Regulation 10e1+](https://www.worldcubeassociation.org/regulations/#10e1+). The misalignment thresholds for Square-1 are at most 45 degrees (U/D) or 90 degrees (/).
 
 One side effect of these Regulations is that there are some Square-1 states that could appear to be a DNF at first glance but are actually only a +2 misalignment penalty. The most extreme case of this is in the following image:
 
 ![](images/sq1-plus-2.jpg){.centered width=50%}
 
-In this example, a (1, 0) / (-1, -1) and then a partial slice under 90 degrees have been applied to the puzzle. This is only a +2 misalignment penalty because the (1, 0) is under the misalignment threshold of 45 degrees for (U, D) moves, and so is not a DNF. The slice is over the misalignment threshold of 90 degrees and incurs a +2 penalty. The (-1, -1) once again is under the misalignment threshold, as U and D moves are considered separately according to [Guideline 10f4+](https://www.worldcubeassociation.org/regulations/guidelines.html#10f4+). Finally, the partial slice is under the 90-degree threshold. In conclusion, only one move has been made above the penalty threshold, so the final ruling is that this is a +2 penalty.
+In this example, a (1, 0) / (-1, -1) and then a partial slice under 90 degrees have been applied to the puzzle. This is only a +2 misalignment penalty because the (1, 0) is under the misalignment threshold of 45 degrees for (U, D) moves, and so is not a DNF. The slice is over the misalignment threshold of 90 degrees and incurs a +2 penalty. The (-1, -1) once again is under the misalignment threshold, as U and D moves are considered separately according to [Regulation 10f4+](https://www.worldcubeassociation.org/regulations/#10f4+). Finally, the partial slice is under the 90-degree threshold. In conclusion, only one move has been made above the penalty threshold, so the final ruling is that this is a +2 penalty.
 
 ## Regulation 3j: Reasonable Wear
 
@@ -769,11 +769,11 @@ One of a Delegate’s primary responsibilities at a competition is resolving inc
 
 Extra attempts are often granted to competitors to resolve incidents that prevent them from being unfairly advantaged or disadvantaged. Always consider fairness when granting an extra attempt, as some competitors might try to take advantage of extra attempts to replace a bad solve. Use your discretion when granting an extra attempt. If you believe a competitor is taking advantage of an incident by requesting an extra attempt, you may reject their request.
 
-When an incident arises during an attempt, encourage competitors to stop the attempt immediately by calling over a Delegate with the timer still running. A competitor who completes the solve then has the option to determine whether the attempt is a bad result before requesting an extra attempt, effectively giving them a second shot at the attempt. According to [Guideline 11e+++](https://www.worldcubeassociation.org/regulations/guidelines.html#11e+++), use stronger discretion when granting an extra attempt after the solve has finished. Only grant the extra attempt in exceptional circumstances. However, remember that it could be difficult for a competitor to pause mid-attempt for short events. Consider the length of the attempt when evaluating whether to grant an extra attempt and be less lenient for events longer than a few seconds.
+When an incident arises during an attempt, encourage competitors to stop the attempt immediately by calling over a Delegate with the timer still running. A competitor who completes the solve then has the option to determine whether the attempt is a bad result before requesting an extra attempt, effectively giving them a second shot at the attempt. According to [Regulation 11e+++](https://www.worldcubeassociation.org/regulations/#11e+++), use stronger discretion when granting an extra attempt after the solve has finished. Only grant the extra attempt in exceptional circumstances. However, remember that it could be difficult for a competitor to pause mid-attempt for short events. Consider the length of the attempt when evaluating whether to grant an extra attempt and be less lenient for events longer than a few seconds.
 
 The following is a general decision tree for handling incidents. It should give you a general idea of what to consider and the typical outcome of an incident. However, **this decision tree is always welcome to be overruled by the Delegate when they believe their decision is more fair**.
 
-![](images/extra attempt-decision-tree.png){.centered width=90%}
+![](images/extra-decision-tree.png){.centered width=90%}
 
 #### Provisional Extra Attempts
 
@@ -785,9 +785,9 @@ At any point, you may re-evaluate the fairness of the provisional extra attempt 
 
 ### Regulation A7g
 
-Many first-time competitors will inadvertently break the Regulations due to their unfamiliarity with the Regulations and processes of a WCA competition or an event’s specific Regulations. In these cases, you are always encouraged to use [Regulation A7g](https://www.worldcubeassociation.org/regulations/#A7g) to grant an extra attempt to these competitors. An inexperienced competitor might not necessarily be new to WCA competitions, such as a competitor who is returning to WCA competitions after a long time or a competitor who is unfamiliar with a specific event ([Guideline A7g++++](https://www.worldcubeassociation.org/regulations/guidelines.html#A7g++++)). For example, a blindfolded-focused competitor who is newly competing in other speedsolving events might not be used to the judge lifting the puzzle cover for them. Use your discretion when granting extra attempts for incidents like these.
+Many first-time competitors will inadvertently break the Regulations due to their unfamiliarity with the Regulations and processes of a WCA competition or an event’s specific Regulations. In these cases, you are always encouraged to use [Regulation A7g](https://www.worldcubeassociation.org/regulations/#A7g) to grant an extra attempt to these competitors. An inexperienced competitor might not necessarily be new to WCA competitions, such as a competitor who is returning to WCA competitions after a long time or a competitor who is unfamiliar with a specific event ([Regulation A7g++++](https://www.worldcubeassociation.org/regulations/#A7g++++)). For example, a blindfolded-focused competitor who is newly competing in other speedsolving events might not be used to the judge lifting the puzzle cover for them. Use your discretion when granting extra attempts for incidents like these.
 
-According to [Guideline A7g++](https://www.worldcubeassociation.org/regulations/guidelines.html#A7g++), Delegates must not apply Regulation A7g to waive penalties.
+According to [Regulation A7g++](https://www.worldcubeassociation.org/regulations/#A7g++), Delegates must not apply Regulation A7g to waive penalties.
 A Delegate may grant an extra attempt to an A7g-eligible competitor who gets a +2 penalty due to unfamiliarity with the Regulations. However, a +2 penalty alone is insufficient to justify granting an extra attempt to a first-time competitor, as this would effectively be an additional attempt that replaces a poor result. There must be extenuating circumstances, such as confusion about the Regulations, to grant an extra attempt for an attempt that incurred a +2 penalty.
 
 ### Common Incidents
@@ -884,8 +884,8 @@ The following incidents occur frequently at competitions and have a standard way
   <tr>
     <td>Timer was reset before time could be fully written on score sheet.</td>
     <td>
-    If the competitor reset the timer, the result is a DNF per [Regulations A6f1](https://www.worldcubeassociation.org/regulations/#A6f1), even if there is video, photo, or memory evidence of the full time. **The time must be disqualified even if the time is partially written**. For example, “18.” must not be interpreted as “18.99” per [Guideline A7c+](https://www.worldcubeassociation.org/regulations/guidelines.html#A7c+).</br></br>
-    If someone other than the competitor reset the timer, or the timer was reset for another reason (e.g. a malfunction), you may use video or photo evidence to record the time. If no video or photo evidence exists, you may grant an extra attempt or use the partially written time in conjunction with [Guideline A7c+](https://www.worldcubeassociation.org/regulations/guidelines.html#A7c+) as the recorded time. Consider fairness. For example, recording a partially written time of “18.8” as “18.89” is fairer than it is to grant an extra attempt. A partially written time of “2” for a competitor averaging 20-30 seconds does not have a reasonable worst interpretation, so grant an extra attempt.
+    If the competitor reset the timer, the result is a DNF per [Regulations A6f1](https://www.worldcubeassociation.org/regulations/#A6f1), even if there is video, photo, or memory evidence of the full time. **The time must be disqualified even if the time is partially written**. For example, “18.” must not be interpreted as “18.99” per [Regulation A7c+](https://www.worldcubeassociation.org/regulations/#A7c+).</br></br>
+    If someone other than the competitor reset the timer, or the timer was reset for another reason (e.g. a malfunction), you may use video or photo evidence to record the time. If no video or photo evidence exists, you may grant an extra attempt or use the partially written time in conjunction with [Regulation A7c+](https://www.worldcubeassociation.org/regulations/#A7c+) as the recorded time. Consider fairness. For example, recording a partially written time of “18.8” as “18.89” is fairer than it is to grant an extra attempt. A partially written time of “2” for a competitor averaging 20-30 seconds does not have a reasonable worst interpretation, so grant an extra attempt.
     </td>
   </tr>
   <tr>
@@ -939,7 +939,7 @@ Running behind schedule is the most common schedule deviation at WCA competition
 - Reducing cutoffs or time limits
 - Removing rounds
 
-You may change the advancement conditions of a round per [Regulation 9p2a](https://www.worldcubeassociation.org/regulations/#9p2a) and the cutoff and time limits per [Regulation A1a3](https://www.worldcubeassociation.org/regulations/#A1a3). In both cases, you must consider the fairness of such a change. When possible, announce any changes before the affected rounds start. Although you may change these details during a round, avoid doing that if possible. [Guideline A1a3+](https://www.worldcubeassociation.org/regulations/guidelines.html#A1a3+) explains how modifications to the time limit or cutoff could disadvantage competitors because it could change the competitor’s strategy.
+You may change the advancement conditions of a round per [Regulation 9p2a](https://www.worldcubeassociation.org/regulations/#9p2a) and the cutoff and time limits per [Regulation A1a3](https://www.worldcubeassociation.org/regulations/#A1a3). In both cases, you must consider the fairness of such a change. When possible, announce any changes before the affected rounds start. Although you may change these details during a round, avoid doing that if possible. [Regulation A1a3+](https://www.worldcubeassociation.org/regulations/#A1a3+) explains how modifications to the time limit or cutoff could disadvantage competitors because it could change the competitor’s strategy.
 
 Removing rounds is permitted, but consider it a last resort tool for getting a competition back on schedule. If removing rounds must be done, prioritize removing smaller subsequent rounds to affect as few competitors as possible. When canceling a planned final for a short event (e.g. 2x2x2 Cube or Pyraminx), try to provide the same scrambles to prospective podium placements by putting the fastest competitors from the previous round in the same group. You are strongly discouraged from removing an event entirely, as providing at least one round of attempts to everyone who signed up for an event is preferable to providing two or more rounds in another event.
 
@@ -966,7 +966,7 @@ If your Delegate community has shared equipment, spend time after the competitio
 **Ensuring the integrity of all results is one of the main goals of the WCA**. Results are essentially the product of the WCA. Make every reasonable effort to ensure that the results submitted represent what happened at the competition. In particular, always check for the following:
 
 - **Registration data errors**: You need to verify that every issue related to registration data has been resolved (see the Administering Registration Data section). If this has already been done before the competition, as is recommended, no bigger issues are expected at this stage.
-- **Score-taking errors**: Always double-check score sheets after they are entered, during or after the competition. You must do the double-checking **before** submitting the results. Reliable organizers or volunteers can help you. When double-checking score sheets, remember to check for missing signatures from the judge or competitor, verify that extra attempts were entered at their correct positions in the average, and check that the ambiguous times are always entered in the worst reasonable interpretation according to [Guideline A7c+](https://www.worldcubeassociation.org/regulations/guidelines.html#A7c+). You should have a different person from the initial score taker perform the double-checking since they might interpret handwriting differently.
+- **Score-taking errors**: Always double-check score sheets after they are entered, during or after the competition. You must do the double-checking **before** submitting the results. Reliable organizers or volunteers can help you. When double-checking score sheets, remember to check for missing signatures from the judge or competitor, verify that extra attempts were entered at their correct positions in the average, and check that the ambiguous times are always entered in the worst reasonable interpretation according to [Regulation A7c+](https://www.worldcubeassociation.org/regulations/#A7c+). You should have a different person from the initial score taker perform the double-checking since they might interpret handwriting differently.
 
 Be aware of potential score-taking errors. Score-taking software such as WCA Live will automatically check for results exceeding the time limit or not meeting the cutoff as long as WCA Live is synchronized with the WCA website. However, if you are not using WCA Live and your score-taking software does not automatically check that the results comply with the WCA Regulations, check that every result complies with the stated cutoffs and time limits or cumulative time limits.
 
@@ -1013,7 +1013,7 @@ To submit the results for a competition, you must have access to the original fo
     2. Are dates of birth missing, or are you uncertain if a WCA ID is missing?
     3. Have rounds or entire events been dropped during the competition?
     4. Are there records that must be declined due to [Regulation 9i2](https://www.worldcubeassociation.org/regulations/#9i2)?
-    5. What was the main event at the competition? This is only necessary if the main event was 3x3x3 Cube. Although the prospective main event is submitted to the WCAT during the competition page submission, this is before the competition occurs. The WRT needs to know **how** a main event was treated as such during the competition.
+    5. What was the main event at the competition? This is only necessary if the main event was not 3x3x3 Cube. Although the prospective main event is submitted to the WCAT during the competition page submission, this is before the competition occurs. The WRT needs to know **how** a main event was treated as such during the competition.
     6. If there is anything else of importance for the WRT, please do not hesitate to include it. The more detailed it is, the better.
 14. Clearly outline anything irregular with the results submission, such as manual edits you made to the JSON file.
 15. Click “Submit Results” to send the results to the WRT. Every listed Delegate will receive a confirmation email that the results have been submitted.
