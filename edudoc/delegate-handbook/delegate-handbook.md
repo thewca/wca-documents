@@ -811,7 +811,7 @@ The following incidents occur frequently at competitions and have a standard way
   <tr>
     <td>Timer was in 4-pad mode.</td>
     <td>
-    The [Approved timers list](https://drive.google.com/file/d/1UizYZOY4v-t7YnKcXas0hHzekX-NGuhW/view) specifies that the timer must be in 2-pad mode. Changing modes on a Gen 5 timer takes several seconds, so it is unreasonable to expect the competitor to switch modes during the inspection phase. Grant an extra attempt and inform the judge and competitor to check the color of the light. An orange light indicates 2-pad mode. A blue light indicates 4-pad mode.</br></br>
+    The [Approved Timer List](https://drive.google.com/file/d/1UizYZOY4v-t7YnKcXas0hHzekX-NGuhW/view) specifies that Gen 5 timers must be in 2-pad mode. Changing modes takes several seconds, so it is unreasonable to expect the competitor to switch modes during the inspection phase. Grant an extra attempt and inform the judge and competitor to check the color of the light. An orange light indicates 2-pad mode. A blue light indicates 4-pad mode.</br></br>
     Timers occasionally malfunction and switch to 4-pad mode on their own. When this happens, make a note of which timer had the issue and replace it if the issue continues to persist. Consider whether the specific timer has recently malfunctioned when granting an extra attempt to a competitor for a potential timer malfunction.
     </td>
   </tr>
