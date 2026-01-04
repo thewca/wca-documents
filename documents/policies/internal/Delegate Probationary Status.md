@@ -39,11 +39,11 @@ At the discretion of the Senior Delegate, Delegates on this type of probation sh
 The Delegate will remain on probation until they demonstrate that they are capable of fulfilling their duties, at the discretion of the Senior Delegate.
 
 ### Probation Due to Annual Evaluation Issues
-Delegates will be placed on probation due to issues with annual evaluation, as described in the [WCA Delegate Management Policy](wcadoc{documents/policies/external/WCA Delegate Management Policy.pdf}) (WDMP).
+Delegates will be placed on probation due to issues with annual evaluation, as described in the [WCA Delegate Management Policy](wcadoc{documents/policies/external/Delegate Management.pdf}) (WDMP).
 
 Delegates on this type of probation must not be permitted to delegate competitions without another Delegate (who is not on probation) present at the competition.
 
-The Delegate will remain on probation until they meet the criteria described in point 26.1 of the WDMP. The Delegate will lose their appointment if they are still on probation by the end of the calendar year.
+The Delegate will remain on probation until they meet the relevant criteria defined in the WDMP. The Delegate may lose their appointment if they are still on probation by the end of the calendar year.
 
 ### Demotion
 Delegates on probation who fail to improve in a certain time period, set as a fixed period of time or number of competitions by the Senior Delegate when the probation period begins, may be demoted, at the discretion of the Senior Delegate and with approval by the WCA Board.
