@@ -867,7 +867,7 @@ The following incidents occur frequently at competitions and have a standard way
     <td>Competitor was found using a non-permitted object.</td>
     <td>
     Common examples of non-permitted objects include front facing camera screens and headphones.</br></br>
-    If you believe the competitors did not gain assistance from using the object, the result may be kept at your discretion, as per Regulation 2i. Otherwise, the result must be changed to a DNF, or you may replace the attempt with an extra if the competitor is inexperienced (A7g). In all cases, the competitor must not be allowed to use the object for future attempts.
+    If you believe the competitor did not get assistance from using the object, the result may be kept at your discretion, as per [Regulation 2i](https://www.worldcubeassociation.org/regulations/#2i). Otherwise, the result must be changed to DNF, or you may replace the attempt with an extra if the competitor is inexperienced ([Regulation A7g](https://www.worldcubeassociation.org/regulations/#A7g)). In all cases, the competitor must not be allowed to continue using the non-permitted object.
     </td>
   </tr>
   <tr>
@@ -890,7 +890,7 @@ The following incidents occur frequently at competitions and have a standard way
     </td>
   </tr>
   <tr>
-    <td>Competitor reported misscramble.</td>
+    <td>Competitor reported a misscramble.</td>
     <td>
     If the result in question is within the scope of [Regulation 11i1](https://worldcubeassociation.org/regulations/#11i1), the attempt must be replaced by an extra.</br><br>
     Otherwise, you should only grant an extra if the misscramble resulted in a significantly less fair outcome, as per [Regulation 11i2](https://worldcubeassociation.org/regulations/#11i2). This should be an extremely infrequent occurrence, and it would be very clear in incidents where this is required. Some examples include a solved cross on clock, or extremely low move count compared to the normal scramble. 
