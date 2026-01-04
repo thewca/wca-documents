@@ -882,7 +882,7 @@ The following incidents occur frequently at competitions and have a standard way
     </td>
   </tr>
   <tr>
-    <td>Timer Stopped early.</td>
+    <td>Timer stopped early.</td>
     <td>
     If the time is strictly below 0.06 seconds and you believe the timer malfunctioned, you must grant an extra attempt per [Regulations A6b1](https://www.worldcubeassociation.org/regulations/#A6b1). If the time is strictly below 0.06 seconds and you determine the competitor stopped the timer deliberately or caused it to stop by improperly starting it, the result is a DNF.</br></br>
     Make a note of the specific timer. If it continues to malfunction, remove or replace it with one that is functioning properly. If it continues to malfunction, remove or replace it with one that is functioning properly. You should mark the malfunctioning timer to prevent it from being reintroduced to the solving area without being tested first.</br></br>
