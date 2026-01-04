@@ -588,7 +588,7 @@ When checking in a first-time competitor, verify the following information:
   - According to [Regulation 2e](https://www.worldcubeassociation.org/regulations/#2e), competitors must represent a country where they hold citizenship. Take additional caution when verifying a competitor’s country of registration, as many competitors will mistakenly indicate their country of residence or heritage.
 - They have never competed at a WCA competition before
 
-If a first-time competitor does not have a form of identification available, it is acceptable to allow the competitor to verbally confirm their name and date of birth. If they cannot provide a document proving citizenship, make a note for this competitor and inform them to send the documentation to you via email after the competition.
+If a first-time competitor does not have a form of identification available, it is acceptable to allow the competitor to verbally confirm their name and date of birth. If they cannot provide a document proving citizenship, make a note for this competitor and inform them to send the documentation to you via email after the competition. If a competitor is stateless (has no citizenship of any country), contact the WCA Results Team (WRT) for advice.
 
 ## First-Time Competitor Tutorial
 
