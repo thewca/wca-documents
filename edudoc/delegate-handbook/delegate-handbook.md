@@ -864,7 +864,7 @@ The following incidents occur frequently at competitions and have a standard way
     </td>
   </tr>
   <tr>
-    <td>Competitor was found using non-permitted object.</td>
+    <td>Competitor was found using a non-permitted object.</td>
     <td>
     Common examples of non-permitted objects include front facing camera screens and headphones.</br></br>
     If you believe the competitors did not gain assistance from using the object, the result may be kept at your discretion, as per Regulation 2i. Otherwise, the result must be changed to a DNF, or you may replace the attempt with an extra if the competitor is inexperienced (A7g). In all cases, the competitor must not be allowed to use the object for future attempts.
