@@ -4,7 +4,7 @@
 
 ## Purpose
 
-The purpose of this policy is to define a standardized system to manage WCA Delegates, from candidate application to continuous evaluation of appointed Delegates.
+The purpose of this policy is to define a standardized system to manage WCA Delegates, from candidate application to the continuous evaluation of appointed Delegates.
 
 ## Policy
 ### Application
