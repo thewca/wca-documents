@@ -23,7 +23,7 @@ The purpose of this policy is to define a standardized system to manage WCA Dele
     2. The same person cannot apply more than three times in one calendar year.
 4. The Senior Delegate should prioritize applications based on the needs of each region.
     1. An application must not be delayed indefinitely in favor of other regions.
-5. If the Senior Delegate determines that the applicant meets the requirements described in point 4.1 of [WCA Motion : TODO - Trainee Delegates](wcadoc{documents/motions/TODO - Trainee Delegates.pdf}), and they do not have any additional concerns surrounding the applicant, the process moves forward to the interview phase.
+5. If the Senior Delegate determines that the applicant meets the requirements described in point 4.1 of [WCA Motion : 08.2026.2 - Trainee Delegates](wcadoc{documents/motions/08.2026.2 - Trainee Delegates.pdf}), and they do not have any additional concerns surrounding the applicant, the process moves forward to the interview phase.
 
 ### Interview
 
@@ -59,7 +59,7 @@ The purpose of this policy is to define a standardized system to manage WCA Dele
     6. A mentor may reach out to their Senior and/or Regional Delegate at any point during the training phase if they believe that the Trainee Delegate has exhibited any concerning behavior.
         1. This includes anything where the mentor does not see any possibility for the Trainee Delegate to improve or if the Trainee Delegate’s integrity turns out to be questionable.
         2. This should not be done for mistakes that are natural in any learning process.
-4. The Senior and/or Regional Delegates should check in with the mentor(s) if they do not see any progress in the Trainee Delegate’s training, especially if the appointment period is due to end soon, as per point 5.2 of [WCA Motion : TODO - Trainee Delegates](wcadoc{documents/motions/TODO - Trainee Delegates.pdf}).
+4. The Senior and/or Regional Delegates should check in with the mentor(s) if they do not see any progress in the Trainee Delegate’s training, especially if the appointment period is due to end soon, as per point 5.2 of [WCA Motion : 08.2026.2 - Trainee Delegates](wcadoc{documents/motions/08.2026.2 - Trainee Delegates.pdf}).
 5. In order to be considered for promotion, the Trainee Delegate must:
     1. Complete the Trainee to Junior Delegate course through the WCA’s LMS platform up to but excluding the final evaluation.
     2. Delegate at least one WCA competition.
@@ -80,7 +80,7 @@ The purpose of this policy is to define a standardized system to manage WCA Dele
 4. The candidate passes the evaluation if they obtain a minimum score of 70%.
 5. If the candidate obtains a score strictly below 70%, they may request to retake the evaluation after one week of their previous attempt.
 6. The candidate may take the evaluation up to three times in the 12-month period starting at the time of their appointment as a Trainee Delegate.
-    1. The candidate would gain three additional attempts every time their appointment is extended as per point 5.2 of [WCA Motion : TODO - Trainee Delegates](wcadoc{documents/motions/TODO - Trainee Delegates.pdf}).
+    1. The candidate would gain three additional attempts every time their appointment is extended as per point 5.2 of [WCA Motion : 08.2026.2 - Trainee Delegates](wcadoc{documents/motions/08.2026.2 - Trainee Delegates.pdf}).
 
 ### Annual Evaluation
 
