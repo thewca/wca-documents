@@ -124,7 +124,7 @@ As outlined in the [WCA Delegates Motion](https://documents.worldcubeassociation
 
 ## How to Become a Delegate
 
-A person typically becomes a Trainee Delegate after being recommended by a Delegate who has determined that they would like another Delegate to help manage their local community. Candidates are noticed for their maturity and responsibility and are most frequently selected from experienced organizers and competition volunteers. The Delegate will recommend the candidate to their Regional Delegate who will review the recommendation and agree or disagree with it.  The recommendation will then be forwarded to the Senior Delegate. If there is no Regional Delegate, the Senior Delegate will review the recommendation instead. If the Senior Delegate approves the appointment, they will send an application to the WCA Board of Directors, who will reject or approve the application. After approval, the Senior Delegate will appoint the candidate as a Trainee Delegate.
+The appointment process to become a WCA Delegate is described in the [WCA Delegate Management Policy](wcadoc{documents/policies/external/Delegate Management.pdf}) (WDMP).
 
 The ideal candidate for a new Trainee Delegate has the following:
 
@@ -136,7 +136,7 @@ The ideal candidate for a new Trainee Delegate has the following:
 - A few hours of free time per week to work on Delegate tasks
 - Experience as an organizer with a history of successful competitions
 
-There is no minimum age requirement for becoming a Trainee Delegate. However, the responsibilities of a Delegate tend to reflect individuals who are adults, with rare exceptions for outstanding candidates under 18 years old.
+There are age requirements for becoming a WCA Delegate, which are described in the [WCA Age Policy](wcadoc{documents/policies/internal/Age.pdf}).
 
 ## Delegate Tiers
 
@@ -165,7 +165,7 @@ A Trainee Delegate’s training period is not just an evaluation of their skills
 
 After 12 months, a Trainee Delegate will automatically lose their appointment as a Trainee Delegate unless their Senior Delegate extends the appointment with approval from the WCA Board.
 
-A Trainee Delegate is promoted to Junior Delegate after their Senior Delegate determines their readiness for promotion. This is usually after a Trainee Delegate demonstrates their capability as a Delegate over the course of a few competitions. A Senior Delegate might be unable to personally evaluate the performance of a Trainee Delegate and might consult Regional Delegates and Full and Junior Delegates local to the Trainee Delegate to get a better understanding of the Trainee Delegate’s performance.
+A Trainee Delegate is promoted to Junior Delegate after their Senior Delegate determines their readiness for promotion, in accordance with the WDMP.
 
 ### Junior Delegates
 
@@ -179,11 +179,11 @@ A Junior Delegate has the same responsibilities as a Trainee Delegate and gains 
 - Access to internal WCA resources accessed through their email login
 - Access to the Poll areas of the WCA website
 
-A Senior Delegate may promote a Junior Delegate to Full Delegate if the Junior Delegate has held the position for at least one year and has successfully managed at least three WCA Competitions.
+A Senior Delegate may promote a Junior Delegate to Full Delegate if the Junior Delegate has held the position for at least one year and has successfully managed at least three WCA Competitions, in accordance with the WDMP.
 
 Each quarter (three months), the WCA Executive Assistants Team (WEAT) checks which Junior Delegates are eligible for promotion and will request Senior Delegates to choose who they believe are ready for promotion. Once a Senior Delegate returns to the WEAT with their selected candidates for promotion, the WEAT will request feedback from the following WCA Teams and Committees:
 
-- The WCA Competition Announcement Team (WCAT) looks into the cleanliness of competition submissions. Generally, this is determined by the number and severity of mistakes in competition submissions, the timeliness of competition submissions (i.e. minimal submissions with under 30 days until the competition), and responsiveness to email inquiries. The Delegate must have confirmed at least one competition (i.e. by clicking the “Confirm” button themself) to be eligible for a positive review from the WCAT. All of the Delegate’s confirmed competitions may be considered, with more consideration given to recent competitions.
+- The WCA Competition Announcement Team (WCAT) looks into the cleanliness of competition submissions. Generally, this is determined by the number and severity of mistakes in competition submissions, the timeliness of competition submissions (i.e. minimal submissions with under 30 days until the competition), and responsiveness to email inquiries. The Delegate must have confirmed at least one competition (i.e. by clicking the “Confirm” button themselves) to be eligible for a positive review from the WCAT. All of the Delegate’s confirmed competitions may be considered, with more consideration given to recent competitions.
 - The WCA Quality Assurance Committee (WQAC) looks into the timeliness of Delegate Reports being submitted, scramble accountability at that Delegate’s competitions, and the general quality of their competitions. All of the Delegate’s competitions may be considered, with more consideration paid to recent competitions.
 - The WCA Results Team (WRT) looks into the cleanliness of a Delegate’s result submissions, change requests, and responsiveness to WRT questions. The Delegate must have submitted results at least three times to be eligible for a positive review from the WRT.
 - WCA Regulations Committee (WRC) uses the Incidents section of Delegate Reports to verify that incidents are being handled correctly and prompt change requests are made after feedback is provided.
@@ -267,6 +267,7 @@ Delegates who fail to do their duties could be placed on probation. The full det
   - Demonstrated patterns of scheduling issues
   - Repeated issues leading to results being retroactively removed
   - Failure to handle Delegate responsibilities, such as changes to personal data, in a reasonable time frame
+  - Issues with evaluations, as described in the WDMP.
   - Failure to follow WCA policies
 
 The WFC may directly place Delegates on probation for outstanding payments without prior approval. A WCA Team or Committee with a relevant complaint may request that a Delegate be put on probation by contacting the Senior Delegate of that Delegate. Delegates who fail to improve in a specific time period may be demoted.
@@ -1263,15 +1264,7 @@ Further disagreements with the result of a dispute could be escalated to an appe
 
 While you are delegating, you can look for Community members who could be trained to become a Delegate. Having more Delegates could alleviate the workload of existing Delegates and could provide more options to better serve the needs of a remote cubing community. There are no precise rules about how many Delegates are required for a specific region or where Delegates should be located. Discuss with any other local, Regional, or Senior Delegate whether adding a new Delegate is an appropriate step for your community.
 
-To start the process of inducting a Community member as a Delegate, take the following steps:
-
-1. Recommend the person to your Senior and Regional Delegate with a reason for why this person should be a Delegate and why the region the person is located in needs a Delegate.
-2. If the Senior Delegate agrees, they will fill out the application form to make the person a Trainee Delegate and submit it to the Board.
-3. If the Board agrees, the Senior Delegate will have the new Trainee Delegate agree to and sign the [Code of Conduct](https://documents.worldcubeassociation.org/documents/Code%20of%20Conduct.pdf) and [Code of Ethics](https://documents.worldcubeassociation.org/documents/Code%20of%20Ethics.pdf) and disclose any potential conflicts of interest.
-4. The Senior Delegate will then update the new Trainee Delegate’s status on the WCA website.
-5. The Trainee Delegate must then send a short introduction email to the Board. They may choose to also send it to their Regional Delegate mailing list.
-
-After the above steps are completed, the person will be officially appointed as a new Trainee Delegate.
+If you think someone is a good candidate to become a Delegate, you can recommend them to apply for the Trainee Delegate position, following the procedure described in the [WCA Delegate Management Policy](wcadoc{documents/policies/external/Delegate Management.pdf}).
 
 ## Supporting Your Local Community
 
