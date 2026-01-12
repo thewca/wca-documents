@@ -287,12 +287,12 @@ As each community varies, the exact frequency of competitions in your area will 
 
 ### Competition Size
 
-Aim to hold competitions large enough that they do not fill up immediately. Competitions that fill up too quickly are a sign that there is more demand than can be satisfied by a particular competition. If you notice this happening regularly in your community, prioritize competitions in larger s that allow more people to compete.
+Aim to hold competitions large enough that they do not fill up immediately. Competitions that fill up too quickly are a sign that there is more demand than can be satisfied by a particular competition. If you notice this happening regularly in your community, prioritize competitions in larger venues that allow more people to compete.
 
-If larger s are unavailable or are inaccessible for reasons such as cost, additional demand can be satisfied by offering more competitions (e.g. through onboarding new Delegates for the community, see above), by adjusting competition schedules/formats to prioritize the number of individual competitors over the number of rounds/events, and/or by holding series competitions. Series competitions are a good way to satisfy demand when larger s are unavailable since they allow for one or multiple s to be split across more competitors. However, series competitions have the following potential downsides:
+If larger venues are unavailable or are inaccessible for reasons such as cost, additional demand can be satisfied by offering more competitions (e.g. through onboarding new Delegates for the community, see above), by adjusting competition schedules/formats to prioritize the number of individual competitors over the number of rounds/events, and/or by holding series competitions. Series competitions are a good way to satisfy demand when larger venues are unavailable since they allow for one or multiple s to be split across more competitors. However, series competitions have the following potential downsides:
 
 - **Splitting the community.** Competitors will be unable to compete at both competitions, which results in competitors having to choose between two or more competitions. Therefore, each set of competitors at your competitions will have different experiences with two completely independent sets of competitors.
-- **Shorter competitions.** If you are using the same  for a series, you must split the time at that  that you could use for one competition into two or more shorter competitions. In practice, this usually involves splitting a potential two-day competition into two one-day competitions or a one-day competition into two half-day competitions occurring in the morning and afternoon.
+- **Shorter competitions.** If you are using the same venue for a series, you must split the time at that venue that you could use for one competition into two or more shorter competitions. In practice, this usually involves splitting a potential two-day competition into two one-day competitions or a one-day competition into two half-day competitions occurring in the morning and afternoon.
 
 Event selection could also have a big impact on the demand for a competition. Having too many popular events could overwhelm demand for a single competition, and having too many side events could lead to competitions not filling up and demand not being met. One potential approach is holding less frequent but larger competitions with the most popular events while filling the time between these large competitions with smaller ones that focus on less popular events. See the next section for more information on selecting appropriate events for your community.
 
@@ -302,7 +302,7 @@ Unsurprisingly, some events are more popular than others. The most popular event
 
 Establishing regular competitions in a region also affords some flexibility to event selection. When competitions can be held regularly, they can be planned to cover the entire catalog of WCA events. A common pattern for one-day competitions is to hold three to seven events at a competition, where one of two of them is a popular event, and the others rotate between a selection of the less popular events. Over the course of a year, this allows the most popular events to be held multiple times while providing competitors the opportunity to compete in almost every event at least once.
 
-The primary exceptions to this event schedule are the “quiet events”: 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind, and 3x3x3 Fewest Moves. They are more advanced events and tend to have lower demand, with the exception of 3x3x3 Blindfolded. It is common for these events to be bundled into “Please Be Quiet” (PBQ) or “Mental Breakdown” competitions, which hold almost exclusively these advanced events. The lower turnout can make it easier to organize competitions, as smaller s are required.
+The primary exceptions to this event schedule are the “quiet events”: 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind, and 3x3x3 Fewest Moves. They are more advanced events and tend to have lower demand, with the exception of 3x3x3 Blindfolded. It is common for these events to be bundled into “Please Be Quiet” (PBQ) or “Mental Breakdown” competitions, which hold almost exclusively these advanced events. The lower turnout can make it easier to organize competitions, as smaller venues are required.
 
 The following is an example competition plan for five competitions that cover all the events over the course of a year. Four standard competitions and one PBQ competition are a good starting point for a healthy cubing community. Modify the frequency of particular events and the number of competitions to best match the preferences and skill levels of the local community.
 
@@ -338,7 +338,7 @@ There is a spectrum of how WCA competitions are organized, with organizer-led co
 
 In practice, fully organizer-led competitions are rare, as there are many possible points of failure that could prevent a competition from happening entirely or happening at an unacceptably low level of quality. On the other hand, Delegate-led competitions are common in very small cubing communities with only one or two Delegates and in very large and mature regions that have many Delegates under the umbrella of a Regional Organization.
 
-Most competitions lie somewhere between these two extremes. Some Delegates might prefer to get proposals on potential s from Community members but otherwise organize the competitions themselves. Other times, a Delegate will work with the organizer to guide them through the entire organizational process, effectively performing many of the organizational tasks themself. As an organizer gets more experienced and demonstrates capability, a Delegate might feel more comfortable relaxing this level of supervision. Ultimately, however, the Delegate is responsible for ensuring that every organizational task is completed by the time the competition begins, so most Delegates will maintain some degree of involvement in the organizational process.
+Most competitions lie somewhere between these two extremes. Some Delegates might prefer to get proposals on potential venues from Community members but otherwise organize the competitions themselves. Other times, a Delegate will work with the organizer to guide them through the entire organizational process, effectively performing many of the organizational tasks themself. As an organizer gets more experienced and demonstrates capability, a Delegate might feel more comfortable relaxing this level of supervision. Ultimately, however, the Delegate is responsible for ensuring that every organizational task is completed by the time the competition begins, so most Delegates will maintain some degree of involvement in the organizational process.
 
 ### Interacting with Organizers
 
@@ -370,9 +370,9 @@ The following are guidelines for filling out the [New Competition page](https://
 - The name of the competition must follow the WCRP. Even if you are choosing a name that is obvious to you why it complies with the policy, you must still give an explanation of the name in the “The reason for the name” field.
   - The competition nickname must be the same as the actual name of the competition if it is 32 or fewer characters, with few exceptions. If the name of the competition is over 32 characters, pick a nickname as close as possible to the actual name. The nickname is only used for display purposes and is what will be shown on the “Competitions” page and in the “Rankings” page.
   - The competition ID must be the same as the name or nickname with few exceptions, and spaces and special characters must be removed.
-- When writing the location of the , please use the correct formatting. Do not write the country name in the “City name” field. If you are from a country that includes the province/state in the “City name” field (e.g. Australia, Brazil, Canada, India, UK, and USA), you must write the city name first and then the province/state in full.
+- When writing the location of the venue, please use the correct formatting. Do not write the country name in the “City name” field. If you are from a country that includes the province/state in the “City name” field (e.g. Australia, Brazil, Canada, India, UK, and USA), you must write the city name first and then the province/state in full.
 - The coordinates of the competition must be set correctly. Zoom in on the map pin and ensure it is pointing where the  is, not to some nearby street.
-  - There are two places where coordinates must be updated: one for the location of the competition as a whole under the “Organizer view” and another for the  itself, under the “Manage schedule” tab and the “Edit s information” dropdown. Usually, these locations listed here are the same, but if your competition spans multiple locations (e.g. a PBQ day held in a smaller  on one day of a multi-day competition), update the location of the  accordingly.
+  - There are two places where coordinates must be updated: one for the location of the competition as a whole under the “Organizer view” and another for the  itself, under the “Manage schedule” tab and the “Edit s information” dropdown. Usually, these locations listed here are the same, but if your competition spans multiple locations (e.g. a PBQ day held in a smaller  on one day of a multi-day competition), update the location of the venue accordingly.
 - The competitor limit must be listed and must be suitable for the community. The WCAT will use past competitions in the area to determine whether this competitor limit is acceptable.
   - Many regions have minimum competitor limits for competitions with specific events. These limits can be found in [this document](https://docs.google.com/document/d/1TacpcAhPCeILFgN1CvQIfguWnRCT7bZNrXJZusA75EU/edit?usp=sharing).
 - The relevant information must be filled out so that the automated registration requirements reflect the rules for signing up for the competition. This includes the competitor limit, registration fee, spectator fee, refund policy, and information on whether you are accepting on-site registrations.
@@ -391,18 +391,18 @@ After you have followed all the steps and double-checked that everything is corr
 
 ### Requesting a Fewest Moves Simultaneous Competition
 
-A Fewest Moves Simultaneous Competition is a competition taking place in different s at the same time. At such a competition, **only** 3x3x3 Fewest Moves is held, and all competitors at all locations get the same scrambles at the same time. These competitions are made to make it easier for competitors to compete in a less popular event that is not regularly held.
+A Fewest Moves Simultaneous Competition is a competition taking place in different venues at the same time. At such a competition, **only** 3x3x3 Fewest Moves is held, and all competitors at all locations get the same scrambles at the same time. These competitions are made to make it easier for competitors to compete in a less popular event that is not regularly held.
 
 There are differences in the WCRP that apply to Fewest Moves Simultaneous Competitions. These competitions may be held as long as none of the locations are closer than 10 kilometers to a regular competition. Exceptions may be made if both competitions are at least 5 days apart or the other competition does not have 3x3x3 Fewest Moves as an event.
 
 Remember these points when requesting a Fewest Moves Simultaneous Competition. The following points either supersede the listed points for regular competitions or are additions to the regular competition form:
 
-- Set the coordinates of the competition to one of the listed s or to a location that has a special meaning to the region where the Fewest Moves Simultaneous Competition is taking place. Worldwide competitions must be set to (0, 0).
+- Set the coordinates of the competition to one of the listed venues or to a location that has a special meaning to the region where the Fewest Moves Simultaneous Competition is taking place. Worldwide competitions must be set to (0, 0).
 - The city must be listed as “Multiple cities”.
 - The address must be listed as “Multiple locations”.
-- The locations of every  **must** be individually set under the “Manage schedule” tab. Mock locations are not allowed in this section.
+- The locations of every venue **must** be individually set under the “Manage schedule” tab. Mock locations are not allowed in this section.
 - Include “Fewest Moves” or “FMC” in the name of the competition to further stress that it is a Fewest Moves Simultaneous Competition.
-- There must be a place on the competition website (e.g. a tab on the WCA website) that clearly displays all of the addresses for the different locations and who will be the official Delegate of that . Include additional location-specific information on that tab, such as a specific entry fee or competitor limit for a specific location. When there are different competitor limits for the different locations, this must be written in the Extra Registration Requirements.
+- There must be a place on the competition website (e.g. a tab on the WCA website) that clearly displays all of the addresses for the different locations and who will be the official Delegate of that venue. Include additional location-specific information on that tab, such as a specific entry fee or competitor limit for a specific location. When there are different competitor limits for the different locations, this must be written in the Extra Registration Requirements.
 - Every Delegate at a location must be listed as official Delegates of the competition.
 - The latest deadline to add a new location is 28 days before the competition.
 - An address may be listed as “To be decided” until 14 days before the start of the competition.
@@ -430,7 +430,7 @@ Closing/extending the registration period:
 
 Increasing the competitor limit:
 
-- Delegates may request a change to the competitor limit of a competition by providing a valid reason. Potential reasons for increasing the competitor limit are that you have a larger  than initially expected, the competitor-to-guest ratio is lower than expected, or that you chose a competitor limit that was too low. Do not increase the competitor limit if there is the possibility of the  being crammed. Registrations must **never** be accepted before the WCAT approves the limit increase.
+- Delegates may request a change to the competitor limit of a competition by providing a valid reason. Potential reasons for increasing the competitor limit are that you have a larger venue than initially expected, the competitor-to-guest ratio is lower than expected, or that you chose a competitor limit that was too low. Do not increase the competitor limit if there is the possibility of the venue being crammed. Registrations must **never** be accepted before the WCAT approves the limit increase.
 
 ## Managing Registrations
 
@@ -531,7 +531,7 @@ Cancelations may only happen when there is no safe or feasible alternative. This
 
 - Extreme weather conditions/natural disasters
 - Political unrest or conflict
--  facility failures (electrical, plumbing, structural) and finding another  is unreasonable
+-  facility failures (electrical, plumbing, structural) and finding another venue is unreasonable
 - General safety concerns with competitors traveling to or attending the competition
 
 If you encounter issues such as these where canceling a competition appears necessary, do not make any significant changes or statements to competitors. Instead, explain the situation to the WCAT on the competition announcement thread, as they can provide guidance on which options are available to prevent competition cancelation. Here are examples of some preventative measures that could be taken:
@@ -550,7 +550,7 @@ Your presence as a Delegate at a competition allows it to be WCA-recognized. You
 
 ## Setup and Environment
 
-Regardless of whether the organization team or  employees are setting up the competition room, ensure that the competition layout abides by the WCA Regulations. These Regulations are outlined in [Article 7: Environment](https://www.worldcubeassociation.org/regulations/#article-7-environment). In addition, [Regulation 1c](https://www.worldcubeassociation.org/regulations/#1c) outlines that your competition must follow all applicable WCA policies and requirements. This includes the [WCA Scramble Accountability Policy](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf). If the Regulations cannot be followed, the competition results risk being retroactively removed. Review the competition setup and make any changes necessary to make it fully compliant with WCA policies. Pay especially close attention to zoning. The scrambling area must be visually isolated from all areas that could have competitors not involved in organizing or scrambling the ongoing group.
+Regardless of whether the organization team or venue employees are setting up the competition room, ensure that the competition layout abides by the WCA Regulations. These Regulations are outlined in [Article 7: Environment](https://www.worldcubeassociation.org/regulations/#article-7-environment). In addition, [Regulation 1c](https://www.worldcubeassociation.org/regulations/#1c) outlines that your competition must follow all applicable WCA policies and requirements. This includes the [WCA Scramble Accountability Policy](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf). If the Regulations cannot be followed, the competition results risk being retroactively removed. Review the competition setup and make any changes necessary to make it fully compliant with WCA policies. Pay especially close attention to zoning. The scrambling area must be visually isolated from all areas that could have competitors not involved in organizing or scrambling the ongoing group.
 
 ## Check-In and Registration
 
