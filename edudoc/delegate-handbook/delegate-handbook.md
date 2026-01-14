@@ -1050,7 +1050,7 @@ Each of the following sections will describe what to put in each section of the 
 
 ### Venue
 
-When you submit your Delegate Report, you must include pictures of the venue and the competition setup. You must use photos taken at the current competition of the venue and setup, not old photos from previous competitions at the same venue. These pictures help other Delegates get a sense of what your competition was like and also help the WQAC and WRC verify that the WCA Scramble Accountability Policy](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf) was followed. The photos should show the following:
+When you submit your Delegate Report, you must include photos of the venue and the competition setup. You must use photos taken at the current competition of the venue and setup, not old photos from previous competitions at the same venue. These photos help other Delegates get a sense of what your competition was like and also help the WQAC and WRC verify that the [WCA Scramble Accountability Policy](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf) was followed. The photos should show the following:
 
 1. General setup overview
 2. Scrambling areas
