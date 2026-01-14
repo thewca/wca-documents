@@ -531,7 +531,7 @@ Cancelations may only happen when there is no safe or feasible alternative. This
 
 - Extreme weather conditions/natural disasters
 - Political unrest or conflict
--  facility failures (electrical, plumbing, structural) and finding another venue is unreasonable
+-  Venue facility failures (electrical, plumbing, structural) and finding another venue is unreasonable
 - General safety concerns with competitors traveling to or attending the competition
 
 If you encounter issues such as these where canceling a competition appears necessary, do not make any significant changes or statements to competitors. Instead, explain the situation to the WCAT on the competition announcement thread, as they can provide guidance on which options are available to prevent competition cancelation. Here are examples of some preventative measures that could be taken:
