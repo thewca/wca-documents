@@ -28,6 +28,11 @@ You should know a rough set of dates that suits you, the venue, and a local Dele
 You must also follow the requirements set out in the [WCA Competition Requirement Policy](wcadoc{documents/policies/external/Competition%20Requirements.pdf}). You must ensure the dates are realistic so that the competition can be announced at least 28 days before the competition day without putting too much time pressure on the WCA Competition Announcements Team (WCAT). You should also allow enough time for competitors to complete their registration and plan their trip.
 :::::
 
+
+::::: {.box .important}
+Please do not sign a venue contract or permit before discussing it with your local Delegate first.
+:::::
+
 ::::: {.box .important .page-break-after}
 Please also double-check with the local community and Delegates to avoid breaking the proximity policy stated in the WCA Competition Requirement Policy.
 :::::
@@ -39,7 +44,7 @@ You should find out how much it is to rent the venue. Keep the Delegates updated
 ## Preliminary Visit
 
 ::::: {.box .important}
-Ideally, you would want to pick a venue that you can visit in person. If possible, it also helps to have multiple options that you can compare them.
+Ideally, you should pick a venue that you can visit in person. If possible, it also helps to have multiple options that you can compare them.
 :::::
 
 ## Venue Size
