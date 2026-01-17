@@ -6,13 +6,15 @@ Below are the three different roles regularly used at competitions. You can alte
 
 ## Runner
 
-Runners are responsible for picking up puzzle covers with scrambled puzzles from the scrambling area, identifying the competitors (e.g. calling their name), dropping off the cover and puzzle at a vacant solving station, and directing the competitor to that solving station.
+Runners are responsible for picking up puzzle covers with scrambled puzzles from the scrambling area, identifying the competitors (e.g. calling their name), dropping off the cover and puzzle at a vacant solving station.
 
 Runners also look for judges signaling their attention (e.g. holding up the puzzle cover) to pick up covers with solved puzzles and take them back to the scrambling table. At the scrambling table, they then pick up more puzzle covers with scrambled puzzles and repeat the process.
 
-In general, runners do not sit down during the group they are running. They actively go between the competition area and scrambling table to return solved puzzles or to take scrambled puzzles to a solving station.
+During non-stationary rounds, runners also direct competitors to their solving stations. 
 
-Stations can be numbered to ease the runner’s job. This allows them to call the competitor to a specific station or to identify the station the competitor is seated at.
+Numbering the stations can ease the runner’s job, regardless of whether the round is stationary or non-stationary. During non-stationary rounds, numbered stations allow runners to call a competitor to a specific station. During stationary rounds, the station numbers can be written on the scorecards to make it easier for runners to bring a puzzle to the correct station.
+
+In general, runners do not sit down during the group they are running. They actively go between the competition area and scrambling table to return solved puzzles or to take scrambled puzzles to a solving station.
 
 ## Judge
 
