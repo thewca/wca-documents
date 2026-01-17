@@ -29,11 +29,13 @@ Remember that while some individuals travel by car to have lunch, other competit
 
 Remember that some people might choose to bring food or order food delivery, especially when the lunch options are too far to walk to. Make it clear on the competition website whether the venue allows food to be brought inside.
 
+If you are considering providing food to competitors, consider the potential liability risks. If the competition is run through a Regional Organization, ask a lead member of the Regional Organization for advice on how to safely prepare, handle, and serve food.
+
 If lunch is provided to competitors, ensure you schedule enough time for people to receive their food from the organizers and finish eating it before the competition starts again. If the only lunch option available is the one provided by the organization team, do your best to accommodate people with dietary restrictions, such as allowing them to request their preferred food in advance.
 
 ## Announcements, Tutorials, and Awards
 
-Planned announcements aside from calling up competitors to compete need to be included on the schedule. Examples include a talk about the sponsors, some relevant information about the competition, competitor tutorials, and judging tutorials. The latter will usually be either at the start of the competition, just before the main event, or even both. Always be direct and do not make the announcements unnecessarily long, both to avoid taking up too much time and to improve competitors’ and spectators’ experience. Remember that many people would be annoyed by long, tedious talks. If you are holding an awards ceremony, it could add 15 or more minutes to your competition after all the final rounds have finished.
+Planned announcements aside from calling up competitors to compete need to be included on the schedule. Examples include a talk about the sponsors, some relevant information about the competition, competitor tutorials, and judging tutorials. The latter will usually be either at the start of the competition, just before the main event, or even both. Always be direct and do not make the announcements unnecessarily long, both to avoid taking up too much time and to improve competitors’ and spectators’ experience. Remember that many people would be annoyed by long, tedious talks. If you are holding an awards ceremony, it could add 5 to 20 minutes to your competition after all the final rounds have finished.
 
 ## Creating the Schedule
 
