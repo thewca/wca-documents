@@ -83,7 +83,7 @@ Organization Team of XX Open 2020
 
 ## Pre-Competition Email
 
-A pre-competition email that acts as an information packet for competitors can give competitors an idea of what to expect from the competitors, especially when you have a lot of first-time competitors.
+A pre-competition email that acts as an information packet for competitors can give competitors an idea of what to expect from the competition, especially when you have a lot of first-time competitors.
 
 Some benefits of sending this information packet include:
 
