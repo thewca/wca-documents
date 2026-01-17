@@ -76,10 +76,12 @@ Other incidents that result in a penalty include the following:
 
 ## Recording Results
 
-If any penalty was given, you should always write the original time, the penalties given, and the final time. Here are some examples:
+If one or more +2 penalties were given, you should always write the original time, the penalties given, and the final time. Here are some examples:
 
 - If a competitor finishes a solve with a time of 17.65 and receives a +2 penalty for not properly starting the timer, the final result should be written as `17.65+2=19.65`.
 - If a competitor finishes a 3x3x3 Cube solve with a time of 12.19 and receives a +2 penalty for inspecting for 16 seconds and a +2 penalty for a 60° misalignment at the end, the final result should be written as `12.19+4=16.19`.
+
+If the result is a DNF and there is no cumulative time limit, you should write just `DNF`. If the result is a DNF and there is a cumulative time limit, you should write `DNF` followed by the time on the timer in round brackets. For example, if a 3x3x3 Blindfolded round has a cumulative time limit of 20 minutes, a result of `DNF (6:58.72)` on the first attempt informs the competitor that they have slightly over 13 minutes for their remaining attempts.
 
 <div class="spacer"></div>
 
@@ -92,3 +94,4 @@ You can find translations of this document below. Contact [quality@worldcubeasso
 - [Português Europeu (European Portuguese)](wcadoc{edudoc/judge-tutorial/judge-tutorial-pt.pdf}) - translated by António Gomes
 - [Română (Romanian)](wcadoc{edudoc/judge-tutorial/judge-tutorial-ro.pdf}) - translated by porduska
 - [Español (Spanish)](wcadoc{edudoc/judge-tutorial/judge-tutorial-es.pdf}) - translated by Gennaro Monetti
+
