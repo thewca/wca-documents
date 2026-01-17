@@ -19,6 +19,7 @@ Making a list with all the expenses is a great way to start and estimate how muc
 - Are there any souvenirs for the competitors (e.g. keychains, pens, or stickers)?
 - If selling merchandise is being considered to offset costs, how much will the merchandise cost to produce?
 - What are the costs for printing name tags, score sheets, schedule printouts, posters, and other printables?
+- If you are collecting registration fees using the registration system on the WCA website, there will be Stripe fees.
 - [WCA Dues](wcadoc{documents/policies/external/Dues%20System.pdf})
 
 ## What Are the Sources of Income?
