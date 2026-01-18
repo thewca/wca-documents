@@ -30,6 +30,8 @@ Results should be entered in a timely and accurate manner for competitors who ar
 
 You should have someone other than the designated score taker double-check the results so they can be submitted at the end of the competition. Otherwise, the Delegates will spend hours double-checking the results after the competition. Double-checking throughout the day is better than doing it after the competition since it prevents significant score-taking mistakes that cause the wrong competitors to proceed to subsequent rounds or receive awards.
 
+The person bringing the score sheets to the score-taking table should also check for missing signatures so that missing signatures are resolved as early as possible. The person bringing the score sheets to the scrambling table should check for missing signatures on the last attempt.
+
 The score taker needs to be instructed on how extra attempts are written. They should also look out for missing competitor signatures or judge signatures on individual attempts. The score taker should also look out for a Delegate signatures on extra attempts to ensure the extra attempt was authorized.
 
 ## Managing the Venue
