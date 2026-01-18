@@ -536,11 +536,11 @@ Cancelations may only happen when there is no safe or feasible alternative. This
 
 If you encounter issues such as these where canceling a competition appears necessary, do not make any significant changes or statements to competitors. Instead, explain the situation to the WCAT on the competition announcement thread, as they can provide guidance on which options are available to prevent competition cancelation. Here are examples of some preventative measures that could be taken:
 
-- If a listed Delegate can no longer attend due to an emergency, the WCA Board may appoint an experienced and trusted Community member as a temporary Delegate if no other Delegates are available. In this case, take the following steps:
+- If a listed Delegate can no longer attend due to an emergency, the Senior Delegate or WCA Board may appoint an experienced and trusted Community member as a temporary Delegate if no other Delegates are available. In this case, take the following steps:
 
-1. “Reply All” to the competition announcement thread and add the WCA Board to the CC field.
+1. “Reply All” to the competition announcement thread and address your request to the Senior Delegate. You may also CC the WCA Board if your request is urgent and the Senior Delegate may not be able to address it promptly. 
 2. Explain why you are no longer able to attend and whom you propose as a temporary Delegate.
-3. The Board will vote on whether to appoint this person and respond with any concerns.
+3. The Senior Delegate or Board will approve this person or respond with any concerns.
 
 - For financial concerns, such as low registration turnout, the WCAT could involve the WFC to analyze potential solutions. Remember that Delegates are responsible for reviewing the budget prior to the competition announcement and having a plan in the event of unexpectedly low income. Organizing should be done through a Regional Organization or a similar legal entity whenever possible to protect individuals from liability and always have backup funds available. Competitions are unlikely to be canceled solely over a budget deficit. Contact the WFC at the soonest indication that a budget deficit poses a significant risk to the competition for assistance in resolving the situation.
 
