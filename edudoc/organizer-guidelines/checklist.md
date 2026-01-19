@@ -3,7 +3,7 @@
 This document outlines how organizers can ensure they have done everything necessary to organize their competition.
 
 ::::: {.box .important}
-You can access the checklist [here](https://docs.google.com/spreadsheets/d/1i5QStai9sJSrST2EUPBNwfejI0QeW3ojDJ9Ok-GpFCY).
+You can access a copy of the checklist [here](https://docs.google.com/spreadsheets/d/1i5QStai9sJSrST2EUPBNwfejI0QeW3ojDJ9Ok-GpFCY/copy).
 :::::
 
 This checklist serves as a tool to help guide you in the organization process and to give you a better understanding of it. You may edit a copy of the spreadsheet to suit your needs or the needs of organizers in your region, such as translating it into a local language.
