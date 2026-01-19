@@ -265,7 +265,7 @@ If you are uncertain about penalties, always ask a Delegate!
 - **Extra Attempt**: In some situations, competitors might receive an extra attempt. This means that they redo an attempt using an extra attempt scramble due to an incident during the original attempt. Only Delegates may assign extra attempts, so always report any incident to them.
 
 ::::: {.box .important}
-Extra attempts may be granted only by a Delegate!
+Extra attempts may be granted only by a listed Delegate, except in rare cases when the Delegate is unavailable and appoints another person to make a decision on an incident.
 :::::
 
 ## What to Avoid as a Competitor
