@@ -2,7 +2,7 @@
 
 There are many ways to find a venue. If a venue fits the needs of a cubing competition well, it might become a regular venue for your area.
 
-Before looking for a venue, ensure you have read through other documents in the guidelines, such as the [Venue Setup](wcadoc{edudoc/organizer-guidelines/venye-setup.pdf}) document, as it will give you a better understanding of the actual size of the space when the equipment and setup are factored in.
+Before looking for a venue, ensure you have read through other documents in the guidelines, such as the [Venue Setup](wcadoc{edudoc/organizer-guidelines/venue-setup.pdf}) document, as it will give you a better understanding of the actual size of the space when the equipment and setup are factored in.
 
 Depending on where you are, it could be worth pursuing local schools or universities. Especially if you or someone on the organization team attends the school, these are usually really good venues to use, as they tend to charge less for their students and could promote beneficial activities in the school.
 
