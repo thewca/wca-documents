@@ -9,7 +9,7 @@ This is a guide to help organizers identify some resources and suggestions they 
 Badges and lanyards can be used to give competitors group and volunteer information in a way that makes it easy to access and understand.
 
 ::::: {.box .example}
-An example lanyard from Perfect Vision Provo 2020 can be found below.
+An example badge from Perfect Vision Provo 2020 can be found below.
 
 ![](images/lanyard.png){.centered width=50%}
 :::::
@@ -35,10 +35,6 @@ Posters can be used to provide information to competitors and spectators. Here a
 
 Flyers can be used to convey important information about your competition to spectators and competitors, to answer some frequently asked questions that your local community might have, to alert competitions about future competitions in the area, and/or to direct competitors to online resources.
 
-::::: {.box .example}
-An example flyer can be found [here](https://docs.google.com/document/d/1cjlvbTQ-e8_TzviEfQ_OUggNtEh-1R7GhKWMU-7IW28/edit?usp=sharing).
-:::::
-
 ## Competitor Recognition
 
 We highly recommend recognizing competitors’ achievements and work by giving awards, prizes, or honors. Achievements to qualify for awards, prizes, or honors include the following:
@@ -48,6 +44,8 @@ We highly recommend recognizing competitors’ achievements and work by giving a
 - Valuable volunteer contributions
 - Best sum of ranks or Kinch ranks at the competition
 - Fastest first-time competitor
+- Fastest female competitors
+- Valuable volunteer contributions
 - Participation
 
 Competitors should attend the awards ceremony to receive awards, prizes, or honors. The awards ceremony should be held in the competition venue within one hour after the end of the last event. Organizers should inform winners of awards, prizes, or honors to be prepared to talk to journalists or any media covering the competition if applicable. Organization teams should have certificates for every category winner, signed by the Delegates and the leader of the organization team.
@@ -78,7 +76,11 @@ Giving competitors “goodies” is a great way to enhance their competition exp
 
 ## Volunteer Rewards and Incentives
 
-You may incentivize competitors to join a dedicated volunteer team by providing them with free or discounted prices. This can include free or discounted registration fees, meals, apparel, or lodging. Volunteer incentives should be made known to the public before the day of competition for transparency and to enroll a higher number of volunteers.
+You may incentivize competitors to join a dedicated volunteer team by offering them free or discounted prices. This can include free or discounted registration fees, meals, apparel, or lodging. Volunteer incentives should be made known to the public before the day of the competition for transparency and to enroll a higher number of volunteers.
+
+Organizers should discuss volunteer incentives with Delegates to ensure that local competitions in the same area have consistent volunteer recruiting practices. Using volunteer incentives in an area that previously did not use them could reduce intrinsic motivation to volunteer at competitions.
+
+When using volunteer incentives, organizers should ensure that members of the volunteer team are adequately performing their duties. Registering as a volunteer and performing some duties does not automatically entitle someone to receive full benefits. If having volunteer incentives reduces the quality of volunteers, consider pre-assigning volunteer duties to competitors instead.
 
 <div class="spacer"></div>
 
