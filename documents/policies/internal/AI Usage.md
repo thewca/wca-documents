@@ -25,10 +25,11 @@ This section distinguishes the types of information WCA Volunteers may handling.
 6. **Fairness and Bias:** Actively check for and correct biases in AI outputs to ensure they align with the WCA’s commitment to diversity and inclusion.
 7. **Prohibited Autonomous Use:** AI shall not be the final decision-maker for critical processes, including disciplinary actions, financial approvals, official Regulations changes, or team/committee decisions.
 8. **Accountability:** WCA Volunteers are responsible for the final product they submit or publish, regardless of how much AI was used to generate it.
+9. **Reporting Privacy Incidents**: If Private WCA Information is inadvertently imported into an unapproved AI tool, report it to the WCA Results Team. Reporting a data oversight promptly helps the WCA maintain its commitment to member privacy.
 
 ## Approved AI Tools for Private Information
 
 To maintain data privacy for internal WCA tasks, the following tools are approved:
 
-* **Google Gemini:** Available via a WCA Volunteer's WCA Google Workspace account. One must be logged in to their WCA Google Account to ensure data protections are active.
+* **Google Gemini:** Available via a WCA Volunteer's WCA Google Workspace account. WCA Volunteers must be logged in to their WCA Google Account to ensure data protections are active.
 * **Zoom AI Companion:** Available for summarizing meetings held on WCA-provided Zoom accounts.
