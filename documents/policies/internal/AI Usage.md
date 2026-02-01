@@ -14,7 +14,7 @@ Artificial intelligence (AI) has the potential to enhance productivity. This doc
 2. **Tool Selection by Data Classification:**
     1. **For Private Information:** WCA Volunteers must only WCA-approved AI tools while logged into an official WCA account on the relevant platform. This ensures the data is not used to train external models.
     2. **For Public Information:** WCA Volunteers may use any AI tool (including personal licenses or open-source models) to assist with tasks involving public WCA documents or open-source code.
-3. **Usage Guidelines:**
+3. **AI Usage Guidelines:**
     1. **Intellectual Property:** AI should be used with caution when generating branding, logos, or text. For technical tasks, verify that AI-generated code snippets do not violate the licenses of the WCA’s open-source projects.
     2. **Human-in-the-Loop:** AI output must never be published as an official WCA statement, Regulation, or technical update without being reviewed by a human. Treat AI as a drafter, not an author.
     3. **Fact-Checking:** Always verify facts, statistics, and regulation citations. AI can hallucinate competition results or generate non-existent regulations.
