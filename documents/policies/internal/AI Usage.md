@@ -9,8 +9,8 @@ Artificial intelligence (AI) has the potential to enhance productivity. This doc
 ## Policy
 
 1. **Data Classifications:**
-    1. **Private WCA Information:** Information which is not publicly accessible or published by the WCA. Examples include, but are not limited to: member data, non-public financial records, and internal team or committee communications.
-    2. **Public WCA Information:** Information already in the public domain. Examples include, but are not limited to: WCA Regulations, public documents, published competition results, official announcements, and open-source codebases (e.g. public WCA GitHub repositories).
+    1. **Private Information:** Information which is not publicly accessible or published by the WCA. Examples include, but are not limited to: member data, non-public financial records, and internal team or committee communications.
+    2. **Public Information:** Information already in the public domain. Examples include, but are not limited to: WCA Regulations, public documents, published competition results, official announcements, and open-source codebases (e.g. public WCA GitHub repositories).
 2. **Tool Selection by Data Classification:**
     1. **For Private Information:** WCA Volunteers must only WCA-approved AI tools while logged into an official WCA account on the relevant platform. This ensures the data is not used to train external models.
     2. **For Public Information:** WCA Volunteers may use any AI tool (including personal licenses or open-source models) to assist with tasks involving public WCA documents or open-source code.
@@ -22,7 +22,7 @@ Artificial intelligence (AI) has the potential to enhance productivity. This doc
     5. **Fairness and Bias:** Actively check for and correct biases in AI outputs to ensure they align with the WCA’s commitment to diversity and inclusion.
     6. **Prohibited Autonomous Use:** AI shall not be the final decision-maker for critical processes. Examples include, but are not limited to: disciplinary actions, financial approvals, official Regulations changes, or team/committee decisions.
     7. **Accountability:** WCA Volunteers are responsible for the final product they submit or publish, regardless of how much AI was used to generate it.
-    8. **Reporting Privacy Incidents**: If Private WCA Information is inadvertently imported into an unapproved AI tool, report it to the WCA Results Team. Reporting a data oversight promptly helps the WCA maintain its commitment to member privacy.
+    8. **Reporting Privacy Incidents:** If Private WCA Information is inadvertently imported into an unapproved AI tool, report it to the WCA Results Team. Reporting a data oversight promptly helps the WCA maintain its commitment to member privacy.
 
 ## Appendix
 
