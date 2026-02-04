@@ -1,0 +1,34 @@
+# WCA AI Usage Guidelines
+
+### Version 1.0 {.version}
+
+## Purpose
+
+Artificial intelligence (AI) has the potential to enhance productivity. This document provides guidelines for appropriate AI usage when performing tasks for the World Cube Association (WCA).
+
+## Policy
+
+1. **Data Classifications:**
+    1. **Private Information:** Information which is not publicly accessible or published by the WCA. Examples include, but are not limited to: member data, non-public financial records, and internal team or committee communications.
+    2. **Public Information:** Information already in the public domain. Examples include, but are not limited to: WCA Regulations, public documents, published competition results, official announcements, and open-source codebases (e.g. public WCA GitHub repositories).
+2. **Tool Selection by Data Classification:**
+    1. **For Private Information:** WCA Volunteers must only WCA-approved AI tools while logged into an official WCA account on the relevant platform. This ensures the data is not used to train external models.
+    2. **For Public Information:** WCA Volunteers may use any AI tool (including personal licenses or open-source models) to assist with tasks involving public WCA documents or open-source code.
+3. **AI Usage Guidelines:**
+    1. **Intellectual Property:** AI should be used with caution when generating branding, logos, or text. For technical tasks, verify that AI-generated code snippets do not violate the licenses of the WCA’s open-source projects.
+    2. **Human-in-the-Loop:** AI output must never be published as an official WCA statement, Regulation, or technical update without being reviewed by a human. Treat AI as a drafter, not an author.
+    3. **Fact-Checking:** Always verify facts, statistics, and regulation citations. AI can hallucinate competition results or generate non-existent regulations.
+    4. **WCA Context:** Ensure AI output is adapted for the WCA community. A summary intended for a Delegate report requires a different tone than a social media post or a technical GitHub pull request.
+    5. **Fairness and Bias:** Actively check for and correct biases in AI outputs to ensure they align with the WCA’s commitment to diversity and inclusion.
+    6. **Prohibited Autonomous Use:** AI shall not be the final decision-maker for critical processes. Examples include, but are not limited to: disciplinary actions, financial approvals, official Regulations changes, or team/committee decisions.
+    7. **Accountability:** WCA Volunteers are responsible for the final product they submit or publish, regardless of how much AI was used to generate it.
+    8. **Reporting Privacy Incidents:** If Private WCA Information is inadvertently imported into an unapproved AI tool, report it to the WCA Results Team. Reporting a data oversight promptly helps the WCA maintain its commitment to member privacy.
+
+## Appendix
+
+### Approved AI Tools for Private Information
+
+To maintain data privacy for internal WCA tasks, the following tools are approved:
+
+* **Google Gemini:** Available via a WCA Volunteer's WCA Google Workspace account. WCA Volunteers must be logged in to their WCA Google Account to ensure data protections are active.
+* **Zoom AI Companion:** Available for summarizing meetings held on WCA-provided Zoom accounts.
