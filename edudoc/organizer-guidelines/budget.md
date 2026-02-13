@@ -4,7 +4,7 @@ Properly budgeting your competition is crucial to improving the overall quality 
 
 ## What Expenses Are There?
 
-Making a list with all the expenses is a great way to start and estimate how much you need to collect from registration fees or whether you need to find a cheaper venue.
+Making a list with all the expenses is a great way to start and estimate how much you need to collect from registration fees or whether you need to find a cheaper venue. If there is a Regional Organization in your region, consider contacting them as well, as they may have better knowledge of whether the venue you have found is viable for a competition.
 
 - Is the venue free? If not, how much does it cost?
 - Does the venue require liability insurance coverage? If so, how much does it cost?
