@@ -137,7 +137,7 @@ The WCA Delegate must submit the following information when requesting approval 
    1. The competitor limit can be on either a "first come first served" basis or based upon qualification results or rankings in the WCA world rankings of a previously announced calendar date.
       1. Qualification for an event must be based only on results from the same event.
          1. Exception: a qualification requirement for the entire competition may be having competed in at least one WCA competition.
-         2. Exception: Any success in a Blindfolded event may be used as a qualification result for other blind events. 
+         2. Exception: Any success in a blindfolded event may be used as a qualification result for other blindfolded events. 
       2. Qualification for an event must be based on the official format of the event (average results for “Average of” or “Mean of” events and single results for “Best of” events, as outlined in ([WCA Regulation 9b)](wca{regulations/#9b})))
          1. Average results must be used for 3x3x3 Fewest Moves regardless of the format that the competition will use.
          2. Exception: in case of using average/mean results, single results must be used to break ties.
