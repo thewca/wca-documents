@@ -112,7 +112,7 @@ The WCA Delegate must submit the following information when requesting approval 
    5. 3x3x3 Fewest Moves simultaneous competitions
       1. 3x3x3 Fewest Moves simultaneous competitions are WCA competitions having only the 3x3x3 Fewest Moves event and taking place simultaneously in different locations.
          1. Any location must be announced at least 14 days (two weeks) before 00:00 UTC of the start date of the competition on the WCA website.
-         2. The proximity policy applies to each location of a simultaneous competition.
+         2. The proximity requirements in section 2.2.3 of the Announcement Criteria apply to each location of a simultaneous competition.
       2. Every location must clearly state who is the WCA Delegate for the venue.
             1. There must be a listed non-Trainee Delegate at each venue.
       3. A 3x3x3 Fewest Moves simultaneous competition cannot be part of any other regular competition.
