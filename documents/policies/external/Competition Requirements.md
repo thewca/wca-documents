@@ -242,7 +242,7 @@ The WCA Delegate must submit the following information when requesting approval 
       2. A competition may have multiple championship types.
       3. A championship type for a region must only be assigned on the following basis, with each event held at most once per region per year.
          1. One competition per region per year is to be considered the Main Championship for the region and is permitted to hold any events. This competition must hold 3x3x3 Cube.
-         2. A competition to be considered the Quiet Championship may be held. This competition is permitted to hold any combination of the following events: 3x3x3 Blindfolded, 3x3x3 Fewest Moves, 4x4x4 Blindfolded, 5x5x5 Blindfolded, and 3x3x3 Multi-Blind.
+         2. If a Main Championship is held, one competition per region per year may be designated as the Quiet Championship for the region. This competition is permitted to hold any combination of the following events: 3x3x3 Blindfolded, 3x3x3 Fewest Moves, 4x4x4 Blindfolded, 5x5x5 Blindfolded, and 3x3x3 Multi-Blind.
             1. Any of the listed events may also be held at the Main Championship, at the discretion of the organization team.
          3. If a Main Championship is also present, a competition to be considered the Fewest Moves Championship may be held. This competition is permitted to hold only the 3x3x3 Fewest Moves event.
       4. An additional selection process is conducted by the WCA Board for organizing Continental and World Championships.
