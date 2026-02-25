@@ -434,7 +434,23 @@ Increasing the competitor limit:
 
 ## Managing Registrations
 
-It is the organization team’s responsibility to manage competition registrations. However, Delegates must ensure that the organizers are following through with this responsibility. Regularly confirm the following:
+It is the organization team’s responsibility to manage competition registrations. However, Delegates must ensure that the organizers are following through with this responsibility.
+
+### Registration Lists
+
+The WCA registration system organizes registrations into different lists based on their status:
+
+- **Pending registrations**: Registrations that have been submitted but have not yet been approved. These may be incomplete (e.g., missing payment) or awaiting organizer review. Organizers should process and approve pending registrations promptly once all requirements are met.
+
+- **Waiting list registrations**: When the competitor limit is reached, additional registrations are placed on a waiting list. Competitors on the waiting list must be accepted in the order their registration was completed, once spots become available.
+
+- **Approved registrations**: Registrations that have been accepted and confirmed. These competitors are eligible to compete in the competition. This list is the final list of registered competitors.
+
+- **Cancelled registrations**: Registrations that were cancelled by either the competitor or the organization team. These competitors will not compete, and their spot may be offered to someone on the waiting list.
+
+- **Deleted registrations**: Registrations that were removed from the system. Unlike cancelled registrations, deleted registrations are completely removed and may not retain historical records.
+
+Regularly confirm the following:
 
 - New registrations are being approved.
 - Only competitors who have paid for registration are being accepted, excluding those exempt from registration fees according to point 1.3 of the [Code of Ethics](https://documents.worldcubeassociation.org/documents/Code%20of%20Ethics.pdf).

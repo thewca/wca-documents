@@ -12,6 +12,20 @@ If you have more completed registrations than the competitor limit, a waiting li
 
 If a person is unable to fulfill one of the registration requirements (e.g. the competitor is from another country and cannot use the payment method indicated on the competition website), the organization team and the Delegates may find alternative means for this specific person (e.g. paying on the spot) if the Delegates deems it fair. Such alternatives must always be coordinated with the Delegate and be based on fairness rather than mistakes that were made by the competitor, such as missing the registration deadline.
 
+## Registration Lists
+
+The WCA registration system organizes registrations into different lists based on their status. Understanding these lists helps you manage registrations effectively:
+
+- **Pending registrations**: Registrations that have been submitted but have not yet been approved. These may be incomplete (e.g., missing payment) or awaiting organizer review. You should process and approve pending registrations promptly once all requirements are met. Taking too long to accept registrations could make competitors (especially first-time competitors) believe they have done something incorrectly or that something went wrong with their registration.
+
+- **Waiting list registrations**: When the competitor limit is reached, additional registrations are placed on a waiting list. Competitors on the waiting list must be accepted in the order their registration was completed, once spots become available. To prevent people from wasting spots, you could remind competitors to inform the organization team if they are not going to attend the competition so that their spot can be given to the first person on the waiting list.
+
+- **Approved registrations**: Registrations that have been accepted and confirmed. These competitors are eligible to compete in the competition. This list is the final list of registered competitors.
+
+- **Cancelled registrations**: Registrations that were cancelled by either the competitor or the organization team. These competitors will not compete, and their spot may be offered to someone on the waiting list.
+
+- **Deleted registrations**: Registrations that were removed from the system. Unlike cancelled registrations, deleted registrations are completely removed and may not retain historical records.
+
 ## Making Changes to the Requirements
 
 Even though making changes to the requirements is sometimes a possibility, it should only happen in **exceptional** circumstances. You should avoid changes as much as possible. **Every** update on the registration requirements needs to first be approved by the listed Delegates, and some also require approval by the WCA Competition Announcement Team. If you need to make any changes, communicate with your Delegates early since it could take a few days for the requirements to be updated.
