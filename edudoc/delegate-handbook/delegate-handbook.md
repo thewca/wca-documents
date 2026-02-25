@@ -136,7 +136,7 @@ The ideal candidate for a new Trainee Delegate has the following:
 - A few hours of free time per week to work on Delegate tasks
 - Experience as an organizer with a history of successful competitions
 
-There is no minimum age requirement for becoming a Trainee Delegate. However, the responsibilities of a Delegate tend to reflect individuals who are adults, with rare exceptions for outstanding candidates under 18 years old.
+To become a Trainee Delegate, candidates must be at least 17 years old, and to become a Junior Delegate, at least 18. The responsibilities of a Delegate are generally designed for individuals who are adults.
 
 ## Delegate Tiers
 
