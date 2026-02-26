@@ -590,6 +590,35 @@ When checking in a first-time competitor, verify the following information:
 
 If a first-time competitor does not have a form of identification available, it is acceptable to allow the competitor to verbally confirm their name and date of birth. If they cannot provide a document proving citizenship, make a note for this competitor and inform them to send the documentation to you via email after the competition. If a competitor is stateless (has no citizenship of any country), contact the WCA Results Team (WRT) for advice.
 
+### Newcomer Checks on Competition Websites
+
+Competition websites now include a Newcomer Checks feature to help streamline the verification process for first-time competitors. This feature allows competitors to complete certain checks prior to the competition day, reducing check-in time and ensuring a smoother experience.
+
+- What Newcomer Checks Include
+
+The Newcomer Checks feature typically asks first-time competitors to:
+
+- Confirm understanding of basic rules: Competitors acknowledge that they have read and understood the WCA Regulations relevant to first-time competitors
+- Provide necessary information: Submit any required documentation or information before arrival
+- Review competition procedures: Familiarize themselves with how competitions are run, including judging and competing responsibilities
+
+#### Delegate Responsibilities
+
+As a Delegate, you should:
+
+1. Review the Newcomer Checks section on the competition website prior to the competition day
+2. Identify any newcomers with incomplete checks and follow up with them via email or through the registration platform
+3. Coordinate with organizers to ensure that first-time competitors who completed their checks can be quickly verified at check-in
+4. Use the check-in table to confirm that newcomers who completed their checks still have their identity verified according to [Regulation 2e](https://www.worldcubeassociation.org/regulations/#2e)
+
+#### Benefits
+
+- Reduces check-in congestion by moving some verification steps online
+- Helps first-time competitors feel more prepared before arriving at their first competition
+- Allows Delegates to identify potential issues in advance, such as competitors who may need additional guidance
+
+Note: Completing Newcomer Checks online does not replace the in-person identity verification required by Regulation 2e. Delegates must still verify the identity of all first-time competitors at the competition.
+
 ## First-Time Competitor Tutorial
 
 A first-time competitor is recommended to help reduce incidents when there are first-time competitors at your competition. Most first-time competitor tutorials take 10-20 minutes and are held at the start of a competition. Depending on your competition schedule, you could hold the new competitor tutorial at another time during the competition to maximize its impact.
