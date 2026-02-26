@@ -103,7 +103,7 @@ There is a lot of information that is relevant to all WCA Volunteers, not just D
     - [Business Cards](#business-cards)
   - [Contributing to the Delegate Handbook](#contributing-to-the-delegate-handbook)
 
-## Introduction to Delegating {.page-break-before}
+# Introduction to Delegating {.page-break-before}
 
 Delegates are one of the most prominent roles within the World Cube Association. A Delegate represents the WCA at a cubing competition to ensure that competitors adhere to the rules of each event and maintain fair play throughout the competition. Most importantly, all Delegates must have a strong understanding of the [WCA Regulations](https://www.worldcubeassociation.org/regulations/).
 
