@@ -448,7 +448,7 @@ The WCA registration system organizes registrations into different lists based o
 
 - **Cancelled registrations**: Registrations that were cancelled by either the competitor or the organization team. These competitors will not compete, and their spot may be offered to someone on the waiting list.
 
-- **Deleted registrations**: Registrations that were removed from the system. Unlike cancelled registrations, deleted registrations are completely removed and may not retain historical records.
+- **Rejected registrations**: Registrations that were rejected by the organization team. The difference between cancelled and rejected registrations is that competitors with a cancelled status can register again, while those on the rejected list cannot. The rejected status is rarely used—typically when someone is banned and delegates are instructed to change their status to rejected.
 
 Regularly confirm the following:
 
