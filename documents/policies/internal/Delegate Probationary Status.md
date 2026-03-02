@@ -8,7 +8,7 @@ Junior and Full Delegates who fail to do their duties may be placed on probation
 Senior Delegates are responsible for placing Delegates on probation, with relevant Committees/Teams (WEAT, WFC, WIC, WQAC, WRC, WRT) being responsible for recommending probation to the Senior Delegate due to active investigations or deviations from policy.
 
 ### Probation Due to Late Reports and/or Results
-Lead Delegates who submit late reports and/or results for two consecutive competitions, or Lead Delegates who demonstrate a pattern of late submissions of reports and/or results, shall be placed on probation by the Senior Delegate, and will be subject to the following restrictions.
+Lead Delegates with late reports and/or results for two consecutive competitions, or Lead Delegates who demonstrate a pattern of late reports and/or results, shall be placed on probation by the Senior Delegate, and will be subject to the following restrictions.
 
 1. The Delegate will not be permitted to delegate competitions held in the same week or held on consecutive weekends.
    1. Competitions that have already been announced will be unaffected; however, no new competitions which would violate this restriction may be announced.
