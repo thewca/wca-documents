@@ -36,7 +36,7 @@ Delegates may be placed on probation due to quality issues identified either by 
 At the discretion of the Senior Delegate, Delegates on this type of probation shall be subject to restrictions, including, but not limited to, any or all of the following:
 
 1. The Delegate may not be permitted to delegate competitions without another Delegate present at the competition.
-2. The Delegate may be restricted to competitions that have a lower competitor limit, set by the Senior Delegate or recommended by WQAC.
+2. The Delegate may be restricted to competitions that have a lower competitor limit, set by the Senior Delegate as advised by the WQAC.
 3. The Delegate may be required to have the schedule approved by the WQAC and/or Senior Delegate before submitting competitions for announcement.
 4. The Delegate may not have any competitions announced until communication is re-established and outstanding issues are resolved.
 
