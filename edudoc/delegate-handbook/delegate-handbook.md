@@ -449,7 +449,7 @@ Watch for registrations that seem to have mistakes. It is common for a first-tim
 
 ### Administering Registration Data
 
-Take special care while handling registration data. Problems with registration data are often easily clarified when talking to the affected competitor during the competition, but are significantly harder to solve after the competition. Carefully look through the registration data at least once before the competition, or make use of the "Newcomer Checks" (this is new since February 2026). You may send a competitor an email to ask about their registration information or write down any corrections needed at the check-in table. You may fix incorrect information immediately, or at the lastest during submitting results. See: [Double-checking Registration Data](#double-checking-registration-data) section.
+Take special care while handling registration data. Problems with registration data are often easily clarified when talking to the affected competitor during the competition, but are significantly harder to solve after the competition. Carefully look through the registration data at least once before the competition, or make use of the "Newcomer Checks" which you can find in the left menu of the competition page (this is new since February 2026). You may send a competitor an email to ask about their registration information or write down any corrections needed at the check-in table. You may fix incorrect information immediately, or at the lastest during submitting results. See: [Double-checking Registration Data](#double-checking-registration-data) section.
 
 The most common issues with registration data to pay attention to are:
 
@@ -1162,6 +1162,7 @@ If you receive an email and do not believe you are best suited to handle such a 
 ### Requesting Changes to Personal Data
 
 Competitors may request changes to their name, gender, date of birth, and/or citizenship. Competitors can fill out the [Edit profile form](https://www.worldcubeassociation.org/contact/edit_profile) themselves, or a Delegate may request changes using the form [at this link](https://www.worldcubeassociation.org/contact/edit_profile?editOthersProfile=true). If a Delegate is making the request, they must verify the competitor is the correct person and that the information provided is correct (e.g. dates of birth or last names) or sensible (e.g. first name or gender changes).
+(Note: previously this process was done through email, this new form replace that.)
 Different requirements may apply depending on different circumstances. If you are unsure about any of the requirements below, please provide as much information as possible in the form, and the WRT will be happy to help you.
 
 There are two types of data changes:
