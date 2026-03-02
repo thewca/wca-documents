@@ -14,7 +14,7 @@ Lead Delegates who submit late reports and/or results for two consecutive compet
    1. Competitions that have already been announced will be unaffected; however, no new competitions which would violate this restriction may be announced.
 2. The Delegate will remain on probation until they demonstrate that they are capable of fulfilling their duties by submitting the report and results of at least three consecutive competitions on time.
 
-Exceptions for Late Reports and/or Results must be approved by the Senior Delegate prior to the report or results being due, and requests for exceptions after the deadline has passed will not be granted unless there are extenuating circumstances.
+Exceptions for late reports and/or results must be approved by the Senior Delegate prior to the report or results being due, and requests for exceptions after the deadline has passed will not be granted unless there are extenuating circumstances.
 
 ### Probation Due to Late Payments
 Lead Delegates who have late outstanding payments for competition Dues or any Delegate with late outstanding payments for gear orders may be placed on probation.
