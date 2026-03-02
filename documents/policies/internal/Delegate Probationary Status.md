@@ -43,7 +43,6 @@ At the discretion of the Senior Delegate, Delegates on this type of probation sh
 The Delegate will remain on probation until they demonstrate that they are capable of fulfilling their duties, at the discretion of the Senior Delegate.
 
 ### Probation Due to an Investigation
-
 Delegates may be placed on probation as a temporary measure while a Delegate is being investigated by either the WIC, WQAC, or WRC. The restrictions of this probation will be determined by the Senior Delegate along with input from the appropriate Committee/Team. The probation period would be lifted when the investigation is complete and appropriate action is taken based on its results. 
 
 ### Demotion
