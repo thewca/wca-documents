@@ -17,7 +17,7 @@ Lead Delegates with late reports and/or results for two consecutive competitions
 Exceptions for late reports and/or results must be approved by the Senior Delegate prior to the report or results being due, and requests for exceptions after the deadline has passed will not be granted unless there are extenuating circumstances.
 
 ### Probation Due to Late Payments
-Lead Delegates who have late outstanding payments for competition Dues or any Delegate with late outstanding payments for gear orders may be placed on probation.
+Lead Delegates who have late outstanding payments for competition Dues or any Delegates with late outstanding payments for gear orders may be placed on probation.
 
 1. Unless the Delegate has a valid reason for the late payment (i.e. an exceptional circumstance), as determined by the WFC, then the Delegate will not be allowed to announce any new competitions or place any new gear orders until their outstanding balance is paid.
    1. Competitions that have already been announced and gear orders that have already been shipped will be unaffected.
