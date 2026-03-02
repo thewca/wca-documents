@@ -44,7 +44,7 @@ The Delegate will remain on probation until they demonstrate that they are capab
 
 ### Probation Due to an Investigation
 
-At the discretion of the Senior Delegate, Delegates may be placed on probation by a Senior Delegate as a temporary measure while a Delegate is being investigated by either WIC, WQAC, or WRC. The restrictions of this probation will be determined by the Senior Delegate along with input from the appropriate team, depending on the type of investigation. The probation period would be lifted when the investigation is complete and appropriate action is taken based on the results of the investigation. 
+Delegates may be placed on probation as a temporary measure while a Delegate is being investigated by either the WIC, WQAC, or WRC. The restrictions of this probation will be determined by the Senior Delegate along with input from the appropriate Committee/Team. The probation period would be lifted when the investigation is complete and appropriate action is taken based on its results. 
 
 ### Demotion
 Delegates on probation who fail to improve in a certain time period, set as a fixed period of time or number of competitions by the Senior Delegate when the probation period begins (maximum duration of one year), may be demoted, at the discretion of the Senior Delegate. Junior Delegate demotions can be actioned directly by the Senior Delegate. Full Delegate demotions require approval by the WCA Board.
