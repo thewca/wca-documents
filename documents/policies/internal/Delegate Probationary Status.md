@@ -24,7 +24,7 @@ Lead Delegates who have late outstanding payments for competition Dues or any De
 2. Following the payment of the outstanding balance, the Delegate may be placed on continued probation limiting the number of upcoming competitions they may have announced at any one time and/or their ability to place gear orders, at the discretion of the WFC or Senior Delegate.
 
 ### Probation Due to Quality Issues
-At the discretion of the Senior Delegate or WQAC, Delegates may be placed on probation by a Senior Delegate due to quality issues identified either by the Senior Delegate or WQAC, including, but not limited to:
+Delegates may be placed on probation due to quality issues identified either by the Senior Delegate or the WQAC, including, but not limited to:
 
 - Failure to reply to or communicate with WCA Volunteers
 - Failure to process WCA ID claims in a reasonable timeframe
