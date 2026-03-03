@@ -3,7 +3,7 @@
 ### Version 1.6 {.version}
 
 ## Policy
-Junior and Full Delegates who fail to do their duties may be placed on probation. This is an internal designation which only the Delegate on probation, Regional Delegate, Senior Delegate, Board, and relevant committees and/or teams would be aware of.
+Junior and Full Delegates who fail to do their duties may be placed on probation. This is an internal designation which only the Delegate on probation, Regional Delegate, Senior Delegate, Board, and relevant Committees/Teams would be aware of.
 
 Senior Delegates are responsible for placing Delegates on probation, with relevant Committees/Teams (WEAT, WFC, WIC, WQAC, WRC, WRT) being responsible for recommending probation to the Senior Delegate due to active investigations or deviations from policy.
 
