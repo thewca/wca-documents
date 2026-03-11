@@ -449,12 +449,19 @@ Watch for registrations that seem to have mistakes. It is common for a first-tim
 
 ### Administering Registration Data
 
-Take special care while handling registration data. Problems with registration data can often be easily clarified when talking to the affected competitor during the competition but are significantly harder to solve after the competition. Carefully look through the registration data at least once before the competition. You may send a competitor an email to correct their registration information or fix this information at the check-in table. You will review registration data again when submitting results in the [Double-checking Registration Data](#double-checking-registration-data) section.
+Take special care while handling registration data. Problems with registration data are often easily clarified when talking to the affected competitor during the competition, but are significantly harder to solve after the competition. Carefully look through the registration data at least once before the competition, or make use of the "Newcomer Checks" which you can find in the left menu of the competition page (this is new since February 2026). You may send a competitor an email to ask about their registration information or write down any corrections needed at the check-in table. You may fix incorrect information immediately, or at the lastest during submitting results. See: [Double-checking Registration Data](#double-checking-registration-data) section.
 
-Below are the most common issues with registration data:
+The most common issues with registration data to pay attention to are:
 
-- Ensure that every name is correctly capitalized and complete (see below).
-- Ensure that everyone has registered with reasonable dates of birth (e.g. not 1900-01-01 or a date in the current year).
+- Names are complete and correctly capitalized (see below).
+- Everyone has registered with reasonable dates of birth (e.g. not 1900-01-01 or a date in the current year).
+- Every first-time competitor represents a country where they hold citizenship and not just their country of residence or heritage.
+- Every first-time competitor is a real first-time competitor. If you are certain that someone who registered as a first-time competitor has competed before, edit their user account and manually assign their WCA ID.
+  - If there are any doubts, do not add a WCA ID and mention the issue to the WRT when submitting the results.
+  - If you get an error about mismatching data, double-check with the competitor whether they have competed before, if possible. If they have competed before and the information (e.g. birthdate) on their WCA profile is incorrect, you will need to contact the WCA Results Team (WRT) to correct the mismatching data - use the form [at this link](https://www.worldcubeassociation.org/contact/edit_profile?editOthersProfile=true).
+- The registration data for on-the-spot registrants is accurate, as they are particularly error-prone. Pay special attention to these because otherwise, crucial information such as WCA IDs and/or dates of birth could be unavailable.
+- All the data for every competitor with an existing WCA ID matches the data currently stored in the WCA database. If there are any discrepancies and a correction is needed, request this change when submitting the results (see the [Requesting Changes to Personal Data](#requesting-changes-to-personal-data) section).
+- If the date of birth for a competitor is still missing after the competition, the WRT will not accept their results. Change it to be blank on the user’s account, and do not enter mock dates such as “1900-01-01”. You must remove these results before submitting and contact the competitor to get their information, after which their results may be recognized.
 
 On abbreviations in competitor names:
 
@@ -976,13 +983,7 @@ Be aware of potential score-taking errors. Score-taking software such as WCA Liv
 
 ### Double-checking Registration Data
 
-Before submitting results, double-check that the registration data is accurate. Along with the requirements listed in [Administering Registration Data](#administering-registration-data), check the following:
-
-- Every first-time competitor is a real first-time competitor. If you are certain that someone who registered as a first-time competitor has competed before, edit their user account and manually assign their WCA ID before the results submission. If you get an error about mismatching data, double-check with the competitor whether they have competed before, if possible. If they have competed before and the information (e.g. birthdate) on their WCA profile is incorrect, you will need to contact the WRT to correct the mismatching data. If there are any doubts, do not add a WCA ID and mention the issue to the WCA Results Team (WRT) when submitting the results.
-- Every first-time competitor represents a country where they hold citizenship and not just their country of residence or heritage.
-- The registration data for on-the-spot registrants is accurate, as they are particularly error-prone. Pay special attention to these because otherwise, crucial information such as WCA IDs and/or dates of birth could be unavailable.
-- All the data for every competitor with an existing WCA ID matches the data currently stored in the WCA database. If there are any discrepancies and a correction is needed, request this change when submitting the results (see the [Requesting Changes to Personal Data](#requesting-changes-to-personal-data) section).
-- If the date of birth for a competitor is still missing after the competition, the WRT will not accept their results. Change it to be blank on the user’s account, and do not enter mock dates such as “1900-01-01”. You must remove these results before submitting and contact the competitor to get their information, after which their results may be recognized.
+Before submitting results, make all needed changes to the registration data, if you caught any incorrect information. If you are unsure about anything, explain it as clearly as possible to WRT.  
 
 ### Submitting Results
 
@@ -1160,7 +1161,9 @@ If you receive an email and do not believe you are best suited to handle such a 
 
 ### Requesting Changes to Personal Data
 
-There are several scenarios when change requests concerning personal data (i.e. name, gender, date of birth, and citizenship of a competitor). The WRT has different requirements depending on different circumstances.
+Competitors may request changes to their name, gender, date of birth, and/or citizenship. Competitors can fill out the [Edit profile form](https://www.worldcubeassociation.org/contact/edit_profile) themselves, or a Delegate may request changes using the form [at this link](https://www.worldcubeassociation.org/contact/edit_profile?editOthersProfile=true). If a Delegate is making the request, they must verify the competitor is the correct person and that the information provided is correct (e.g. dates of birth or last names) or sensible (e.g. first name or gender changes).
+(Note: previously this process was done through email, this new form replace that.)
+Different requirements may apply depending on different circumstances. If you are unsure about any of the requirements below, please provide as much information as possible in the form, and the WRT will be happy to help you.
 
 There are two types of data changes:
 
@@ -1176,26 +1179,17 @@ There are two types of data changes:
 
 This form of data change is commonly applied for the following:
 
-- Changes of citizenship
 - Non-sensitive name changes where the competitor still wishes to have their previous name displayed for past competitions and as a notice on their profile (e.g. last name changes due to marriage)
-
-**A note on last name changes:** Until July 2024, the WRT executed every non-sensitive last name change as an update. Competitors now have the choice as to whether they would like their name change executed as a fix or as an update. It is possible for any previous name change update to be changed to a fix by contacting the WRT.
-
-Changes in a competitor’s information may be requested directly by the competitor or through a Delegate. If the competitor contacts the WRT directly, a legal document of identification must be provided. If the Delegate is making the request, they must verify the competitor is the correct person and that the information provided is correct (e.g. dates of birth or last names) or sensible (e.g. first name or gender changes).
-
-- Date of birth fixes may be requested by the competitor through the [Birthday Change Request Form](https://www.worldcubeassociation.org/contact/dob).
-- Name changes: ensure you request the correct type (i.e. fix or update) as described above.
-- Changes in gender: the WRT is more lenient with these and only requires proof of identity. Note: As gender changes are mostly sensitive, the WRT executes such changes as fixes, although they are technically updates.
-- Send all changes to the WRT with the WCA ID, old data, and new data.
+- Changes of citizenship
 
 Change requests for a person’s country are particularly delicate, as they affect rankings and possibly records. Therefore, such requests must include the following:
 
 - Documentation of the old nationality (if available)
 - Documentation of the new nationality
 - A thorough description of the change request, including answers to the following questions:
-  - Does the competitor still hold the old nationality (i.e. as a dual nationality)?
-  - If not, when did the competitor lose the old nationality? Did the competitor ever hold the old nationality?
   - When did the competitor obtain the new nationality?
+  - Does the competitor have dual nationality?
+  - If not, when did the competitor lose the old nationality? Did the competitor ever hold the old nationality?
 
 **Note**: Residing in a country is **not** equivalent to having citizenship for that country.
 
