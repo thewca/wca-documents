@@ -600,7 +600,7 @@ If a first-time competitor does not have a form of identification available, it 
 
 ## First-Time Competitor Tutorial
 
-A first-time competitor is recommended to help reduce incidents when there are first-time competitors at your competition. Most first-time competitor tutorials take 10-20 minutes and are held at the start of a competition. Depending on your competition schedule, you could hold the new competitor tutorial at another time during the competition to maximize its impact.
+A first-time competitor tutorial is recommended to help reduce incidents when there are first-time competitors at your competition. The tutorial is typically held at the start of the competition or right before the 3x3x3 event. Depending on your competition schedule, you could hold the new competitor tutorial at another time during the competition to maximize its impact. The durations vary by region. Most first-time competitor tutorials take around 10 to 20 minutes.
 
 - If the first event of the competition is unlikely to have many first-time competitors, you may choose to delay it until right before the first first-time competitor-friendly event, as some first-time competitors might not be present for events they are not competing in.
 - If there is a day when few first-time competitors are expected, such as a day focused on blindfolded events, you could skip the tutorial entirely and hold it on another day.
