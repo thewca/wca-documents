@@ -810,21 +810,21 @@ The following incidents occur frequently at competitions and have a standard way
     <td>**Resolution**</td>
   </tr>
   <tr>
-    <td>Judge did not reset timer.</td>
+    <td>The timer was not reset or was not turned on.</td>
     <td>
-    [Regulation A3b](https://www.worldcubeassociation.org/regulations/#A3b) indicates the judge is responsible for resetting the timer. Therefore, the competitor is not considered at fault for this incident. Grant an extra attempt, remind the judge to ensure the timer is reset before any attempt, and inform the competitor for future reference that they are allowed to reset the timer during the inspection phase if they notice it is not reset.</br></br>
+    [Regulation A3b](https://www.worldcubeassociation.org/regulations/#A3b) indicates the judge is responsible for turning on the timer and resetting it after each attempt. Therefore, the competitor is not considered at fault for this incident. Grant an extra attempt, remind the judge to ensure the timer is reset before any attempt, and inform the competitor for future reference that they are allowed to reset the timer during the inspection phase if they notice it is not reset.</br></br>
     If the competitor repeatedly fails to notice that the timer is not reset, especially within a single round, you may use your discretion not to grant an extra attempt.
     </td>
   </tr>
   <tr>
-    <td>Timer was in 4-pad mode.</td>
+    <td>The timer was in 4-pad mode.</td>
     <td>
     The [Approved Timer List](https://drive.google.com/file/d/1UizYZOY4v-t7YnKcXas0hHzekX-NGuhW/view) specifies that Gen 5 timers must be in 2-pad mode. Changing modes takes several seconds, so it is unreasonable to expect the competitor to switch modes during the inspection phase. Grant an extra attempt and inform the judge and competitor to check the color of the light. An orange light indicates 2-pad mode. A blue light indicates 4-pad mode.</br></br>
     Timers occasionally malfunction and switch to 4-pad mode on their own. When this happens, make a note of which timer had the issue and replace it if the issue continues to persist. Consider whether the specific timer has recently malfunctioned when granting an extra attempt to a competitor for a potential timer malfunction.
     </td>
   </tr>
   <tr>
-    <td>Duplicate scramble reported.</td>
+    <td>The competitor reported a duplicate scramble.</td>
     <td>
     [Regulation 11j](https://www.worldcubeassociation.org/regulations/#11j) specifies what to do when a competitor reports a duplicate scramble.</br></br>
     Do your best to give them the correct scramble. Grant an extra attempt if the correct scramble cannot be confidently determined.</br></br>
@@ -834,30 +834,30 @@ The following incidents occur frequently at competitions and have a standard way
     </td>
   </tr>
   <tr>
-    <td>Revealed puzzle was not the competitor’s.</td>
+    <td>The competitor reported that the puzzle does not belong to them.</td>
     <td>
-    If the score sheet belongs to the competitor and the competitor has already seen the scramble from a previous attempt, no extra attempt is necessary. If the scramble state is for an attempt the competitor has not yet completed, grant an extra attempt to replace it. Regardless of whether you are granting an extra attempt, try to find the competitor’s actual puzzle before letting them continue their remaining attempts. It is likely with another competitor’s score sheet due to the puzzles getting swapped at the scrambling table or the drop-off table.</br></br>
+    If the score sheet belongs to the competitor and the competitor has already seen the scramble from a previous attempt, no extra attempt is necessary. If the scramble state is for an attempt the competitor has not yet completed, grant an extra attempt to replace it.</br></br> 
+    Regardless of whether you are granting an extra attempt, try to find the competitor’s actual puzzle before letting them continue their remaining attempts. It is likely with another competitor’s score sheet due to the puzzles getting swapped at the scrambling table or the drop-off table.</br></br>
     If the score sheet belongs to the competitor, warn your scramblers to be more careful when scrambling puzzles.</br></br>
-    If the score sheet belongs to another competitor, you should tell the competitor to double-check that their name is on their score sheet before saying they are ready to start their attempt.
+    If the score sheet belongs to another competitor, you should tell the competitor to double-check that their name is on their score sheet before saying they are ready to start their attempt.</br></br>
+    If the round isstationary, it is likely that the runner mistakenly brought the puzzle to the wrong station. If the round is non-stationary round, it is likely that the competitor misheard their name or station number, or the runner called the wrong name or station number. As a Delegate, you could reduce these cases by creating groups with no similar names.
     </td>
   </tr>
   <tr>
-    <td>Competitor went to wrong solving station.</td>
-    <td>An extra attempt is usually granted, but use your discretion if you think the competitor is particularly careless. As a Delegate, you could reduce these cases by creating groups with no duplicate names.</td>
+    <td>The competitor saw the scramble before the attempt.</td>
+    <td>
+      You may grant an extra attempt depending on exactly how the competitor saw the puzzle. If the competitor accidentally knocked over the puzzle cover themself, the result is a DNF per [Regulation A2e2](https://www.worldcubeassociation.org/regulations/#A2e2). If the competitor saw the puzzle as a result of a runner or judge knocking over the puzzle cover or being careless with scramble secrecy, grant an extra attempt. Additionally, you should warn the runner or judge to be more careful to keep puzzles out of sight from competitors.
+    </td>
   </tr>
   <tr>
-    <td>Competitor saw scramble before attempt.</td>
-    <td>You may grant an extra attempt depending on exactly how the competitor saw the puzzle. If the competitor accidentally knocked over the puzzle cover themself, the result is a DNF per [Regulation A2e2](https://www.worldcubeassociation.org/regulations/#A2e2). If the competitor saw the puzzle as a result of a runner or judge knocking over the puzzle cover or being careless with scramble secrecy, grant an extra attempt. Additionally, you should warn the runner or judge to be more careful to keep puzzles out of sight from competitors.</td>
-  </tr>
-  <tr>
-    <td>Judge lifted the puzzle cover before the competitor was ready.</td>
+    <td>The judge lifted the puzzle cover before the competitor was ready.</td>
     <td>
     If the competitor did not continue the attempt and immediately called over a Delegate, grant an extra attempt per [Regulation A3b2](https://www.worldcubeassociation.org/regulations/#A3b2). However, do not grant an extra attempt if you determine that the competitor might have inspected the puzzle and is asking for an extra attempt after determining that the scramble is bad.</br></br>
     If the competitor has already completed the solve, do not grant an extra attempt, as this would unfairly allow the competitor to determine whether they like the outcome of the attempt before asking for an extra attempt ([incident log](https://www.worldcubeassociation.org/incidents/98)).
     </td>
   </tr>
   <tr>
-    <td>Judge did not call “8 seconds” or “12 seconds” after those times had elapsed.</td>
+    <td>The judge did not call “8 seconds” or “12 seconds” after those times had elapsed.</td>
     <td>
     If the competitor has not started the timer, grant an extra attempt. The judge is responsible for making the callouts to inform the competitor of the time elapsed.</br></br>
     You should not grant an extra attempt if the competitor has completed their solve. A competitor who noticed that the judge did not make the callouts should stop the attempt immediately and call a Delegate over. Requesting an extra after the attempt has ended is a sign that they could be trying to replace a poor attempt with a better one.</br></br>
@@ -865,32 +865,40 @@ The following incidents occur frequently at competitions and have a standard way
     </td>
   </tr>
   <tr>
-    <td>Judge performed erroneous inspection phase callouts (e.g. “10 seconds”) or did not follow the inspection phase protocol correctly.</td>
+    <td>The judge did not follow the inspection phase protocol correctly.</td>
     <td>
-    Grant an extra attempt and instruct the judge on the appropriate callouts.</br></br>
+    If the judge accidentally knocked over the puzzle cover or lifted it before the competitor was ready, did not start the stopwatch as they were lifting the puzzle cover, made a remark to the competitor while they were inspecting, or otherwise did not follow the inspection phase protocol correctly, grant an extra attempt.
+    If the judge made erroneous callouts such as “10 seconds”, grant an extra attempt and instruct the judge on the appropriate callouts.</br></br>
     One notable exception to this is when the judge calls out “15 seconds” or “17 seconds”. Although these are invalid callouts according to [Regulations A3b3](https://www.worldcubeassociation.org/regulations/#A3b3) and [A3b4](https://www.worldcubeassociation.org/regulations/#A3b4), granting an extra attempt in these situations would unfairly allow the competitor to retry an attempt where they could have otherwise received a +2 penalty or a DNF.
     </td>
   </tr>
   <tr>
-    <td>Competitor was found using a non-permitted object.</td>
+    <td>The competitor was using a device with a front-facing screen.</td>
     <td>
-    Common examples of non-permitted objects include front facing camera screens and headphones.</br></br>
-    If you believe the competitor did not get assistance from using the object, the result may be kept at your discretion, as per [Regulation 2i](https://www.worldcubeassociation.org/regulations/#2i). Otherwise, the result must be changed to DNF, or you may replace the attempt with an extra if the competitor is inexperienced ([Regulation A7g](https://www.worldcubeassociation.org/regulations/#A7g)). In all cases, the competitor must not be allowed to continue using the non-permitted object.
+    You may grant an extra attempt if the competitor is inexperienced per [Regulations A7g](https://www.worldcubeassociation.org/regulations/#A7g). Otherwise, the judge must record the attempt as a DNF.</br></br>
+    If the competitor used the device during previous attempts, you must also change those attempts to a DNF result. The penalty for previous attempts may be lifted at your discretion if you believe the competitor did not get assistance from the screen, but you must not allow them to keep using the screen in such a way.</br></br>
     </td>
   </tr>
   <tr>
-    <td>Competitor was competing with an illegal puzzle.</td>
+    <td>The competitor was using electronic headphones or earbuds.</td>
+    <td>
+    You may grant an extra attempt if the competitor is inexperienced per [Regulations A7g](https://www.worldcubeassociation.org/regulations/#A7g).</br></br>
+    Otherwise, you must change the attempt and any previous attempts in which the competitor used the headphones or earbuds to a DNF result.
+    </td>
+  </tr>
+  <tr>
+    <td>The competitor was competing with an illegal puzzle.</td>
     <td>Delegates may replace attempts where a competitor used an illegal puzzle with extra attempts per [Regulations 3k2a](https://www.worldcubeassociation.org/regulations/#3k2a). Otherwise, the Delegate must change the attempts using the illegal puzzle to a DNF result.</td>
   </tr>
   <tr>
-    <td>Timer was reset before time could be fully written on score sheet.</td>
+    <td>The timer was reset before time could be fully written on score sheet.</td>
     <td>
     If the competitor reset the timer, the result is a DNF per [Regulations A6f1](https://www.worldcubeassociation.org/regulations/#A6f1), even if there is video, photo, or memory evidence of the full time. **The time must be disqualified even if the time is partially written**. For example, “18.” must not be interpreted as “18.99” per [Regulation A7c+](https://www.worldcubeassociation.org/regulations/#A7c+).</br></br>
-    If someone other than the competitor reset the timer, or the timer was reset for another reason (e.g. a malfunction), you may use video or photo evidence to record the time. If no video or photo evidence exists, you may grant an extra attempt or use the partially written time in conjunction with [Regulation A7c+](https://www.worldcubeassociation.org/regulations/#A7c+) as the recorded time. Consider fairness. For example, recording a partially written time of “18.8” as “18.89” is fairer than it is to grant an extra attempt. A partially written time of “2” for a competitor averaging 20-30 seconds does not have a reasonable worst interpretation, so grant an extra attempt.
+    If someone other than the competitor reset the timer, or the timer was reset for another reason (e.g. a malfunction), you may use video or photo evidence to record the time. If no video or photo evidence exists, you may grant an extra attempt or use the partially written time in conjunction with [Regulation A7c+](https://www.worldcubeassociation.org/regulations/#A7c+) as the recorded time. Consider fairness. For example, recording a partially written time of “18.8” as “18.89” is fairer than granting an extra attempt. A partially written time of “2” for a competitor averaging 20-30 seconds does not have a reasonable worst interpretation, so grant an extra attempt.
     </td>
   </tr>
   <tr>
-    <td>Timer stopped early.</td>
+    <td>The timer stopped early.</td>
     <td>
     If the time is strictly below 0.06 seconds and you believe the timer malfunctioned, you must grant an extra attempt per [Regulations A6b1](https://www.worldcubeassociation.org/regulations/#A6b1). If the time is strictly below 0.06 seconds and you determine the competitor stopped the timer deliberately or caused it to stop by improperly starting it, the result is a DNF.</br></br>
     Make a note of the specific timer. If it continues to malfunction, remove or replace it with one that is functioning properly. If it continues to malfunction, remove or replace it with one that is functioning properly. You should mark the malfunctioning timer to prevent it from being reintroduced to the solving area without being tested first.</br></br>
@@ -898,10 +906,10 @@ The following incidents occur frequently at competitions and have a standard way
     </td>
   </tr>
   <tr>
-    <td>Competitor reported a misscramble.</td>
+    <td>The competitor reported a misscramble.</td>
     <td>
     If the result in question is within the scope of [Regulation 11i1](https://worldcubeassociation.org/regulations/#11i1), the attempt must be replaced by an extra.</br><br>
-    Otherwise, you should only grant an extra if the misscramble resulted in a significantly less fair outcome, as per [Regulation 11i2](https://worldcubeassociation.org/regulations/#11i2). This should be an extremely infrequent occurrence, and it would be very clear in incidents where this is required. Some examples include a solved cross on clock, or extremely low move count compared to the normal scramble. 
+    Otherwise, you should only grant an extra if the misscramble resulted in a significantly less fair outcome, as per [Regulation 11i2](https://worldcubeassociation.org/regulations/#11i2). This should be an extremely infrequent occurrence, and it would be very clear in incidents where this is required. Some examples include a solved cross on Clock, or an extremely low move count compared to the normal scramble. 
     </td>
   </tr>
 </table>
