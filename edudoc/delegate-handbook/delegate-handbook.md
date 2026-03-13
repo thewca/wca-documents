@@ -463,30 +463,29 @@ The most common issues with registration data to pay attention to are:
 - All the data for every competitor with an existing WCA ID matches the data currently stored in the WCA database. If there are any discrepancies and a correction is needed, request this change when submitting the results (see the [Requesting Changes to Personal Data](#requesting-changes-to-personal-data) section).
 - If the date of birth for a competitor is still missing after the competition, the WRT will not accept their results. Change it to be blank on the user’s account, and do not enter mock dates such as “1900-01-01”. You must remove these results before submitting and contact the competitor to get their information, after which their results may be recognized.
 
-On abbreviations in competitor names:
+Here are the name requirements:
 
-- Competitor names are required to contain a full last name as noted on a person’s legal document and a reasonable first name or nickname.
-- The name of the competitor must be Roman-readable. Competitors are allowed to have a locally written name if they wish. The localized version must be surrounded by parentheses and added after the Roman-readable name. Example: Hanako Yamada (山田映奈子).
-- Double-letter abbreviations (e.g. “AJ” and “TJ”) are permitted as a first or middle name if a competitor wishes to be called accordingly.
-- Single letter abbreviations (e.g. “A.”, “B.”) for first and last names are not permitted unless this is how the name is displayed on an ID document.
-- First name single letter abbreviations are **only** permitted when a reasonable nickname or middle name is also provided. Example: A. Bob Smith.
-- Second first names and middle names may be abbreviated if they wish.
-- Competitors who prefer to be called by their second first name are permitted to use this as their first name.
-- Apart from the above abbreviation cases, no additional punctuation or symbols may be added to a name unless that is how it appears in an ID document.
-
-The examples below are permitted:
-
-- “John J. Doe”
-- “John James Doe”
-- “James Doe”
-- “JJ Doe”
-- “J. James Doe”
-
-The examples below are **not** permitted:
-
-- “J. J. Doe”
-- “John James D.”
-- “J. J. D.”
+- Competitor names must include a roman-readable full name.
+- The full name must include a first name and a last name.
+  - Exception: Competitors with a single legal name may have a single full name.
+  - Clarification: In regions where name order differs from English-speaking norms, the family name is considered the last name.
+- The full name may also include one or more middle names.
+- The full name may include a family designator, such as “Jr.” or “III”.
+- The full name must not include qualifications, titles, or honorifics, such as “PhD”, “Dr.” or “Sir”.
+- Last names must be legal last names. They may not be abbreviated and must match a
+legal document.
+  - Clarification: If a competitor has multiple legal last names (e.g. competitors with Spanish-speaking ancestry) their full name must include at least one legal last name, but does not need to include all legal last names.
+  - Addition: If a competitor’s legal last name is in a non-Roman script, it should be transliterated into Roman script in a reasonable manner.
+- First and middle names may be either legal names, or reasonable nicknames.
+- A reasonable nickname must be a name by which the competitor wishes to be addressed.
+- Abbreviated names are restricted as follows:
+  - Middle names may be abbreviated to a single letter followed by a period, e.g., “A.”.
+  - First names may be abbreviated to a single letter followed by a period, e.g. “A.”, only if a non-abbreviated middle name is included in the full name, e.g., “A. James Tiger”.
+  - Two letter abbreviations such as “AJ” or “TJ” are permitted as a first name or middle name, and should not be followed by a period, e.g. “JD Smith”.
+  - Deviations from the prescribed punctuation standards are permitted only where the abbreviation matches a legal document.
+- Competitor names may include a localized name in a non-roman script, which is shown in parentheses after the full names. Example: Hanako Yamada (山田映奈子).
+- A localized name is permitted only for competitors with a legal name, as shown in a legal document, in a non-Roman script, or for competitors competing in a region where a localized name is necessary to identify them.
+- While a localized name may contain multiple names, a competitor may not have multiple localized names.
 
 ## Communicating with Competitors and their Families
 
