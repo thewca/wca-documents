@@ -24,6 +24,7 @@ There is a lot of information that is relevant to all WCA Volunteers, not just D
   - [Email](#email)
   - [Confidentiality](#confidentiality)
   - [Probation](#probation)
+  - [Lead Delegates](#lead-delegates)
 - [Before the Competition](#before-the-competition)
   - [Competitions and Your Community](#competitions-and-your-community)
     - [Competition Frequency](#competition-frequency)
@@ -140,7 +141,7 @@ To become a Trainee Delegate, candidates must be at least 17 years old, and to b
 
 ## Delegate Tiers
 
-There are multiple tiers of Delegates, each with their own responsibilities within the WCA. All tiers of Delegates have one thing in common: at a WCA competition, they all have the responsibility to ensure that competitions are run in accordance with the Regulations. Every competition has a Lead Delegate who is responsible for the administrative aspects of the competition.
+There are multiple tiers of Delegates, each with their own responsibilities within the WCA. All tiers of Delegates have one thing in common: at a WCA competition, they all have the responsibility to ensure that competitions are run in accordance with the Regulations.
 
 ### Trainee Delegates
 
@@ -272,6 +273,19 @@ The Lead Delegate is responsible for submitting competition results and Delegate
   - Failure to follow WCA policies
 
 The WFC may directly place Delegates on probation for outstanding payments without prior approval. A WCA Team or Committee with a relevant complaint may request that a Delegate be put on probation by contacting the Senior Delegate of that Delegate. Delegates who fail to improve in a specific time period may be demoted.
+
+## Lead Delegate
+
+“Lead Delegate” is not a title but rather an indicator of which Junior or Full Delegate is taking the lead on an individual competition. The Lead Delegate will be responsible for the administrative aspects of the competition, and held accountable for the following:   
+
+- Submitting the competition for announcement to Competition Announcements Team
+- Submitting accurate and timely competition results
+- Submitting result change requests to the Results Team
+- Ensuring the accuracy and completeness of the Delegate Report
+- Submitting the Delegate Report on time
+- Ensuring WCA Dues are paid on time (when an Regional Organization is not paying the dues)
+
+The Lead Delegate is the one expected to manage the above tasks with the cooperation of all Listed Delegates. All Delegates of a competition will remain accountable for all other aspects of overseeing competitions both before, during, and after the competition. 
 
 # Before the Competition {.page-break-before}
 
