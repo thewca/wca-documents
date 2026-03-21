@@ -181,7 +181,7 @@ A Junior Delegate has the same responsibilities as a Trainee Delegate and gains 
 - Access to internal WCA resources accessed through their email login
 - Access to the Poll areas of the WCA website
 
-A Senior Delegate may promote a Junior Delegate to Full Delegate if the Junior Delegate has held the position for at least one year and has successfully managed at least three WCA Competitions. To be recommended for promotion, Junior Delegate should have successfully acted as the Lead Delegate for three competitions.
+A Senior Delegate may promote a Junior Delegate to Full Delegate if the Junior Delegate has held the position for at least one year and has successfully managed at least three WCA Competitions. To be recommended for promotion, Junior Delegate must have successfully acted as the Lead Delegate for three competitions.
 
 Each quarter (three months), the WCA Executive Assistants Team (WEAT) checks which Junior Delegates are eligible for promotion and will request Senior Delegates to choose who they believe are ready for promotion. Once a Senior Delegate returns to the WEAT with their selected candidates for promotion, the WEAT will request feedback from the following WCA Teams and Committees:
 
@@ -981,7 +981,7 @@ If your Delegate community has shared equipment, spend time after the competitio
 
 ## Competition Results
 
-**Ensuring the integrity of all results is one of the main goals of the WCA**. While all Delegates of a competition remain accountable for ensuring the integrity of the results, this is ultimately the responsibility of the Lead Delegate. Results are essentially the product of the WCA. Make every reasonable effort to ensure that the results submitted represent what happened at the competition. In particular, always check for the following:
+**Ensuring the integrity of all results is one of the main goals of the WCA**. Although any Junior or Full Delegate listed on the competition page can compile and submit the results, these are ultimately the responsibility of the Lead Delegate of the competition. Results are essentially the product of the WCA. Make every reasonable effort to ensure that the results submitted represent what happened at the competition. In particular, always check for the following:
 
 - **Registration data errors**: You need to verify that every issue related to registration data has been resolved (see the Administering Registration Data section). If this has already been done before the competition, as is recommended, no bigger issues are expected at this stage.
 - **Score-taking errors**: Always double-check score sheets after they are entered, during or after the competition. You must do the double-checking **before** submitting the results. Reliable organizers or volunteers can help you. When double-checking score sheets, remember to check for missing signatures from the judge or competitor, verify that extra attempts were entered at their correct positions in the average, and check that the ambiguous times are always entered in the worst reasonable interpretation according to [Regulation A7c+](https://www.worldcubeassociation.org/regulations/#A7c+). You should have a different person from the initial score taker perform the double-checking since they might interpret handwriting differently.
@@ -1056,7 +1056,7 @@ Notes:
 
 ## Delegate Reports
 
-After every competition, the Delegates must submit a Delegate Report. This is ultimately the responsibility of the Lead Delegate of the competition. The purpose of the Delegate Report is to prove that the competition was run according to the Regulations and at a sufficient level of quality and to share information that could be relevant to other Delegates. The Delegate Report must be submitted within one week of the end of the competition. If you need an extension on your Delegate Report, inform your Senior Delegate and add the WEAT to the CC field with a notice as soon as possible.
+After every competition, the Delegates must write and submit a Delegate Report. Although any Junior or Full Delegate listed on the competition page can contribute to the report and submit it, these are ultimately the responsibility of the Lead Delegate of the competition. The purpose of the Delegate Report is to prove that the competition was run according to the Regulations and at a sufficient level of quality and to share information that could be relevant to other Delegates. The Delegate Report must be submitted within one week of the end of the competition. If you need an extension on your Delegate Report, inform your Senior Delegate and add the WEAT to the CC field with a notice as soon as possible.
 
 Each of the following sections will describe what to put in each section of the Delegate Report. In general, only interesting or notable items need to be written.
 
