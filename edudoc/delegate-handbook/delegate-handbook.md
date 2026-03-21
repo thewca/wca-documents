@@ -1070,7 +1070,7 @@ Notes:
 
 ## Delegate Reports
 
-After every competition, the Delegates must write and submit a Delegate Report. Although any Junior or Full Delegate listed on the competition page can contribute to the report and submit it, these are ultimately the responsibility of the Lead Delegate of the competition. The purpose of the Delegate Report is to prove that the competition was run according to the Regulations and at a sufficient level of quality and to share information that could be relevant to other Delegates. The Delegate Report must be submitted within one week of the end of the competition. If you need an extension on your Delegate Report, inform your Senior Delegate and add the WEAT to the CC field with a notice as soon as possible.
+After every competition, the Delegates must write and submit a Delegate Report. Although any Listed Delegate can contribute to the report, and Junior or Full Delegate listed on the competition page can submit the report, these are ultimately the responsibility of the Lead Delegate of the competition. The purpose of the Delegate Report is to prove that the competition was run according to the Regulations and at a sufficient level of quality and to share information that could be relevant to other Delegates. The Delegate Report must be submitted within one week of the end of the competition. If you need an extension on your Delegate Report, inform your Senior Delegate and add the WEAT to the CC field with a notice as soon as possible.
 
 Each of the following sections will describe what to put in each section of the Delegate Report. In general, only interesting or notable items need to be written.
 
