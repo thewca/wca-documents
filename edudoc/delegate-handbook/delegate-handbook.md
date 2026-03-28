@@ -285,7 +285,7 @@ The WFC may directly place Delegates on probation for outstanding payments witho
 - Submitting the Delegate Report on time
 - Ensuring WCA Dues are paid on time (when an Regional Organization is not paying the dues)
 
-The Lead Delegate is the one expected to manage the above tasks with the cooperation of all Listed Delegates. All Delegates of a competition will remain accountable for all other aspects of overseeing competitions both before, during, and after the competition. 
+The Lead Delegate is the one expected to manage the above tasks with the cooperation of all listed Delegates. All Delegates of a competition will remain accountable for all other aspects of overseeing competitions both before, during, and after the competition. 
 
 # Before the Competition {.page-break-before}
 
