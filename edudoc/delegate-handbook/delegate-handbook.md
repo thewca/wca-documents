@@ -278,7 +278,7 @@ The WFC may directly place Delegates on probation for outstanding payments witho
 
 “Lead Delegate” is not a title but rather an indicator of which Junior or Full Delegate is responsible for the administrative aspects of an individual competition. The Lead Delegate will be held accountable for the following:   
 
-- Submitting the competition for announcement to Competition Announcements Team
+- Submitting the competition for announcement to the Competition Announcements Team
 - Submitting accurate and timely competition results
 - Submitting result change requests to the Results Team
 - Ensuring the accuracy and completeness of the Delegate Report
