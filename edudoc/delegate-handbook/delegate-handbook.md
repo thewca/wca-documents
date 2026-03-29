@@ -182,7 +182,7 @@ A Junior Delegate has the same responsibilities as a Trainee Delegate and gains 
 - Access to internal WCA resources accessed through their email login
 - Access to the Poll areas of the WCA website
 
-A Senior Delegate may promote a Junior Delegate to Full Delegate if the Junior Delegate has held the position for at least one year and has successfully managed at least three WCA Competitions. To be recommended for promotion, Junior Delegate must have successfully acted as the Lead Delegate for three competitions.
+A Senior Delegate may promote a Junior Delegate to Full Delegate if the Junior Delegate has held the position for at least one year and has successfully managed at least three WCA Competitions. To be recommended for promotion, Junior Delegate is expected to have acted as the Lead Delegate for three competitions.
 
 Each quarter (three months), the WCA Executive Assistants Team (WEAT) checks which Junior Delegates are eligible for promotion and will request Senior Delegates to choose who they believe are ready for promotion. Once a Senior Delegate returns to the WEAT with their selected candidates for promotion, the WEAT will request feedback from the following WCA Teams and Committees:
 
