@@ -24,7 +24,7 @@ There is a lot of information that is relevant to all WCA Volunteers, not just D
   - [Email](#email)
   - [Confidentiality](#confidentiality)
   - [Probation](#probation)
-  - [Lead Delegates](#lead-delegates)
+  - [Lead Delegate](#lead-delegate)
 - [Before the Competition](#before-the-competition)
   - [Competitions and Your Community](#competitions-and-your-community)
     - [Competition Frequency](#competition-frequency)
