@@ -24,6 +24,7 @@ There is a lot of information that is relevant to all WCA Volunteers, not just D
   - [Email](#email)
   - [Confidentiality](#confidentiality)
   - [Probation](#probation)
+  - [Lead Delegates](#lead-delegates)
 - [Before the Competition](#before-the-competition)
   - [Competitions and Your Community](#competitions-and-your-community)
     - [Competition Frequency](#competition-frequency)
@@ -158,6 +159,7 @@ A Trainee Delegate has the same permissions and responsibilities as a Junior Del
 - Trainee Delegates cannot delegate a competition without another Junior Delegate or higher. The only exception is when there is an emergency, in which case the WCA Board may allow a Trainee Delegate to Delegate a competition without supervision by another Delegate.
 - Trainee Delegates cannot vote in Volunteer polls. This is separate from “voting rights” in the WCA.
 - Trainee Delegates are not given WCA email addresses.
+- Trainee Delegates cannot be the Lead Delegate of a competition.
 
 A Trainee Delegate is a Community member and not a WCA Volunteer. However, a Trainee Delegate is still expected to embody the full responsibilities of a Delegate and shall behave as a representative of the WCA in accordance with the Mission, Spirit, Policies, and Code of Ethics of the WCA.
 
@@ -175,11 +177,12 @@ A Junior Delegate has the same responsibilities as a Trainee Delegate and gains 
 
 - The ability to submit results, confirm competitions, and post Delegate Reports
 - The ability to delegate competitions without another Delegate
+- The ability to act as the Lead Delegate of a competition
 - A WCA email address
 - Access to internal WCA resources accessed through their email login
 - Access to the Poll areas of the WCA website
 
-A Senior Delegate may promote a Junior Delegate to Full Delegate if the Junior Delegate has held the position for at least one year and has successfully managed at least three WCA Competitions.
+A Senior Delegate may promote a Junior Delegate to Full Delegate if the Junior Delegate has held the position for at least one year and has successfully managed at least three WCA Competitions. To be recommended for promotion, Junior Delegate is expected to have acted as the Lead Delegate for three competitions.
 
 Each quarter (three months), the WCA Executive Assistants Team (WEAT) checks which Junior Delegates are eligible for promotion and will request Senior Delegates to choose who they believe are ready for promotion. Once a Senior Delegate returns to the WEAT with their selected candidates for promotion, the WEAT will request feedback from the following WCA Teams and Committees:
 
@@ -257,7 +260,7 @@ In general, use your best judgment about confidentiality and err on the side of 
 
 ## Probation
 
-Delegates who fail to do their duties could be placed on probation. The full details of probation can be viewed in the [WCA Delegate Probationary Status Policy](https://documents.worldcubeassociation.org/documents/policies/internal/Delegate%20Probationary%20Status.pdf). Probation is an internal designation of which only the Delegate on probation, Regional Delegate, Senior Delegate, Board, and relevant Committees and/or Teams would be aware. A Delegate could be placed on probation for the following:
+The Lead Delegate is responsible for submitting competition results and Delegate Reports. Any missed deadlines or errors in these tasks will be attributed to the Lead Delegate. Failure to fulfill these responsibilities could result in probation. The full details of probation can be viewed in the [WCA Delegate Probationary Status Policy](https://documents.worldcubeassociation.org/documents/policies/internal/Delegate%20Probationary%20Status.pdf). Probation is an internal designation of which only the Delegate on probation, Regional Delegate, Senior Delegate, Board, and relevant Committees and/or Teams would be aware. A Delegate could be placed on probation for the following:
 
 - Late Delegate Report submissions
   - After two consecutive late reports, the WEAT will inform their Senior Delegate, who may then put the Delegate on probation. After submitting three consecutive reports on time, the Delegate’s probation may be removed.
@@ -270,6 +273,19 @@ Delegates who fail to do their duties could be placed on probation. The full det
   - Failure to follow WCA policies
 
 The WFC may directly place Delegates on probation for outstanding payments without prior approval. A WCA Team or Committee with a relevant complaint may request that a Delegate be put on probation by contacting the Senior Delegate of that Delegate. Delegates who fail to improve in a specific time period may be demoted.
+
+## Lead Delegate
+
+Lead Delegate is not a title but rather an indicator of which Junior or Full Delegate is responsible for the administrative aspects of an individual competition. The Lead Delegate will be held accountable for the following:   
+
+- Submitting the competition for announcement to the Competition Announcements Team
+- Submitting accurate and timely competition results
+- Submitting result change requests to the Results Team
+- Ensuring the accuracy and completeness of the Delegate Report
+- Submitting the Delegate Report on time
+- Ensuring WCA Dues are paid on time (when an Regional Organization is not paying the dues)
+
+The Lead Delegate is the one expected to manage the above tasks with the cooperation of all listed Delegates. All Delegates of a competition will remain accountable for all other aspects of overseeing competitions both before, during, and after the competition. 
 
 # Before the Competition {.page-break-before}
 
@@ -978,7 +994,7 @@ If your Delegate community has shared equipment, spend time after the competitio
 
 ## Competition Results
 
-**Ensuring the integrity of all results is one of the main goals of the WCA**. Results are essentially the product of the WCA. Make every reasonable effort to ensure that the results submitted represent what happened at the competition. In particular, always check for the following:
+**Ensuring the integrity of all results is one of the main goals of the WCA**. Although any Junior or Full Delegate listed on the competition page can compile and submit the results, these are ultimately the responsibility of the Lead Delegate of the competition. Results are essentially the product of the WCA. Make every reasonable effort to ensure that the results submitted represent what happened at the competition. In particular, always check for the following:
 
 - **Registration data errors**: You need to verify that every issue related to registration data has been resolved (see the Administering Registration Data section). If this has already been done before the competition, as is recommended, no bigger issues are expected at this stage.
 - **Score-taking errors**: Always double-check score sheets after they are entered, during or after the competition. You must do the double-checking **before** submitting the results. Reliable organizers or volunteers can help you. When double-checking score sheets, remember to check for missing signatures from the judge or competitor, verify that extra attempts were entered at their correct positions in the average, and check that the ambiguous times are always entered in the worst reasonable interpretation according to [Regulation A7c+](https://www.worldcubeassociation.org/regulations/#A7c+). You should have a different person from the initial score taker perform the double-checking since they might interpret handwriting differently.
@@ -1053,7 +1069,7 @@ Notes:
 
 ## Delegate Reports
 
-After every competition, the Delegates must submit a Delegate Report. The purpose of the Delegate Report is to prove that the competition was run according to the Regulations and at a sufficient level of quality and to share information that could be relevant to other Delegates. The Delegate Report must be submitted within one week of the end of the competition. If you need an extension on your Delegate Report, inform your Senior Delegate and add the WEAT to the CC field with a notice as soon as possible.
+After every competition, the Delegates must write and submit a Delegate Report. Although any listed Delegate can contribute to the report, and Junior or Full Delegate listed on the competition page can submit the report, these are ultimately the responsibility of the Lead Delegate of the competition. The purpose of the Delegate Report is to prove that the competition was run according to the Regulations and at a sufficient level of quality and to share information that could be relevant to other Delegates. The Delegate Report must be submitted within one week of the end of the competition. If you need an extension on your Delegate Report, inform your Senior Delegate and add the WEAT to the CC field with a notice as soon as possible.
 
 Each of the following sections will describe what to put in each section of the Delegate Report. In general, only interesting or notable items need to be written.
 
@@ -1106,7 +1122,7 @@ Most official WCA competitions must pay a small fee as part of the Dues System. 
 
 The WCA Finance Committee (WFC) will send an invoice within a few days after the WRT uploads the results for the competition. This invoice will arrive via email and will contain a link to a third-party website for collecting payment. Invoices may be issued either to an individual Delegate or to an organization. For many organizations that organize competitions frequently or are responsible for all competition finances in their region, the WFC has set up redirects so that every Dues invoice is sent directly to the organization. If you are delegating in an area that has such an organization, you are probably already familiar with it. Please reach out to the WFC if you are uncertain whether a redirect will apply to your competition’s Dues invoice.
 
-If the invoice is being issued to a Delegate and not redirected to an organization, **only the alphabetically first listed Delegate will receive the invoice**. If you are the Delegate who receives the invoice, it is your duty to inform other competition Delegates about the Dues amount and communicate with the WFC regarding this invoice if needed. Also, you may send the invoice to whoever is completing the payment, such as the organization team, another Delegate, or an association treasurer. If you are forwarding the invoice to someone else for them to pay, it is highly recommended that you request confirmation from them once the payment has been made. There is a payment period of 30 days. There may be repercussions if an invoice is not paid within this timeframe. The Delegate who receives the invoice is responsible for ensuring payment is made on time, even if the actual payment is being made by someone else.
+If the invoice is being issued to a Delegate and not redirected to an organization, the Lead Delegate will receive the invoice. If you are the Lead Delegate, it is your duty to inform other competition Delegates about the Dues amount and communicate with the WFC regarding this invoice if needed. Also, you may send the invoice to whoever is completing the payment, such as the organization team, another Delegate, or an association treasurer. If you are forwarding the invoice to someone else for them to pay, it is highly recommended that you request confirmation from them once the payment has been made. There is a payment period of 30 days. There may be repercussions if an invoice is not paid within this timeframe. The Delegate who receives the invoice is responsible for ensuring payment is made on time, even if the actual payment is being made by someone else.
 
 If you ever need an invoice to actually be written out in the name of someone else (not just forwarded to that person for payment), the WFC may manually amend whom the invoice is issued to after you receive it. To do this, please forward the invoice back to the WFC and list the name of the person or organization (which should be shown on the invoice) along with their email and any other info that must be included on the invoice. Once the invoice has been amended, it will be emailed to the new contact.
 
