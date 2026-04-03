@@ -361,7 +361,7 @@ To create a new competition page, go to the “New Competition” page and fill 
 There are some rules about how and when competitions must be requested. These are outlined in the [WCA Competition Requirements Policy](https://documents.worldcubeassociation.org/documents/policies/external/Competition%20Requirements.pdf) (WCRP). In particular, remember the following:
 
 - The competition must be announced **at least 28 days** before midnight Coordinated Universal Time (UTC) of the first day of the competition. **Submit the competition earlier than this** as a safety measure so that if there is an issue with the competition, then the competition will likely still be announced before the 28-day deadline.
-- The competition must comply with the proximity requirements. This means the competition must be at least 10 kilometers and 5 days away from all other competitions. Exceptions apply when the competitions have no overlapping events or are held in different countries.
+- The competition must comply with the proximity requirements. This means the competition must be at least 30 kilometers and 5 days away from all other competitions. Exceptions apply when the competitions have no overlapping events or are held in different countries.
 
 ### Filling Out the New Competition Page
 
