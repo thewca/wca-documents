@@ -29,7 +29,7 @@ The purpose of this policy is to define standards on how official WCA scrambles 
         2. The Scrambling Area may be visually isolated with the use of tall barriers placed in front of it or small barriers placed on top of the table(s). Regardless of the type of visual barriers used, they must break line of sight.
 3. Competition Area
     1. A competition has at least one designated Competition Area, which will be in use throughout each group.
-    2. The organization team and the WCA Delegate should reduce the possibility of competitors watching other competitors in their group make an official attempt. This could include adding a visual barrier between Solving Stations and/or having a sufficient distance between the Competitor Waiting Area and the Solving Stations.
+    2. The organization team and the WCA Delegate must reduce the possibility of competitors watching other competitors in their group make an official attempt. This could be done by adding a visual barrier between Solving Stations and the Competitor Waiting Area. If having a visual barrier is not possible, a recommended distance of 10 feet (3 meters) between the Competitor Waiting Area and the Solving Stations should be arranged. If neither of these options are possible, the Competitor Waiting Area must be arranged in such a way that any competitors that are in the Competitor Waiting Area must be facing away from the Solving Stations.
         1. Solving Stations should not be arranged facing each other, unless a visual barrier is set up between them.
 4. Broadcasting of competitions
     1. When a competitor has been called for their group, they must not look at any broadcasting of their group.
