@@ -1106,7 +1106,7 @@ If you provided any special accommodations provided under [Regulation 2s](https:
 
 ### Remarks
 
-The Remarks section is where you can provide any additional information or personal reflections on the competition that you do not feel fit in any of the other sections.
+The Remarks section is where you can provide any additional information or personal reflections on the competition that you do not feel fit in any of the other sections. This is also where you are promoted to indicate who wrote the majority of the report. 
 
 ### Responses to Your Report
 
