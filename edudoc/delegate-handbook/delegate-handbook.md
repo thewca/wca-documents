@@ -519,6 +519,18 @@ legal document.
 - A localized name is permitted only for competitors with a legal name, as shown in a legal document, in a non-Roman script, or for competitors competing in a region where a localized name is necessary to identify them.
 - While a localized name may contain multiple names, a competitor may not have multiple localized names.
 
+### Newcomer Checks Tool
+
+The newcomer checks tool is a tab under the left navigation bar on competition webpages that serves to assist delegates with veryifying newcomers. It is intended to catch issues like duplicate competitor profiles, name format issues, or other new competitor data issues ahead of time to streamline check-in on competition days. To use it, first run the tool by clicking the run button. It will run the three separate sub-tools, the duplicate checker, the name format checker, and the date of birth checker, each given their own tab after it has finished.
+
+- The duplicate checker checks if a competitor has created a new WCA account for themselves when they already have an existing account and WCA ID. It pulls the information (name, country, and date of birth) for each newcomer registered for a competition and compares it against existing competitiors. It prints the information for the closest existing competitiors to the newcomers at a competition and displays a name similarity score out of 100. This, along with comparing dates of birth, can indicate to a delegate if a newcomer already has a WCA ID. Data changes can be made directly within the interface by clicking the edit button of each competitor and making the necessary changes. If a competitor is confirmed to have made a duplicate account, the two profiles can be merged together in the interface using the merge button.
+- The name format checker identifies any newcomer whose name does not conform to the name requirements or contains other inconsistencies in their name.
+- The date of birth checker identifies potential errors in a newcomer's date of birth (e.g. birth year set to the current year).
+
+If inconsistencies arise, reach out to the competitor to ensure the correct information is being recorded.
+
+When using newcomer checks, make sure to re-synchronize with WCA Live after all changes have been made to ensure the updates are displayed across all other tools. Currently, newcomer checks are an optional tool to help identify data changes early and simplify the process of changing them. In the future, this tool will become mandatory before submitting results. It is important to note that using this tool does not replace newcomer verification at check-in of the competition. Newcomers should still be checked-in and verified day of.
+
 ## Communicating with Competitors and their Families
 
 It is generally a good idea to send emails to competitors before the competition to encourage them to make the necessary updates to their registration and remind them to plan for the competition. This is the organization team’s responsibility, but as a Delegate, you must ensure that the organizers are following through with this responsibility. Remember to **always use the BCC field in communications with multiple competitors** so that other competitor emails are not shared. The WCA website will automatically add all recipients to the BCC field if you email them by checking the box next to their registration on the Registration page of the competition website and then clicking the “Email” button. If there is a data breach, **you must** contact the WRT as soon as possible and explain the situation.
