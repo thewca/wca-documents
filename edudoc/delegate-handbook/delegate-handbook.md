@@ -906,15 +906,17 @@ The following incidents occur frequently at competitions and have a standard way
   <tr>
     <td>The competitor was using a device with a front-facing screen.</td>
     <td>
-    You may grant an extra attempt if the competitor is inexperienced per [Regulations A7g](https://www.worldcubeassociation.org/regulations/#A7g). Otherwise, the judge must record the attempt as a DNF.</br></br>
-    If the competitor used the device during previous attempts, you must also change those attempts to a DNF result. The penalty for previous attempts may be lifted at your discretion if you believe the competitor did not get assistance from the screen, but you must not allow them to keep using the screen in such a way.</br></br>
+    If the front-facing camera did not provide an unfair advantage (e.g. the screen is tiny), the current attempt and any completed attempts do not need to be disqualified, at the discretion of the WCA Delegate; however, the competitor must not be permitted to perform any further attempts with the front-facing camera per [Regulation 2i](https://www.worldcubeassociation.org/regulations/#2i). </br></br>
+    If the front-facing camera provided an advantage and the competitor is inexperienced, you may grant an extra attempt per [Regulations A7g](https://www.worldcubeassociation.org/regulations/#A7g). </br></br>
+    If the front-facing camera provided an advantage and the competitor is experienced, the judge must record the attempt as a DNF. If the competitor used the front-facing camera during previous attempts and it provided an unfair advantage, you must also change those attempts to a DNF result. </br></br>
     </td>
   </tr>
   <tr>
     <td>The competitor was using electronic headphones or earbuds.</td>
     <td>
-    You may grant an extra attempt if the competitor is inexperienced per [Regulations A7g](https://www.worldcubeassociation.org/regulations/#A7g).</br></br>
-    Otherwise, you must change the attempt and any previous attempts in which the competitor used the headphones or earbuds to a DNF result.
+    If the electronic headphones or earbuds did not provide an unfair advantage (e.g. there was no audio on), the current attempt and any completed attempts do not need to be disqualified, at the discretion of the WCA Delegate; however, the competitor must not be permitted to perform any further attempts wearing the electronic headphones or earbuds per [Regulation 2i](https://www.worldcubeassociation.org/regulations/#2i). </br></br>
+    If the electronic headphones or earbuds provided an advantage (e.g. electronic noise-cancellation was activated or audio was turned on) and the competitor is inexperienced, you may grant an extra attempt per [Regulations A7g](https://www.worldcubeassociation.org/regulations/#A7g). </br></br>
+    If the electronic headphones or earbuds provided an advantage and the competitor is experienced, the judge must record the attempt as a DNF. If the competitor used the electronic headphones or earbuds during previous attempts and they provided an unfair advantage, you must also change those attempts to a DNF result. </br></br>
     </td>
   </tr>
   <tr>
