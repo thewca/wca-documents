@@ -427,11 +427,11 @@ Remember these points when requesting a Fewest Moves Simultaneous Competition. T
 
 ### Making Changes to an Existing Competition
 
-Every request for changes to an existing competition must be made using “Reply All” on the same email thread that was created when you confirmed the competition. The email thread will include all listed Delegates of the competition, the Senior and Regional Delegates for the competition’s region, and the WCA Competition Announcements Team (WCAT) in the CC field.
+Requests for changes to an existing competition should be made using "Reply All" on the same email thread that was created when you confirmed the competition.
 
-To add a Delegate, reply-all to the email thread, add the new Delegate to the CC field of the email, and ask, “Could we add \<Delegate Name\> (\<WCA ID\>) as a Delegate for this competition?”. Then, wait for WCAT approval. Follow the same process to remove a Delegate.
+Changes made to the listed Delegates and organizers of a competition can be made by the Delegates who are already listed on the competition, prior to the results submission.
 
-To request a change to the list of organizers, include their names and their WCA IDs. Organizers must have an account to be listed.
+To request a change of Lead Delegate the incoming Lead Delegate must make the request in the confirmation thread. Approval is granted at the discretion of the Regional Delegate or the Senior Delegate.
 
 Changing the list of events:
 
