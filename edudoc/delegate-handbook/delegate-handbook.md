@@ -427,7 +427,7 @@ Remember these points when requesting a Fewest Moves Simultaneous Competition. T
 
 ### Making Changes to an Existing Competition
 
-Requests for changes to an existing competition should be made using "Reply All" on the same email thread that was created when you confirmed the competition.
+Requests for changes to an existing competition should be made using “Reply All” on the same email thread that was created when you confirmed the competition.
 
 Changes made to the listed Delegates and organizers of a competition can be made by the Delegates who are already listed on the competition, prior to the results submission.
 
