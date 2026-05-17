@@ -186,7 +186,7 @@ A Senior Delegate may promote a Junior Delegate to Full Delegate if the Junior D
 
 Each quarter (three months), the WCA Executive Assistants Team (WEAT) checks which Junior Delegates are eligible for promotion and will request Senior Delegates to choose who they believe are ready for promotion. Once a Senior Delegate returns to the WEAT with their selected candidates for promotion, the WEAT will request feedback from the following WCA Teams and Committees:
 
-- The WCA Competition Announcement Team (WCAT) looks into the cleanliness of competition submissions. Generally, this is determined by the number and severity of mistakes in competition submissions, the timeliness of competition submissions (i.e. minimal submissions with under 30 days until the competition), and responsiveness to email inquiries. The Delegate must have confirmed at least one competition (i.e. by clicking the “Confirm” button themself) to be eligible for a positive review from the WCAT. All of the Delegate’s confirmed competitions may be considered, with more consideration given to recent competitions.
+- The WCA Competition Announcement Team (WCAT) looks into the cleanliness of competition submissions. Generally, this is determined by the number and severity of mistakes in competition submissions, the timeliness of competition submissions (i.e. minimal submissions with under 30 days until the competition), and responsiveness to email inquiries. The Delegate must have confirmed at least three competitions (i.e. by clicking the “Confirm” button themself) to be eligible for a positive review from the WCAT. All of the Delegate’s confirmed competitions may be considered, with more consideration given to recent competitions.
 - The WCA Quality Assurance Committee (WQAC) looks into the timeliness of Delegate Reports being submitted, scramble accountability at that Delegate’s competitions, and the general quality of their competitions. All of the Delegate’s competitions may be considered, with more consideration paid to recent competitions.
 - The WCA Results Team (WRT) looks into the cleanliness of a Delegate’s result submissions, change requests, and responsiveness to WRT questions. The Delegate must have submitted results at least three times to be eligible for a positive review from the WRT.
 - WCA Regulations Committee (WRC) uses the Incidents section of Delegate Reports to verify that incidents are being handled correctly and prompt change requests are made after feedback is provided.
@@ -427,11 +427,11 @@ Remember these points when requesting a Fewest Moves Simultaneous Competition. T
 
 ### Making Changes to an Existing Competition
 
-Every request for changes to an existing competition must be made using “Reply All” on the same email thread that was created when you confirmed the competition. The email thread will include all listed Delegates of the competition, the Senior and Regional Delegates for the competition’s region, and the WCA Competition Announcements Team (WCAT) in the CC field.
+Requests for changes to an existing competition should be made using “Reply All” on the same email thread that was created when you confirmed the competition.
 
-To add a Delegate, reply-all to the email thread, add the new Delegate to the CC field of the email, and ask, “Could we add \<Delegate Name\> (\<WCA ID\>) as a Delegate for this competition?”. Then, wait for WCAT approval. Follow the same process to remove a Delegate.
+Changes made to the listed Delegates and organizers of a competition can be made by the Delegates who are already listed on the competition, prior to the results submission.
 
-To request a change to the list of organizers, include their names and their WCA IDs. Organizers must have an account to be listed.
+To request a change of Lead Delegate the incoming Lead Delegate must make the request in the confirmation thread. Approval is granted at the discretion of the Regional Delegate or the Senior Delegate.
 
 Changing the list of events:
 
