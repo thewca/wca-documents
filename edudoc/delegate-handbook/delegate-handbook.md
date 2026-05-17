@@ -529,7 +529,7 @@ The Newcomer Checks tool is a tab under the left navigation bar on competition w
 
 If inconsistencies arise, reach out to the competitor to ensure the correct information is being recorded.
 
-When using newcomer checks, make sure to re-synchronize with WCA Live after all changes have been made to ensure the updates are displayed across all other tools. Currently, newcomer checks are an optional tool to help identify data changes early and simplify the process of changing them. In the future, this tool will become mandatory before submitting results. It is important to note that using this tool does not replace newcomer verification at check-in of the competition. Newcomers should still be checked-in and verified day of.
+When using the Newcomer Checks feature, ensure you re-synchronize WCA Live after all the changes have been made to ensure the updates are displayed across all other tools. Currently, the Newcomer Checks feature is an optional tool to help identify data changes early and simplify the process of changing them. In the future, this tool will become a mandatory step to complete before submitting the results of the competition. It is important to note that using this tool does not replace newcomer verification at the check-in during the competition. First-time competitors should still be checked in and verified at the competition before they compete.
 
 ## Communicating with Competitors and their Families
 
