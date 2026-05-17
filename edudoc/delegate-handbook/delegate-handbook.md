@@ -525,7 +525,7 @@ The Newcomer Checks tool is a tab under the left navigation bar on competition w
 
 - The Duplicate Checker checks whether a competitor has created a new WCA account when they already have an existing account and WCA ID. It pulls the information (i.e. name, country, and date of birth) for each newcomer registered for a competition and compares it against existing competitors. It prints the information for the closest existing competitors to the newcomers at a competition and displays a name similarity score out of 100. This, along with comparing dates of birth, can indicate to a Delegate if a newcomer already has a WCA ID. Data changes can be made directly within the interface by clicking the edit button of each competitor and making the necessary changes. If a competitor is confirmed to have made a duplicate account, the two profiles can be merged in the interface using the merge button.
 - The Name Formats Checker identifies any newcomer whose name does not conform to the name requirements or contains other inconsistencies.
-- The date of birth checker identifies potential errors in a newcomer's date of birth (e.g. birth year set to the current year).
+- The Date of Birth (DOB) Checker identifies potential errors in a newcomer's date of birth (e.g. birth year set to the current year).
 
 If inconsistencies arise, reach out to the competitor to ensure the correct information is being recorded.
 
