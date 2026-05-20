@@ -216,8 +216,9 @@ The WCA Delegate must submit the following information when requesting approval 
          5. There may be no main event of the competition.
    4. An additional event may be added upon the WCA Delegate's request at the discretion of the WCAT. The competition must meet the following requirements for an additional event to be added:
       1. The competition is at least 5 days away.
-      2. A registration period for the competition must have a minimum of 24 hours before it closes.
+      2. A registration period for the competition must have a minimum of 24 hours before it closes, or on-site registration must be offered.
       3. The competitor limit must not be completely filled.
+      4. The deadline for updating registered events must be at least 48 hours from the time the organization communicates the change to the registered competitors.
    5. The Delegate may request to hold Head to Head rounds in accordance with Article I of the WCA Regulations.
       2. The request must be made at least 7 days before the start of the competition.
       3. The WCAT will consider these requests based on the following criteria:
