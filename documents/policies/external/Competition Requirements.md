@@ -258,7 +258,7 @@ The WCA Delegate must submit the following information when requesting approval 
       1. National Championships should not be held on the same date(s) as Continental championships of the country’s continent.
       2. National Championships should not be held on the same date(s) as World championships.
       3. Continental Championships must not be held on the same date(s) as World Championships.
-   4. Championships should have all the officially recognized WCA events.
+   4. Championships should have all the officially recognized WCA events across one or more championship types.
    5. Championships must recognize and award champion titles and their respective prizes to the winners in the region.
    6. Organization teams of National Championships should involve all the WCA Delegates of the respective countries and/or the regional organization, at the discretion of the Senior Delegate.
 10. Optional requirements
