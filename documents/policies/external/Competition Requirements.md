@@ -145,7 +145,7 @@ The WCA Delegate must submit the following information when requesting approval 
          1. Ties in 3x3x3 Multi-Blind qualification results may be broken by time and then number of unsolved cubes.
       4. The qualification result is based on the last day of the competition at which it was achieved.
       5. Qualification for an event may be based on results after a certain date.
-         1. The time between the start and end date for qualification times must be at least 90 days.
+         1. The time between the start and end date for qualification results must be at least 90 days.
    2. If the competitor limit for a competition or an event is reached before the competition, the organization team must not approve any additional registrations for the competition or the event.
        1. If on-site registration was advertised and the competitor limit was reached when registration closed, on-site registrations must not be accepted.
    3. The competitor limit is per competition or per event. Per day competitor limits are not allowed.
@@ -246,7 +246,6 @@ The WCA Delegate must submit the following information when requesting approval 
             1. Any of the listed events may also be held at the Main Championship, at the discretion of the organization team.
          3. If a Main Championship is held, one competition per region per year may be designated as the Fewest Moves Championship for the region. This competition is permitted to hold only the 3x3x3 Fewest Moves event.
       4. An additional selection process is conducted by the WCA Board for organizing Continental and World Championships.
-      5. If a championship type is being assigned to a competition, a Main Championship must be present, and optionally a Quiet Championship and/or a Fewest Moves Championship.
       6. Only 3x3x3 Cube may be the main event for a championship competition.
          1. If present, the Quiet Championship and/or Fewest Moves Championship must have no main event.
    2. Naming
