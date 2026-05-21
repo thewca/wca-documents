@@ -193,7 +193,7 @@ Each quarter (three months), the WCA Executive Assistants Team (WEAT) checks whi
 - The WCA Financial Committee (WFC) verifies that dues are paid within 30 days and that other invoices are paid in a timely manner. This is not applicable to Delegates who have their dues covered by a Regional Organization. See [Paying Competition Dues](#paying-competition-dues) for more information on how Dues are paid.
 - The WCA Integrity Committee (WIC) verifies that there are no active integrity-related investigations into the Delegate.
 
-If the Senior Delegate, WCA Teams, Committees, and the Board all agree that a Junior Delegate is ready for promotion, the Senior Delegate will promote the Junior Delegate to Full Delegate. Promotion to Full Delegate recognizes that person’s hard work and contribution to the WCA over a period of time while maintaining high standards. If a Delegate is not promoted, their promotion is simply postponed until the next promotion cycle (i.e. next quarter).
+If the Senior Delegate, WCA Teams, Committees, and the Board all agree that a Junior Delegate is ready for promotion, the Senior Delegate will promote the Junior Delegate to Full Delegate. Promotion to Full Delegate recognizes that person’s hard work and contribution to the WCA over a period of time while maintaining high standards.
 
 ### Full Delegates
 
