@@ -1,6 +1,6 @@
 # WCA Logo Usage Policy
 
-### Version 2.1 {.version}
+### Version 2.2 {.version}
 
 ## Purpose
 
@@ -59,3 +59,5 @@ Any requests to use the WCA logo on merchandise that will be sold must be negoti
 ## Other
 
 All other requests to use the WCA logo for purposes not already outlined in this policy must be approved on a case-by-case basis by the WCA. Please reach out to the [WCA Marketing Team](mailto:marketing@worldcubeassociation.org) for more information.
+
+Exceptions to the requirements of this policy may be granted at the discretion of the WCA Board.
