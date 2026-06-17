@@ -16,7 +16,7 @@ WCA Volunteers are required to use their WCA email for all official World Cube A
 - Sign up or log in to services related to participate as a WCA Volunteer
 - Sign up for newsletters, platforms, or other services that will help them with their role as a WCA Volunteer
 
- WCA Volunteers must adhere to all relevant confidentiality and data protection guidelines.
+WCA Volunteers must adhere to all relevant confidentiality and data protection guidelines.
 
 ### Inappropriate Use
 WCA Volunteers must not use their WCA email to:

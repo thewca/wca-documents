@@ -177,7 +177,7 @@ Lembre-se que o competidor precisa de verificar se o tempo escrito está correto
 
 - **Iniciando a resolução**:
 
-[Regulamento A4)](wca{regulations/#A4}) é o regulamento que indica como iniciar o Cronómetro corretamente.
+[Regulamento A4](wca{regulations/#A4}) é o regulamento que indica como iniciar o Cronómetro corretamente.
 
 ![](images/RegA4.png){.centered width=90%}
 
@@ -187,12 +187,12 @@ Lembre-se de que iniciar a resolução incorretamente leva a penalidades!
 
 - **Durante a resolução**:
 
-[Regulamento A5)](wca{regulations/#A5}) explica as regras durante a resolução.
+[Regulamento A5](wca{regulations/#A5}) explica as regras durante a resolução.
 Durante toda a resolução, só pode falar com o seu juiz ou com o Delegado da WCA, não pode receber ajuda externa de nenhum objeto ou pessoa. A penalidade para qualquer destas infrações é um DNF.
 
 - **Parando o Cronómetro**:
 
-[Regulamento A6)](wca{regulations/#A6}) é o regulamento que explica como parar o Cronómetro Stackmat corretamente.
+[Regulamento A6](wca{regulations/#A6}) é o regulamento que explica como parar o Cronómetro Stackmat corretamente.
 
 ![](images/RegA6.png){.centered width=90%}
 

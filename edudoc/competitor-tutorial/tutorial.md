@@ -200,7 +200,7 @@ Remember that the competitor needs to check that the written time is correct and
 
 - **Starting the solve**:
 
-[Regulation A4)](wca{regulations/#A4}) is the rule that indicates how to start the timer correctly.
+[Regulation A4](wca{regulations/#A4}) is the rule that indicates how to start the timer correctly.
 
 ![](images/RegA4.png){.centered width=90%}
 
@@ -210,12 +210,12 @@ Remember that incorrectly starting the solve leads to penalties!
 
 - **During the solve**:
 
-[Regulation A5)](wca{regulations/#A5}) explains the rules during the solve.
+[Regulation A5](wca{regulations/#A5}) explains the rules during the solve.
 During the whole solve, competitors may only talk to their judge or to the Delegate. They must not receive any external help from any objects or persons. The penalty for either infraction is a DNF.
 
 - **Stopping the timer**:
 
-[Regulation A6)](wca{regulations/#A6}) is the rule that explains how to stop the timer correctly.
+[Regulation A6](wca{regulations/#A6}) is the rule that explains how to stop the timer correctly.
 
 ![](images/RegA6.png){.centered width=90%}
 

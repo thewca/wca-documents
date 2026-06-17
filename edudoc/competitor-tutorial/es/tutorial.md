@@ -167,7 +167,7 @@ Tanto el juez como el competidor deben firmar la hoja de resultados para confirm
 
 - **Al comenzar la resolución**:
 
-La [Regla A4)](wca{regulations/#A4}) es la que indica la forma correcta de iniciar el timer.
+La [Regla A4](wca{regulations/#A4}) es la que indica la forma correcta de iniciar el timer.
 
 ![](images/RegA4.png){.centered width=90%}
 
@@ -177,12 +177,12 @@ La [Regla A4)](wca{regulations/#A4}) es la que indica la forma correcta de inici
 
 - **Durante la resolución**:
 
-La [Regla A5)](wca{regulations/#A5}) explica las reglas que aplican durante la resolución.
+La [Regla A5](wca{regulations/#A5}) explica las reglas que aplican durante la resolución.
 Durante toda la resolución, solo puedes hablar con tu juez o el Delegado de la WCA, no puedes recibir ninguna ayuda externa de objetos ni personas. La penalización por cualquiera de dichas infracciones es un DNF.
 
 - **Al detener el timer**:
 
-La [Regla A6)](wca{regulations/#A6}) es la que explica cómo se debe detener el timer correctamente.
+La [Regla A6](wca{regulations/#A6}) es la que explica cómo se debe detener el timer correctamente.
 
 ![](images/RegA6.png){.centered width=90%}
 
