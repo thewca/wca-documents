@@ -50,7 +50,7 @@ An official WCA Competition must:
    3. The competition website may acknowledge the sponsorship contribution.
    4. WCA competitions must only collaborate with:
       1. Local Organizing Support (e.g., ROs, clubs, university groups),
-      2. Standard Sponsors (e.g., vendors/brands), provided their sponsorship material do not promote competing speedcubing leagues or alternative governing bodies,
+      2. Standard Sponsors (e.g., vendors/brands), provided their sponsorship materials do not promote competing speedcubing leagues or alternative governing bodies,
       3. Dependent Data Services that use public WCA results for non-governance rankings, or
       4. Entities explicitly approved by the WCA Board.
 10. Competitions with proceeds going to a charity must indicate so on the competition website, preferably in the Information section of the 'General info' tab. The name of the charity must be included. Any such charity needs to be recognized in the country where the competition is held.
@@ -210,7 +210,7 @@ The WCA Delegate must submit the following information when requesting approval 
       2. Other events may only be held unofficially.
    3. The winner of the main event of the competition should be considered the overall winner of the competition.
          1. The main event of the competition should be publicly mentioned on the competition website.
-         2. The main event should be recognizable in the competition schedule and having an appropriate proportion of rounds and attempts.
+         2. The main event should be recognizable in the competition schedule and have an appropriate proportion of rounds and attempts.
          3. The main event winner should be announced as the overall winner of the competition
          4. Only WCA sanctioned events may be considered the main event of the competition.
          5. There may be no main event of the competition.
