@@ -54,11 +54,11 @@ The WCA Dues System is a program by which the WCA will collect revenue on a per-
    2. The country is subject to financial restrictions according to the Regional Restrictions Policy.
       1. If the country’s financial restrictions under the Regional Restrictions policy are lifted, then the WFC will return the country to the band in which it would otherwise be placed.
    3. The country faces substantial difficulties making payments to the WCA via the supported payment methods due to their financial system and/or laws.
-      1. This will be handled on a case-by-base basis at the discretion of the WFC after they become aware of the issue.
+      1. This will be handled on a case-by-case basis at the discretion of the WFC after they become aware of the issue.
       2. If the country’s financial system advances or laws change to allow for payment through one or more of the supported methods, then the WFC will return the country to the band in which it would otherwise be placed.
    4. The country is experiencing economic and/or currency instability.
-      1. This will be handled on a case-by-base basis at the discretion of the WFC after they become aware of the issue.
+      1. This will be handled on a case-by-case basis at the discretion of the WFC after they become aware of the issue.
       2. Once economic indicators and/or world news support the conclusion that the country’s economic and/or currency situation has stabilized, then the WFC will return the country to the band in which it would otherwise be placed.
    5. The country has experienced a severe setback in its cubing community, including but not limited to: no longer having a local Delegate, the cancellation/failure of a major competition for reasons outside the Delegates’ control, a major fraud event, etc.
-      1. This will be handled on a case-by-base basis at the discretion of the WFC after they become aware of the issue.
+      1. This will be handled on a case-by-case basis at the discretion of the WFC after they become aware of the issue.
       2. Once the country’s cubing community has been restored to a self-sustaining level, then the WFC will return the country to the band in which it would otherwise be placed.
