@@ -39,7 +39,7 @@ Please also double-check with the local community and Delegates to avoid breakin
 
 ## Venue Fees
 
-You should find out how much it is to rent the venue. Keep the Delegates updated with the price. You should also double-check with the venue for any additional fees, such as for renting a projector or sound system. Competitions can sometimes incur additional fees to enter the venue, such as when the competition is part of a festival or convention. The Delegates should be able to advise whether the competition is feasible. It might also be worth mentioning to the venue that the event is a non-profit or community group activity, as some venues do provide a lower fee for such events. **Remember that you must not use the WCA’s non-profit status as a selling point for receiving a lower rent price during your negotiations!**
+You should find out how much it is to rent the venue. Keep the Delegates updated with the price. You should also double-check with the venue for any additional fees, such as for renting a projector or sound system. Competitions can sometimes incur additional fees to enter the venue, such as when the competition is part of a festival or convention. The Delegates should be able to advise whether the competition is feasible. It might also be worth mentioning to the venue that the event is a nonprofit or community group activity, as some venues do provide a lower fee for such events. **Remember that you must not use the WCA’s nonprofit status as a selling point for receiving a lower rent price during your negotiations!**
 
 ## Preliminary Visit
 

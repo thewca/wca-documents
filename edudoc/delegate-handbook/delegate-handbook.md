@@ -946,8 +946,8 @@ The following incidents occur frequently at competitions and have a standard way
   <tr>
     <td>The competitor reported a misscramble.</td>
     <td>
-    If the result in question is within the scope of [Regulation 11i1](https://worldcubeassociation.org/regulations/#11i1), the attempt must be replaced by an extra.</br><br>
-    Otherwise, you should only grant an extra if the misscramble resulted in a significantly less fair outcome, as per [Regulation 11i2](https://worldcubeassociation.org/regulations/#11i2). This should be an extremely infrequent occurrence, and it would be very clear in incidents where this is required. Some examples include a solved cross on Clock, or an extremely low move count compared to the normal scramble. 
+    If the result in question is within the scope of [Regulation 11i1](https://www.worldcubeassociation.org/regulations/#11i1), the attempt must be replaced by an extra.</br><br>
+    Otherwise, you should only grant an extra if the misscramble resulted in a significantly less fair outcome, as per [Regulation 11i2](https://www.worldcubeassociation.org/regulations/#11i2). This should be an extremely infrequent occurrence, and it would be very clear in incidents where this is required. Some examples include a solved cross on Clock, or an extremely low move count compared to the normal scramble. 
     </td>
   </tr>
 </table>

@@ -58,7 +58,7 @@ The scope of the [Code of Conduct](wcadoc{documents/Code%20of%20Conduct.pdf}) is
 
 - If people are being impolite or inappropriate in their online interactions related to competitions, please do your best to respectfully handle the situation. Remember that as a Delegate, you are a representative of the WCA. If the problem persists or you are uncertain of how to proceed, you may reach out to the WIC for advice on how to handle the situation.
 - If you believe a person might engage in disruptive actions or pose a threat to the safety or well-being of anyone during a WCA competition based on their online behavior, please contact the WIC.
-- For any incidents on the WCA Forum or other official WCA platforms, please contact the WCA Communications Team (WCT). The WIC prefers that minor behavioral incidents be handled “locally” online (e.g. giving warnings, mutes, or bans) on official WCA platforms before you request action from the WIC. When you see a behavioral issue on an official WCA platform, please only contact the WIC if it is a serious incident.
+- For any incidents on the WCA Forum or other official WCA platforms, please contact the WCA Communication Team (WCT). The WIC prefers that minor behavioral incidents be handled “locally” online (e.g. giving warnings, mutes, or bans) on official WCA platforms before you request action from the WIC. When you see a behavioral issue on an official WCA platform, please only contact the WIC if it is a serious incident.
 
 ## Organizers
 

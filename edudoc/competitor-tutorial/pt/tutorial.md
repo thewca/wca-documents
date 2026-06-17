@@ -138,7 +138,7 @@ Ao colocar as mãos no Cronómetro Stackmat, o competidor verá primeiro uma luz
 :::::
 
 ::::: {.box .attention}
-Lembre-se que para iniciar a resolução, as mãos do competidor devem estar espalmadas, palmas para baixo e devem tocar os sensores com os dedos, não com as palmas! (Penalidade: +2 segundos [A4b](http://wca.link/A4b))
+Lembre-se que para iniciar a resolução, as mãos do competidor devem estar espalmadas, palmas para baixo e devem tocar os sensores com os dedos, não com as palmas! (Penalidade: +2 segundos [A4b](https://wca.link/A4b))
 :::::
 
 ### Terminando a resolução:
@@ -146,7 +146,7 @@ Lembre-se que para iniciar a resolução, as mãos do competidor devem estar esp
 Quando o puzzle é resolvido, o competidor para o Cronómetro colocando as mãos nos sensores. Não devem tocar no puzzle e as suas mãos devem estar espalmadas com as palmas para baixo.
 
 ::::: {.box .attention}
-Lembre-se que para parar a resolução, as mãos do competidor devem estar espalmadas com as palmas para baixo! (Penalidade: +2 segundos [A6d](http://wca.link/A6d))
+Lembre-se que para parar a resolução, as mãos do competidor devem estar espalmadas com as palmas para baixo! (Penalidade: +2 segundos [A6d](https://wca.link/A6d))
 :::::
 
 O juiz verifica se o puzzle foi resolvido ou não e informa o resultado ao competidor: “OK”, “PENALIDADE” ou “DNF”. O competidor não tem permissão para tocar no puzzle até que o juiz tenha claramente tomado uma decisão.
