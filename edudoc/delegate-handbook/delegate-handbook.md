@@ -2,7 +2,7 @@
 
 The _Delegate Handbook_ is an educational and referential resource for WCA Delegates of all levels of experience, whether you are a newly appointed Trainee Delegate or a Full Delegate who has attended over one hundred competitions. This document attempts to lay a foundation for the required responsibilities and the most common scenarios experienced by a Delegate so that every WCA competition can run with consistent levels of fairness and quality.
 
-This handbook is _not_ a guide on how to organize or run a competition. Organizational tasks are often handled by Delegates, but they can also be handled by Community organizers. As such, organizational details are generally excluded in this handbook and can instead be found within the [Organizer Guidelines](https://www.worldcubeassociation.org/organizer-guidelines).
+This handbook is _not_ a guide on how to organize or run a competition. Organizational tasks are often handled by Delegates, but they can also be handled by Community organizers. As such, organizational details are generally excluded in this handbook and can instead be found within the [Organizer Handbook](wcadoc{edudoc/organizer-guidelines/handbook.pdf}) and the [Organizer Guidelines](https://www.worldcubeassociation.org/organizer-guidelines).
 
 While this handbook aims to be complete, it cannot be fully comprehensive. While delegating, you will almost certainly run into situations that could not possibly be foreseen or predicted. As you delegate more competitions, you will build a foundation of experience that will allow you to independently handle scenarios not covered in this handbook.
 
@@ -26,13 +26,12 @@ There is a lot of information that is relevant to all WCA Volunteers, not just D
   - [Probation](#probation)
   - [Lead Delegate](#lead-delegate)
 - [Before the Competition](#before-the-competition)
+  - [Community Organizers and Delegate Organizers](#community-organizers-and-delegate-organizers)
   - [Competitions and Your Community](#competitions-and-your-community)
     - [Competition Frequency](#competition-frequency)
     - [Competition Size](#competition-size)
     - [Event Selection](#event-selection)
-  - [Organizing a Competition](#organizing-a-competition)
-    - [Community Organizers and Delegate Organizers](#community-organizers-and-delegate-organizers)
-    - [Interacting with Organizers](#interacting-with-organizers)
+  - [Interacting with Organizers](#interacting-with-organizers)
   - [Requesting a Competition](#requesting-a-competition)
     - [General Rules](#general-rules)
     - [Filling Out the New Competition Page](#filling-out-the-new-competition-page)
@@ -41,15 +40,12 @@ There is a lot of information that is relevant to all WCA Volunteers, not just D
     - [Making Changes to an Existing Competition](#making-changes-to-an-existing-competition)
   - [Managing Registrations](#managing-registrations)
     - [Administering Registration Data](#administering-registration-data)
-  - [Communicating with Competitors and their Families](#communicating-with-competitors-and-their-families)
+  - [Ensuring Organizer Communication with Competitors](#ensuring-organizer-communication-with-competitors)
   - [Generating Scrambles](#generating-scrambles)
-  - [Generating Groups](#generating-groups)
   - [Competition Cancelation and Rescheduling](#competition-cancelation-and-rescheduling)
 - [Day of the Competition](#day-of-the-competition)
   - [Setup and Environment](#setup-and-environment)
-  - [Check-In and Registration](#check-in-and-registration)
-    - [On-the-Spot Registration](#on-the-spot-registration)
-    - [Verifying First-Time Competitors](#verifying-first-time-competitors)
+  - [Verifying First-Time Competitors](#verifying-first-time-competitors)
   - [First-Time Competitor Tutorial](#first-time-competitor-tutorial)
   - [Competing as a Delegate](#competing-as-a-delegate)
     - [Conduct](#conduct)
@@ -70,10 +66,8 @@ There is a lot of information that is relevant to all WCA Volunteers, not just D
     - [Common Incidents](#common-incidents)
   - [Competitors Requiring Accommodations](#competitors-requiring-accommodations)
   - [Handling Behavioral Issues](#handling-behavioral-issues)
-  - [Preparing for Subsequent Rounds](#preparing-for-subsequent-rounds)
+  - [Ensuring Fair Subsequent Rounds](#ensuring-fair-subsequent-rounds)
   - [Modifications to the Schedule or Events](#modifications-to-the-schedule-or-events)
-    - [Running Behind Schedule](#running-behind-schedule)
-    - [Running Ahead of Schedule](#running-ahead-of-schedule)
 - [After the Competition](#after-the-competition)
   - [Competition Results](#competition-results)
     - [Double-checking Registration Data](#double-checking-registration-data)
@@ -87,7 +81,6 @@ There is a lot of information that is relevant to all WCA Volunteers, not just D
     - [Remarks](#remarks)
     - [Responses to Your Report](#responses-to-your-report)
   - [Paying Competition Dues](#paying-competition-dues)
-  - [Lost and Found](#lost-and-found)
 - [Delegates Outside of the Competition](#delegates-outside-of-the-competition)
   - [Managing WCA User Accounts](#managing-wca-user-accounts)
     - [Accounts vs. Profiles (WCA IDs)](#accounts-vs.-profiles-wca-ids)
@@ -289,7 +282,15 @@ The Lead Delegate is the one expected to manage the above tasks with the coopera
 
 # Before the Competition {.page-break-before}
 
-Delegates have several responsibilities before a competition happens. The _Delegate Handbook_ is not intended to be a set of guidelines on how to organize a competition. This handbook covers the responsibilities of a Delegate that go beyond simply organizing a competition. Refer to the [Organizer Guidelines](https://www.worldcubeassociation.org/organizer-guidelines) to learn how to organize a competition.
+Delegates have several responsibilities before a competition happens. The _Delegate Handbook_ is not intended to be a set of guidelines on how to organize a competition. This handbook covers the responsibilities of a Delegate that go beyond simply organizing a competition. Refer to the [Organizer Handbook](wcadoc{edudoc/organizer-guidelines/handbook.pdf}) to learn how to organize a competition.
+
+## Community Organizers and Delegate Organizers
+
+There is a spectrum of how WCA competitions are organized, with organizer-led competitions on one end and Delegate-led competitions on the other. Organizer-led competitions involve a Community member doing most of the work preparing for and running a competition, while a Delegate does the minimum amount of work required of them: receiving a competition proposal, confirming a competition on the WCA website, generating scrambles, showing up to the competition in person to verify that the Regulations are being upheld, and submitting results. On the other end of the spectrum are Delegate-led competitions, where a Delegate handles every aspect of organizing a competition and often the overall arc of multiple competitions in a region.
+
+In practice, fully organizer-led competitions are rare, as there are many possible points of failure that could prevent a competition from happening entirely or happening at an unacceptably low level of quality. On the other hand, Delegate-led competitions are common in very small cubing communities with only one or two Delegates and in very large and mature regions that have many Delegates under the umbrella of a Regional Organization.
+
+Most competitions lie somewhere between these two extremes. Some Delegates might prefer to get proposals on potential venues from Community members but otherwise organize the competitions themselves. Other times, a Delegate will work with the organizer to guide them through the entire organizational process, effectively performing many of the organizational tasks themself. As an organizer gets more experienced and demonstrates capability, a Delegate might feel more comfortable relaxing this level of supervision. Ultimately, however, the Delegate is responsible for ensuring that every organizational task is completed by the time the competition begins, so most Delegates will maintain some degree of involvement in the organizational process.
 
 ## Competitions and Your Community
 
@@ -342,21 +343,9 @@ The following is an example competition plan for five competitions that cover al
 | 5x5x5 Blindfolded  |               |               |               |               | ✓   |
 | 3x3x3 Multi-Blind  |               |               |               |               | ✓   |
 
-As a Delegate, you might occasionally find yourself in the position of delegating in a region that does not have established Delegates or does not hold regular competitions. While it could seem like a good idea to choose as many events as possible to afford competitors the rare opportunity to compete in as many events as possible, underdeveloped communities often do not have enough skilled cubers to justify having some of the more advanced events. This can lead to slow rounds when there are not enough skilled individuals to fulfill important duties such as scrambling. Time at WCA-recognized competitions is much more valuable to these communities than it is to well-established communities. If the region is highly underdeveloped and does not get regular access to Delegates, consider holding more rounds of beginner-friendly events with long cutoff times and large advancement groups over less popular events. When regular competitions can be established in those communities, it is safer to start holding less popular events, as time will not be spent catering to events with relatively few people competitors.
+As a Delegate, you might occasionally find yourself in the position of delegating in a region that does not have established Delegates or does not hold regular competitions. While it could seem like a good idea to choose as many events as possible to afford competitors the rare opportunity to compete in as many events as possible, underdeveloped communities often do not have enough skilled cubers to justify having some of the more advanced events. This can lead to slow rounds when there are not enough skilled individuals to fulfill important duties such as scrambling. Time at WCA-recognized competitions is much more valuable to these communities than it is to well-established communities. If the region is highly underdeveloped and does not get regular access to Delegates, consider holding more rounds of beginner-friendly events with long cutoff times and large advancement groups over less popular events. When regular competitions can be established in those communities, it is safer to start holding less popular events, as time will not be spent catering to events with relatively few competitors.
 
-## Organizing a Competition
-
-As a Delegate, you will often have more experience organizing WCA competitions than Community organizers. While Delegates can and often do much of the work organizing competitions, especially with inexperienced organizers, this handbook aims to cover only the Delegate’s responsibilities. For detailed information about the responsibilities involved with organizing competitions, see the [Organizer Guidelines](https://www.worldcubeassociation.org/organizer-guidelines).
-
-### Community Organizers and Delegate Organizers
-
-There is a spectrum of how WCA competitions are organized, with organizer-led competitions on one end and Delegate-led competitions on the other. Organizer-led competitions involve a Community member doing most of the work preparing for and running a competition, while a Delegate does the minimum amount of work required of them: receiving a competition proposal, confirming a competition on the WCA website, generating scrambles, showing up to the competition in person to verify that the Regulations are being upheld, and submitting results. On the other end of the spectrum are Delegate-led competitions, where a Delegate handles every aspect of organizing a competition and often the overall arc of multiple competitions in a region.
-
-In practice, fully organizer-led competitions are rare, as there are many possible points of failure that could prevent a competition from happening entirely or happening at an unacceptably low level of quality. On the other hand, Delegate-led competitions are common in very small cubing communities with only one or two Delegates and in very large and mature regions that have many Delegates under the umbrella of a Regional Organization.
-
-Most competitions lie somewhere between these two extremes. Some Delegates might prefer to get proposals on potential venues from Community members but otherwise organize the competitions themselves. Other times, a Delegate will work with the organizer to guide them through the entire organizational process, effectively performing many of the organizational tasks themself. As an organizer gets more experienced and demonstrates capability, a Delegate might feel more comfortable relaxing this level of supervision. Ultimately, however, the Delegate is responsible for ensuring that every organizational task is completed by the time the competition begins, so most Delegates will maintain some degree of involvement in the organizational process.
-
-### Interacting with Organizers
+## Interacting with Organizers
 
 When helping out an inexperienced organizer, be gracious with your assistance, as most organizers are also generous with their own free time to organize a competition to support their community. A Delegate has a position of authority within a cubing community, so use that position to foster a welcoming environment.
 
@@ -531,11 +520,12 @@ If inconsistencies arise, reach out to the competitor to ensure the correct info
 
 When using the Newcomer Checks feature, ensure you re-synchronize WCA Live after all the changes have been made to ensure the updates are displayed across all other tools. Currently, the Newcomer Checks feature is an optional tool to help identify data changes early and simplify the process of changing them. In the future, this tool will become a mandatory step to complete before submitting the results of the competition. It is important to note that using this tool does not replace newcomer verification at the check-in during the competition. First-time competitors should still be checked in and verified at the competition before they compete.
 
-## Communicating with Competitors and their Families
+## Ensuring Organizer Communication with Competitors
+
 
 It is generally a good idea to send emails to competitors before the competition to encourage them to make the necessary updates to their registration and remind them to plan for the competition. This is the organization team’s responsibility, but as a Delegate, you must ensure that the organizers are following through with this responsibility. Remember to **always use the BCC field in communications with multiple competitors** so that other competitor emails are not shared. The WCA website will automatically add all recipients to the BCC field if you email them by checking the box next to their registration on the Registration page of the competition website and then clicking the “Email” button. If there is a data breach, **you must** contact the WRT as soon as possible and explain the situation.
 
-See the Organizer Guidelines for more [information on emailing competitors](https://documents.worldcubeassociation.org/edudoc/organizer-guidelines/emails.pdf).
+See the [Organizer Handbook](wcadoc{edudoc/organizer-guidelines/handbook.pdf}) for more information on communicating with competitors.
 
 ## Generating Scrambles
 
@@ -559,20 +549,8 @@ To generate scrambles:
 
 When delegating a competition, you only need the Computer Display PDFs and their associated passcodes. To prevent accidental leaks of scramble information, do not bring any of the other files to the competition.
 
-## Generating Groups
 
-It is the organization team’s responsibility to generate groups. However, it is the Delegate’s responsibility to ensure they are fair and consistent. The following events are considered highly scramble-dependent, as the scramble alone can have a strong impact on who achieves a podium placement or advances to subsequent rounds:
-
-- 3x3x3 Cube
-- 2x2x2 Cube
-- 3x3x3 Blindfolded
-- 3x3x3 One-Handed
-- Clock
-- Pyraminx
-- Skewb
-- Square-1
-
-For non-first rounds, it is a good practice to put all of the similarly skilled competitors in one group to ensure that they receive the same scrambles. Use the results of the previous round to determine which groups to place competitors in.
+It is the organization team’s responsibility to generate groups. However, it is the Delegate’s responsibility to ensure they are fair and consistent. See the [Generating Groups](wcadoc{edudoc/organizer-guidelines/handbook.pdf}) section of the Organizer Handbook for guidance on which events are scramble-dependent and how to create fair groups.
 
 ## Competition Cancelation and Rescheduling
 
@@ -601,30 +579,12 @@ Your presence as a Delegate at a competition allows it to be WCA-recognized. You
 
 ## Setup and Environment
 
+
 Regardless of whether the organization team or venue employees are setting up the competition room, ensure that the competition layout abides by the WCA Regulations. These Regulations are outlined in [Article 7: Environment](https://www.worldcubeassociation.org/regulations/#article-7-environment). In addition, [Regulation 1c](https://www.worldcubeassociation.org/regulations/#1c) outlines that your competition must follow all applicable WCA policies and requirements. This includes the [WCA Scramble Accountability Policy](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf). If the Regulations cannot be followed, the competition results risk being retroactively removed. Review the competition setup and make any changes necessary to make it fully compliant with WCA policies. Pay especially close attention to zoning. The scrambling area must be visually isolated from all areas that could have competitors not involved in organizing or scrambling the ongoing group.
 
-## Check-In and Registration
+For guidance on venue setup, see the [Organizer Handbook](wcadoc{edudoc/organizer-guidelines/handbook.pdf}).
 
-Most competitions will have a check-in or registration table. Place this table close to the main entrance of the competition room so that competitors entering can easily pick up any necessary materials for the competition, such as a name tag and lanyard. Only exclude a check-in table if the competition is very small, has few or no first-time competitors, and you are confident you can easily identify every competitor without a check-in table.
-
-### On-the-Spot Registration
-
-You might receive questions regarding on-the-spot registration at the competition. You may register a competitor for the competition on the spot under these circumstances. (Exceptions could apply if other formats, shown in the next section, are used.):
-
-1. Competitors must not be accepted on the day of the competition under any circumstances unless on-the-spot registration for the competition is enabled.
-2. If registration is full, on-the-spot registrations _must not_ be accepted on the day of the competition.
-
-Some regions have created alternative waiting list formats that maximize the number of competitors who compete and reduce no-shows. The Extra Registration Requirements must clearly outline these policies to be allowed. Here are some examples of acceptable formats that have been approved in the past when the process was explicitly outlined in the Extra Registration Requirements:
-
-1. Competitors on the waiting list are added in the order of the waiting list after the waiting list deadline if the conditions are specified.
-2. Competitors attempting to register on the spot when registration is full may be added on the day of the competition in the order of arrival when on-the-spot registration is enabled if the conditions are specified.
-    1. On-the-spot registrations must not be accepted before competitors on the waiting list unless otherwise specified.
-3. If an online waiting list is not used and registration is full, competitors attempting to register on the spot may be added on the day of the competition in the order of arrival when on-the-spot registration is enabled, if specified.
-4. Other policies may be accepted at the discretion of the WCAT.
-
-Above all, the competitor limit must not be exceeded for any reason. Competitor limits will not be increased after a competition if registrations are accepted beyond the specified limit.
-
-### Verifying First-Time Competitors
+## Verifying First-Time Competitors
 
 Verify the identity of every first-time competitor at their first competition, according to [Regulation 2e](https://www.worldcubeassociation.org/regulations/#2e) and [Regulation 2e++](https://www.worldcubeassociation.org/regulations/#2e++). It is recommended to include a “First-Time Competitor Information” tab on every WCA competition page with instructions for all first-time competitors to bring some form of identification to verify their full name, date of birth, and country of representation. Forms of identification include, but are not limited to, passports, birth certificates, and school ID cards. A check-in table is a perfect place to verify this information, so assign an organizer or Delegate to manage the check-in process and verify this information.
 
@@ -641,61 +601,11 @@ When checking in a first-time competitor, verify the following information:
 
 If a first-time competitor does not have a form of identification available, it is acceptable to allow the competitor to verbally confirm their name and date of birth. If they cannot provide a document proving citizenship, make a note for this competitor and inform them to send the documentation to you via email after the competition. If a competitor is stateless (has no citizenship of any country), contact the WCA Results Team (WRT) for advice.
 
+Only exclude a check-in table if the competition is very small, has few or no first-time competitors, and you are confident you can easily identify every competitor without a check-in table.
+
 ## First-Time Competitor Tutorial
 
-A first-time competitor tutorial is recommended to help reduce incidents when there are first-time competitors at your competition. The tutorial is typically held at the start of the competition or right before the 3x3x3 event. Depending on your competition schedule, you could hold the new competitor tutorial at another time during the competition to maximize its impact. The durations vary by region. Most first-time competitor tutorials take around 10 to 20 minutes.
-
-- If the first event of the competition is unlikely to have many first-time competitors, you may choose to delay it until right before the first first-time competitor-friendly event, as some first-time competitors might not be present for events they are not competing in.
-- If there is a day when few first-time competitors are expected, such as a day focused on blindfolded events, you could skip the tutorial entirely and hold it on another day.
-- If there are potentially multiple days that a first-time competitor could attend for the first time, consider holding multiple first-time competitor tutorials on each day of the competition.
-
-A Delegate is usually the best suited for running a first-time competitor tutorial because of their familiarity with the Regulations. When the Delegate does not speak the local language, you could choose an organizer or trusted competitor to deliver the tutorial. If there are many first-time competitors, it might be best to have multiple separate tutorials so that everyone can see and hear their tutorial more easily.
-
-The following points are an outline of a first-time competitor tutorial for a WCA competition. Depending on the specific events of the competition, it might be a good idea to have a secondary judging tutorial before an event that has specific judging instructions. For example, 3x3x3 Blindfolded judging does not have the judge time the inspection phase and has them hold a sight blocker. In the Clock event, competitors are allowed to manipulate the pins during the inspection, judges must check both sides of the puzzle, and the puzzle does not have any +2 misalignment penalties. Modify the tutorial as necessary to fit the needs of your competition.
-
-- How to read a nametag, or otherwise determine the competitor’s competing, judging, scrambling, and/or running groups.
-- What to do when the competitor’s group is called.
-- How to compete:
-  - Telling the judge they are ready.
-  - Inspection time, including penalties.
-  - How to start the timer properly:
-    - Hand position, particularly using fingers to start the timer.
-    - Waiting for the green light on the timer.
-  - How to stop the timer properly:
-    - Flat hands (e.g. no “karate chops”).
-  - How to sign for attempts.
-    - Check that the time matches the timer and is written legibly. Times that are not written legibly will be interpreted in the worst way possible. Competitors are allowed to ask their judge to re-write times if they are hard to read.
-  - How to call over a Delegate.
-- How to judge:
-  - Asking the competitor whether they are ready and waiting for the competitor’s ready signal.
-  - Judging the inspection, including lifting the puzzle cover, operating the stopwatch, and making callouts.
-    - Emphasize that only “8 seconds” and “12 seconds” are called out, not 15 or 17 seconds.
-    - Emphasize that they should only stop the stopwatch when the competitor starts their solve so that the actual time of the inspection is measured.
-  - What to look for when the competitor starts their solve, including:
-    - Timer start hand position.
-    - Whether the competitor is touching the puzzle.
-  - How to judge during the solve:
-    - Pay attention. Do not cube, use your phone, or engage in conversation.
-    - Do not distract the competitor during the solve. Sit still and be quiet.
-    - Watch the competitor for any Regulations violations.
-    - Pay close attention to how the competitor stops their timer.
-        - Ensure they are using their hands with palms flat and facing down.
-  - Finishing the solve.
-    - The first step is to evaluate whether the cube is solved.
-        - Do not touch the puzzle. Use only your eyes.
-    - How to evaluate the cube for +2s:
-        - Explain that a single turn (e.g. U or U') is a +2 penalty on an NxNxN puzzle.
-        - Explain that a “double move” (e.g. U2 or R2) is also a +2 penalty and not considered two separate moves.
-        - Explain that a slice move (e.g. M or M2) is considered two outer moves and is thus a DNF.
-        - Tell them that if the cube is close to the limit for a +2 penalty (e.g. 45 degrees on NxNxN puzzles), and the judge cannot determine the final state, they should call over a Delegate to make the final decision.
-    - Explain that a corner twist is a DNF.
-    - Explain how missing pieces affect the solved state.
-        - The complexity of Regulation 5b5 can make this difficult for competitors to understand. Emphasize that judges may call over a Delegate if they are uncertain about how to rule specific missing pieces.
-    - How to write the final time.
-        - Emphasize legible handwriting.
-    - How to write the final time when there are penalties.
-    - Ask the competitor to sign for the attempt.
-  - What to do after the attempt is over. This can vary depending on how your competition is being run.
+A first-time competitor tutorial is recommended to help reduce incidents when there are first-time competitors at your competition. A Delegate is usually the best suited for running a first-time competitor tutorial because of their familiarity with the Regulations. When the Delegate does not speak the local language, an organizer or trusted competitor may deliver the tutorial instead. For guidance on scheduling and delivering the tutorial, see the [First-Time Competitor Tutorial](wcadoc{edudoc/organizer-guidelines/handbook.pdf}) section of the Organizer Handbook.
 
 ## Competing as a Delegate
 
@@ -845,7 +755,6 @@ A Delegate may grant an extra attempt to an A7g-eligible competitor who gets a +
 
 The following incidents occur frequently at competitions and have a standard way of getting resolved:
 
-<!-- Using an HTML table here because Markdown formatters and renderers often cannot present the information in a way that is easy to read when editing -->
 
 <table>
   <tr>
@@ -971,45 +880,32 @@ Competitors requiring accommodations are encouraged to contact the organization 
 
 If you encounter disruptive behavior from a competitor or spectator, you need to address it. Always be respectful but assertive when addressing poor behavior. The specifics of any situation vary widely, and there is no one-size-fits-all solution to handling them. The WIC has created a document outlining [Guidelines for Disciplinary Incidents](https://documents.worldcubeassociation.org/edudoc/guidelines-for-disciplinary-incidents/guidelines-for-disciplinary-incidents.pdf). You should read through the guidelines to familiarize yourself with them.
 
-## Preparing for Subsequent Rounds
+## Ensuring Fair Subsequent Rounds
 
-If your competition has more than one round of an event, you will need to prepare for the subsequent rounds. Since this is officially the organization team’s responsibility, you can find additional information on preparing for subsequent rounds in the [Organizer Guidelines](https://www.worldcubeassociation.org/organizer-guidelines).
 
-As a Delegate, pay special attention when the groups for subsequent rounds are created. In particular, if the subsequent rounds are final rounds or semifinal rounds, make an additional effort to ensure that the competitors most likely to advance to the final round or place on the podium use the same scramble sets. See the [Generating Groups](#generating-groups) section for more information.
+If your competition has more than one round of an event, the organization team is responsible for preparing for subsequent rounds. See the [Preparing for Subsequent Rounds](wcadoc{edudoc/organizer-guidelines/handbook.pdf}) section of the Organizer Handbook for additional information.
+
+As a Delegate, pay special attention when the groups for subsequent rounds are created. In particular, if the subsequent rounds are final rounds or semifinal rounds, make an additional effort to ensure that the competitors most likely to advance to the final round or place on the podium use the same scramble sets. See the [Generating Groups](wcadoc{edudoc/organizer-guidelines/handbook.pdf}) section of the Organizer Handbook for more information.
 
 ## Modifications to the Schedule or Events
 
-If you run behind or ahead of schedule, the organization team might ask about adjusting the schedule of upcoming events to recalibrate with the flow of the competition. When modifying the schedule, you must be aware of several important considerations from the WCA Regulations and the WCRP.
 
-If you decide to modify the details of a competition (e.g. advancement conditions, time limits, cutoffs, or number of rounds), you must update these details on the WCA website and synchronize WCA Live. This will prevent issues with score-taking.
+If you run behind or ahead of schedule, the organization team might ask about adjusting the schedule of upcoming events to recalibrate with the flow of the competition. See the [Modifications to the Schedule or Events](wcadoc{edudoc/organizer-guidelines/handbook.pdf}) section of the Organizer Handbook for the options available to get back on schedule.
 
-### Running Behind Schedule
-
-Running behind schedule is the most common schedule deviation at WCA competitions. You and the organization team have the following options to try to get the competition back on schedule:
-
-- Continuing the competition as-is and ending later than expected
-- Reducing the allotted time for lunch
-- Tightening advancement conditions
-- Reducing cutoffs or time limits
-- Removing rounds
+When modifying the schedule, you must be aware of several important considerations from the WCA Regulations and the WCRP. If you decide to modify the details of a competition (e.g. advancement conditions, time limits, cutoffs, or number of rounds), you must update these details on the WCA website and synchronize WCA Live. This will prevent issues with score-taking.
 
 You may change the advancement conditions of a round per [Regulation 9p2a](https://www.worldcubeassociation.org/regulations/#9p2a) and the cutoff and time limits per [Regulation A1a3](https://www.worldcubeassociation.org/regulations/#A1a3). In both cases, you must consider the fairness of such a change. When possible, announce any changes before the affected rounds start. Although you may change these details during a round, avoid doing that if possible. [Regulation A1a3+](https://www.worldcubeassociation.org/regulations/#A1a3+) explains how modifications to the time limit or cutoff could disadvantage competitors because it could change the competitor’s strategy.
 
 Removing rounds is permitted, but consider it a last resort tool for getting a competition back on schedule. If removing rounds must be done, prioritize removing smaller subsequent rounds to affect as few competitors as possible. When canceling a planned final for a short event (e.g. 2x2x2 Cube or Pyraminx), try to provide the same scrambles to prospective podium placements by putting the fastest competitors from the previous round in the same group. You are strongly discouraged from removing an event entirely, as providing at least one round of attempts to everyone who signed up for an event is preferable to providing two or more rounds in another event.
 
-### Running Ahead of Schedule
-
-The stakes are lower when you are running ahead of schedule. Simply continuing ahead of schedule will allow for a buffer if there is a delay later in the competition and allows you to leave the venue early if you finish ahead of schedule. Some competitors travel a long way to get to competitions and will appreciate being able to get a head start on their journey home. Alternatively, if it is still the morning, consider extending lunchtime, especially if it is under one hour. Having additional time to get food, eat, relax, and warm up before the competition resumes could greatly improve the competition experience.
-
-If you still want to fill up some time and have longer events with a cutoff time, it is better to increase the cutoff time than to increase the time limit. Competitors usually do not sign up for events they cannot solve within the time limit, and most competitions would not allow them to add events on the day of the competition. Also, increasing the time limit neither significantly increases opportunities for competitors nor substantially extends the duration of the event. Increasing the cutoff time can give some competitors a better chance of getting a full mean or average, resulting in longer rounds. Use your experience with planning competitions to estimate a cutoff time to extend the round by a reasonable amount.
-
-A more drastic option is increasing the number of competitors who advance to a subsequent round. You could also add an additional round. The number of advancing competitors between rounds must still follow the maximum size per [Regulation 9p1](https://www.worldcubeassociation.org/regulations/#9p1). In both cases, remember that some competitors might have already left the venue if they were not expecting to advance to a subsequent round. Unless you have a good reason to expect that the significantity of the competitors who could take advantage of the modified advancement conditions will still be present (e.g. a large second round of a popular event like 3x3x3 Cube still ahead of you in the schedule), generally avoid changing advancement conditions.
+A more drastic option when running ahead of schedule is increasing the number of competitors who advance to a subsequent round. You could also add an additional round. The number of advancing competitors between rounds must still follow the maximum size per [Regulation 9p1](https://www.worldcubeassociation.org/regulations/#9p1). In both cases, remember that some competitors might have already left the venue if they were not expecting to advance to a subsequent round. Unless you have a good reason to expect that the significantity of the competitors who could take advantage of the modified advancement conditions will still be present (e.g. a large second round of a popular event like 3x3x3 Cube still ahead of you in the schedule), generally avoid changing advancement conditions.
 
 Per point 7.4 of the WCRP announcement criteria, you must not add an event to an ongoing WCA competition except as an unofficial event, for which you would need to use a third-party service.
 
 Finally, remember that running ahead of schedule sometimes causes some competitors to arrive late to their assigned groups due to them referencing the online schedule. Do not disqualify competitors for being present at the originally scheduled time. If the same event is still ongoing, adding them to an ongoing or upcoming group should be straightforward. Even if this causes a small delay, being ahead of schedule means you have the buffer time to accommodate the competitor. However, competitors are ultimately responsible for appearing when their group is called, even if the competition is running ahead of schedule. If you feel that accommodating a late competitor is infeasible or otherwise detrimental to the rest of the competition, you may disallow them from competing.
 
 # After the Competition {.page-break-before}
+
 
 When the competition is over, **physical records from the competition must be retained by a Delegate of the competition for at least 90 days and digital records for seven years, according to the WCRP.** Paper records tend to be only score sheets and solution sheets for Fewest Moves attempts. Digital records include scrambles, results, financial records, and contracts created through organizing competitions. The Delegate is responsible for compiling the competition results and writing the incidents for the Delegate Report and is encouraged to keep paper records as reference material. The WCA will maintain digital records related to the scrambles and the Delegate Report after the results are uploaded. It is your responsibility as a Delegate to ensure that the organization team has processes in place to maintain digital records related to competition finances for at least seven years. You can do this before the competition when you are ensuring the organization team has a budget and reasonable levels of financial management. Encourage organizers to check requirements for financial record-keeping for the government where the competition was held. The WCA expects financial records to be available for seven years, but your local government requirement could be higher than this, so you should follow that instead.
 
@@ -1150,10 +1046,6 @@ If the invoice is being issued to a Delegate and not redirected to an organizati
 If you ever need an invoice to actually be written out in the name of someone else (not just forwarded to that person for payment), the WFC may manually amend whom the invoice is issued to after you receive it. To do this, please forward the invoice back to the WFC and list the name of the person or organization (which should be shown on the invoice) along with their email and any other info that must be included on the invoice. Once the invoice has been amended, it will be emailed to the new contact.
 
 If you ever have any doubts or questions, you may send an email to [finance@worldcubeassociation.org](mailto:finance@worldcubeassociation.org), and they will get back to you as soon as possible.
-
-## Lost and Found
-
-Competitors frequently lose personal items, particularly puzzles, during a competition. If there are unclaimed items at the end of a competition, you or another Delegate can choose what to do with them. You can try to return lost items to their owners, although that is not always feasible or possible. It is appropriate to include a mention of lost items in post-competition communications. Instead of listing the missing items, encourage people to reach out with a description of the item to prevent people from claiming items that don’t belong to them.
 
 # Delegates Outside of the Competition {.page-break-before}
 
