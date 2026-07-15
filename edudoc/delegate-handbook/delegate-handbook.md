@@ -1,6 +1,6 @@
 # Delegate Handbook
 
-The _Delegate Handbook_ is an educational and referential resource for WCA Delegates of all levels of experience, whether you are a newly appointed Trainee Delegate or a Full Delegate who has attended over one hundred competitions. This document attempts to lay a foundation for the required responsibilities and the most common scenarios experienced by a Delegate so that every WCA competition can run with consistent levels of fairness and quality.
+The _Delegate Handbook_ is an educational and referential resource for WCA Delegates of all levels of experience, whether you are a newly appointed Trainee Delegate or a Full Delegate who has attended over one hundred competitions. This document attempts to lay a foundation for the required responsibilities and the most common scenarios experienced by a Delegate so that every WCA competition can run with consistent levels of fairness and quality
 
 This handbook is _not_ a guide on how to organize or run a competition. Organizational tasks are often handled by Delegates, but they can also be handled by Community organizers. As such, organizational details are generally excluded in this handbook and can instead be found within the [Organizer Guidelines](https://www.worldcubeassociation.org/organizer-guidelines).
 
