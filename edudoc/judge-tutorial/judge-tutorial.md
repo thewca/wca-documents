@@ -20,10 +20,10 @@ These are the main equipment and tools required to proceed with a speedsolving a
 2. Reset both the Stackmat timer and the stopwatch. If your station has a Gen 5 timer, you will need to press the reset button for a bit longer than with older timers, and you should also check that the timer is in 2-pad mode. The light should be yellow, **not** blue.
 3. Ask the competitor whether they are ready. They have one minute to indicate they are ready.
 4. Once the competitor is ready, simultaneously uncover the puzzle and start the stopwatch to time the inspection phase. This starts the attempt.
-5. After 8 seconds of inspection have elapsed, you must call “8 seconds”. After 12 seconds of inspection have elapsed, you must call “12 seconds”. Howver, do not make any callouts after the competitor has started the timer.
+5. After 8 seconds of inspection have elapsed, you must call “8 seconds”. After 12 seconds of inspection have elapsed, you must call “12 seconds”. However, do not make any callouts after the competitor has started the timer.
 6. During the inspection, the competitor must not make any move to the puzzle except to correct minor misalignments.
 7. The competitor starts the solve by placing their fingers on the sensors, waiting for the green light to turn on, and then removing their hands from the timer.
-8. Stop the stopwatch as soon as the competitor lifts their hands to start the timer.
+8. Stop the stopwatch as soon as the competitor lifts their hands to start the timer, **not** when they place their fingertips on the sensors.
 9. Once the competitor solves the puzzle, they must stop the timer to finish the solve. Inspect the solved state of the puzzle without touching it (except for the Clock event) and announce the time and any penalties, if applicable.
 10. Record the final result, including any penalties, on the score sheet before both you and the competitor sign for the attempt to verify that the result is correct and accepted.
 
