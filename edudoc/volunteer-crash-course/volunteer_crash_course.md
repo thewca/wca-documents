@@ -9,9 +9,9 @@ Most of the important rules and common practices you need to know will be descri
 WCA Volunteers should be familiar with every document related to their work as WCA Volunteers. All relevant documents are on [the documents page](wca{documents}) and on [the Volunteer panel](wca{panel}). The Volunteer panel section is available only to WCA Volunteers and contains Volunteer-exclusive knowledge. Therefore, every document on that page should be read. The documents section contains information on how the WCA functions and is available to the public. Not every document in this section needs to be memorized. However, here are the ones that are absolutely necessary to know well:
 
 - [The Code of Ethics](wcadoc{documents/Code%20of%20Ethics.pdf}) describes how every WCA Volunteer must act and what they must abide by.
-- [The Spirit of the WCA](wcadoc{documents/motions/01.2021.1%20-%20Spirit.pdf}).
-- If you are a member of a Committee/Team, [The Committees and Teams Motion](wcadoc{documents/motions/10.2022.0%20-%20Committees%20and%20Teams.pdf}) will explain how Committees/Teams operate. Additionally, you will find the relevant motion for your Committee/Team among the other listed motions on the documents page.
-- If you are a Delegate, [The Delegates Motion](wcadoc{documents/motions/08.2022.1%20-%20Delegates.pdf}) will explain how your work as a Delegate will be conducted. You should also familiarize yourself with the [Delegate Handbook](wcadoc{edudoc/delegate-handbook/delegate-handbook.pdf}).
+- [The Spirit of the WCA](https://documents.worldcubeassociation.org/documents/motions/01.2025.1%20-%20Spirit.pdf).
+- If you are a member of a Committee/Team, [The Committees and Teams Motion](https://documents.worldcubeassociation.org/documents/motions/10.2025.0%20-%20Committees%20and%20Teams.pdf) will explain how Committees/Teams operate. Additionally, you will find the relevant motion for your Committee/Team among the other listed motions on the documents page.
+- If you are a Delegate, [The Delegates Motion](https://documents.worldcubeassociation.org/documents/motions/08.2025.1%20-%20Delegates.pdf) will explain how your work as a Delegate will be conducted. You should also familiarize yourself with the [Delegate Handbook](wcadoc{edudoc/delegate-handbook/delegate-handbook.pdf}).
 
 ## Email
 
