@@ -72,7 +72,7 @@ Other incidents that result in a penalty include the following:
 
 **DNF**: while inspecting or solving the puzzle, the competitor receives assistance from anyone or any object other than the surface.
 
-**DNF**: while inspecting or solving the puzzle, the competitor uses some kind of electronic device (see [Guideline 2i++++](wca{regulations/guidelines.html#2i++++}) for clarification).
+**DNF**: while inspecting or solving the puzzle, the competitor uses devices capable of playing audio to the competitor that would not be audible to the judge, or to display information through an active screen visible to the competitor (see [Regulation 2i2](https://www.worldcubeassociation.org/regulations/#2i2) for clarification).
 
 ## Recording Results
 
