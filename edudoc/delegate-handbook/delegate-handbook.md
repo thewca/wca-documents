@@ -161,7 +161,7 @@ A Trainee Delegate has the same permissions and responsibilities as a Junior Del
 - Trainee Delegates are not given WCA email addresses.
 - Trainee Delegates cannot be the Lead Delegate of a competition.
 
-A Trainee Delegate is a Community member and not a WCA Volunteer. However, a Trainee Delegate is still expected to embody the full responsibilities of a Delegate and shall behave as a representative of the WCA in accordance with the Mission, Spirit, Policies, and Code of Ethics of the WCA.
+A Trainee Delegate is a Community member and not a WCA Volunteer. However, a Trainee Delegate is still expected to embody the full responsibilities of a Delegate and shall behave as a representative of the WCA in accordance with the Spirit, Purpose, Policies, and Code of Ethics of the WCA.
 
 A Trainee Delegate’s training period is not just an evaluation of their skills. It is an opportunity for the Trainee Delegate to understand more fully what is expected of them. Sometimes, a Trainee Delegate finds that delegating is not a good match for them. This is okay! A Trainee Delegate may withdraw their appointment at any time by submitting a resignation letter to their Senior Delegate and adding the WCA Board and WCA Executive Assistants Team (WEAT) to the Carbon Copy (CC) field.
 

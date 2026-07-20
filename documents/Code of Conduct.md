@@ -2,7 +2,7 @@
 
 ### Version 1.2 {.version}
 
-The Code of Conduct must be considered by all Community members, as a standard for actions and behavior. These actions should uphold the Spirit and Mission of the WCA while not breaking any Regulations, Motions or Policies. 
+The Code of Conduct must be considered by all Community members, as a standard for actions and behavior. These actions should uphold the Spirit and Purpose of the WCA while not breaking any Regulations, Motions or Policies. 
 
 This Code covers previously known issues, as well as issues that the WCA foresees as requiring additional guidance. This document will be updated periodically to incorporate new topics as they are brought to the attention of the WCA, and will also be reviewed regularly. 
 
