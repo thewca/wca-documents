@@ -47,11 +47,11 @@ Lastly, for Committee/Team internal discussions, you can take a shortcut by remo
 
 ## Representation
 
-Every WCA Volunteer will also have received login credentials for their own personal *@worldcubeassociation.org* email account hosted by GSuite.
+Every WCA Volunteer will also have received login credentials for their own personal *@worldcubeassociation.org* email account hosted by Google Workspace.
 
-This account must always be used when sending WCA-related emails. The only times exceptions may be made are when the Volunteer has issues with the GSuite Software in the region where they live.
+This account must always be used when sending WCA-related emails. The only times exceptions may be made are when the Volunteer has issues with the Google in the region where they live.
 
-Configure your new GSuite account to include a signature that includes your name and your position. Do not include anything else, such as personal bests or YouTube channels! Be aware that this signature will be visible to **every recipient, along with a legal disclaimer for recipients outside of the** *@worldcubeassociation.org* domain.
+Configure your new Google Workspace account to include a signature that includes your name and your position. Do not include anything else, such as personal bests or YouTube channels! Be aware that this signature will be visible to **every recipient, along with a legal disclaimer for recipients outside of the** *@worldcubeassociation.org* domain.
 
 Think twice before sending a private message through this account. You should never use this email for any work that is unrelated to the WCA. Please refer to the [WCA Email Account Policy](wcadoc{documents/policies/internal/Email%20Account.pdf}) for details.
 
