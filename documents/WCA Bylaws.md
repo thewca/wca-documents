@@ -24,7 +24,7 @@ Our values are Community, Fairness, Fun, Excellence and Volunteerism.
 Application for membership, as defined in Section 5056 of the California Nonprofit Public Benefit Corporation Law, as amended (the “Nonprofit Corporation Law”), shall be open to any person. Membership is granted after completion and receipt of a membership application and annual dues. All memberships shall be granted upon a recommendation of a member and a majority vote of the board, or a majority vote of members at a properly announced meeting. Membership is non-transferable.
 
 ### 2.2 Types of Membership
-The WCA shall offer the following type of memberships to its organization:
+The WCA shall offer the following types of memberships to its organization:
 
 1. Regional Organizations;
 2. Associate Regional Organizations;
@@ -43,10 +43,10 @@ Regional Organization membership is available for registered entities who act to
 5. The Regional Organization provides a description of their organizational structure;
 6. The Regional Organization provides a clear description of the area they cover along with a report on past activities proving they act as the entity which organizes WCA activities within their region.
   
-This membership is active from the moment they are acknowledged by the Board of Directors as meeting the requirements for this category and continues until this membership is revoked either through resignation or termination (see 2.7 and 2.9). This category of members do not have the right to vote in matters of the WCA and any elections.
+This membership is active from the moment they are acknowledged by the Board of Directors as meeting the requirements for this category and continues until this membership is revoked either through resignation or termination (see 2.7 and 2.9). This category of members does not have the right to vote in matters of the WCA and any elections.
 
 ### 2.4 Associate Regional Organization Membership
-Associate Regional Organization membership is available for groups who act to organize WCA activities within their specified regions but however, are not currently a registered entity within the region in which they operate. Applications for this type of membership are to be made in writing to the Board of Directors provided the entity meets the following requirements:
+Associate Regional Organization membership is available for groups who act to organize WCA activities within their specified regions but are not currently a registered entity within the region in which they operate. Applications for this type of membership are to be made in writing to the Board of Directors provided the entity meets the following requirements:
 
 1. The Associate Regional Organization has a name, address and contact details;
 2. The Associate Regional Organization has a website and a logo;
@@ -54,10 +54,10 @@ Associate Regional Organization membership is available for groups who act to or
 4. The Associate Regional Organization provides a description of their organizational structure;
 5. The Associate Regional Organization provides a clear description of the area they cover along with a report on past activities proving they act as the entity which organizes WCA activities within their region.
 
-This membership is active from the moment they are acknowledged by the Board of Directors as meeting the requirements for this category and continues until this membership is revoked either through resignation or termination (see 2.7 and 2.9) or after two years from the date in which their membership is active. This category of members do not have the right to vote in matters of the WCA and any elections.
+This membership is active from the moment they are acknowledged by the Board of Directors as meeting the requirements for this category and continues until this membership is revoked either through resignation or termination (see 2.7 and 2.9) or after two years from the date in which their membership is active. This category of members does not have the right to vote in matters of the WCA and any elections.
 
 ### 2.5 Individual Voting Members
-Any individual who is currently a Full Delegate, Committee/Team Leader, Committee/Team Senior Member, director or officer is automatically considered an individual voting member of the WCA. This membership is active from the moment an individual is promoted to one of the above positions and continues until this membership is revoked either through resignation or termination (see 2.7 and 2.9). This category of members have the right to place a maximum of one vote in matters of the WCA and any elections.
+Any individual who is currently a Full Delegate, Committee/Team Leader, Committee/Team Senior Member, director or officer is automatically considered an individual voting member of the WCA. This membership is active from the moment an individual is promoted to one of the above positions and continues until this membership is revoked either through resignation or termination (see 2.7 and 2.9). This category of members has the right to place a maximum of one vote in matters of the WCA and any elections.
 
 ### 2.6 Individual Non-voting Members
 Any individual who has competed at a past WCA Competition and has an attributed personal WCA ID is automatically considered an individual non-voting member of the WCA. This membership type is active from the moment an individual starts their first official attempt at their first WCA competition and continues until this membership is revoked either through resignation or termination (see 2.7 and 2.9). This category of members does not have the right to vote in matters of the WCA and any elections.
@@ -72,7 +72,7 @@ Each voting member shall be eligible to appoint in writing one voting representa
 Any member may resign by filing a written resignation with the Secretary. Resignation shall not relieve a member of unpaid dues, or other charges previously accrued. A member can have their membership terminated by a majority vote of the membership, or by a supermajority (⅔) vote of the Board.
 
 ### 2.10 Annual Meetings
-An annual meeting of the members shall take place no later than 10 months after the end of the fiscal year, the specific date, time, and location of which will be designated by the chair. The annual meeting shall run according to the following agenda which must be circulated to the members not less than 2 weeks prior to the meeting:
+An annual meeting of the members shall take place no later than 10 months after the end of the fiscal year, the specific date, time, and location of which will be designated by the Chair. The annual meeting shall run according to the following agenda which must be circulated to the members not less than 2 weeks prior to the meeting:
 
 1. Opening of the meeting;
 2. Roll call;
