@@ -12,7 +12,7 @@ Artificial intelligence (AI) has the potential to enhance productivity. This doc
     1. **Private Information:** Information which is not publicly accessible or published by the WCA. Examples include, but are not limited to: member data, non-public financial records, and internal team or committee communications.
     2. **Public Information:** Information already in the public domain. Examples include, but are not limited to: WCA Regulations, public documents, published competition results, official announcements, and open-source codebases (e.g. public WCA GitHub repositories).
 2. **Tool Selection by Data Classification:**
-    1. **For Private Information:** WCA Volunteers must only WCA-approved AI tools while logged into an official WCA account on the relevant platform. This ensures the data is not used to train external models.
+    1. **For Private Information:** WCA Volunteers must use only WCA-approved AI tools while logged into an official WCA account on the relevant platform. This ensures the data is not used to train external models.
     2. **For Public Information:** WCA Volunteers may use any AI tool (including personal licenses or open-source models) to assist with tasks involving public WCA documents or open-source code.
 3. **AI Usage Guidelines:**
     1. **Intellectual Property:** AI should be used with caution when generating branding, logos, or text. For technical tasks, verify that AI-generated code snippets do not violate the licenses of the WCA’s open-source projects.
