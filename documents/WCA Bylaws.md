@@ -41,7 +41,7 @@ Regional Organization membership is available for registered entities who act to
 3. The Regional Organization provides a current copy of its bylaws to the WCA;
 4. The Regional Organization is registered as a legal entity in the area in which it operates;
 5. The Regional Organization provides a description of their organizational structure;
-6. The Regional Organization provides a clear description of the area they cover along with a report on past activities proving they act as the entity which organises WCA activities within their region.
+6. The Regional Organization provides a clear description of the area they cover along with a report on past activities proving they act as the entity which organizes WCA activities within their region.
   
 This membership is active from the moment they are acknowledged by the Board of Directors as meeting the requirements for this category and continues until this membership is revoked either through resignation or termination (see 2.7 and 2.9). This category of members do not have the right to vote in matters of the WCA and any elections.
 
@@ -52,7 +52,7 @@ Associate Regional Organization membership is available for groups who act to or
 2. The Associate Regional Organization has a website and a logo;
 3. The Associate Regional Organization provides a current copy of its Bylaws to the WCA;
 4. The Associate Regional Organization provides a description of their organizational structure;
-5. The Associate Regional Organization provides a clear description of the area they cover along with a report on past activities proving they act as the entity which organises WCA activities within their region.
+5. The Associate Regional Organization provides a clear description of the area they cover along with a report on past activities proving they act as the entity which organizes WCA activities within their region.
 
 This membership is active from the moment they are acknowledged by the Board of Directors as meeting the requirements for this category and continues until this membership is revoked either through resignation or termination (see 2.7 and 2.9) or after two years from the date in which their membership is active. This category of members do not have the right to vote in matters of the WCA and any elections.
 
