@@ -54,7 +54,7 @@ An official WCA Competition must:
       3. Dependent Data Services that use public WCA results for non-governance rankings, or
       4. Entities explicitly approved by the WCA Board.
 10. Competitions with proceeds going to a charity must indicate so on the competition website, preferably in the Information section of the 'General info' tab. The name of the charity must be included. Any such charity needs to be recognized in the country where the competition is held.
-    1. Having this indicated on the competition website must be done as soon as the charity of the proceeds for has been decided. This must be done prior to the competition taking place.
+    1. Having this indicated on the competition website must be done as soon as the charity for the proceeds has been decided. This must be done prior to the competition taking place.
 
 If WCA Regulations are not correctly observed during a competition, results may be modified at the discretion of the WCA Delegate, WCA Regulations Committee, WCA Results Team, WCA Integrity Committee, WCA Appeals Committee, or the WCA Board.
 
