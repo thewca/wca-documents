@@ -6,7 +6,7 @@
 The purpose of this policy is to outline the guidelines and requirements of individual user accounts and group accounts on the worldcubeassociation.org domain. This policy applies to all WCA Volunteers and anyone else who is assigned (or given access to) a corporate email. Since WCA Volunteers who use WCA email are representing the World Cube Association, they must be aware that they represent the WCA whenever they send emails from such an account.
 
 ## Policy
-All WCA Volunteers must have a valid email address linked to an account on worldcubeassociation.org. This account is assigned by a Google Workspace administrator and must be claimed and linked before the WCA Volunteer is appointed on the WCA website.
+All WCA Volunteers must have a valid email address linked to an account on worldcubeassociation.org. This account is assigned by a G Suite administrator and must be claimed and linked before the WCA Volunteer is appointed on the WCA website.
 
 ### Appropriate Use
 WCA Volunteers are required to use their WCA email for all official World Cube Association related business and must adhere to this policy at all times. WCA Volunteers may use their email to:
@@ -42,7 +42,7 @@ WCA Volunteers who do not adhere to this policy may face disciplinary action (in
 
 - When an individual is no longer a WCA Volunteer, their WCA account shall be suspended.
    - If an individual becomes a WCA Volunteer again, their account shall be reinstated.
-- The WCA Google Workspace administrator reserves the right to delete WCA accounts in certain circumstances.
+- The WCA G Suite administrator reserves the right to delete WCA accounts in certain circumstances.
    - After a period of 7 years after a WCA Volunteer’s access is revoked, their account (and all related account email) shall be deleted.
 
 ### Password resets
