@@ -18,7 +18,7 @@ The official communication channel for the WIC is via email. For any concerns ab
       1. that it is their personal responsibility to familiarize themselves with all of the requirements of the Code of Conduct, including what conduct constitutes an offense under the Code of Conduct;
       2. to submit to the exclusive jurisdiction of any WCA Delegate, WCA Committee or WCA Board of Directors convened under the Disciplinary Procedure to hear and determine charges brought (and any appeals in relation thereto) pursuant to the Code of Conduct; and
       3. not to bring any proceedings to any court or other forum that are inconsistent with the foregoing submission to the jurisdiction of WCA Delegates, WCA Committees or WCA Board.
-   2. While taking into account item 1.1, the WCA and Community members shall be responsible for promoting Code of Conduct awareness and education amongst Community members; in particular WCA Volunteers.
+   2. While taking into account item 1.1, the WCA and Community members shall be responsible for promoting Code of Conduct awareness and education among Community members; in particular WCA Volunteers.
 2. **Conduct**
    1. Every Community member must behave with respect towards the representatives of the WCA, other Registered Speedcubers, spectators, press and partners. This applies to behavior during WCA Competitions and also online, on official WCA platforms. Community members are expected to conduct themselves according to the following values:
       1. Compassion: treat others as you would like to be treated.
