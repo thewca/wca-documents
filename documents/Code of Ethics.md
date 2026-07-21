@@ -30,7 +30,7 @@ The official communication channel for the WIC is via email. For any concerns ab
       1. Waiving of registration fees must not be done for the sole reason of people being the following (or similar):
          1. Family
          2. Friends
-      2. Reminder: Regulations [1e2)](wca{regulations/#1e2}) and [1f2)](wca{regulations/#1f2}) should be used to help fill scrambling and judging roles during a competition.
+      2. Reminder: Regulations [1e2](wca{regulations/#1e2}) and [1f2](wca{regulations/#1f2}) should be used to help fill scrambling and judging roles during a competition.
       3. Competition volunteer application forms should be available for competitions to help manage and standardize who will be waived for volunteer purposes.
       4. Members of a reasonably formed group may be partially or fully waived from paying the competition’s registration fee.
          1. Delegates should ensure that any such deal should still be fair and avoid bias towards any unreasonably formed group.
