@@ -21,7 +21,7 @@ Our values are Community, Fairness, Fun, Excellence and Volunteerism.
 
 ## 2. Membership {.page-break-before}
 ### 2.1 Eligibility for Membership
-Application for membership, as defined in Section 5056 of the California Nonprofit Public Benefit Corporation Law, as amended (the “Nonprofit Corporation Law”), shall be open to any person. Membership is granted after completion and receipt of a membership application and annual dues. All memberships shall be granted upon a recommendation of a member and a majority vote of the board, or a majority vote of members at a properly announced meeting. Membership is non-transferrable.
+Application for membership, as defined in Section 5056 of the California Nonprofit Public Benefit Corporation Law, as amended (the “Nonprofit Corporation Law”), shall be open to any person. Membership is granted after completion and receipt of a membership application and annual dues. All memberships shall be granted upon a recommendation of a member and a majority vote of the board, or a majority vote of members at a properly announced meeting. Membership is non-transferable.
 
 ### 2.2 Types of Membership
 The WCA shall offer the following type of memberships to its organization:
@@ -245,7 +245,7 @@ Unless otherwise provided in these Bylaws, and subject to any guidelines and pro
 
 ## 9. Gifts, Grants, and Contracts {.page-break-before}
 ### 9.1 Gifts
-The Board or its designee may accept on behalf of the WCA any contribution, gift, bequest, or device for the charitable purposes of the WCA. Any officer or director who receives any contribution, gift, bequest, or device from any entity the WCA engages with in the past, present, or future shall be considered an interested party for the purposes of the Conflict of Interest policy (3.11).
+The Board or its designee may accept on behalf of the WCA any contribution, gift, bequest, or devise for the charitable purposes of the WCA. Any officer or director who receives any contribution, gift, bequest, or devise from any entity the WCA engages with in the past, present, or future shall be considered an interested party for the purposes of the Conflict of Interest policy (3.11).
 
 ### 9.2 Grants
 The Board shall exercise itself, or delegate, subject to its supervision, control over grants, contributions, and other financial assistance provided by the WCA, including, without limitation, those made in connection with fiscal sponsorship relationships.
