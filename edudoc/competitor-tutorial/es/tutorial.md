@@ -130,14 +130,14 @@ Al colocar las manos sobre el timer, el competidor primero verá una luz roja y 
 :::::
 
 ::::: {.box .attention .page-break-before}
-Recuerda que para iniciar la resolución, las manos del competidor deben estar planas, con las palmas hacia abajo y **los dedos** sobre los sensores del timer, ¡No las palmas! (Penalización: +2 segundos [A4b](http://wca.link/A4b))
+Recuerda que para iniciar la resolución, las manos del competidor deben estar planas, con las palmas hacia abajo y **los dedos** sobre los sensores del timer, ¡No las palmas! (Penalización: +2 segundos [A4b](https://wca.link/A4b))
 :::::
 
 ### Terminando la resolución:
 Una vez que el puzzle está resuelto, el competidor detiene el timer colocando las manos en los sensores. No deben estar tocando el puzzle y sus manos deben estar planas, con las palmas hacia abajo.
 
 ::::: {.box .attention}
-¡Recuerda que para terminar la resolución, las manos del competidor deben estar planas, con las palmas hacia abajo! (Penalización: +2 segundos [A6d](http://wca.link/A6d))
+¡Recuerda que para terminar la resolución, las manos del competidor deben estar planas, con las palmas hacia abajo! (Penalización: +2 segundos [A6d](https://wca.link/A6d))
 :::::
 
 El juez corrobora si el puzzle está resuelto o no y le comunica el resultado al competidor: "OK", "PENALIZACIÓN" o "DNF". El competidor no tiene permitido tocar el puzzle hasta que el juez haya tomando una decisión.

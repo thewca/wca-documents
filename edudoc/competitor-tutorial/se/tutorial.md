@@ -130,14 +130,14 @@ När deltagaren placerar fingrarna på timern tänds först en röd lampa, och s
 :::::
 
 ::::: {.box .attention .page-break-before}
-Kom ihåg: Vid starten av lösningen måste deltagaren placera händerna platt, med handflatorna nedåt, och röra sensorerna med fingrarna, inte handflatorna! (Straff: +2 sekunder [A4b](http://wca.link/A4b))
+Kom ihåg: Vid starten av lösningen måste deltagaren placera händerna platt, med handflatorna nedåt, och röra sensorerna med fingrarna, inte handflatorna! (Straff: +2 sekunder [A4b](https://wca.link/A4b))
 :::::
 
 ### Stoppa lösningen:
 När pusslet är löst stoppar deltagaren timern genom att placera händerna på sensorerna. Deltagaren får då inte röra pusslet, och handflatorna måste vara nedåt.
 
 ::::: {.box .attention}
-Kom ihåg: Handflatorna måste vara nedåt när timern stoppas! (Straff: +2 sekunder [A6d](http://wca.link/A6d))
+Kom ihåg: Handflatorna måste vara nedåt när timern stoppas! (Straff: +2 sekunder [A6d](https://wca.link/A6d))
 :::::
 
 Domaren kollar om pusslet är löst eller inte, och bekräftar detta för deltagaren med ”OKAY”, ”PENALTY”, eller ”DNF”. Varken deltagaren eller domaren får röra pusslet förrän domaren tydligt har fattat ett beslut.
