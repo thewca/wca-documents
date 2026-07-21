@@ -38,8 +38,8 @@ An official WCA Competition must:
                  1. Results and scramble sequences are automatically retained once uploaded to the WCA website.
       3. Sending corrections of competition results to the WCA Results Team.
       4. Advising other competition officials when necessary.
-      5. Deciding whether to disqualify competitors during the competition per ([WCA Regulation 2k)](wca{regulations/#2k})).
-      6. Generating, providing, and maintaining the security of the scramble sequences ([WCA Regulation 4b2)](wca{regulations/#4b2})).
+      5. Deciding whether to disqualify competitors during the competition per ([WCA Regulation 2k](wca{regulations/#2k})).
+      6. Generating, providing, and maintaining the security of the scramble sequences ([WCA Regulation 4b2](wca{regulations/#4b2})).
       7. Ensuring that all outstanding incidents after a competition are resolved.
    3. The WCA Delegate may delegate some of their responsibilities to the organization team or other officials.
 9. The information listed on the WCA Website, as well as other official WCA channels must comply with the rules of “qualified sponsorship” set forth by Publication 598 of the Internal Revenue Service (IRS), as well as any additional rules or laws in the local country of the competition.
@@ -138,7 +138,7 @@ The WCA Delegate must submit the following information when requesting approval 
       1. Qualification for an event must be based only on results from the same event.
          1. Exception: a qualification requirement for the entire competition may be having competed in at least one WCA competition.
          2. Exception: Any success in a blindfolded event may be used as a qualification result for other blindfolded events. 
-      2. Qualification for an event must be based on the official format of the event (average results for “Average of” or “Mean of” events and single results for “Best of” events, as outlined in ([WCA Regulation 9b)](wca{regulations/#9b})))
+      2. Qualification for an event must be based on the official format of the event (average results for “Average of” or “Mean of” events and single results for “Best of” events, as outlined in ([WCA Regulation 9b](wca{regulations/#9b}))
          1. Average results must be used for 3x3x3 Fewest Moves regardless of the format that the competition will use.
          2. Exception: in case of using average/mean results, single results must be used to break ties.
       3. Qualification for 3x3x3 Multi-Blind must only be based on the number of points achieved in an attempt.
@@ -203,7 +203,7 @@ The WCA Delegate must submit the following information when requesting approval 
    1. Each event must have a planned number of rounds.
       1. Each round of each event must have a planned format and time limit.
       2. A round of an event must have planned advancement conditions if there is a subsequent round of the event.
-      3. A round may have a cutoff. A round with a cutoff is a cutoff round, with the formats as outlined in [WCA Regulation 9b)](wca{regulations/#9b}).
+      3. A round may have a cutoff. A round with a cutoff is a cutoff round, with the formats as outlined in [WCA Regulation 9b](wca{regulations/#9b}).
    2. Only results from events that appear on the competition website in the Events tab and Schedule will be recognized.
       1. Groups held for smaller subsections of competitors (e.g., competition volunteers), at a different time than the rest of the round, must be highlighted in the schedule.
          1.  The competition delegates should carefully consider the fairness and need when reviewing such schedules.
@@ -270,11 +270,11 @@ The WCA Delegate must submit the following information when requesting approval 
 ### Amendments to WCA Competitions {.page-break-before}
 The following information can be changed by the competition WCA Delegate without approval, within the confines of the relevant WCA Regulations. Changes to any of the below points must be clearly communicated to all registered competitors:
 
-1. Number of rounds ([WCA Regulation 9m)](wca{regulations/#9m}))
-2. Round formats ([WCA Regulation 9b)](wca{regulations/#9b}))
-3. Time limits ([WCA Regulation 9s)](wca{regulations/#9s}))
-4. Cutoffs ([WCA Regulation 9g)](wca{regulations/#9g}))
-5. Advancement conditions ([WCA Regulation 9p)](wca{regulations/#9p}))
+1. Number of rounds ([WCA Regulation 9m](wca{regulations/#9m}))
+2. Round formats ([WCA Regulation 9b](wca{regulations/#9b}))
+3. Time limits ([WCA Regulation 9s](wca{regulations/#9s}))
+4. Cutoffs ([WCA Regulation 9g](wca{regulations/#9g}))
+5. Advancement conditions ([WCA Regulation 9p](wca{regulations/#9p}))
 6. Scheduled time of a round
 
 Tabs on the competition website may be modified without the approval of the WCAT. This can be done as long as there is no contradicting information added. These tab edits may be modified without informing all registered competitors at the discretion of the Delegate.
