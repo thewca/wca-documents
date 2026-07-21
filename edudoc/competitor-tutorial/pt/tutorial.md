@@ -138,7 +138,7 @@ Ao colocar as mãos no Cronómetro Stackmat, o competidor verá primeiro uma luz
 :::::
 
 ::::: {.box .attention}
-Lembre-se que para iniciar a resolução, as mãos do competidor devem estar espalmadas, palmas para baixo e devem tocar os sensores com os dedos, não com as palmas! (Penalidade: +2 segundos [A4b](http://wca.link/A4b))
+Lembre-se que para iniciar a resolução, as mãos do competidor devem estar espalmadas, palmas para baixo e devem tocar os sensores com os dedos, não com as palmas! (Penalidade: +2 segundos [A4b](https://wca.link/A4b))
 :::::
 
 ### Terminando a resolução:
@@ -146,7 +146,7 @@ Lembre-se que para iniciar a resolução, as mãos do competidor devem estar esp
 Quando o puzzle é resolvido, o competidor para o Cronómetro colocando as mãos nos sensores. Não devem tocar no puzzle e as suas mãos devem estar espalmadas com as palmas para baixo.
 
 ::::: {.box .attention}
-Lembre-se que para parar a resolução, as mãos do competidor devem estar espalmadas com as palmas para baixo! (Penalidade: +2 segundos [A6d](http://wca.link/A6d))
+Lembre-se que para parar a resolução, as mãos do competidor devem estar espalmadas com as palmas para baixo! (Penalidade: +2 segundos [A6d](https://wca.link/A6d))
 :::::
 
 O juiz verifica se o puzzle foi resolvido ou não e informa o resultado ao competidor: “OK”, “PENALIDADE” ou “DNF”. O competidor não tem permissão para tocar no puzzle até que o juiz tenha claramente tomado uma decisão.
@@ -177,7 +177,7 @@ Lembre-se que o competidor precisa de verificar se o tempo escrito está correto
 
 - **Iniciando a resolução**:
 
-[Regulamento A4)](wca{regulations/#A4}) é o regulamento que indica como iniciar o Cronómetro corretamente.
+[Regulamento A4](wca{regulations/#A4}) é o regulamento que indica como iniciar o Cronómetro corretamente.
 
 ![](images/RegA4.png){.centered width=90%}
 
@@ -187,12 +187,12 @@ Lembre-se de que iniciar a resolução incorretamente leva a penalidades!
 
 - **Durante a resolução**:
 
-[Regulamento A5)](wca{regulations/#A5}) explica as regras durante a resolução.
+[Regulamento A5](wca{regulations/#A5}) explica as regras durante a resolução.
 Durante toda a resolução, só pode falar com o seu juiz ou com o Delegado da WCA, não pode receber ajuda externa de nenhum objeto ou pessoa. A penalidade para qualquer destas infrações é um DNF.
 
 - **Parando o Cronómetro**:
 
-[Regulamento A6)](wca{regulations/#A6}) é o regulamento que explica como parar o Cronómetro Stackmat corretamente.
+[Regulamento A6](wca{regulations/#A6}) é o regulamento que explica como parar o Cronómetro Stackmat corretamente.
 
 ![](images/RegA6.png){.centered width=90%}
 

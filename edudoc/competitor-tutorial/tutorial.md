@@ -161,7 +161,7 @@ When a competitor places their hands on the timer, they will first see a red lig
 :::::
 
 ::::: {.box .attention}
-Remember that when the competitor starts the timer, their hands must be flat, their palms must be facing down, and they must touch the sensors with their fingers, not their palms. (Penalty: +2s [A4b](http://wca.link/A4b))
+Remember that when the competitor starts the timer, their hands must be flat, their palms must be facing down, and they must touch the sensors with their fingers, not their palms. (Penalty: +2s [A4b](https://wca.link/A4b))
 :::::
 
 ### Stopping the solve
@@ -169,7 +169,7 @@ Remember that when the competitor starts the timer, their hands must be flat, th
 When the puzzle is solved, the competitor stops the timer by putting their hands on the sensors. When the competitor stops the timer, they must not be touching the puzzle. Their hands must be flat, and their palms must be facing down.
 
 ::::: {.box .attention}
-Remember that when the competitor stops the timer, their hands must be flat, and their palms must be facing down. (Penalty: +2s [A6d](http://wca.link/A6d))
+Remember that when the competitor stops the timer, their hands must be flat, and their palms must be facing down. (Penalty: +2s [A6d](https://wca.link/A6d))
 :::::
 
 The judge checks whether the puzzle is solved and tells the competitor one of these decisions: “OKAY”, “PENALTY”, or “DNF”. The competitor is not allowed to touch the puzzle until the judge has clearly made a decision.

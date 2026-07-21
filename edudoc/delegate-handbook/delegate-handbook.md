@@ -232,7 +232,7 @@ The regions with Senior Delegates are:
 
 Most official WCA communication, both within the organization and to the general public, happens via email. When a WCA Volunteer sends you an email, you are expected to respond in a timely manner unless special circumstances arise. Most of the time, you are expected to have a response within 48 hours, but within a week at worst. Sometimes, it is unreasonable to write a meaningful response within the time frame, or you are waiting for other people to respond before you can write your response. If this happens, let the sender know that you have seen their message and that you intend to follow up by a specific deadline.
 
-**Do not use your WCA email for tasks that are explicitly organizer-related, such as contacting sponsors for a competition**, as this could give a false impression that the WCA is organizing the competition. If the competition is being organized by a Regional Organization you are part of, use an email address assigned by your Regional Organization to to perform organizer tasks. Otherwise, use your personal email. You are still expected to use your WCA email for internal communications and communication with competitors about delegating tasks, such as managing personal data.
+**Do not use your WCA email for tasks that are explicitly organizer-related, such as contacting sponsors for a competition**, as this could give a false impression that the WCA is organizing the competition. If the competition is being organized by a Regional Organization you are part of, use an email address assigned by your Regional Organization to perform organizer tasks. Otherwise, use your personal email. You are still expected to use your WCA email for internal communications and communication with competitors about delegating tasks, such as managing personal data.
 
 If you are reaching out to a WCA Volunteer, Team, or Committee, it is possible for them to mistakenly overlook your email. After 48 hours, you may follow up on your initial message with a response to get the attention of the recipient.
 
@@ -946,8 +946,8 @@ The following incidents occur frequently at competitions and have a standard way
   <tr>
     <td>The competitor reported a misscramble.</td>
     <td>
-    If the result in question is within the scope of [Regulation 11i1](https://worldcubeassociation.org/regulations/#11i1), the attempt must be replaced by an extra.</br><br>
-    Otherwise, you should only grant an extra if the misscramble resulted in a significantly less fair outcome, as per [Regulation 11i2](https://worldcubeassociation.org/regulations/#11i2). This should be an extremely infrequent occurrence, and it would be very clear in incidents where this is required. Some examples include a solved cross on Clock, or an extremely low move count compared to the normal scramble. 
+    If the result in question is within the scope of [Regulation 11i1](https://www.worldcubeassociation.org/regulations/#11i1), the attempt must be replaced by an extra.</br><br>
+    Otherwise, you should only grant an extra if the misscramble resulted in a significantly less fair outcome, as per [Regulation 11i2](https://www.worldcubeassociation.org/regulations/#11i2). This should be an extremely infrequent occurrence, and it would be very clear in incidents where this is required. Some examples include a solved cross on Clock, or an extremely low move count compared to the normal scramble. 
     </td>
   </tr>
 </table>

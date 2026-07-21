@@ -47,11 +47,11 @@ Lastly, for Committee/Team internal discussions, you can take a shortcut by remo
 
 ## Representation
 
-Every WCA Volunteer will also have received login credentials for their own personal *@worldcubeassociation.org* email account hosted by GSuite.
+Every WCA Volunteer will also have received login credentials for their own personal *@worldcubeassociation.org* email account hosted by Google Workspace.
 
-This account must always be used when sending WCA-related emails. The only times exceptions may be made are when the Volunteer has issues with the GSuite Software in the region where they live.
+This account must always be used when sending WCA-related emails. The only times exceptions may be made are when the Volunteer has issues with the Google in the region where they live.
 
-Configure your new GSuite account to include a signature that includes your name and your position. Do not include anything else, such as personal bests or YouTube channels! Be aware that this signature will be visible to **every recipient, along with a legal disclaimer for recipients outside of the** *@worldcubeassociation.org* domain.
+Configure your new Google Workspace account to include a signature that includes your name and your position. Do not include anything else, such as personal bests or YouTube channels! Be aware that this signature will be visible to **every recipient, along with a legal disclaimer for recipients outside of the** *@worldcubeassociation.org* domain.
 
 Think twice before sending a private message through this account. You should never use this email for any work that is unrelated to the WCA. Please refer to the [WCA Email Account Policy](wcadoc{documents/policies/internal/Email%20Account.pdf}) for details.
 
@@ -64,7 +64,7 @@ Other significant mailing lists include the following:
 - [reports@worldcubeassociation.org](mailto:reports@worldcubeassociation.org) - Recipient channel for all Delegate Reports worldwide. You can opt in on your WCA profile settings page.
 - [volunteers@worldcubeassociation.org](mailto:volunteers@worldcubeassociation.org) - This is the channel where communication relevant to the entire organization takes place. Only the really heavy topics and global discussions belong here.
 - [announcements@worldcubeassociation.org](mailto:announcements@worldcubeassociation.org) - This channel is only used for one-off important announcements and for changes approved by the Board. This channel will never be the main recipient. It is only ever a recipient in the Blind Carbon Copy (BCC) field. As previously mentioned, every discussion will be made on [volunteers@worldcubeassociation.org](mailto:volunteers@worldcubeassociation.org)
-- [Delegates@worldcubeassociation.org](mailto:Delegates@worldcubeassociation.org) -  Communication for all Delegates. This is used only if the expected target to reach is only Delegates. Every Delegate must read these discussions. However,[volunteers@worldcubeassociation.org](mailto:volunteers@worldcubeassociation.org) is more commonly used for discussions.
+- [Delegates@worldcubeassociation.org](mailto:Delegates@worldcubeassociation.org) -  Communication for all Delegates. This is used only if the expected target to reach is only Delegates. Every Delegate must read these discussions. However, [volunteers@worldcubeassociation.org](mailto:volunteers@worldcubeassociation.org) is more commonly used for discussions.
 
 **Treat any communication sent through these lists as confidential**! All contents are generally limited to the target audience defined by the recipient list, except for official announcements by Teams and Committees.
 
