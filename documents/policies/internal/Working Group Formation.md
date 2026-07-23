@@ -13,7 +13,7 @@ The purpose of this policy is to provide guidelines for the formation and operat
    2. The Working group must be sponsored by a Committee/Team Leader, a Senior Delegate, a Director, or an Officer.
    3. Proposals for working groups should be submitted in writing to the Board of Directors for review and approval.
 3. Approval Process
-   1. The Board of Directors will review working group proposals and assess their alignment with the organization's mission, goals, and available resources.
+   1. The Board of Directors will review working group proposals and assess their alignment with the organization's purpose, goals, and available resources.
    2. Approval will be granted based on the demonstrated need for the working group and its potential to positively impact the organization.
 4. Leadership
    1. Each working group shall have a designated leader responsible for coordinating meetings, setting agendas, and ensuring progress towards established goals.

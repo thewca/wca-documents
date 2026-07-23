@@ -3,7 +3,7 @@
 ### Version 2.2 {.version}
 
 ## Purpose
-The purpose of this policy is to offer a set of procedures by which the WCA can invest in the equipment necessary to run WCA Competitions in regions where their own ability to obtain equipment is hindered by financial obstacles, in order to further the Mission and the Spirit of the WCA.
+The purpose of this policy is to offer a set of procedures by which the WCA can invest in the equipment necessary to run WCA Competitions in regions where their own ability to obtain equipment is hindered by financial obstacles, in order to fulfill the Purpose and the Spirit of the WCA.
 
 ## Policy
 ### Qualifying Equipment
@@ -54,7 +54,7 @@ The WCA will remain the owner of the purchased equipment and reserves the right 
 
 Risk for any loss or damage to the equipment passes to the custodian upon delivery, and any loss or damage must be promptly reported to the WFC. Equipment custodians are expected to take proper care of equipment (though regular wear and tear is expected) and remain accountable for loss or damage even if it is temporarily loaned to another Delegate or organizer. The custodian will also be responsible for promptly responding to any inquiries from the WFC about the status, location, and use of the equipment. 
 
-All WCA-funded equipment must only be used for WCA Competitions or activities that promote speedcubing in the community and align with the WCA’s mission statement, spirit, and goals. Any other use of the equipment requires the express written permission of the WCA Financial Committee.
+All WCA-funded equipment must only be used for WCA Competitions or activities that promote speedcubing in the community and align with the WCA’s Spirit, Purpose and goals. Any other use of the equipment requires the express written permission of the WCA Financial Committee.
 
 Failure to return the equipment in a timely fashion upon request or returning the equipment in unsatisfactory condition may result in WCA disciplinary procedures and/or legal action.
 
