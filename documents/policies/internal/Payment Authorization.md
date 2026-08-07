@@ -48,16 +48,16 @@ All figures are in US Dollars. Transactions in foreign currencies should be conv
 
 ::: {.scaled-table}
 
-| WCA Volunteer Name   | Individual Role     | Gear Team Orders | Championship Support | Travel Funding | Equipment Funding | RO Support | Other Contracts | Other Budget Items             |
-| -------------------- | ------------------- | ---------------- | -------------------- | -------------- | ----------------- | ---------- | --------------- | ------------------------------ |
-| Rubén López de Juan  | WCA Board Member    | $10,000          | $50,000              | $5,000         | $10,000           | $5,000     | $10,000         | $5,000. $10,000 for legal fees |
-| Dan Smith            | Executive Director  | $10,000          | $50,000              | $5,000         | $10,000           | $5,000     | $10,000         | $5,000. $10,000 for legal fees | 
-| Sachin Arvind        | WFC Member          | $10,000          | $50,000              | $5,000         | $10,000           | $5,000     | $10,000         | $5,000. $10,000 for legal fees |   
-| Edward Hollingdale   | WFC Member          | $10,000          | $50,000              | $5,000         | $10,000           | $5,000     | $10,000         | $5,000. $10,000 for legal fees |   
-| Connor Lyons         | WFC Member          | $3,000           | $0                   | $0             | $3,000            | $0         | $0              | $0                             |  
-| Daniel M. James      | WFC Member          | $3,000           | $0                   | $0             | $3,000            | $0         | $0              | $0                             |  
-| Shain Papalotl Longbehn | WFC Member       | $3,000           | $0                   | $0             | $3,000            | $0         | $0              | $0                             |
-| Zak Kenny            | WFC Member          | $3,000           | $0                   | $0             | $3,000            | $0         | $0              | $0                             |
+| WCA Volunteer Name   | Individual Role     | Gear Team Orders | Championship Support | Travel Funding | Equipment Funding | RO Support | Other Contracts | Other Budget Items |
+| -------------------- | ------------------- | ---------------- | -------------------- | -------------- | ----------------- | ---------- | --------------- | ------------------ |
+| Rubén López de Juan  | WCA Board Member    | $10,000          | $50,000              | $5,000         | $10,000           | $5,000     | $10,000         | $10,000            |
+| Dan Smith            | Executive Director  | $10,000          | $50,000              | $5,000         | $10,000           | $5,000     | $10,000         | $10,000            | 
+| Sachin Arvind        | WFC Member          | $10,000          | $50,000              | $5,000         | $10,000           | $5,000     | $10,000         | $10,000            |   
+| Edward Hollingdale   | WFC Member          | $10,000          | $50,000              | $5,000         | $10,000           | $5,000     | $10,000         | $10,000            |   
+| Connor Lyons         | WFC Member          | $3,000           | $0                   | $0             | $3,000            | $0         | $0              | $0                 |  
+| Daniel M. James      | WFC Member          | $3,000           | $0                   | $0             | $3,000            | $0         | $0              | $0                 |  
+| Shain Papalotl Longbehn | WFC Member       | $3,000           | $0                   | $0             | $3,000            | $0         | $0              | $0                 |
+| Zak Kenny            | WFC Member          | $3,000           | $0                   | $0             | $3,000            | $0         | $0              | $0                 |
 
 :::
 
