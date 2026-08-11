@@ -190,7 +190,7 @@ Each quarter (three months), the WCA Executive Assistants Team (WEAT) checks whi
 - The WCA Quality Assurance Committee (WQAC) looks into the quality of the competitions the Delegate attended as a listed Delegate, the timeliness of the Delegate Reports submitted by the Delegate, and the quality of the Delegate Reports written and/or submitted by the Delegate. The Delegate must have been the primary author of at least three Delegate Reports. When no primary author is indicated, it will be assumed that the person who submitted the Delegate Report was the primary author, unless otherwise specified. The WQAC examines the Delegate Reports by checking that they contain sufficient detail, include setup photos that were taken during the competition and demonstrate scramble secrecy, and include the Delegate’s own remarks in the Remarks section. All of the Delegate’s competitions may be considered, with greater consideration paid to recent competitions. The WQAC also verifies that there are no active quality-related investigations into the Delegate.
 - The WCA Results Team (WRT) looks into the cleanliness of a Delegate’s result submissions, change requests, and responsiveness to WRT questions. The Delegate must have submitted results at least three times to be eligible for a positive review from the WRT.
 - The WCA Regulations Committee (WRC) uses the Incidents section of Delegate Reports to verify that incidents are being handled correctly and prompt change requests are made after feedback is provided.
-- The WCA Financial Committee (WFC) verifies that dues are paid within 30 days and that other invoices are paid in a timely manner. This is not applicable to Delegates who have their dues covered by a Regional Organization. See [Paying Competition Dues](#paying-competition-dues) for more information on how Dues are paid.
+- The WCA Financial Committee (WFC) verifies that Dues are paid within 30 days and that other invoices are paid in a timely manner. This is not applicable to Delegates who have their Dues covered by a Regional Organization. See [Paying Competition Dues](#paying-competition-dues) for more information on how Dues are paid.
 - The WCA Integrity Committee (WIC) verifies that there are no active integrity-related investigations into the Delegate.
 
 If the Senior Delegate, WCA Teams, Committees, and the Board all agree that a Junior Delegate is ready for promotion, the Senior Delegate will promote the Junior Delegate to Full Delegate. Promotion to Full Delegate recognizes that person’s hard work and contribution to the WCA over a period of time while maintaining high standards.
@@ -283,7 +283,7 @@ Lead Delegate is not a title but rather an indicator of which Junior or Full Del
 - Submitting result change requests to the Results Team
 - Ensuring the accuracy and completeness of the Delegate Report
 - Submitting the Delegate Report on time
-- Ensuring WCA Dues are paid on time (when an Regional Organization is not paying the dues)
+- Ensuring WCA Dues are paid on time (when an Regional Organization is not paying the Dues)
 
 The Lead Delegate is the one expected to manage the above tasks with the cooperation of all listed Delegates. All Delegates of a competition will remain accountable for all other aspects of overseeing competitions both before, during, and after the competition. 
 
