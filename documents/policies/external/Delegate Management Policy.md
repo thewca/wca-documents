@@ -61,7 +61,7 @@ All references to Regional Delegate and Senior Delegate shall refer to the Regio
     5. The mentor(s) should actively offer their assistance and guidance to the Trainee Delegate.
     6. When the mentor(s) deem the Trainee Delegate ready to be considered for promotion to Junior Delegate, they inform their Regional Delegate, who will proceed with the process.
        1. If the mentors are unable to agree on the Trainee Delegate’s promotion, the Senior and Regional Delegates make the final decision. In this case, the Senior and Regional Delegates must consider feedback from all the mentors involved.
-12. The Regional Delegate should check in with the mentor(s) if they do not see any progress in the Trainee Delegate’s training and implement a training plan, especially if the appointment period is due to end soon, per point 5.2 of the Trainee Delegates Motion.
+12. The Regional Delegate should check in with the mentor(s) if they do not see any progress in the Trainee Delegate’s training and implement a training plan, especially if the appointment period is due to end soon, per point 5.2 of the [Trainee Delegates Motion](https://worldcubeassociation.org/documents/motions/08.2).
 13. In order to be considered for promotion, the Trainee Delegate must:
     1. Complete the Trainee to Junior Delegate Training Course through the WCA’s LMS platform up to but excluding the Final Evaluation.
     2. Serve in the Delegate role for at least three WCA competitions.
