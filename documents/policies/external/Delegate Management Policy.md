@@ -31,7 +31,7 @@ All references to Regional Delegate and Senior Delegate shall refer to the Regio
 
 ### Interview
 
-5. If approved by the Regional  Delegate, the application form must be followed by an interview.
+5. If approved by the Regional Delegate, the application form must be followed by an interview.
    1. The Regional Delegate should conduct the interview. If the Regional Delegate is unable to conduct an interview (e.g. due to a conflict of interest or an extended unavailability), the Senior Delegate may assign a different interviewer or conduct the interview themselves.
       1. It is recommended that a Regional Organization representative for the target region participate in the interview, if possible.
 6. The interview should include general questions about the candidate’s abilities and about the structure, Purpose, Values, Policies, and Regulations of the WCA, including but not limited to:
