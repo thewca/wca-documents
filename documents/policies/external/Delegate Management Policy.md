@@ -22,7 +22,7 @@ All references to Regional Delegate and Senior Delegate shall refer to the Regio
       4. The name of at least one Junior or Full Delegate who can recommend them for the position.
       5. Their motivation to apply for the position.
    2. If the information is found to be insufficient, rather than rejecting the application, the Regional Delegate may request the applicant to resubmit the form with more detailed responses.
-2. An application may be rejected solely based on the application form or if the relevant region does not currently need additional delegates.
+2. An application may be rejected solely based on the application form or if the relevant region does not currently need additional Delegates.
    1. Applications must not be rejected for discriminatory reasons unrelated to the merits of the application.
 3. If the application is rejected at any point during the process, the applicant may reapply under the following conditions:
    1. The applicant must wait at least 30 days before submitting a new application.
