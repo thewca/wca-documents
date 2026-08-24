@@ -27,7 +27,7 @@ All references to Regional Delegate and Senior Delegate shall refer to the Regio
 3. If the application is rejected at any point during the process, the applicant may reapply under the following conditions:
    1. The applicant must wait at least 30 days before submitting a new application.
    2. The same person cannot apply more than twice within a 365-day period.
-4. If the Regional  Delegate determines that the applicant meets the requirements described in point 4.1 of the [Trainee Delegates Motion](https://worldcubeassociation.org/documents/motions/08.2) and has no additional concerns regarding the applicant, the process proceeds to the interview phase.
+4. If the Regional Delegate determines that the applicant meets the requirements described in point 4.1 of the [Trainee Delegates Motion](https://worldcubeassociation.org/documents/motions/08.2) and has no additional concerns regarding the applicant, the process proceeds to the interview phase.
 
 ### Interview
 
