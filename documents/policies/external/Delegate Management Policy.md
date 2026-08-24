@@ -50,7 +50,7 @@ All references to Regional Delegate and Senior Delegate shall refer to the Regio
 9. If the WCA Board approves the candidate for the Trainee Delegate role, the candidate proceeds to the training phase as a Trainee Delegate.
    1. References to “Trainee Delegate” in this section also apply to candidates who are appointed directly to Junior Delegate.
    2. A Delegate who was appointed directly to Junior Delegate must complete the entire Trainee to Junior Delegate Training Course within six months.
-      1. Junior Delegates who are appointed without going through a Trainee phase due to geographic need must fully complete the Trainee assessment and training phase.
+      1. Junior Delegates who are appointed without going through a Trainee phase due to geographic needs must fully complete the Trainee assessment and training phase.
       2. Junior Delegates who previously held the Delegate role, left the position, and were appointed to the role again after a period of less than 3 years need to complete the Trainee evaluation, but are not required to complete the training phase.
 10. The Regional Delegate must ensure that the Trainee Delegate is aware of and has access to all relevant training materials for their role, including the WCA Learning Management System (LMS).
 11. The Regional Delegate selects one or more mentors to mentor the Trainee Delegate during the training phase.
