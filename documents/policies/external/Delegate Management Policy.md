@@ -14,7 +14,7 @@ All references to Regional Delegate and Senior Delegate shall refer to the Regio
 
 ### Application
 
-1. Any member of the WCA Community willing to apply for the Trainee Delegate role must submit the Application Form.
+1. Any member of the WCA Community willing to apply for the Trainee Delegate role must submit [this Application Form](https://docs.google.com/forms/d/e/1FAIpQLSchegJAHVZkeyXSKBBsmux2-em4RZvlSHiQfJlECKvh1ZA-RQ/viewform).
    1. The Application Form contains the following information:
       1. Their target region.
       2. A brief personal introduction.
@@ -27,7 +27,7 @@ All references to Regional Delegate and Senior Delegate shall refer to the Regio
 3. If the application is rejected at any point during the process, the applicant may reapply under the following conditions:
    1. The applicant must wait at least 30 days before submitting a new application.
    2. The same person cannot apply more than twice within a 365-day period.
-4. If the Regional  Delegate determines that the applicant meets the requirements described in point 4.1 of the Trainee Delegates Motion and has no additional concerns regarding the applicant, the process proceeds to the interview phase.
+4. If the Regional  Delegate determines that the applicant meets the requirements described in point 4.1 of the [Trainee Delegates Motion](https://worldcubeassociation.org/documents/motions/08.2) and has no additional concerns regarding the applicant, the process proceeds to the interview phase.
 
 ### Interview
 
@@ -80,5 +80,4 @@ All references to Regional Delegate and Senior Delegate shall refer to the Regio
 17. The candidate passes the evaluation if they obtain a minimum score of 70%.
 18. If the candidate obtains a score strictly below 70%, they may request to retake the evaluation at least one week after their previous attempt.
 19. The candidate may take the evaluation up to 3 times within the 12-month period starting from their appointment as a Trainee Delegate.
-    1. The candidate gains three additional attempts every time their appointment is extended per point 5.2 of the Trainee Delegates Motion.
-    2. 
+    1. The candidate gains three additional attempts every time their appointment is extended per point 5.2 of the [Trainee Delegates Motion](https://worldcubeassociation.org/documents/motions/08.2).
