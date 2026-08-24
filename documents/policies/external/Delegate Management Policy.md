@@ -73,7 +73,6 @@ All references to Regional Delegate and Senior Delegate shall refer to the Regio
 15. The evaluation consists of multiple-choice questions to be completed via the WCA’s LMS platform.
     1. Questions are randomly selected from a set maintained by the WQAC, WIC, and WRC.
     2. Questions may encompass all topics from the lessons in the Trainee to Junior Delegate Training Course, but in greater depth; other topics may also be included.
-    3. All topics that could appear in the final evaluation must be covered in the Trainee to Junior Delegate Training Course.
 16. The candidate must not receive any assistance from other people during the evaluation.
     1. The candidate may use any WCA Documents during the evaluation.
     2. The candidate may request special accommodations from the WQAC, such as time extension. Candidates requesting such accommodations should contact the WQAC at least two weeks before the evaluation.
