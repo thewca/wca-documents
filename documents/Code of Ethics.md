@@ -1,6 +1,6 @@
 # Code of Ethics
 
-### Version 2.6 {.version}
+### Version 2.7 {.version}
 
 The Code of Ethics must be considered by all WCA Volunteers as a standard for actions and decisions they will be making when acting on behalf of the WCA within their role. “Listed Delegates” refers to WCA Delegates who are publicly displayed on the “General info” tab of an official WCA Competition.
 
@@ -49,6 +49,8 @@ The official communication channel for the WIC is via email. For any concerns ab
    2. WCA Delegates must communicate with other Delegates in their region and/or in any region they are planning to delegate a competition.
    3. All work done within the WCA is confidential and must not be disclosed to non-WCA Volunteers without explicit permission from relevant members.
       1. Delegates may provide relevant feedback to the Organizers but must not give visibility of sensitive information, or sections written by other Delegates.
+      2. The questions and answers in the LMS evaluations  are confidential and must not be shared with any other person, including other WCA Volunteers.
+      3. WCA Volunteers must complete LMS evaluations independently. Reference materials, assistive technologies (e.g. screen readers), and other technological tools (e.g. translation software, generative AI) are permitted, but assistance from another human is not unless a special accommodation has been approved by the Quality Assurance Committee.
    4. WCA Volunteers should be professional, respectful, and provide a positive reflection of the organization.
       1. WCA Volunteers should always be aware of their target audience (e.g. their age, experience, nationality, etc.) and their tone/language when they make statements while acting in their capacity as a WCA Volunteer.
 3. **Conduct of Official WCA Competitions**
