@@ -37,7 +37,7 @@ The official communication channel for the WIC is via email. For any concerns ab
          2. Groups must not be based on an immutable characteristic.
    4. Listed Delegates must request and review an outlined budget for all of their competitions before announcement. Any concerns in the competition budget should be discussed with an Organizer and/or the people in charge of the competition finances. Delegates and Organizers should work together to find a resolution to any concern.
       1. Competition budgets must be held by the Delegate for a period of 7 years and can be requested for review by the WCA Board, WIC, WFC or the Senior Delegate.
-      2. The budget of a competition should be in alignment with the Mission and Spirit of the WCA.
+      2. The budget of a competition should be in alignment with the Purpose and Values of the WCA.
       3. Listed Delegates must comply with Finance invoices and must advise Organizers to take into account WCA Dues when making the budget.
    5. Profit acquired from a competition must not be kept for personal gain by the Organizers nor the Delegates and should be put towards the benefit of the community. Where possible, this should be done via an organization and not an individual.
       1. If profits from a competition will be donated to a charity, this information must be made public on the competition page when it is announced. Any such charity must be registered as such in the country the competition is held.
