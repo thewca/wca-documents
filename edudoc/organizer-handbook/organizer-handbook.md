@@ -155,8 +155,8 @@ Delegates are highly experienced Community Members and often help out as organiz
 <table>
   <thead>
     <tr>
-      <th>**Delegate Duties**</th>
-      <th>**Organizer Duties**</th>
+      <th><strong>Delegate Duties</strong></th>
+      <th><strong>Organizer Duties</strong></th>
     </tr>
   </thead>
   <tbody>
@@ -195,7 +195,6 @@ Delegates are highly experienced Community Members and often help out as organiz
     </tr>
   </tbody>
 </table>
-
 
 ## Organizer-Delegate Relationship
 
@@ -298,7 +297,6 @@ All organizers and Delegates are expected to maintain a certain level of confide
 
 A general rule for maintaining confidentiality is not to tell anyone outside the organization team anything they would not normally learn from public announcements and the competition page.
 
-
 # **Before the Competition** {.page-break-before}
 
 ## How to Form a Team and Contact a Delegate
@@ -322,9 +320,10 @@ The best time to contact a Delegate is when you have a willing organization team
 Delegate emails can be found on the [WCA Delegates page](https://www.worldcubeassociation.org/delegates) at the mail icon to the left of each Delegate picture. Consider the following as a basic example of how to contact a Delegate:
 
 ::::: {.box .example .text-left} Subject: Interest in Holding a Competition in [Place] 
-
 Hi [Delegate name], 
+
 I am [name], and I am a speedcuber from [place]. I have volunteered at [number] competitions. I am interested in hosting a competition in [place name] around [date(s)/month(s)]. I have been to [potential venue] before, and I believe it could suit a WCA competition. Please let me know if you are interested and how I should proceed. Thanks for your help! 
+
 Thanks,
 [name] :::::
 
@@ -382,8 +381,7 @@ Once you identify a venue, you can contact it in several ways. Common ways to co
 
 To secure the venue, a legal adult must sign and return a formal contract. Some larger venues might also require proof of liability insurance and/or a security deposit. Sometimes the venue provides liability insurance. Other times you must purchase it separately. In general, liability insurance coverage will always do more good than harm, so you should determine whether you should pursue it. If the competition is organized under a Regional Organization (RO), the RO should secure the venue to ensure it aligns with its policies.
 
-::::: {.box .important} You must not sign a venue contract or permit without discussing it with your Delegate. | :::::
-| :---: |
+::::: {.box .important} You must not sign a venue contract or permit without discussing it with your Delegate. :::::
 
 ### Competition Dates
 
@@ -718,7 +716,6 @@ You can find all registrations on the Registration tab of the competition websit
 - **Canceled Registrations:** Registrations that were canceled by either the competitor or the organization team. These competitors will not compete, and their spot can be offered to someone on the waiting list. Competitors who wish to un-cancel should be moved to the bottom of the waiting list unless the waiting list has not started yet.
 - **Rejected Registrations:** Registrations that were rejected by the organization team. The difference between canceled and rejected registrations is that competitors with a canceled registration can register again, while those with a rejected registration cannot. The rejected status is used in rare cases, such as when a competitor becomes banned.
 
-
 ### Making Changes to the Registration Requirements
 
 Although you can change the registration requirements, do so only in **exceptional** circumstances. The Delegates must first approve every change to the registration requirements, and some also require further approval from the WCA Competition Announcement Team (WCAT). If you need to make changes, communicate with your Delegates early, since it can take a few days to change the requirements.
@@ -825,7 +822,6 @@ Here is some basic information to consider when assigning volunteer roles:
 3. **Runners** should be aware of their surroundings and be able to handle puzzles with care. They watch for competitors finishing their solves and puzzles being scrambled to efficiently transfer puzzles between solving stations and the scrambling table. If possible, runners should also take multiple puzzles at the same time for efficiency. When the round is non-stationary, runners should be people who are not too shy, as they should call competitors’ names loudly and clearly so that the competitors can hear them. Runners should be confident in enunciating names to the best of their ability. If a runner is not confident in a name’s pronunciation, they should learn it by asking the competitor directly. Familiarity with the community can help, but it is not mandatory.
 4. **Score takers** should have good typing skills, be detail-oriented, and be familiar with entering results into Integrated Live Results. They should be able to catch missing signatures and keep up with incoming score sheets to prevent delays in subsequent rounds.
 
-
 ### At the Competition
 
 Regardless of the approach you end up taking to assign volunteer roles, it is good to do a quick recap on the competition day covering the competition procedure, the most common mistakes (e.g. judges lifting the cover before the competitor is ready), and an overview of the most important Regulations, such as common penalties or what to be on the lookout for (e.g. competitors wearing headphones while solving). Always make it clear that when the volunteer is uncertain about any decision or action, they should call the Delegate to help resolve the problem.
@@ -889,7 +885,6 @@ Schedules and schedule trackers are also useful to print.
 This section outlines how organizers can ensure they have done everything necessary to organize their competition.
 
  ::::: {.box .attention}You can access a copy of the checklist [here](https://docs.google.com/spreadsheets/d/1i5QStai9sJSrST2EUPBNwfejI0QeW3ojDJ9Ok-GpFCY/copy). :::::
-| :---: |
 
 This checklist guides you through the organization process and helps you understand it better. You can edit a copy of the spreadsheet to suit your needs or the needs of organizers in your region, such as translating it into a local language.
 
@@ -938,7 +933,6 @@ One of the first impressions you will have with first-time competitors is during
 - **Be clear.** Avoid using unfamiliar jargon, acronyms, or abbreviations unless you explain them.
 - **Make it relevant to the competition.** Explain things that are specific to the competition, such as the judging and running system you will be using. When you are explaining judging, mention that people must check with a Delegate if they are uncertain about something.
 - **Alert competitors about Regulation A7g.** Regulation A7g states, “At the discretion of the WCA Delegate, an incident or penalty caused by a first-time competitor’s inexperience can be replaced with an extra attempt”. Let them know this. Introduce the Delegates at your competition and tell competitors that if confusion or controversy arises, they can call a Delegate over to resolve the problem (e.g. decide whether an extra attempt should be granted).
-
 
 ## Managing the Venue
 
