@@ -20,8 +20,8 @@ Other handbooks managed by the WCA Quality Assurance Committee (WQAC) include:
   - [Committee/Team Leaders](#committee-team-leaders)
   - [Subteams](#subteams)
 - [Email Communication Guidelines](#email-communication-guidelines)
-- [Mailing Lists](#mailing-lists)
-- [Responding to emails](#responding-to-emails)
+  - [Mailing Lists](#mailing-lists)
+  - [Responding to emails](#responding-to-emails)
   - [Making Changes to Recipients](#making-changes-to-recipients)
   - [Delegate Reports](#delegate-reports)
   - [Public Appearance](#public-appearance)
@@ -87,7 +87,7 @@ Email is the primary form of communication for the WCA. Every WCA Volunteer is p
 
 The [Email Account Policy](https://documents.worldcubeassociation.org/documents/policies/internal/Email%20Account.pdf) outlines the guidelines and requirements of individual user accounts. Here are some additional guidelines beyond what is included in the policy.
 
-## Mailing Lists
+### Mailing Lists
 
 There are many mailing lists, each with its own audience and purpose. You can find every Committee/Team’s email addresses on the [WCA contact page](wca{contact}), along with a brief description of their scope of work.
 
@@ -100,7 +100,7 @@ Other significant mailing lists include the following:
 
 **Treat any communication sent through these lists as confidential**! All contents are generally limited to the target audience defined by the recipient list, except for official announcements by Teams and Committees.
 
-## Responding to emails
+### Responding to emails
 
 Here are the guidelines for responding to emails. In general, the preferred approach in the WCA is “over-communication”, which keeps every relevant person in the loop at all times.
 
