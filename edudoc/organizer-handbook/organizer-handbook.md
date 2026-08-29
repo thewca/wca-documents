@@ -6,7 +6,7 @@ While this handbook aims to be as complete as possible, it cannot be fully compr
 
 Official competitions have been held in over 100 countries and regions. It is impossible to include specific organizational characteristics and behaviors for every region. This document attempts to include as wide a range of organizer duties as possible from throughout the WCA.
 
-Finally, the _Organizer Handbook_ aims to reflect official WCA Policy, not create it. When a disagreement or contradiction arises, always defer to the official Policies, Motions, and Regulations. See the Contributing to this Document section for information on how to update this handbook to accurately reflect reality.
+Finally, the _Organizer Handbook_ aims to reflect official WCA Policy, not create it. When a disagreement or contradiction arises, always defer to the official Policies, Motions, and Regulations.
 
 # Table of Contents {.page-break-before}
 
@@ -977,7 +977,6 @@ Competitors’ achievements and work can be recognized by giving awards, prizes,
 - Best sum of ranks or Kinch ranks at the competition
 - Fastest first-time competitor
 - Fastest female competitors
-- Valuable volunteer contributions
 - Participation
 
 Competitors should attend the awards ceremony to receive awards, prizes, or honors. Hold the awards ceremony at the competition within 30 minutes after the last round ends. If applicable, organizers should inform winners of awards, prizes, or honors so they can prepare to speak with journalists or media covering the competition.
