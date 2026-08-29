@@ -122,6 +122,8 @@ Hello **recipient name**,
 **Your email text would go here**
 :::::
 
+Before you send the email, ensure you check the recipients are correct. Depending on your email client, incorrect recipients could be added automatically without you noticing.
+
 When you remove a recipient and want to let them know the conversation will continue without them, move them to the BCC field so they can see the last email go through. After that, they will not receive further emails on the thread.
 
 Lastly, for Committee/Team internal discussions, you can take a shortcut by removing everyone except your Committee/Team’s email address and writing, “*[Committee/Team] Only*”.
