@@ -1,8 +1,19 @@
-# WCA Volunteer Handbook
+# Volunteer Handbook
 
-Hello and welcome to the wonderful community of volunteers who help run the World Cube Association! We are happy to have you among us!
+The _Volunteer Handbook_ is a reference for the WCA Volunteers and Trainee Delegates. This handbook outlines the basic responsibilities of WCA Volunteers. 
 
-Most of the important rules and common practices you need to know will be described in this document to help you get started. However, the single most important advice is to **ask your Leader and/or Committee/Team when you are uncertain.** They will be happy to help you out!
+WCA Volunteers include WCA Delegates, WCA Team and Committee Members, and WCA Board Members. Trainee Delegates will become Volunteers when they are promoted to Junior Delegate.
+
+This handbook aims to reflect official WCA Policy, not create it. When a disagreement or contradiction arises, always defer to the official Policies, Motions, and Regulations.
+
+Other handbooks managed by the WCA Quality Assurance Committee (WQAC) include:
+
+- [Delegate Handbook](https://documents.worldcubeassociation.org/edudoc/delegate-handbook/delegate-handbook.pdf)
+- [Organizer Handbook](https://documents.worldcubeassociation.org/edudoc/organizer-handbook/organizer-handbook.pdf)
+
+# Table of Contents {.page-break-before}
+
+Intentionslly left blank.
 
 ## Important Documents
 
