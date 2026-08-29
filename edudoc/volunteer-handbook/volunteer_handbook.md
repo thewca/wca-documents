@@ -42,7 +42,7 @@ Here are the most important external documents for Volunteers:
 - The [Code of Conduct](wcadoc{documents/Code%20of%20Conduct.pdf}) describes how every WCA Community Member should behave. It applies to everyone who attends WCA competitions or uses online WCA platforms, but it is especially important for WCA Volunteers.
 - The [Code of Ethics](wcadoc{documents/Code%20of%20Ethics.pdf}) describes how every WCA Volunteer must act and what they must abide by.
 - If you are a Delegate, the [Delegates Motion](https://worldcubeassociation.org/documents/motions/08.1) explains how your work as a Delegate will be conducted.
-- If you are a member of a Committee/Team, the [Committees and Teams Motion](https://worldcubeassociation.org/documents/motions/10.0) explains how Committees/Teams operate. Additionally, you will find the relevant motion for your specific Committee/Team in the Motions section of the [Documents page](wca{documents}).
+- If you are a member of a Committee/Team, the [Committees and Teams Motion](https://worldcubeassociation.org/documents/motions/10.0) explains how Committees/Teams operate. Additionally, you will find the relevant Motion for your specific Committee/Team in the Motions section of the [Documents page](wca{documents}).
 
 ## Volunteer Position Board
 
@@ -50,11 +50,27 @@ The [Volunteer Position Board](https://docs.google.com/spreadsheets/d/13JhGJWDfJ
 
 Some Volunteer positions are recruited internally, such as Senior Delegates and Committee/Leaders. These positions will be communicated via email and are not found in the Volunteer Position Board.
 
+## Committees/Teams
+
+All Committees/Teams are listed on the [WCA Teams and Committees page](https://www.worldcubeassociation.org/teams-committees). This page provides a brief description of what each Committee/Team does, and lists their current and past members.
+
+### Committee/Team Senior Members
+
+Senior Members of Committees/Teams are members who have made significant contributions. They are WCA Voting members.
+
+### Committee/Team Leaders
+
+Every Committees/Teams has a Leader. The Leader supports the members by assigning responsibilities, having check-ins, and mentoring them.
+
+### Subteams
+
+Some Committees/Teams have subteams to organize the responsibilities of members. Subteams have subteam leaders who act as an unofficial leader for the members of the subteam.
+
 ## Email Communication Guidelines
 
 Email is the primary form of communication for the WCA. Every WCA Volunteer is provided an email account on the worldcubeassociation.org domain, managed by Google Groups. You will also be added to mailing lists related to your Volunteer role. The members of the mailing lists refresh every day.
 
-The [Email Account Policy](https://documents.worldcubeassociation.org/documents/policies/internal/Email%20Account.pdf) outline the guidelines and requirements of individual user accounts. Here are some additional guidelines beyond what is included in the policy:
+The [Email Account Policy](https://documents.worldcubeassociation.org/documents/policies/internal/Email%20Account.pdf) outlines the guidelines and requirements of individual user accounts. Here are some additional guidelines beyond what is included in the policy:
 
 ## Mailing Lists
 
@@ -74,9 +90,9 @@ Other significant mailing lists include the following:
 Here are the guidelines for responding to emails. In general, the preferred approach in the WCA is “over-communication”, which keeps every relevant person in the loop at all times.
 
 -  **When you respond to an email, use the “Reply All” option.** 
-  - This is to ensure that all relevant people on the thread are still getting the reply.Whichever email interface you are using, find the “Reply All” button. It also helps to keep the Google Group for the Committee/Team in a Carbon Copy (CC). Some interfaces (e.g. Gmail) also allow setting “Reply All” as the default reply option, which can be useful.
+  - This is to ensure that all relevant people on the thread are still getting the reply. Whichever email interface you are using, find the “Reply All” button. It also helps to keep the Google Group for the Committee/Team in a Carbon Copy (CC). Some interfaces (e.g. Gmail) also allow setting “Reply All” as the default reply option, which can be useful.
 - When there are important matters within a region or regarding a specific Delegate, you add the Senior Delegate to the CC field.
-- Respond to emails in a timely manner. If you are unable to respond to an email in a few days due to the time it would take to write a thorough response, you can write a quick response letting the recipient know you have received their email and will get back to them later.
+- Respond to emails in a timely manner. If you are unable to respond to an email within a few days due to the time it would take to write a thorough response, you can write a quick response letting the recipient know you have received their email and will get back to them later.
 - If you have written an email and have not received a reply in a timely manner, you should follow up with them. Although it is the corresponding party’s responsibility to take the appropriate action, sometimes you will need to gently remind them to do so.
 
 ### Making Changes to Recipients
@@ -97,7 +113,7 @@ Lastly, for Committee/Team internal discussions, you can take a shortcut by remo
 
 ### Delegate Reports
 
-Every Volunteer may opt in to receive Delegate Reports. To do this, go to the [Edit Profile](wca{profile/edit})” page and check the box next to “I would like to receive Delegate Reports of WCA Competitions by email” Reports. Every Volunteer with valuable input is welcome to join in on discussions for Delegate Reports, even if they are not a Delegate.
+Every Volunteer may opt in to receive Delegate Reports. To do this, go to the [Edit Profile](wca{profile/edit})” page and check the box next to “I would like to receive Delegate Reports of WCA Competitions by email”. Every Volunteer with valuable input is welcome to join in on discussions for Delegate Reports, even if they are not a Delegate.
 
 ### Public Appearance
 
@@ -107,7 +123,7 @@ Volunteers should also consider how they appear on online cubing forums (e.g. WC
 
 ### Filters and Spam Folders
 
-Every Volunteer should create a filter to permit all mail sent from an *@worldcubeassociation.org* mailing address so they do not miss any important information. This can be done by navigating to [https://mail.google.com/mail/u/0/#settings/filters](https://mail.google.com/mail/u/0/#settings/filters) and scrolling to the bottom where it says “Create a new filter”. There you set the “from” to “worldcubeassociation.org” and click “create filter”. Finally, set it to “Never mark as spam”.
+Every Volunteer should create a filter to permit all mail sent from an *@worldcubeassociation.org* mailing address so they do not miss any important information. This can be done by navigating to [https://mail.google.com/mail/u/0/#settings/filters](https://mail.google.com/mail/u/0/#settings/filters) and scrolling to the bottom where it says “Create a new filter”. There you set the “from” to “worldcubeassociation.org” and click “Create filter”. Finally, set it to “Never mark as spam”.
 
 It is possible for someone to forge an email as if it were sent from a WCA email account despite not having access to that account. These kinds of emails are usually detected by Gmail spam filters thanks to the SPF/DKIM signatures on the email. The filter suggested above bypasses this check, so you should always check the signature when receiving a suspicious email. If you are unsure, you can contact the WCA Software Team (WST).
 
@@ -123,5 +139,5 @@ To set up your Chrome Profiles, view the steps [here](https://support.google.com
 
 ### Committee/Team-Specific Communication
 
-There might be additional resources and/or rules for your specific Committee/Team. Just as mentioned in the beginning, do reach out to your leader. They will tell you the appropriate procedures for your Committee/Team.
+There might be additional resources and/or rules for your specific Committee/Team. Just as mentioned in the beginning, do reach out to your Leader. They will tell you the appropriate procedures for your Committee/Team.
 
