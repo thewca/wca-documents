@@ -44,7 +44,13 @@ Here are the most important external documents for Volunteers:
 - If you are a Delegate, the [Delegates Motion](https://worldcubeassociation.org/documents/motions/08.1) explains how your work as a Delegate will be conducted.
 - If you are a member of a Committee/Team, the [Committees and Teams Motion](https://worldcubeassociation.org/documents/motions/10.0) explains how Committees/Teams operate. Additionally, you will find the relevant motion for your specific Committee/Team in the Motions section of the [Documents page](wca{documents}).
 
-### Email Communication Guidelines
+## Volunteer Position Board
+
+The [Volunteer Position Board](https://docs.google.com/spreadsheets/d/13JhGJWDfJR96MYgPpxkSaV2E3bMIdIWjWLuYO83vOls) is a public document that shows all Volunteer Positions that are open to the WCA Community. These postings are also promoted through the WCA’s social media channels.
+
+Some Volunteer positions are recruited internally, such as Senior Delegates and Committee/Leaders. These positions will be communicated via email and are not found in the Volunteer Position Board.
+
+## Email Communication Guidelines
 
 Email is the primary form of communication for the WCA. Every WCA Volunteer is provided an email account on the worldcubeassociation.org domain, managed by Google Groups. You will also be added to mailing lists related to your Volunteer role. The members of the mailing lists refresh every day.
 
