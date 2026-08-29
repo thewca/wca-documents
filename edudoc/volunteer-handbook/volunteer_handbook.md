@@ -13,7 +13,22 @@ Other handbooks managed by the WCA Quality Assurance Committee (WQAC) include:
 
 # Table of Contents {.page-break-before}
 
-Intentionally left blank.
+- [Important Documents](#important-documents)
+- [Volunteer Position Board](#volunteer-position-board)
+- [Committees/Teams](#committees-teams)
+  - [Committee/Team Senior Members](#committee-team-senior-members)
+  - [Committee/Team Leaders](#committee-team-leaders)
+  - [Subteams](#subteams)
+- [Email Communication Guidelines](#email-communication-guidelines)
+- [Mailing Lists](#mailing-lists)
+- [Responding to emails](#responding-to-emails)
+  - [Making Changes to Recipients](#making-changes-to-recipients)
+  - [Delegate Reports](#delegate-reports)
+  - [Public Appearance](#public-appearance)
+  - [Filters and Spam Folders](#filters-and-spam-folders)
+  - [Communicating Dates and Times](#communicating-dates-and-times)
+  - [Chrome Profiles](#chrome-profiles)
+  - [Committee/Team-Specific Communication](#committee-team-specific-communication)
 
 ## Important Documents
 
@@ -123,7 +138,7 @@ Volunteers should also consider how they appear on online cubing forums (e.g. WC
 
 ### Filters and Spam Folders
 
-Every Volunteer should create a filter to permit all mail sent from an *@worldcubeassociation.org* mailing address so they do not miss any important information. This can be done by navigating to [https://mail.google.com/mail/u/0/#settings/filters](https://mail.google.com/mail/u/0/#settings/filters) and scrolling to the bottom where it says “Create a new filter”. There you set the “from” to “worldcubeassociation.org” and click “Create filter”. Finally, set it to “Never mark as spam”.
+Every Volunteer should create a filter to permit all mail sent from an *@worldcubeassociation.org* mailing address so they do not miss any important information. This can be done by navigating to [https://mail.google.com/mail/u/0/#settings/filters](https://mail.google.com/mail/u/0/#settings/filters) and scrolling to the bottom where it says “Create a new filter”. Set the “from” to “worldcubeassociation.org” and click “Create filter”. Finally, set it to “Never mark as spam”.
 
 It is possible for someone to forge an email as if it were sent from a WCA email account despite not having access to that account. These kinds of emails are usually detected by Gmail spam filters thanks to the SPF/DKIM signatures on the email. The filter suggested above bypasses this check, so you should always check the signature when receiving a suspicious email. If you are unsure, you can contact the WCA Software Team (WST).
 
