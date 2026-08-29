@@ -8,6 +8,11 @@ Official competitions have been held in over 100 countries and regions. It is im
 
 Finally, the _Organizer Handbook_ aims to reflect official WCA Policy, not create it. When a disagreement or contradiction arises, always defer to the official Policies, Motions, and Regulations.
 
+Other handbooks managed by the WCA Quality Assurance Committee (WQAC) include:
+
+- [Delegate Handbook](wcadoc{edudoc/delegate-handbook/delegate-handbook.pdf})
+- [Volunteer Handbook](wcadoc{edudoc/volunteer-handbook/volunteer-handbook.pdf})
+
 # Table of Contents {.page-break-before}
 
 - [Introduction to Organizing](#introduction-to-organizing)
