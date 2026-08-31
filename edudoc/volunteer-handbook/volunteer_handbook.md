@@ -140,7 +140,7 @@ Every Volunteer can opt in to receive Delegate Reports. To do this, go to the [E
 
 ### Filters and Spam Folders
 
-Every Volunteer should create a filter to permit all mail sent from an *@worldcubeassociation.org* mailing address so they do not miss any important information. You can do this by going to [https://mail.google.com/mail/u/0/#settings/filters](https://mail.google.com/mail/u/0/#settings/filters) and scrolling to the bottom where it says “Create a new filter”. Set the “from” to “worldcubeassociation.org” and click “Create filter”. Finally, set it to “Never mark as spam”.
+Every Volunteer should create a filter to permit all mail sent from an *@worldcubeassociation.org* mailing address so they do not miss any important information. In Gmail, you can do this by going to [Filters and Blocked Addresses](https://mail.google.com/mail/u/0/#settings/filters) and scrolling to the bottom where it says “Create a new filter”. Set the “from” to “worldcubeassociation.org” and click “Create filter”. Finally, set it to “Never mark as spam”.
 
 Someone can forge an email to look like it came from a WCA email account even without access to that account. Gmail spam filters usually detect these emails thanks to the SPF/DKIM signatures. The filter suggested above bypasses this check, so always check the signature when you receive a suspicious email. If you are unsure, you can contact the WCA Software Team (WST).
 
