@@ -10,6 +10,11 @@ Finally, the _Delegate Handbook_ aims to reflect official WCA policy, not create
 
 There is a lot of information that is relevant to all WCA Volunteers, not just Delegates. If you have not already, read the [WCA Volunteer Crash Course](https://documents.worldcubeassociation.org/edudoc/volunteer-crash-course/volunteer_crash_course.pdf) to get a high-level overview of the responsibilities expected of every WCA Volunteer.
 
+Other handbooks managed by the WCA Quality Assurance Committee (WQAC) include:
+
+- [Organizer Handbook](wcadoc{edudoc/organizer-handbook/organizer-handbook.pdf})
+- [Volunteer Handbook](wcadoc{edudoc/volunteer-handbook/volunteer-handbook.pdf})
+
 # Table of Contents {.page-break-before}
 
 - [Introduction to Delegating](#introduction-to-delegating)
