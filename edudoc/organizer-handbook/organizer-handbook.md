@@ -434,7 +434,7 @@ You must follow the requirements set out in the [WCA Competition Requirement Pol
 :::::
 
 ::::: {.box .important}
-Always double-check with the local community and Delegates to avoid breaking the proximity policy stated in the [WCA Competition Requirement Policy.](https://documents.worldcubeassociation.org/documents/policies/external/Competition%20Requirements.pdf)
+Always double-check with the local community and Delegates to avoid breaking the proximity policy stated in the [WCA Competition Requirement Policy](https://documents.worldcubeassociation.org/documents/policies/external/Competition%20Requirements.pdf) (WCRP).
 :::::
 
 ### Other Factors to Consider
@@ -859,7 +859,7 @@ Reliable, competent, and hard-working volunteers are essential to keep your comp
 
 Pre-assigning volunteer roles to competitors means distributing all duties among competitors. Although this might result in slightly less qualified volunteers, no selection process or training is needed before the competition. A judge tutorial should still take place at the competition.
 
-One of the many ways you can assign volunteer roles is to assign competitors to volunteer in the group right after they compete. For the last group, you can assign them to volunteer in the first group of the round. The advantage of this method is that it saves time by avoiding the need to find volunteers. Since competitors volunteer right after they finish their solves, you avoid calling people who didn’t show up for the competition. It also makes it easier for competitors to keep track of when they are supposed to be judging, scrambling, or running. To pre-assign volunteer roles, you can use tools such as [Groupifier](https://groupifier.jonatanklosko.com/), [Delegate Dashboard](https://delegate-dashboard.netlify.app/), or [AGE](https://goosly.github.io/AGE/).
+One of the many ways you can assign volunteer roles is to assign competitors to volunteer in the group right after they compete. For the last group, you can assign them to volunteer in the first group of the round. The advantage of this method is that it saves time by avoiding the need to find volunteers. Since competitors volunteer right after they finish their solves, you avoid calling people who didn’t show up for the competition. It also makes it easier for competitors to keep track of when they are supposed to be judging, scrambling, or running. To pre-assign volunteer roles, you can use tools such as [Groupifier](https://groupifier.jonatanklosko.com/), [Delegate Dashboard](https://delegate-dashboard.netlify.app/), or [Advanced Group Editor (AGE)](https://goosly.github.io/AGE/).
 
 The pre-assigned system is a good fit when the local community is relatively new, and volunteers have little experience or are unfamiliar with the Regulations. It also saves money since you do not need to pay for a dedicated volunteer team.
 
@@ -912,7 +912,7 @@ Prizes are a common way to recognize competitors’ achievements. If possible, s
 
 ## Making Groups
 
-The preferred system for creating groups varies by region. Some regions prefer balanced groups and others prefer speed-based groups. Talk to your Delegates to confirm which system your region uses and which tool they prefer. The most common tools are the same ones used for pre-assigning volunteer roles, namely [Groupifier](https://groupifier.jonatanklosko.com/), [Delegate Dashboard](https://delegate-dashboard.netlify.app/), and [AGE](https://goosly.github.io/AGE/).
+The preferred system for creating groups varies by region. Some regions prefer balanced groups and others prefer speed-based groups. Talk to your Delegates to confirm which system your region uses and which tool they prefer. The most common tools are the same ones used for pre-assigning volunteer roles, namely [Groupifier](https://groupifier.jonatanklosko.com/), [Delegate Dashboard](https://delegate-dashboard.netlify.app/), and [Advanced Group Editor (AGE)](https://goosly.github.io/AGE/).
 
 #### Balanced Groups
 
