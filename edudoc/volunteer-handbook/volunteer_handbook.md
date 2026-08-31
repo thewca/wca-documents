@@ -9,7 +9,7 @@ This handbook aims to reflect official WCA Policy, not create it. When a disagre
 Other handbooks managed by the WCA Quality Assurance Committee (WQAC) include:
 
 - [Delegate Handbook](wcadoc{edudoc/delegate-handbook/delegate-handbook.pdf})
-- [Organizer Handbook](wcadoc{edudoc/organizer-handbook/organizer-handbook.pdf})
+- [Organizer Handbook](https://documents.worldcubeassociation.org/edudoc/organizer-handbook/organizer-handbook.pdf)
 
 # Table of Contents {.page-break-before}
 
