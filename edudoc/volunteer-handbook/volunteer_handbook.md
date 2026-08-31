@@ -136,7 +136,7 @@ Lastly, for Committee/Team internal discussions, you can take a shortcut by remo
 
 ### Delegate Reports
 
-Every Volunteer can opt in to receive Delegate Reports. To do this, go to the [Edit Profile](wca{profile/edit})” page and check the box next to “I would like to receive Delegate Reports of WCA Competitions by email”. Every Volunteer with valuable input is welcome to join in on discussions for Delegate Reports, even if they are not a Delegate.
+Every Volunteer can opt in to receive Delegate Reports. To do this, go to the [Edit Profile](wca{profile/edit}) page and check the box next to “I would like to receive Delegate Reports of WCA Competitions by email”. Every Volunteer with valuable input is welcome to join in on discussions for Delegate Reports, even if they are not a Delegate.
 
 ### Filters and Spam Folders
 
