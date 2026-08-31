@@ -992,7 +992,15 @@ Parents/guardians will often have questions about the competition, whether it’
 
 ### Checking In First-Time Competitors
 
-Most competitions have first-time competitors. All first-timers are expected to have their personal information verified. According to [Regulation 2e](https://www.worldcubeassociation.org/regulations/#2e) and [Regulation 2e++](https://www.worldcubeassociation.org/regulations/#2e++), a Delegate should do this task. The Delegate may assign this task to another member of the organization team, or a trusted competitor if no one on the organization team is available to run the check-in area. Since Delegates primarily handle this task, this information is in the Verifying First-Time Competitors section of the [Delegate Handbook](https://documents.worldcubeassociation.org/edudoc/delegate-handbook/delegate-handbook.pdf).
+Most competitions have first-time competitors. All first-timers are expected to have their personal information verified. According to [Regulation 2e](https://www.worldcubeassociation.org/regulations/#2e) and [Regulation 2e++](https://www.worldcubeassociation.org/regulations/#2e++), a Delegate should do this task. The Delegate may assign this task to another member of the organization team, or a trusted competitor if no one on the organization team is available to run the check-in area.
+
+Here are some of the common ways to verify first-time competitors' birthdates and regions of representation:
+
+- Ask to see documentation such as a passport to confirm the birthdate and citizenship for the region of representation. Compare this information against the registration data on a device or a pre-printed sheet.
+- Ask them to state their birthdate and the country of citizenship. Compare this information against the registration data on a device or a pre-printed sheet.
+- Pre-print a sheet for each first-time competitor with their personal information from their registration, ask them to read it, and have them attest that the information is correct. Ensure it states that you must hold citizenship for your region of representation.
+
+Since Delegates primarily handle this task, more information is in the Verifying First-Time Competitors section of the [Delegate Handbook](https://documents.worldcubeassociation.org/edudoc/delegate-handbook/delegate-handbook.pdf).
 
 ### Managing On-the-Spot Registrations
 
