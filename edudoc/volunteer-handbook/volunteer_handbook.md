@@ -19,12 +19,12 @@ Other handbooks managed by the WCA Quality Assurance Committee (WQAC) include:
   - [Committee/Team Senior Members](#committee-team-senior-members)
   - [Committee/Team Leaders](#committee-team-leaders)
   - [Subteams](#subteams)
+- [Public Appearance](#public-appearance)
 - [Email Communication Guidelines](#email-communication-guidelines)
   - [Mailing Lists](#mailing-lists)
   - [Responding to emails](#responding-to-emails)
   - [Making Changes to Recipients](#making-changes-to-recipients)
   - [Delegate Reports](#delegate-reports)
-  - [Public Appearance](#public-appearance)
   - [Filters and Spam Folders](#filters-and-spam-folders)
   - [Communicating Dates and Times](#communicating-dates-and-times)
   - [Chrome Profiles](#chrome-profiles)
@@ -81,6 +81,12 @@ Every Committees/Teams has a Leader. The Leader supports the members by assignin
 
 Some Committees/Teams have subteams to organize members’ responsibilities. Subteams have subteam leaders who act as unofficial leaders for subteam members.
 
+## Public Appearance
+
+Every WCA Volunteer is expected to demonstrate professionalism. Upload a suitable picture of yourself as your avatar. You can upload an avatar and see all the guidelines that apply to WCA Volunteers [here](wca{profile/edit?section=avatar}).
+
+Volunteers should also consider how they appear on online cubing forums (e.g. WCA Forum and Speedsolving Forum). Volunteers should be careful when speaking about internal matters to ensure no confidential information is leaked.
+
 ## Email Communication Guidelines
 
 Email is the primary form of communication for the WCA. Every WCA Volunteer is provided an email account on the worldcubeassociation.org domain, managed by Google Groups. You will also be added to mailing lists related to your Volunteer role. Mailing list membership refreshes daily.
@@ -131,12 +137,6 @@ Lastly, for Committee/Team internal discussions, you can take a shortcut by remo
 ### Delegate Reports
 
 Every Volunteer can opt in to receive Delegate Reports. To do this, go to the [Edit Profile](wca{profile/edit})” page and check the box next to “I would like to receive Delegate Reports of WCA Competitions by email”. Every Volunteer with valuable input is welcome to join in on discussions for Delegate Reports, even if they are not a Delegate.
-
-### Public Appearance
-
-Every WCA Volunteer is expected to demonstrate professionalism. Upload a suitable picture of yourself as your avatar. You can upload an avatar and see all the guidelines that apply to WCA Volunteers [here](wca{profile/edit?section=avatar}).
-
-Volunteers should also consider how they appear on online cubing forums (e.g. WCA Forum and Speedsolving Forum). Volunteers should be careful when speaking about internal matters to ensure no confidential information is leaked.
 
 ### Filters and Spam Folders
 
