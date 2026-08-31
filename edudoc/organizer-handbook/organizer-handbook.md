@@ -169,49 +169,61 @@ Delegates are highly experienced Community Members and often help out as organiz
   </thead>
   <tbody>
     <tr>
-      <td><strong>Before the competition:</strong></br>
+      <td>
+        <strong>Before the competition:</strong><br>
         <ul>
           <li>Submitting the competition page</li>
           <li>Assisting Organizers</li>
           <li>Ensuring WCA Policies are followed</li>
           <li>Generating scrambles</li>
-      <td><strong>Before the competition:</strong></li>
+        </ul>
+      </td>
+      <td>
+        <strong>Before the competition:</strong><br>
         <ul>
           <li>Making the competition page</li>
           <li>Securing a venue</li>
           <li>Arranging equipment (e.g. timers, mats, scoresheets, puzzle covers, etc.)</li>
-          <li>Generating groups and assigning volunteer duties</br></li>
+          <li>Generating groups and assigning volunteer duties</li>
         </ul>
+      </td>
     </tr>
     <tr>
-      <td><strong>During the competition:</strong></br>
+      <td>
+        <strong>During the competition:</strong><br>
         <ul>
           <li>Ensuring that the competition follows WCA Regulations and WCA Policies</li>
           <li>Double-checking entered results</li>
         </ul>
       </td>
-      <td><strong>During the competition:</strong></br>
+      <td>
+        <strong>During the competition:</strong><br>
         <ul>
           <li>Giving the first-time competitor tutorial</li>
           <li>Making announcements</li>
           <li>Finding volunteers as needed</li>
           <li>Collecting and putting out score sheets</li>
           <li>Keeping the competition running smoothly</li>
-        </td>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td><strong>After the competition:</strong></br>
+      <td>
+        <strong>After the competition:</strong><br>
         <ul>
           <li>Providing feedback to Community organizers</li>
           <li>Ensuring WCA Policies are followed</li>
           <li>Submitting the competition results</li>
           <li>Writing and submitting the Delegate Report</li>
         </ul>
-      <td><strong>After the competition:</strong></br>
+      </td>
+      <td>
+        <strong>After the competition:</strong><br>
         <ul>
           <li>Submitting any expenses</li>
           <li>Self-reflecting on feedback provided by Delegates</li>
         </ul>
+      </td>
     </tr>
   </tbody>
 </table>
