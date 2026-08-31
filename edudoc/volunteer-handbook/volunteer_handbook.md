@@ -30,7 +30,7 @@ Other handbooks managed by the WCA Quality Assurance Committee (WQAC) include:
   - [Chrome Profiles](#chrome-profiles)
   - [Committee/Team-Specific Communication](#committee-team-specific-communication)
 
-## Important Documents
+## Important Documents {.page-break-before}
 
 WCA Volunteers should be familiar with every document related to their work as WCA Volunteers. All relevant documents are on the [Volunteer panel](wca{panel}) and the [Documents page](wca{documents}).
 
