@@ -1,4 +1,4 @@
-## Organizer Handbook
+# Organizer Handbook
 
 The _Organizer Handbook_ is an educational reference for the WCA Community at all levels of experience, whether you are a new competitor interested in organizing your first competition or an experienced organizer who has organized dozens of competitions. This handbook outlines the basic tasks and responsibilities for organizers so that every WCA competition can run with consistent levels of quality and fairness. This handbook is organized chronologically, from the earliest stages of planning a competition to post-competition duties.
 
