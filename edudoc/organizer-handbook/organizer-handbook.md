@@ -169,61 +169,49 @@ Delegates are highly experienced Community Members and often help out as organiz
   </thead>
   <tbody>
     <tr>
-      <td>
-        <strong>Before the competition:</strong><br>
+      <td><strong>Before the competition:</strong></br>
         <ul>
           <li>Submitting the competition page</li>
           <li>Assisting Organizers</li>
           <li>Ensuring WCA Policies are followed</li>
           <li>Generating scrambles</li>
-        </ul>
-      </td>
-      <td>
-        <strong>Before the competition:</strong><br>
+      <td><strong>Before the competition:</strong></li>
         <ul>
           <li>Making the competition page</li>
           <li>Securing a venue</li>
           <li>Arranging equipment (e.g. timers, mats, scoresheets, puzzle covers, etc.)</li>
-          <li>Generating groups and assigning volunteer duties</li>
+          <li>Generating groups and assigning volunteer duties</br></li>
         </ul>
-      </td>
     </tr>
     <tr>
-      <td>
-        <strong>During the competition:</strong><br>
+      <td><strong>During the competition:</strong></br>
         <ul>
           <li>Ensuring that the competition follows WCA Regulations and WCA Policies</li>
           <li>Double-checking entered results</li>
         </ul>
       </td>
-      <td>
-        <strong>During the competition:</strong><br>
+      <td><strong>During the competition:</strong></br>
         <ul>
           <li>Giving the first-time competitor tutorial</li>
           <li>Making announcements</li>
           <li>Finding volunteers as needed</li>
           <li>Collecting and putting out score sheets</li>
           <li>Keeping the competition running smoothly</li>
-        </ul>
-      </td>
+        </td>
     </tr>
     <tr>
-      <td>
-        <strong>After the competition:</strong><br>
+      <td><strong>After the competition:</strong></br>
         <ul>
           <li>Providing feedback to Community organizers</li>
           <li>Ensuring WCA Policies are followed</li>
           <li>Submitting the competition results</li>
           <li>Writing and submitting the Delegate Report</li>
         </ul>
-      </td>
-      <td>
-        <strong>After the competition:</strong><br>
+      <td><strong>After the competition:</strong></br>
         <ul>
           <li>Submitting any expenses</li>
           <li>Self-reflecting on feedback provided by Delegates</li>
         </ul>
-      </td>
     </tr>
   </tbody>
 </table>
@@ -275,11 +263,15 @@ If you are sending an email to one person, consider including their name in the 
 
 #### CC or BCC
 
-::::: {.box .important} For privacy reasons, when emailing multiple competitors, you must add them to the Blind Carbon Copy (BCC) field instead of the Carbon Copy (CC) field. :::::
+::::: {.box .important}
+For privacy reasons, when emailing multiple competitors, you must add them to the Blind Carbon Copy (BCC) field instead of the Carbon Copy (CC) field.
+:::::
 
 Use the **CC** field when communicating with **organizers and Delegates**.
 
-::::: {.box .important} Always add co-organizers and Delegates to the CC field when responding to a competitor’s email. :::::
+::::: {.box .important}
+Always add co-organizers and Delegates to the CC field when responding to a competitor’s email
+:::::
 
 Every organizer and Delegate should be aware of all communication from competitors, such as competitors withdrawing from the competition, changing their events, or asking for travel advice. Keeping the entire organization team in CC ensures there are no surprises on the day of the competition.
 
@@ -301,13 +293,16 @@ Your email should end in the same tone that it started with. It should end with 
 
 #### Example Sign-Off
 
-::::: {.box .example .text-left} Kind Regards,
+::::: {.box .example .text-left}
+Kind Regards,
 
-Your Name :::::
+Your Name
+:::::
 
 #### Example Email
 
-::::: {.box .example .text-left} Subject: Important Information about XX Open 2026
+::::: {.box .example .text-left}
+Subject: Important Information about XX Open 2026
 
 Hello competitor,
 
@@ -317,9 +312,12 @@ Kind Regards,
 
 Your Name
 
-Organization Team of XX Open 2026 :::::
+Organization Team of XX Open 2026
+:::::
 
-::::: {.box .important} Unless your Delegate has given you explicit permission to send emails independently, you are expected to share your email draft with the Delegates and the rest of the organization team before sending it to all competitors. :::::
+::::: {.box .important}
+Unless your Delegate has given you explicit permission to send emails independently, you are expected to share your email draft with the Delegates and the rest of the organization team before sending it to all competitors.
+:::::
 
 ### Multiple Languages
 
@@ -349,17 +347,21 @@ Please remember that a Delegate has the authority to reject your competition for
 
 The best time to contact a Delegate is when you have a willing organization team and have visited a suitable venue. When contacting a venue for information without having consulted a Delegate, ensure you make it clear you are asking on behalf of yourself, not a Delegate team, a Regional Organization, or the WCA. If you have not been successful in forming an organization team, a Delegate can likely help you find the right people and advise whether you need more organizers.
 
-::::: {.box .important} Never ask a venue for a permit or contract without having consulted a Delegate. :::::
+::::: {.box .important}
+Never ask a venue for a permit or contract without having consulted a Delegate.
+:::::
 
 Delegate emails can be found on the [WCA Delegates page](https://www.worldcubeassociation.org/delegates) at the mail icon to the left of each Delegate picture. Consider the following as a basic example of how to contact a Delegate:
 
-::::: {.box .example .text-left} Subject: Interest in Holding a Competition in [Place]
+::::: {.box .example .text-left}
+Subject: Interest in Holding a Competition in [Place]
 Hi [Delegate name],
 
 I am [name], and I am a speedcuber from [place]. I have volunteered at [number] competitions. I am interested in hosting a competition in [place name] around [date(s)/month(s)]. I have been to [potential venue] before, and I believe it could suit a WCA competition. Please let me know if you are interested and how I should proceed. Thanks for your help!
 
 Thanks,
-[name] :::::
+[name]
+:::::
 
 The Delegate should respond to you in a timely manner with more details if they believe they can reasonably assist with your proposal. If they are unavailable, consider asking whether they know other Delegates who might be available.
 
@@ -413,19 +415,27 @@ Discuss with your RO and/or Delegates how many people might realistically attend
 
 Once you identify a venue, you can contact it in several ways. Common ways to contact them include email, phone calls, online or physical event request forms, in-person visits, or a request for proposal (RFP). Share the details you receive with the Delegates you are working with, other co-organizers, and relevant RO members, if applicable. These people will help firm up details and decide which venues and dates work best.
 
-::::: {.box .important} Read the [WCA Disclaimer](https://www.worldcubeassociation.org/disclaimer) and ensure you do not insinuate that the WCA is organizing the competition. :::::
+:::
+Read the [WCA Disclaimer](https://www.worldcubeassociation.org/disclaimer) and ensure you do not insinuate that the WCA is organizing the competition.
+:::::
 
 To secure the venue, a legal adult must sign and return a formal contract. Some larger venues might also require proof of liability insurance and/or a security deposit. Sometimes the venue provides liability insurance. Other times you must purchase it separately. In general, liability insurance coverage will always do more good than harm, so you should determine whether you should pursue it. If the competition is organized under a Regional Organization (RO), the RO should secure the venue to ensure it aligns with its policies.
 
-::::: {.box .important} You must not sign a venue contract or permit without discussing it with your Delegate. :::::
+::::: {.box .important}
+You must not sign a venue contract or permit without discussing it with your Delegate.
+:::::
 
 ### Competition Dates
 
 Before finalizing the competition date, Delegates will ensure it aligns with WCA Policies.
 
- ::::: {.box .attention} You must follow the requirements set out in the [WCA Competition Requirement Policy](https://documents.worldcubeassociation.org/documents/policies/external/Competition%20Requirements.pdf) (WCRP). Ensure the dates are realistic so the competition can be announced at least 28 days before the competition day, without putting too much time pressure on the WCA Competition Announcement Team (WCAT). Allow enough time for competitors to complete registration and plan their trip. :::::
+::::: {.box .attention}
+You must follow the requirements set out in the [WCA Competition Requirement Policy](https://documents.worldcubeassociation.org/documents/policies/external/Competition%20Requirements.pdf) (WCRP). Ensure the dates are realistic so the competition can be announced at least 28 days before the competition day, without putting too much time pressure on the WCA Competition Announcement Team (WCAT). Allow enough time for competitors to complete registration and plan their trip.
+:::::
 
-::::: {.box .important} Always double-check with the local community and Delegates to avoid breaking the proximity policy stated in the [WCA Competition Requirement Policy.](https://documents.worldcubeassociation.org/documents/policies/external/Competition%20Requirements.pdf) :::::
+::::: {.box .important}
+Always double-check with the local community and Delegates to avoid breaking the proximity policy stated in the [WCA Competition Requirement Policy.](https://documents.worldcubeassociation.org/documents/policies/external/Competition%20Requirements.pdf)
+:::::
 
 ### Other Factors to Consider
 
@@ -470,7 +480,9 @@ Running judges are judges who also do the job of a runner. They judge, pick up s
 
 There is no single answer, as it can vary widely by region and even by competition. In some regions, one approach works better than another.
 
-::::: {.box .example .text-left} Example: In some competitions in China, running judges are preferred, as competitors complete all their attempts in one sitting. In many parts of Europe, seated judges with runners are preferred, as competitors return to the waiting area after each attempt. :::::
+::::: {.box .example .text-left}
+Example: In some competitions in China, running judges are preferred, as competitors complete all their attempts in one sitting. In many parts of Europe, seated judges with runners are preferred, as competitors return to the waiting area after each attempt.
+:::::
 
 The running system might also change as the competition progresses (e.g. using seated judges with runners for first rounds and running judges for final rounds, when fewer competition volunteers are available).
 
@@ -591,7 +603,9 @@ To lower registration fees, you could sell merchandise (e.g. shirts, mugs, or ba
 
 Listing every source of income and comparing it to expenses can help you see whether expected revenue matches or exceeds the expected expenses. Once a competition is announced, the organization team is expected to run the competition, even if it incurs a financial loss. In the event of a financial loss that the profit of previous competitions cannot cover, contact the WCA Financial Committee (WFC).
 
-::::: {.box .important} Remember that you cannot make a personal profit by organizing a competition! You must consider the Finances section of the [Code of Ethics](https://documents.worldcubeassociation.org/documents/Code%20of%20Ethics.pdf) when creating your competition budget. :::::
+::::: {.box .important}
+Remember that you cannot make a personal profit by organizing a competition! You must consider the Finances section of the [Code of Ethics](https://documents.worldcubeassociation.org/documents/Code%20of%20Ethics.pdf) when creating your competition budget.
+:::::
 
 If you require competitors to pay the registration fee in advance, the organization team should coordinate who will process the payments and perform the necessary shopping. If a Regional Organization is on the organization team, they will likely process the payments to ensure that taxation laws are followed.
 
@@ -599,7 +613,9 @@ If you require competitors to pay the registration fee in advance, the organizat
 
 Here is an example budget. If your net profit is negative, adjust your expenses and income to avoid significant financial loss. For a more complete list of possible expenses, see the budget section of the [competition checklist](https://docs.google.com/spreadsheets/d/1i5QStai9sJSrST2EUPBNwfejI0QeW3ojDJ9Ok-GpFCY/copy).
 
-::::: {.box .example .text-left} [](images/budget.png){.centered width=50%} :::::
+::::: {.box .example .text-left}
+[](images/budget.png){.centered width=50%}
+:::::
 
 ### Setting the Registration Fee
 
@@ -734,7 +750,9 @@ If you use an external website, you will need to import registrations to the WCA
 
 Since Delegates are responsible for ensuring registrations are handled correctly, they often handle registrations themselves. If your Delegate allows you to handle registrations, they will explain the process to you. Poor registration management can reflect poorly on the organization team and create bad experiences for many people.
 
-::::: {.box .important} Do not touch any registrations without explicit permission from your Delegate.  :::::
+::::: {.box .important}
+Do not touch any registrations without explicit permission from your Delegate.
+:::::
 
 ### Registration Requirements
 
@@ -762,7 +780,9 @@ You can find all registrations on the Registration tab of the competition websit
 
 You can change the registration requirements, but only in exceptional circumstances. The Delegates must first approve every change to the registration requirements, and some also require further approval from the WCA Competition Announcement Team (WCAT). If you need to make changes, communicate with your Delegates early, since it can take a few days to change the requirements.
 
-::::: {.box .important} Clearly announce changes that affect registered competitors. Be consistent with what is on the competition website. For example, you must not accept registrations on the spot if the competition website says on-the-spot registration will not be available. :::::
+::::: {.box .important}
+Clearly announce changes that affect registered competitors. Be consistent with what is on the competition website. For example, you must not accept registrations on the spot if the competition website says on-the-spot registration will not be available.
+:::::
 
 ### Accepting and Managing Competitor Registrations
 
@@ -810,8 +830,10 @@ Here is some information that you can consider including in an information packe
 - Where do competitors find their results?
 - Are there any practices unique to this region?
 
-::::: {.box .example .text-left} Example of a region-specific practice:
-Using registration ID instead of initials for scrambling and judging signatures. :::::
+::::: {.box .example .text-left}
+Example of a region-specific practice:
+Using registration ID instead of initials for scrambling and judging signatures.
+:::::
 
 - Has the schedule been recently revised?
 - Who are the sponsors?
@@ -819,7 +841,9 @@ Using registration ID instead of initials for scrambling and judging signatures.
 - What is the parking situation at the venue?
 - What is your contact information in case someone struggles to find the venue?
 
-::::: {.box .important} You are strongly encouraged to share your email draft with the Delegates before sending it to all competitors. Some Delegates might require you to do this anyway. :::::
+::::: {.box .important}
+You are strongly encouraged to share your email draft with the Delegates before sending it to all competitors. Some Delegates might require you to do this anyway.
+:::::
 
 ### Cancellation Deadline Reminder
 
@@ -908,7 +932,9 @@ If you print the score sheets yourself, you will need to cut them yourself. If y
 
 Score sheets are typically arranged with four sheets per page, sorted by quadrant. To cut them, follow Alexandre Ondet’s diagram below.
 
-::::: {.box .example .text-left} [](images/cutting-scorecards.png){.centered width=50%} :::::
+::::: {.box .example .text-left}
+[](images/cutting-scorecards.png){.centered width=50%}
+:::::
 
 Before score sheets are cut, they might look to be out of order at first glance. Peek behind each score sheet and you should see a score sheet from the same group. This type of sorting can save a lot of time sifting through score sheets and reduce the likelihood of misplacing them.
 
@@ -920,7 +946,9 @@ Name tags are not only helpful for identifying which competitor is which, but th
 
 Here is an example name tag from Perfect Vision Provo 2020.
 
-::::: {.box .example .text-left} [](images/lanyard.png){.centered width=50%} :::::
+::::: {.box .example .text-left}
+[](images/lanyard.png){.centered width=50%}
+:::::
 
 ### Other Printables
 
@@ -932,7 +960,9 @@ Schedules and schedule trackers are also useful to print. If you maintain a sche
 
 This section outlines how organizers can ensure they have done everything necessary to organize their competition.
 
- ::::: {.box .attention} Here is a [copy of the checklist](https://docs.google.com/spreadsheets/d/1i5QStai9sJSrST2EUPBNwfejI0QeW3ojDJ9Ok-GpFCY/copy). :::::
+::::: {.box .attention}
+Here is a [copy of the checklist](https://docs.google.com/spreadsheets/d/1i5QStai9sJSrST2EUPBNwfejI0QeW3ojDJ9Ok-GpFCY/copy).
+:::::
 
 This checklist guides you through the organization process and helps you understand it better. You can edit a copy of the spreadsheet to suit your needs or the needs of organizers in your region, such as translating it into a local language.
 
@@ -988,8 +1018,10 @@ The organizer in charge of the venue, likely the main organizer, will be asked m
 
 The first-time competitor tutorial might not be the only announcement you make at the start of the competition. You can use this opportunity to thank everyone for coming, introduce the organization team, and introduce the sponsors. There might be some region-specific practices for morning announcements.
 
-::::: {.box .example .text-left} Example of a region-specific practice:
-In Canada, the organization team does a land acknowledgment as a part of the morning announcements. :::::
+::::: {.box .example .text-left}
+Example of a region-specific practice:
+In Canada, the organization team does a land acknowledgment as a part of the morning announcements.
+:::::
 
 ### Calling Volunteers
 
