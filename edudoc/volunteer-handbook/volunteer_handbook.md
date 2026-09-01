@@ -63,7 +63,7 @@ Here are the most important external documents for Volunteers:
 
 The [Volunteer Position Board](https://docs.google.com/spreadsheets/d/13JhGJWDfJR96MYgPpxkSaV2E3bMIdIWjWLuYO83vOls) is a public document that shows all Volunteer Positions that are open to the WCA Community. These postings are also promoted through the WCA’s social media channels.
 
-Some Volunteer positions are recruited internally, such as Senior Delegates and Committee/Leaders. These positions will be communicated via email and are not found in the Volunteer Position Board.
+Some Volunteer positions are recruited internally, such as Senior Delegates and Committee/Team Leaders. These positions will be communicated via email and are not found in the Volunteer Position Board.
 
 ## Committees/Teams
 
