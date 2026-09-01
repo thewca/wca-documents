@@ -158,7 +158,7 @@ Delegates are one of the most prominent roles within the WCA. A Delegate represe
 
 As the face of the WCA to competition attendees, a Delegate has many considerations and responsibilities to fulfill their duties effectively.
 
-Delegates are highly experienced Community Members and often help out as organizers. Listed Delegates do not need to be listed separately as organizers to perform organizer duties, as they are members of the organization team by default. Some tasks that are typically performed by a Delegate, such as generating groups and providing competition equipment, are actually organizer duties and can be assigned to non-Delegate organizers, known as Community organizers.
+Delegates are highly experienced Community members and often help out as organizers. Listed Delegates do not need to be listed separately as organizers to perform organizer duties, as they are members of the organization team by default. Some tasks that are typically performed by a Delegate, such as generating groups and providing competition equipment, are actually organizer duties and can be assigned to non-Delegate organizers, known as Community organizers.
 
 <!-- Using an HTML table here because Markdown formatters and renderers often cannot present the information in a way that is easy to read when editing -->
 
@@ -980,7 +980,7 @@ This checklist guides you through the organization process and helps you underst
 
 ### At The Check-In Area
 
-You need someone at the check-in area to greet and check in competitors as they arrive. This is an important yet often overlooked role. If you are the main organizer, you are likely busy in the morning with other tasks. If no one on the organization team is available to help with check-in, ask an experienced Community Member in advance whether they would be willing to help.
+You need someone at the check-in area to greet and check in competitors as they arrive. This is an important yet often overlooked role. If you are the main organizer, you are likely busy in the morning with other tasks. If no one on the organization team is available to help with check-in, ask an experienced Community member in advance whether they would be willing to help.
 
 For small competitions, you can combine the score-taking table with the check-in area, which makes it easier to ensure someone is stationed there at all times.
 
