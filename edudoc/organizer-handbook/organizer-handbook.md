@@ -116,6 +116,8 @@ Other handbooks managed by the WCA Quality Assurance Committee (WQAC) include:
   - [Managing the Venue](#managing-the-venue)
   - [Making Announcements](#making-announcements)
     - [Morning Announcements](#morning-announcements)
+    - [Explaining Event Procedures](#explaining-event-procedures)
+    - [Explaining Round Procedures](#explaining-round-procedures)
     - [Calling Volunteers](#calling-volunteers)
     - [Calling Groups](#calling-groups)
   - [Score-Taking](#score-taking)
@@ -1030,6 +1032,21 @@ The first-time competitor tutorial might not be the only announcement you make a
 Example of a region-specific practice:
 In Canada, the organization team does a land acknowledgment as a part of the morning announcements.
 :::::
+
+### Explaining Round Procedures
+
+If a round has an advancement condition, you might want to explain this as you are announcing the groups. For example, if you are holding dual rounds, ensure all competitors are aware they are entitled to participate in both rounds. If you have a strict advancement condition, ensure competitors are generally aware how fast they need to be to advance, especially if the rounds are several hours apart.
+
+You can also state whether the organization team will replace competitors who withdraw from a round with the best-ranked non-qualifying competitor from the preceding round. This can encourage competitors to inform the organization team when they are unable to compete in future rounds.
+
+### Explaining Event Procedures
+
+Depending on the event, you might want to briefly explain how the event works. When announcing the first group, you can give judges additional instructions and help the audience understand what they are watching. Here are some basic event procedures you can consider announcing:
+
+- **3x3x3 One-Handed.** Competitors inspect with both hands, but must solve with only one hand. They cannot switch hands mid-attempt. They can rest one hand on the timer’s sensor pad while solving with the other hand. If they experience a puzzle defect, they must repair it with one hand.
+- **3x3x3 Blindfolded.** Judges do not use the stopwatch to time inspection since there is no inspection phase, nor do they lift the cover for the competitor. Competitors lift the puzzle cover themselves after they start the timer. Without applying any moves, they memorize the puzzle. When they are ready to start solving, they don their blindfolds and start solving. As soon as the first move is applied, the judge places a sight blocker, such as a thick sheet of paper, between the competitor’s eyes and the puzzle. If they experience a puzzle defect, they must repair it blindfolded. The result is the combined time they took to memorize and solve the puzzle, or a DNF if they did not solve the puzzle.
+- **Square-1.** The organization team can place an insert in the slice to avoid the puzzle state from changing during transport. If an insert is used, the competitor must remove it during inspection. Some regions use specialized Square-1 covers in place of inserts.
+- **Clock.** Competitors can push pins during inspection, but must not turn any gears until they start the timer. If the Clock falls over during inspection, the competitor should continue their attempt. Judges must check both sides of the Clock to ensure all dials point to noon. Some regions use specialized Clock covers to reduce the likelihood of Clocks falling over during inspection.
 
 ### Calling Volunteers
 
