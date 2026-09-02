@@ -951,7 +951,7 @@ If you print the score sheets yourself, you will need to cut them yourself. If y
 Score sheets are typically arranged with four sheets per page, sorted by quadrant. To cut them, follow Alexandre Ondet’s diagram below.
 
 ::::: {.box .example .text-left}
-![](images/cutting-scorecards.png){.centered width=50%}
+![](images/cutting_scorecards.png){.centered width=50%}
 :::::
 
 Before score sheets are cut, they might look to be out of order at first glance. Peek behind each score sheet and you should see a score sheet from the same group. This type of sorting can save a lot of time sifting through score sheets and reduce the likelihood of misplacing them.
