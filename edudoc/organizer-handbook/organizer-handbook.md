@@ -632,7 +632,7 @@ If you require competitors to pay the registration fee in advance, the organizat
 Here is an example budget. If your net profit is negative, adjust your expenses and income to avoid significant financial loss. For a more complete list of possible expenses, see the budget section of the [competition checklist](https://docs.google.com/spreadsheets/d/1i5QStai9sJSrST2EUPBNwfejI0QeW3ojDJ9Ok-GpFCY/copy).
 
 ::::: {.box .example .text-left}
-[](images/budget.png){.centered width=50%}
+![](images/budget.png){.centered width=50%}
 :::::
 
 ### Setting the Registration Fee
@@ -951,7 +951,7 @@ If you print the score sheets yourself, you will need to cut them yourself. If y
 Score sheets are typically arranged with four sheets per page, sorted by quadrant. To cut them, follow Alexandre Ondet’s diagram below.
 
 ::::: {.box .example .text-left}
-[](images/cutting-scorecards.png){.centered width=50%}
+![](images/cutting-scorecards.png){.centered width=50%}
 :::::
 
 Before score sheets are cut, they might look to be out of order at first glance. Peek behind each score sheet and you should see a score sheet from the same group. This type of sorting can save a lot of time sifting through score sheets and reduce the likelihood of misplacing them.
@@ -965,7 +965,7 @@ Name tags are not only helpful for identifying which competitor is which, but th
 Here is an example name tag from Perfect Vision Provo 2020.
 
 ::::: {.box .example .text-left}
-[](images/lanyard.png){.centered width=50%}
+![](images/lanyard.png){.centered width=50%}
 :::::
 
 ### Other Printables
