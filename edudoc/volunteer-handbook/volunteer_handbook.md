@@ -9,7 +9,7 @@ This handbook aims to reflect official WCA Policy, not create it. When a disagre
 Other handbooks managed by the WCA Quality Assurance Committee (WQAC) include:
 
 - [Delegate Handbook](wcadoc{edudoc/delegate-handbook/delegate-handbook.pdf})
-- [Organizer Handbook](wcadoc{edudoc/organizer-handbook/organizer-handbook.pdf})
+- [Organizer Handbook](https://documents.worldcubeassociation.org/edudoc/organizer-handbook/organizer-handbook.pdf)
 
 # Table of Contents {.page-break-before}
 
@@ -19,18 +19,18 @@ Other handbooks managed by the WCA Quality Assurance Committee (WQAC) include:
   - [Committee/Team Senior Members](#committee-team-senior-members)
   - [Committee/Team Leaders](#committee-team-leaders)
   - [Subteams](#subteams)
+- [Public Appearance](#public-appearance)
 - [Email Communication Guidelines](#email-communication-guidelines)
   - [Mailing Lists](#mailing-lists)
   - [Responding to emails](#responding-to-emails)
   - [Making Changes to Recipients](#making-changes-to-recipients)
   - [Delegate Reports](#delegate-reports)
-  - [Public Appearance](#public-appearance)
   - [Filters and Spam Folders](#filters-and-spam-folders)
   - [Communicating Dates and Times](#communicating-dates-and-times)
   - [Chrome Profiles](#chrome-profiles)
   - [Committee/Team-Specific Communication](#committee-team-specific-communication)
 
-## Important Documents
+## Important Documents {.page-break-before}
 
 WCA Volunteers should be familiar with every document related to their work as WCA Volunteers. All relevant documents are on the [Volunteer panel](wca{panel}) and the [Documents page](wca{documents}).
 
@@ -63,7 +63,7 @@ Here are the most important external documents for Volunteers:
 
 The [Volunteer Position Board](https://docs.google.com/spreadsheets/d/13JhGJWDfJR96MYgPpxkSaV2E3bMIdIWjWLuYO83vOls) is a public document that shows all Volunteer Positions that are open to the WCA Community. These postings are also promoted through the WCA’s social media channels.
 
-Some Volunteer positions are recruited internally, such as Senior Delegates and Committee/Leaders. These positions will be communicated via email and are not found in the Volunteer Position Board.
+Some Volunteer positions are recruited internally, such as Senior Delegates and Committee/Team Leaders. These positions will be communicated via email and are not found in the Volunteer Position Board.
 
 ## Committees/Teams
 
@@ -80,6 +80,12 @@ Every Committees/Teams has a Leader. The Leader supports the members by assignin
 ### Subteams
 
 Some Committees/Teams have subteams to organize members’ responsibilities. Subteams have subteam leaders who act as unofficial leaders for subteam members.
+
+## Public Appearance
+
+Every WCA Volunteer is expected to demonstrate professionalism. Upload a suitable picture of yourself as your avatar. You can upload an avatar and see all the guidelines that apply to WCA Volunteers [here](wca{profile/edit?section=avatar}).
+
+Volunteers should also consider how they appear on online cubing forums (e.g. WCA Forum and Speedsolving Forum). Volunteers should be careful when speaking about internal matters to ensure no confidential information is leaked.
 
 ## Email Communication Guidelines
 
@@ -130,17 +136,11 @@ Lastly, for Committee/Team internal discussions, you can take a shortcut by remo
 
 ### Delegate Reports
 
-Every Volunteer can opt in to receive Delegate Reports. To do this, go to the [Edit Profile](wca{profile/edit})” page and check the box next to “I would like to receive Delegate Reports of WCA Competitions by email”. Every Volunteer with valuable input is welcome to join in on discussions for Delegate Reports, even if they are not a Delegate.
-
-### Public Appearance
-
-Every WCA Volunteer is expected to demonstrate professionalism. Upload a suitable picture of yourself as your avatar. You can upload an avatar and see all the guidelines that apply to WCA Volunteers [here](wca{profile/edit?section=avatar}).
-
-Volunteers should also consider how they appear on online cubing forums (e.g. WCA Forum and Speedsolving Forum). Volunteers should be careful when speaking about internal matters to ensure no confidential information is leaked.
+Every Volunteer can opt in to receive Delegate Reports. To do this, go to the [Edit Profile](wca{profile/edit}) page and check the box next to “I would like to receive Delegate Reports of WCA Competitions by email”. Every Volunteer with valuable input is welcome to join in on discussions for Delegate Reports, even if they are not a Delegate.
 
 ### Filters and Spam Folders
 
-Every Volunteer should create a filter to permit all mail sent from an *@worldcubeassociation.org* mailing address so they do not miss any important information. You can do this by going to [https://mail.google.com/mail/u/0/#settings/filters](https://mail.google.com/mail/u/0/#settings/filters) and scrolling to the bottom where it says “Create a new filter”. Set the “from” to “worldcubeassociation.org” and click “Create filter”. Finally, set it to “Never mark as spam”.
+Every Volunteer should create a filter to permit all mail sent from an *@worldcubeassociation.org* mailing address so they do not miss any important information. In Gmail, you can do this by going to [Filters and Blocked Addresses](https://mail.google.com/mail/u/0/#settings/filters) and scrolling to the bottom where it says “Create a new filter”. Set the “from” to “worldcubeassociation.org” and click “Create filter”. Finally, set it to “Never mark as spam”.
 
 Someone can forge an email to look like it came from a WCA email account even without access to that account. Gmail spam filters usually detect these emails thanks to the SPF/DKIM signatures. The filter suggested above bypasses this check, so always check the signature when you receive a suspicious email. If you are unsure, you can contact the WCA Software Team (WST).
 

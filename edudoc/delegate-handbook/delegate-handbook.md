@@ -8,7 +8,10 @@ While this handbook aims to be complete, it cannot be fully comprehensive. While
 
 Finally, the _Delegate Handbook_ aims to reflect official WCA policy, not create it. When a disagreement or contradiction arises, always defer to the official policy, Regulation, or precedent published by the WCA. See the [Contributing to this Document](#contributing-to-the-delegate-handbook) section for information on how to update this handbook to accurately reflect reality.
 
-There is a lot of information that is relevant to all WCA Volunteers, not just Delegates. If you have not already, read the [WCA Volunteer Crash Course](https://documents.worldcubeassociation.org/edudoc/volunteer-crash-course/volunteer_crash_course.pdf) to get a high-level overview of the responsibilities expected of every WCA Volunteer.
+Other handbooks managed by the WCA Quality Assurance Committee (WQAC) include:
+
+- [Organizer Handbook](https://documents.worldcubeassociation.org/edudoc/organizer-handbook/organizer-handbook.pdf)
+- [Volunteer Handbook](https://documents.worldcubeassociation.org/edudoc/volunteer-handbook/volunteer_handbook.pdf)
 
 # Table of Contents {.page-break-before}
 
