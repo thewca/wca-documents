@@ -236,7 +236,7 @@ Delegates are highly experienced Community members and often help out as organiz
 
 ## Organizer-Delegate Relationship
 
-Delegates are ultimately responsible for ensuring the competition follows all WCA Policies and Regulations. As a non-WCA Volunteer, Community organizers must follow instructions provided by their Delegate. Delegates can limit the tasks Community organizers perform.
+Delegates are ultimately responsible for ensuring that every pre-competition organizational task is completed by the time the competition begins and the competition follows all WCA Policies and Regulations. As a non-WCA Volunteer, Community organizers must follow instructions provided by their Delegate. Delegates can limit the tasks Community organizers perform.
 
 All Delegates and organizers have access to the private information on the competition page, including registrations and personal data of registrants. They can also edit information on the competition page. This does not mean organizers can edit anything they wish or handle registrations on their own. They should always check with their Delegate about what they are allowed to do.
 
