@@ -131,6 +131,7 @@ Other handbooks managed by the WCA Quality Assurance Committee (WQAC) include:
       - [Volunteers](#volunteers)
       - [Delegates and Organizers](#delegates-and-organizers)
       - [Others](#others)
+- [Contributing to Organizer Handbook](#contributing-to-organizer-handbook)
 
 # Introduction to Organizing {.page-break-before}
 
@@ -1151,3 +1152,9 @@ Delegates must write a Delegate Report after each competition. The report includ
 #### Others
 
 It is also important to improve the experience of others (e.g. parents/guardians, spectators, vendors, and venue employees). Consider reaching out to ask how your organization could improve their experience at future competitions.
+
+# Contributing to Organizer Handbook {.page-break-before}
+
+The Organizer Handbook is an ever-evolving resource and is subject to change as the WCA and the cubing community change. Every WCA Volunteer or experienced competition organizer is encouraged to contribute. Send a message to the WCA Quality Assurance Committee (WQAC) at quality@worldcubeassociation.org and describe the changes you would like to propose. Please note that not every request can be granted. 
+
+After the WQAC has reviewed and accepted your proposal, you will be granted permission to create a pull request (PR) on GitHub.
