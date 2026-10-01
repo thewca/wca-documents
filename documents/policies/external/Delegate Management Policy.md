@@ -14,7 +14,7 @@ All references to Regional Delegate and Senior Delegate shall refer to the Regio
 
 ### Application
 
-1. Any member of the WCA Community willing to apply for the Trainee Delegate role must submit [this Application Form](https://docs.google.com/forms/d/e/1FAIpQLSchegJAHVZkeyXSKBBsmux2-em4RZvlSHiQfJlECKvh1ZA-RQ/viewform).
+1. Any member of the WCA Community willing to apply for the Trainee Delegate role must submit [this Application Form](https://www.worldcubeassociation.org/trainee-delegate-application).
    1. The Application Form contains the following information:
       1. Their target region.
       2. A brief personal introduction.
