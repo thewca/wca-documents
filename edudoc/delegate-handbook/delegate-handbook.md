@@ -2,7 +2,7 @@
 
 The _Delegate Handbook_ is an educational and referential resource for WCA Delegates of all levels of experience, whether you are a newly appointed Trainee Delegate or a Full Delegate who has attended over one hundred competitions. This document attempts to lay a foundation for the required responsibilities and the most common scenarios experienced by a Delegate so that every WCA competition can run with consistent levels of fairness and quality.
 
-This handbook is _not_ a guide on how to organize or run a competition. Organizational tasks are often handled by Delegates, but they can also be handled by Community organizers. As such, organizational details are generally excluded in this handbook and can instead be found within the [Organizer Guidelines](https://www.worldcubeassociation.org/organizer-guidelines).
+This handbook is _not_ a guide on how to organize or run a competition. Organizational tasks are often handled by Delegates, but they can also be handled by Community organizers. As such, organizational details are generally excluded in this handbook and can instead be found within the [Organizer Handbook](https://documents.worldcubeassociation.org/edudoc/organizer-handbook/organizer-handbook.pdf).
 
 While this handbook aims to be complete, it cannot be fully comprehensive. While delegating, you will almost certainly run into situations that could not possibly be foreseen or predicted. As you delegate more competitions, you will build a foundation of experience that will allow you to independently handle scenarios not covered in this handbook.
 
@@ -292,7 +292,7 @@ The Lead Delegate is the one expected to manage the above tasks with the coopera
 
 # Before the Competition {.page-break-before}
 
-Delegates have several responsibilities before a competition happens. The _Delegate Handbook_ is not intended to be a set of guidelines on how to organize a competition. This handbook covers the responsibilities of a Delegate that go beyond simply organizing a competition. Refer to the [Organizer Guidelines](https://www.worldcubeassociation.org/organizer-guidelines) to learn how to organize a competition.
+Delegates have several responsibilities before a competition happens. The _Delegate Handbook_ is not intended to be a set of guidelines on how to organize a competition. This handbook covers the responsibilities of a Delegate that go beyond simply organizing a competition. Refer to the [Organizer Handbook](https://documents.worldcubeassociation.org/edudoc/organizer-handbook/organizer-handbook.pdf) to learn how to organize a competition.
 
 ## Competitions and Your Community
 
@@ -349,7 +349,7 @@ As a Delegate, you might occasionally find yourself in the position of delegatin
 
 ## Organizing a Competition
 
-As a Delegate, you will often have more experience organizing WCA competitions than Community organizers. While Delegates can and often do much of the work organizing competitions, especially with inexperienced organizers, this handbook aims to cover only the Delegate’s responsibilities. For detailed information about the responsibilities involved with organizing competitions, see the [Organizer Guidelines](https://www.worldcubeassociation.org/organizer-guidelines).
+As a Delegate, you will often have more experience organizing WCA competitions than Community organizers. While Delegates can and often do much of the work organizing competitions, especially with inexperienced organizers, this handbook aims to cover only the Delegate’s responsibilities. For detailed information about the responsibilities involved with organizing competitions, see the [Organizer Handbook](https://documents.worldcubeassociation.org/edudoc/organizer-handbook/organizer-handbook.pdf). We highly encourage the sharing of this document with the organizers you work with to provide them an overview to the organizing process and a reference they can continually look back to.
 
 ### Community Organizers and Delegate Organizers
 
@@ -538,7 +538,7 @@ When using the Newcomer Checks feature, ensure you re-synchronize WCA Live after
 
 It is generally a good idea to send emails to competitors before the competition to encourage them to make the necessary updates to their registration and remind them to plan for the competition. This is the organization team’s responsibility, but as a Delegate, you must ensure that the organizers are following through with this responsibility. Remember to **always use the BCC field in communications with multiple competitors** so that other competitor emails are not shared. The WCA website will automatically add all recipients to the BCC field if you email them by checking the box next to their registration on the Registration page of the competition website and then clicking the “Email” button. If there is a data breach, **you must** contact the WRT as soon as possible and explain the situation.
 
-See the Organizer Guidelines for more [information on emailing competitors](https://documents.worldcubeassociation.org/edudoc/organizer-guidelines/emails.pdf).
+See the Organizer Handbook for more [information on emailing competitors](https://documents.worldcubeassociation.org/edudoc/organizer-guidelines/emails.pdf).
 
 ## Generating Scrambles
 
@@ -976,7 +976,7 @@ If you encounter disruptive behavior from a competitor or spectator, you need to
 
 ## Preparing for Subsequent Rounds
 
-If your competition has more than one round of an event, you will need to prepare for the subsequent rounds. Since this is officially the organization team’s responsibility, you can find additional information on preparing for subsequent rounds in the [Organizer Guidelines](https://www.worldcubeassociation.org/organizer-guidelines).
+If your competition has more than one round of an event, you will need to prepare for the subsequent rounds. Since this is officially the organization team’s responsibility, you can find additional information on preparing for subsequent rounds in the [Organizer Handbook](https://documents.worldcubeassociation.org/edudoc/organizer-handbook/organizer-handbook.pdf).
 
 As a Delegate, pay special attention when the groups for subsequent rounds are created. In particular, if the subsequent rounds are final rounds or semifinal rounds, make an additional effort to ensure that the competitors most likely to advance to the final round or place on the podium use the same scramble sets. See the [Generating Groups](#generating-groups) section for more information.
 
