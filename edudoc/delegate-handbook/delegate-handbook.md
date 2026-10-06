@@ -445,7 +445,7 @@ Closing/extending the registration period:
 
 - If you need to close registration earlier than expected, you may do so via the button on the top of the “organizer view” section of the competition website. If you want to close registration before the competitor limit has been filled, you may do so by emailing the WCAT with a request and explanation.
 - Extending the registration period: write an email on the competition thread and ask for an extension. The email must include the closing time in Coordinated Universal Time (UTC) and the date. You must also write the reasons for the extension. Having fewer registrations than expected is a valid reason.
-- Additional registration periods must be announced at least 24 hours before they are scheduled to start. The request must be written to the WCAT with times and dates in UTC. Having fewer registrations than expected is a valid reason to re-open registration. This approach may also be used to propose on-the-spot (OTS) registration.
+- Additional registration periods: additional registration periods may be added and should begin at least 24 hours after being actioned by the WCAT, though they may begin earlier at the WCAT’s discretion. The request must be written to the WCAT with times and dates in UTC. Having fewer registrations than expected is a valid reason to re-open registration. This approach may also be used to propose on-the-spot (OTS) registration.
 
 Increasing the competitor limit:
 
