@@ -65,6 +65,27 @@ Other handbooks managed by the WCA Quality Assurance Committee (WQAC) include:
     - [Sources of Income](#sources-of-income)
     - [Example Budget](#example-budget)
     - [Setting the Registration Fee](#setting-the-registration-fee)
+  - [Contracts](#contracts)
+    - [Venue Contracts](#venue-contracts)
+    - [Other Contracts](#other-contract)
+    - [Costs and Financial Responsibilities](#costs-and-financial-responsibilities)
+    - [Cancellation and Changes](#cancellation-and-changes)
+    - [Keeping Contracts](#keeping-contracts)
+    - [Before You Sign](#before-you-sign)
+  - [Sponsorships](#sponsorships)
+    - [Finding Sponsors](#finding-sponsors)
+    - [Contacting Sponsors](#contacting-sponsors)
+    - [Types of Sponsorship](#types-of-sponsorship)
+    - [What Can You Offer a Sponsor?](#what-can-you-offer-a-sponsor)
+    - [Sponsorship Packages](#sponsorship-packages)
+    - [Sponsor Agreements](#sponsor-agreements)
+    - [Sponsor Materials at the Venue](#sponsor-materials-at-the-venue)
+    - [Sponsor Announcements](#sponsor-announcements)
+    - [Exclusivity](#exclusivity)
+    - [Sponsor Products](#sponsor-products)
+    - [Sponsorship and the Competition Budget](#sponsorship-and-the-competition-budget)
+    - [After the Competition](#after-the-competition)
+    - [Confidentiality](#confidentiality)
   - [Making the WCA Webpage](#making-the-wca-webpage)
     - [Deciding Events](#deciding-events)
       - [Official Events](#official-events)
@@ -645,6 +666,294 @@ This is not the sole criterion for deciding registration fees. You should also l
 Different competitions naturally have different costs that directly affect the registration fees. For example, a competition in a college might not charge for the venue or furniture, but a commercial location might charge for both.
 
 The registration fees should also reflect the type of competition. A half-day competition should have a lower registration fee than a full-day competition in the same region. Competitions with fewer events and rounds should have a lower registration fee than competitions with more events and rounds in the same region.
+
+## Contracts
+
+When organizing a competition, you may need to sign contracts with the venue, suppliers, or other organizations. Contracts can create financial or legal responsibilities, so make sure you understand what you are agreeing to before signing one.
+
+Contract requirements can vary between countries and regions. If a Regional Organization (RO) is involved in your competition, follow its policies and ask the RO about its usual process.
+
+### Venue Contracts
+
+Many venues will require a contract or permit before you can hold your competition there.
+
+Never ask a venue for a permit or contract without first consulting your Delegate.
+
+When contacting a venue before you have consulted a Delegate, make it clear that you are contacting the venue on your own behalf. Do not imply that you are representing the WCA, a Delegate team, or an RO.
+
+A legal adult must sign and return a formal venue contract. If the competition is organized under an RO, the RO should secure the venue according to its policies.
+
+::::: {.box .important} Please do not sign a venue contract or permit before discussing it with your local Delegate first. :::::
+
+Before signing a venue contract, make sure you understand:
+- How much the venue costs. If the venue charges by the hour, make sure you include enough time for setup and takedown, not only the competition itself.
+- Whether the venue provides tables and chairs.
+- When payment is due.
+- Whether a deposit is required.
+- Whether the venue charges additional fees.
+- When you can enter the venue.
+- When you must leave the venue.
+- Whether the venue will set up the venue for you, or if you are required to do it yourself.
+- Whether cleaning is included.
+- Whether the venue requires insurance.
+- What happens if the competition is cancelled or postponed.
+
+Some venues may require proof of liability insurance and/or a security deposit. Sometimes the venue provides liability insurance, while other times you must purchase it separately.
+
+If you are unsure about an insurance requirement, ask your Delegate or RO for advice.
+
+### Other Contracts
+
+You may also need contracts or written agreements for other services, such as:
+- Renting tables, chairs, or other equipment.
+- Audio or visual equipment.
+- Printing.
+- Catering.
+- Security.
+- Transportation.
+- Other services provided by the venue or an external company.
+
+Use the same approach for these contracts as you would for a venue contract. Make sure you understand the costs, responsibilities, and deadlines before agreeing to anything. Always consult with your Delegate before signing anything.
+
+If a service is important to the competition, consider what you will do if the service provider cannot fulfil the agreement.
+
+### Costs and Financial Responsibilities
+
+Consider all financial responsibilities created by a contract when preparing your competition budget.
+
+For example, a venue contract may include costs that are not part of the basic rental price, such as:
+- Setup or takedown fees.
+- Cleaning fees.
+- Security fees.
+- Equipment rental.
+- Additional hours.
+- A percentage of registration income.
+- A security deposit.
+
+Do not assume that the amount initially quoted by a venue is the total cost. Always verify the cost listed on the contract before signing.
+
+If an RO is involved in the organization team, include the RO in the budgeting process so that the budget follows its policies.
+
+### Cancellation and Changes
+
+Read the cancellation conditions before signing a contract.
+
+Competition plans can sometimes change. For example, the competition may need to be postponed, cancelled, or moved to another venue. Make sure you know what happens to any deposits or payments if this occurs.
+
+If you need to make a significant change to a contract, discuss it with your Delegate before agreeing to the change.
+
+Keep a copy of the final contract and any later changes to it.
+
+### Keeping Contracts
+
+Keep important contracts in a place where the organization team and Delegate can access them when needed. Contracts may contain private information, such as prices, personal information, or negotiated conditions. Do not share this information with people who do not need to know it. If possible, a Google Drive folder or any alternative similar to this is a good option to host any contract as well as other important venue documents. If you use this option, it is best to have your delegate or RO handle administrative tasks related to maintaining the folder. 
+
+See the Confidentiality section for more information about handling sensitive competition information.
+
+### Before You Sign
+
+Before signing a contract, ask yourself:
+- Have I discussed the contract with my Delegate?
+- Is the person signing the contract authorized to do so?
+- Does the contract have all of the signer’s information written correctly? Signers must not be inappropriately representing themselves as representatives of the WCA or an RO unless they have explicit permission to do so.
+- If I am signing as myself, do I understand the associated risks?
+- Do I understand all of the costs?
+- Is a deposit required?
+- Is insurance required?
+- Do I understand the cancellation conditions?
+- Are the setup and takedown times sufficient?
+- Are there any additional requirements from the venue or service provider?
+- Do I have a copy of the final contract?
+
+If you are unsure about anything in the contract, ask your Delegate before signing it.
+
+## Sponsorships
+
+Sponsorships can help reduce the cost of a competition or provide additional benefits for competitors and volunteers. Sponsors may provide money, products, services, prizes, or other support.
+
+Sponsors can include cube stores, local companies, the venue, schools, universities, or other organizations.
+
+### Finding Sponsors
+
+Before looking for sponsors, determine what your competition needs.
+
+Start by looking at your competition budget and identify expenses that could be covered by a sponsor. For example, you could look for sponsors to help with:
+- Venue costs.
+- Competitor gifts or souvenirs.
+- Medals and trophies.
+- Prizes.
+- Food and drinks.
+- Printing.
+- Equipment.
+- Other competition expenses.
+
+Think about organizations that have a connection to your competition or local community. Companies related to technology, education, sports, STEM, or local activities may be interested in supporting a WCA competition. Consider asking local tourism boards if they are interested in sponsoring, especially if the location hasn’t had a competition before.
+
+Cube stores and other businesses connected to the cubing community are also potential sponsors.
+
+### Contacting Sponsors
+
+When contacting a potential sponsor, explain what the competition is and what kind of support you are looking for.
+
+It can be helpful to include:
+- The name and date of the competition.
+- The location.
+- The expected number of competitors.
+- The expected number of spectators.
+- Information about the WCA and speedcubing.
+- What you are asking the sponsor to provide.
+- What you can offer the sponsor in return.
+
+If possible, prepare a short sponsorship document that contains this information. This makes it easier for a potential sponsor to understand what you are offering.
+
+When contacting a company, make it clear that you are contacting them as a competition organizer. Do not imply that the WCA is requesting the sponsorship or that the WCA endorses the company.
+
+Consider contacting potential sponsors towards the end of the year. Many companies plan their budgets for the following year during this period, so it may be easier for them to consider sponsorship opportunities when they are planning their upcoming expenses.
+
+Do not wait until shortly before the competition to start looking for sponsors. Some companies may need several months to approve a sponsorship or make arrangements for providing money, products, or services.
+
+### Types of Sponsorship
+
+Sponsorship does not have to be financial.
+
+A sponsor could provide:
+- Money.
+- Products.
+- Prizes.
+- Food or drinks.
+- Equipment.
+- Services.
+- Competitor swag.
+- A discount on venue rental.
+- Printing.
+- Accommodation.
+- Other items needed for the competition.
+
+Sponsorship does not have to be financial. For example, a local company could provide prizes instead of giving the organization team money.
+
+Such sponsorship can be particularly useful when it replaces an expense that would otherwise need to be paid from the competition budget.
+
+### What Can You Offer a Sponsor?
+
+Sponsors are likely to request visibility at the competition in exchange for their support.
+
+Depending on the size of the sponsorship, you could offer things such as:
+- A logo on competition materials.
+- A banner at the venue.
+- A sponsor table or booth.
+- Announcements during the competition.
+- Inclusion in competition-related social media posts.
+- Photography from the competition for the sponsor’s use.
+- Inclusion in a competitor welcome pack.
+- Sponsor recognition on the competition webpage or other competition materials.
+
+The benefits you offer should be reasonable for the size of the competition and the amount or type of support provided.
+
+Do not promise something that you cannot provide.
+
+### Sponsorship Packages
+
+For larger competitions, it can be useful to create several sponsorship levels.
+
+For example, you could have different packages for smaller and larger sponsors. Each package can include different levels of visibility.
+
+Keep the packages simple and easy to understand. A local business may be more interested in a straightforward offer rather than a complicated sponsorship structure.
+
+You should also consider accepting smaller contributions. A company does not need to provide a large amount of money to make a useful contribution to your competition.
+
+### Sponsor Agreements
+
+For larger sponsorships, consider creating a written agreement.
+
+The agreement can specify:
+- What the sponsor will provide.
+- When the sponsor will provide it.
+- What the organization team will provide in return.
+- How the sponsor will be represented.
+- Where sponsor materials can be placed.
+- When payments or products must be provided.
+- What happens if the competition is cancelled or postponed.
+
+Discuss significant sponsorship agreements with your Delegate before signing them.
+
+Keep a copy of the final agreement with the other competition documents.
+
+### Sponsor Materials at the Venue
+
+Sponsors may provide banners, posters, products, booths, or other materials for the competition.
+
+Make sure these materials do not interfere with the competition.
+
+For example, sponsor materials should not:
+- Block competition areas.
+- Interfere with scramble secrecy.
+- Prevent competitors or spectators from moving around safely.
+- Make it difficult for competitors to see important competition information.
+- Create excessive noise during competition rounds.
+
+Check with the venue before agreeing to a sponsor installation if the venue has rules about advertising or commercial activities.
+
+### Sponsor Announcements
+
+You can recognize sponsors during the competition by making announcements.
+
+For example, you can thank sponsors during the opening announcements, between rounds, or during the awards ceremony.
+
+Keep sponsor announcements reasonably short so that they do not interfere with the competition schedule.
+
+### Exclusivity
+
+Some sponsors may ask for exclusive visibility in a particular category.
+
+For example, a sponsor may ask you not to promote another company selling similar products.
+
+Think carefully before agreeing to exclusivity. An exclusivity agreement could make it difficult to work with other sponsors or receive useful products or services.
+
+If a sponsor requests exclusivity, discuss the arrangement with your Delegate before agreeing to it.
+
+### Sponsor Products
+
+Sponsors may provide products for competitors, volunteers, or spectators.
+
+Before accepting products, consider whether:
+- The venue allows them.
+- You have enough space to store them.
+- You can distribute them easily.
+- They create additional costs.
+- They require special handling.
+- They are appropriate for the competition.
+
+If a sponsor provides food or drinks, check the venue's rules and any applicable local requirements.
+
+Do not accept an offer if the additional work or cost would outweigh the benefit to the competition.
+
+### Sponsorship and the Competition Budget
+
+Include confirmed sponsorships in your competition budget.
+
+Do not rely on sponsorship money that has not yet been confirmed when deciding whether you can afford to run the competition.
+
+It is also useful to consider what would happen if a sponsor withdraws or provides less support than expected.
+
+Remember that once a competition is announced, the organization team is expected to run the competition even if it incurs a financial loss. You cannot make a personal profit by organizing a competition.
+
+If an RO is involved, coordinate with the RO about how sponsorship money is received and spent. ROs may have their own financial procedures.
+
+### After the Competition
+
+Thank your sponsors after the competition.
+
+If appropriate, share information about the competition with them, such as the number of competitors or photos of their sponsorship being used at the venue.
+
+Maintaining a good relationship with sponsors can make it easier to work with them again at future competitions.
+
+### Confidentiality
+
+Sponsorship agreements and negotiations may contain sensitive information, such as financial terms, contact information, or conditions that have not yet been announced.
+
+Do not share this information with people outside the organization team unless they need to know it.
+
+See the Confidentiality section for more information about handling sensitive competition information.
 
 ## Making the WCA Webpage
 
