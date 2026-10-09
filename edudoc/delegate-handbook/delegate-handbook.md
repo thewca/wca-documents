@@ -1267,13 +1267,16 @@ For more information on the WCA Equipment Funding program, please review the [of
 
 ### WCA Travel Funding
 
-Depending on the region you live in, you might receive requests to delegate in regions that do not yet have their own Delegate. These regions are often less wealthy and might struggle to provide funds for your travel through just the registration fees. The WCA offers the Travel Funding program to support bringing competitions to these new areas.
+The WCA offers the Travel Funding program to fulfill the spirit and purpose of the WCA.
 
-If you want to use WCA Travel Funding, you must submit [an application](https://docs.google.com/forms/d/e/1FAIpQLSex2yNko7m6SL12zuMXD6WtowUNzxsNZYXYjx5yvYKYDOPbhQ/viewform) at least 60 days before the competition date while the competition is still unannounced. If the competition is less than 60 days away or is already announced, the application will not be funded. The application must have the official support of a Senior Delegate or Board member as a sponsor, explain how much funding is needed, and explain why the region where the competition will be held cannot provide the funds themselves. The WFC will discuss your application and return a decision to you as quickly as possible so you can move forward with the competition planning process. If your application is approved, the WFC will then work with you to make the necessary purchases (e.g. plane tickets or lodging reservations).
+Delegates may claim travel expenses only when the travel serves at least one of the following purposes:
+1. Attending a competition as a Delegate in a region that has no Delegate above the Trainee level.
+2. A Senior Delegate, Regional Delegate, or a Delegate designated by them attending a competition to supervise and train one or more Delegates (including Trainee Delegates) in their region.
+3. Attending a competition as a Delegate (including a Trainee Delegate) for the purpose of receiving supervision and training.
 
-If you are able to use WCA Travel Funding and bring competitions to a new region, please keep an eye out for potential Trainee Delegates or provide support in training existing ones if there are any. Whenever a new region gets its own Junior Delegate, WCA Travel Funding is no longer needed for future competitions there, and other new regions around the world may be the beneficiaries of this program instead. Remember that WCA Travel Funding only applies if the Delegate’s travel is strictly necessary to ensure the competition happens at all. It cannot currently be used to send experienced Delegates to continue the training of Junior Delegates or for Senior/Regional Delegates to visit other areas of their region for supervision.
+Travel for the purposes described above must be supported by the Senior Delegate of the region in question.
 
-For more information on the WCA Travel Funding program, please review the [official policy](https://documents.worldcubeassociation.org/documents/policies/external/Travel%20Reimbursement.pdf) or reach out to the WFC directly at [finance@worldcubeassociation.org](mailto:finance@worldcubeassociation.org).
+For more information on the WCA Travel Funding program, please review the [official policy](https://documents.worldcubeassociation.org/documents/policies/external/Travel%20Reimbursement.pdf).
 
 ## Engaging in Internal Discussions
 
