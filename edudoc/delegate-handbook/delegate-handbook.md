@@ -423,7 +423,7 @@ Remember these points when requesting a Fewest Moves Simultaneous Competition. T
 - Include “Fewest Moves” or “FMC” in the name of the competition to further stress that it is a Fewest Moves Simultaneous Competition.
 - There must be a place on the competition website (e.g. a tab on the WCA website) that clearly displays all of the addresses for the different locations and who will be the official Delegate of that venue. Include additional location-specific information on that tab, such as a specific entry fee or competitor limit for a specific location. When there are different competitor limits for the different locations, this must be written in the Extra Registration Requirements.
 - Every Delegate at a location must be listed as official Delegates of the competition.
-- The latest deadline to add a new location is 28 days before the competition.
+- The latest deadline to add a new location is 14 days before the competition.
 - An address may be listed as “To be decided” until 14 days before the start of the competition.
 - There must not be a competitor limit for the entire competition. However, each individual location may have its own competitor limit.
 - If there are different time zones for the different locations, include in the schedule at what local time the competition will start in each location. The time zones must be adjusted so that all competitors will be doing their attempts simultaneously.
