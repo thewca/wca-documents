@@ -1270,9 +1270,9 @@ For more information on the WCA Equipment Funding program, please review the [of
 The WCA offers the Travel Funding program to fulfill the spirit and purpose of the WCA.
 
 Delegates may claim travel expenses only when the travel serves at least one of the following purposes:
-1. Attending a competition as a Delegate in a region that has no Delegate above the Trainee level.
-2. A Senior Delegate, Regional Delegate, or a Delegate designated by them attending a competition to supervise and train one or more Delegates (including Trainee Delegates) in their region.
-3. Attending a competition as a Delegate (including a Trainee Delegate) for the purpose of receiving supervision and training.
+1.   Attending a competition as a Delegate in a region that has no Delegate above the Trainee level.
+2.   A Senior Delegate, Regional Delegate, or a Delegate designated by them attending a competition to supervise and train one or more Delegates (including Trainee Delegates) in their region.
+3.   Attending a competition as a Delegate (including a Trainee Delegate) for the purpose of receiving supervision and training.
 
 Travel for the purposes described above must be supported by the Senior Delegate of the region in question.
 
