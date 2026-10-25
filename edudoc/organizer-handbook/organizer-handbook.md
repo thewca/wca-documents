@@ -651,7 +651,7 @@ If you require competitors to pay the registration fee in advance, the organizat
 
 ### Example Budget
 
-Here is an example budget. If your net profit is negative, adjust your expenses and income to avoid significant financial loss. For a more complete list of possible expenses, see the budget section of the [competition checklist](https://docs.google.com/spreadsheets/d/1i5QStai9sJSrST2EUPBNwfejI0QeW3ojDJ9Ok-GpFCY/copy).
+Here is an example budget. If your net profit is negative, adjust your expenses and income to avoid significant financial loss. For a more complete list of possible expenses, see the expected budget tab of the [Expected and Final Budget](https://docs.google.com/spreadsheets/d/1ywKj_txTq0a3djPVpQo5oqFqKrxKbt5f-X9N9U5i-iM/copy).
 
 ::::: {.box .example .text-left}
 ![](images/budget.png){.centered width=50%}
@@ -1289,16 +1289,18 @@ Schedules and schedule trackers are also useful to print. If you maintain a sche
 This section outlines how organizers can ensure they have done everything necessary to organize their competition.
 
 ::::: {.box .attention}
-Here is a [copy of the checklist](https://docs.google.com/spreadsheets/d/1i5QStai9sJSrST2EUPBNwfejI0QeW3ojDJ9Ok-GpFCY/copy).
+Here is a [copy of the checklist](https://docs.google.com/document/d/1abqKKUQnYB15TClv9kzLupS00Y2ccrNxWAvtaHKuy9w/copy).
 :::::
 
 This checklist guides you through the organization process and helps you understand it better. You can edit a copy of the spreadsheet to suit your needs or the needs of organizers in your region, such as translating it into a local language.
 
-- The **“Checklist”** tab lists the most important tasks you must do as an organizer to ensure your competition runs smoothly. The second column shows whether the step is necessary at every competition. Tick the cells in the third column as you finish the steps over time.
-- The **“Equipment”** tab lists all the equipment you will need for the competition and everything you need to print. First, mark everything as necessary or “If needed”, depending on whether those items apply to your competition. You can include the amount or quantity of each item in the “Amount” column. Mark the “Done” column as you get each item.
+- The **“Checklist”** section lists the most important tasks you must do as an organizer to ensure your competition runs smoothly. The third column shows whether the step is necessary at every competition. Tick the tasks in the first column as you finish the steps over time.
+- The **“Equipment”** section lists all the equipment you will need for the competition and everything you need to print. First, mark everything as necessary or “If needed”, depending on whether those items apply to your competition. You can include the amount or quantity of each item in the “Qty” column. Tick "Done" column as you get each item.
+- The **“Volunteers”** section lists the volunteers helping you run the competition. “Volunteers” typically refers to people not listed as organizers or Delegates on the WCA competition page, but you can include them too. If there are no assigned volunteers, you can delete this section.
+
+As organizer you can use [Expected and Final Budget](https://docs.google.com/spreadsheets/d/1ywKj_txTq0a3djPVpQo5oqFqKrxKbt5f-X9N9U5i-iM/copy) template to plan the budget before the competition and finalize the budget after the competition.
 - The **“Expected budget”** tab is the expected budget for your competition. Please complete this form and send it to the Delegates before the competition. These can be estimates or actual values based on known prices. When estimating expenses, it is better to overestimate than underestimate.
 - The **“Final budget”** tab is the actual budget for your competition. You will need to put the final values of each item after you make the payment as you go.
-- The **“Volunteers”** tab lists the volunteers helping you run the competition. “Volunteers” typically refers to people not listed as organizers or Delegates on the WCA competition page, but you can include them too. If there are no assigned volunteers, you can delete this tab.
 
 # Day of the Competition {.page-break-before}
 
