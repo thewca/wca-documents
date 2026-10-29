@@ -26,7 +26,7 @@ This policy outlines the requirements for organizers of WCA recognised competiti
       3. Stripe (or similar payment processing tool) account in place for collecting WCA registration fees
    3. Step 3: Should the WEAT make a favourable determination, the applicant must sign or otherwise certify a Lead Organizer Accreditation Agreement agreeing to the terms of this policy.
 8. Lead Organizer accreditation will be granted for a given country, region, or group of countries or regions, authorizing an organization or individual to act as the Lead Organizer for WCA competitions in that area only. Existing Lead Organizers may apply for additional accreditations for other countries or regions.
-9. Lead Organizer accreditation may be granted with conditions, which will be reflected in a modified form of the Lead Organizer agreement. Such conditions include but are not limited to: restricted use of WCA website functionality (e.g. Stripe connectivity), a specific timeframe to achieve an accreditation requirement.
+9. Lead Organizer accreditation may be granted with conditions, which will be reflected in a modified form of the Lead Organizer agreement. Such conditions include but are not limited to restricted use of WCA website functionality (e.g. Stripe connectivity), and a specific timeframe to achieve an accreditation requirement.
 
 ## Appendix A {.page-break-before}
 ### Lead Organizer Accreditation Agreement
