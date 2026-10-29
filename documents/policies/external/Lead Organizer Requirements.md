@@ -10,7 +10,7 @@ This policy outlines the requirements for organizers of WCA recognised competiti
 
 ## Policy
 1. The Lead Organizer of a WCA competition is responsible for the competition. This includes responsibility for all organizational aspects of a given competition, including finances, venue and equipment logistics, competitor safety, management of competitors and spectators, compliance with relevant local laws, and ensuring the competition complies with the components of WCA policies and Regulations which relate to competition organization.
-2. All official WCA competitions taking place in a country listed in the Scope of the policy must have exactly one Lead Organizer.
+2. All official WCA competitions taking place solely in a country listed in the Scope section of the policy must have exactly one Lead Organizer.
    1. Exception: for multi-location competitions each location may have a different lead organizer.
 3. The Lead Organizer may be an organization (e.g. a not-for-profit organization, or a limited liability company), or an individual who takes on the legal organizer responsibility.
 4. Additional organizations or individuals may be listed as “organizers” on the WCA website for a given competition if they are volunteering or are assisting with the competition; however all requirements remain the responsibility of the Lead Organizer.
