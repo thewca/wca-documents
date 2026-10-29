@@ -14,7 +14,7 @@ This policy outlines the requirements for organizers of WCA recognised competiti
    1. Exception: for multi-location competitions with location(s) in an in-scope country, each such location must have exactly one Lead Organizer. The same Lead Organizer may cover multiple locations.
 3. The Lead Organizer may be an organization (e.g. a not-for-profit organization, or a limited liability company), or an individual.
 4. Additional organizations or individuals may be listed as “organizers” on the WCA website for a given competition if they are volunteering or are assisting with the competition; however all requirements remain the responsibility of the Lead Organizer.
-5. Individual WCA Delegates or other WCA Volunteers may be Lead Organizers in addition to their WCA roles. When such individuals carry out the responsibilities associated with the Lead Organizer they do so as an individual and not in the capacity of their WCA role.
+5. Individual WCA Delegates or other WCA Volunteers may be Lead Organizers. When such individuals carry out the responsibilities associated with the Lead Organizer they do so as an individual and not in the capacity of their WCA role.
 6. All Lead Organizers must be accredited by the WCA. Accreditation is assigned to the organizer themselves, and is not done on an individual competition basis.
 7. Lead Organizer accreditation is granted via the following process:
    1. Step 1: The Organization or Individual applies for Lead Organizer accreditation by completing the application form and providing necessary information:
