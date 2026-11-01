@@ -8,9 +8,10 @@ The WCA Dues System is a program by which the WCA will collect revenue on a per-
 ## Policy
 1. Any WCA Delegate who delegates a competition will be responsible for paying Dues after the competition has finished.
    1. Exception: a Regional Organization may nominate itself to be responsible for the payment of WCA Dues in the region which they cover.
-   2. Exception: World Championships, Continental Championships, and 3x3x3 Fewest Moves simultaneous competitions that take place in more than one country are exempt from paying Dues.
-   3. Exception: at the discretion of the WCA Board, National Championships in certain countries may be exempt from paying Dues.
-   4. Exception: at the discretion of the WCA Financial Committee (WFC), competitions in certain countries may be exempt from paying Dues based on the criteria in Appendix B.
+   2. Exception: where the WCA Lead Organizer Requirements Policy applies, the Lead Organizer is responsible for Dues payment.
+   3. Exception: World Championships, Continental Championships, and 3x3x3 Fewest Moves simultaneous competitions that take place in more than one country are exempt from paying Dues.
+   4. Exception: at the discretion of the WCA Board, National Championships in certain countries may be exempt from paying Dues.
+   5. Exception: at the discretion of the WCA Financial Committee (WFC), competitions in certain countries may be exempt from paying Dues based on the criteria in Appendix B.
 2. WCA Delegates or Regional Organizations may allow the competition organizers or some other individual or organization involved with the competition to pay the Dues on their behalf. It remains the responsibility of the WCA Delegate(s) or Regional Organization to ensure that the invoice is paid on time, even if it will be paid by someone else.
    1. Exception: Individuals residing in and organizations based in countries subject to financial restrictions under the WCA Regional Restrictions Policy may not pay the Dues on behalf of a WCA Delegate or Regional Organization.
    2. Exception: A WCA Delegate whose assigned country is subject to financial restrictions under the WCA Regional Restrictions Policy who delegates a competition in a country not subject to financial restrictions must have an individual or organization not subject to financial restrictions pay the Dues on their behalf.
