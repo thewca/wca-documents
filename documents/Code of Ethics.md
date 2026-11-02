@@ -1,10 +1,10 @@
 # Code of Ethics
 
-### Version 2.6 {.version}
+### Version 2.7 {.version}
 
-The Code of Ethics must be considered by all WCA Volunteers as a standard for actions and decisions they will be making when acting on behalf of the WCA within their role. “Listed Delegates” refers to WCA Delegates who are publicly displayed on the “General info” tab of an official WCA Competition.
+The Code of Ethics must be considered by all WCA Volunteers as a standard for actions and decisions they will be making when acting on behalf of the WCA within their role. “Listed Delegates” refers to WCA Delegates who are publicly displayed on the “General info” tab of an official WCA Competition. Although not officially defined as a WCA Volunteer, Trainee Delegates are considered to be in the scope of this document. Therefore, all references to “WCA Volunteer” also refer to Trainee Delegates.
 
-These actions and decisions should be made in such a manner that, if consistently performed by WCA Volunteers, the [Spirit and Mission](wcadoc{documents/motions/01.2021.1 - Spirit.pdf}) of the WCA would continue to be upheld while not breaking any [Regulations](wca{regulations}), [Motions, or Policies](wca{documents}).
+These actions and decisions should be made in such a manner that, if consistently performed by WCA Volunteers, the Purpose and Values of the WCA would continue to be upheld while not breaking any [Regulations](wca{regulations}), [Motions, or Policies](wca{documents}).
 
 This Code covers previously known issues, as well as issues that the WCA Integrity Committee (WIC) foresees as requiring additional guidance. This document will be updated periodically to incorporate new topics as they are brought to the attention of the WIC, and will also be reviewed regularly.
 
@@ -37,7 +37,7 @@ The official communication channel for the WIC is via email. For any concerns ab
          2. Groups must not be based on an immutable characteristic.
    4. Listed Delegates must request and review an outlined budget for all of their competitions before announcement. Any concerns in the competition budget should be discussed with an Organizer and/or the people in charge of the competition finances. Delegates and Organizers should work together to find a resolution to any concern.
       1. Competition budgets must be held by the Delegate for a period of 7 years and can be requested for review by the WCA Board, WIC, WFC or the Senior Delegate.
-      2. The budget of a competition should be in alignment with the Mission and Spirit of the WCA.
+      2. The budget of a competition should be in alignment with the Purpose and Values of the WCA.
       3. Listed Delegates must comply with Finance invoices and must advise Organizers to take into account WCA Dues when making the budget.
    5. Profit acquired from a competition must not be kept for personal gain by the Organizers nor the Delegates and should be put towards the benefit of the community. Where possible, this should be done via an organization and not an individual.
       1. If profits from a competition will be donated to a charity, this information must be made public on the competition page when it is announced. Any such charity must be registered as such in the country the competition is held.
@@ -49,6 +49,8 @@ The official communication channel for the WIC is via email. For any concerns ab
    2. WCA Delegates must communicate with other Delegates in their region and/or in any region they are planning to delegate a competition.
    3. All work done within the WCA is confidential and must not be disclosed to non-WCA Volunteers without explicit permission from relevant members.
       1. Delegates may provide relevant feedback to the Organizers but must not give visibility of sensitive information, or sections written by other Delegates.
+      2. The questions and answers in the LMS evaluations are confidential and must not be shared with any other person, including other WCA Volunteers.
+      3. WCA Volunteers must complete LMS evaluations independently. Reference materials, assistive technologies (e.g. screen readers), and other technological tools (e.g. translation software, generative AI) are permitted, but assistance from another human is not unless a special accommodation has been approved by the Quality Assurance Committee.
    4. WCA Volunteers should be professional, respectful, and provide a positive reflection of the organization.
       1. WCA Volunteers should always be aware of their target audience (e.g. their age, experience, nationality, etc.) and their tone/language when they make statements while acting in their capacity as a WCA Volunteer.
 3. **Conduct of Official WCA Competitions**

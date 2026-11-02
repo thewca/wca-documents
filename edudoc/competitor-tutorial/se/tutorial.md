@@ -3,7 +3,7 @@
 ## WCA som organisation - Generell Introduktion
 
 ![WCA logo]({logo}){.logo width=15%}
-WCA (World Cube Association) är organisationen som ansvarar för arrangerande av tävlingar i Speedcubing över hela världen. Alla WCA-tävlingar måste följa WCA:s [Tävlingsregler](wca{regulations}) och [Riktlinjer]((wca{regulations/guidelines.html})), därför är det viktigt att du är bekant med dessa innan du deltar.
+WCA (World Cube Association) är organisationen som ansvarar för arrangerande av tävlingar i Speedcubing över hela världen. Alla WCA-tävlingar måste följa WCA:s [Tävlingsregler](wca{regulations}) och [Riktlinjer](wca{regulations/guidelines.html}), därför är det viktigt att du är bekant med dessa innan du deltar.
 
 Detta dokument guidar dig genom grunderna i att tävla och döma. Att läsa detta dokument kan vara väldigt nyttigt för att få en grundförståelse för WCA-tävlingar, men vi rekommenderar ändå att du läser WCA:s tävlingsregler och riktlinjer, samt deltar i deltagarinstruktionen om tävlingen har en sådan.
 
@@ -130,14 +130,14 @@ När deltagaren placerar fingrarna på timern tänds först en röd lampa, och s
 :::::
 
 ::::: {.box .attention .page-break-before}
-Kom ihåg: Vid starten av lösningen måste deltagaren placera händerna platt, med handflatorna nedåt, och röra sensorerna med fingrarna, inte handflatorna! (Straff: +2 sekunder [A4b](http://wca.link/A4b))
+Kom ihåg: Vid starten av lösningen måste deltagaren placera händerna platt, med handflatorna nedåt, och röra sensorerna med fingrarna, inte handflatorna! (Straff: +2 sekunder [A4b](https://wca.link/A4b))
 :::::
 
 ### Stoppa lösningen:
 När pusslet är löst stoppar deltagaren timern genom att placera händerna på sensorerna. Deltagaren får då inte röra pusslet, och handflatorna måste vara nedåt.
 
 ::::: {.box .attention}
-Kom ihåg: Handflatorna måste vara nedåt när timern stoppas! (Straff: +2 sekunder [A6d](http://wca.link/A6d))
+Kom ihåg: Handflatorna måste vara nedåt när timern stoppas! (Straff: +2 sekunder [A6d](https://wca.link/A6d))
 :::::
 
 Domaren kollar om pusslet är löst eller inte, och bekräftar detta för deltagaren med ”OKAY”, ”PENALTY”, eller ”DNF”. Varken deltagaren eller domaren får röra pusslet förrän domaren tydligt har fattat ett beslut.
@@ -167,7 +167,7 @@ Deltagaren måste verifiera att resultatet är korrekt och läsbart innan hen si
 
 - **Starta lösningen**:
 
-[Regel A4)](wca{regulations/#A4}) reglerar hur timern ska startas.
+[Regel A4](wca{regulations/#A4}) reglerar hur timern ska startas.
 
 ![](images/RegA4.png){.centered width=90%}
 
@@ -177,12 +177,12 @@ Kom ihåg: Att starta lösningen på ett felaktigt sätt leder till tidsstraff!
 
 - **Under lösningen**:
 
-[Regel A5)](wca{regulations/#A5}) förklarar reglerna under lösningen.
+[Regel A5](wca{regulations/#A5}) förklarar reglerna under lösningen.
 Under hela lösningen får deltagaren bara prata med domaren och Delegaten. Du får inte få någon hjälp från något föremål eller person. Straff för båda dessa är DNF.
 
 - **Stoppa timern**:
 
-[Regel A6)](wca{regulations/#A6}) reglerar hur timern ska stoppas.
+[Regel A6](wca{regulations/#A6}) reglerar hur timern ska stoppas.
 
 ![](images/RegA6.png){.centered width=90%}
 

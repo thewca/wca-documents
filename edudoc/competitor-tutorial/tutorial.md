@@ -47,7 +47,7 @@ If you are uncertain about something, always ask the Delegate!
   3. properly formatted
   4. clearly readable
 
-![](images/score sheet.png){.centered}
+![](images/scoresheet.png){.centered}
 
 ::::: {.box .attention}
 If a time on a score sheet is illegible, the score taker will enter the worst interpretable result for that attempt.
@@ -161,7 +161,7 @@ When a competitor places their hands on the timer, they will first see a red lig
 :::::
 
 ::::: {.box .attention}
-Remember that when the competitor starts the timer, their hands must be flat, their palms must be facing down, and they must touch the sensors with their fingers, not their palms. (Penalty: +2s [A4b](http://wca.link/A4b))
+Remember that when the competitor starts the timer, their hands must be flat, their palms must be facing down, and they must touch the sensors with their fingers, not their palms. (Penalty: +2s [A4b](https://wca.link/A4b))
 :::::
 
 ### Stopping the solve
@@ -169,7 +169,7 @@ Remember that when the competitor starts the timer, their hands must be flat, th
 When the puzzle is solved, the competitor stops the timer by putting their hands on the sensors. When the competitor stops the timer, they must not be touching the puzzle. Their hands must be flat, and their palms must be facing down.
 
 ::::: {.box .attention}
-Remember that when the competitor stops the timer, their hands must be flat, and their palms must be facing down. (Penalty: +2s [A6d](http://wca.link/A6d))
+Remember that when the competitor stops the timer, their hands must be flat, and their palms must be facing down. (Penalty: +2s [A6d](https://wca.link/A6d))
 :::::
 
 The judge checks whether the puzzle is solved and tells the competitor one of these decisions: “OKAY”, “PENALTY”, or “DNF”. The competitor is not allowed to touch the puzzle until the judge has clearly made a decision.
@@ -265,7 +265,7 @@ If you are uncertain about penalties, always ask a Delegate!
 - **Extra Attempt**: In some situations, competitors might receive an extra attempt. This means that they redo an attempt using an extra attempt scramble due to an incident during the original attempt. Only Delegates may assign extra attempts, so always report any incident to them.
 
 ::::: {.box .important}
-Extra attempts may be granted only by a Delegate!
+Extra attempts may be granted only by a listed Delegate, except in rare cases when the Delegate is unavailable and appoints another person to make a decision on an incident.
 :::::
 
 ## What to Avoid as a Competitor
