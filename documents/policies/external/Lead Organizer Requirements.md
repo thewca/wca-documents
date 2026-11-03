@@ -6,7 +6,7 @@
 The current version of this policy is only applicable to areas that are in scope for the pilot implementation of this policy, which includes Canada, Oceania, United Kingdom, and the United States.
 
 ## Purpose
-This policy outlines the requirements for organizers of WCA recognised competitions to be accredited organizers by the WCA, and the process for gaining that accreditation.
+This policy outlines the requirements for organizers of WCA recognized competitions to be accredited organizers by the WCA, and the process for gaining that accreditation.
 
 ## Policy
 1. The Lead Organizer of a WCA competition is responsible for the competition. This includes responsibility for all organizational aspects of a given competition, including finances, venue and equipment logistics, competitor safety, management of competitors and spectators, compliance with relevant local laws, and ensuring the competition complies with the components of WCA policies and Regulations which relate to competition organization.
