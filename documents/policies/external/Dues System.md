@@ -1,6 +1,6 @@
 # WCA Dues System Policy
 
-### Version 1.11 {.version}
+### Version 1.12 {.version}
 
 ## Purpose
 The WCA Dues System is a program by which the WCA will collect revenue on a per-competitor-per-competition basis from WCA Delegates and/or Regional Organizations in order to further the Mission and the Spirit of the WCA. The policy intends that WCA Delegates and/or Regional Organizations will fund the amount owed either by charging registration fees to their competitors, soliciting competition sponsors, or by using some other means of collecting money on behalf of their respective communities.
@@ -8,9 +8,10 @@ The WCA Dues System is a program by which the WCA will collect revenue on a per-
 ## Policy
 1. The WCA Delegate who is the Lead Delegate for a competition will be responsible for paying Dues after the competition has finished.
    1. Exception: a Regional Organization may nominate itself to be responsible for the payment of WCA Dues in the region which they cover.
-   2. Exception: World Championships, Continental Championships, and 3x3x3 Fewest Moves simultaneous competitions that take place in more than one country are exempt from paying Dues.
-   3. Exception: at the discretion of the WCA Board, National Championships in certain countries may be exempt from paying Dues.
-   4. Exception: at the discretion of the WCA Financial Committee (WFC), competitions in certain countries may be exempt from paying Dues based on the criteria in Appendix B.
+   2. Exception: where the WCA Lead Organizer Requirements Policy applies, the Lead Organizer is responsible for Dues payment.
+   3. Exception: World Championships, Continental Championships, and 3x3x3 Fewest Moves simultaneous competitions that take place in more than one country are exempt from paying Dues.
+   4. Exception: at the discretion of the WCA Board, National Championships in certain countries may be exempt from paying Dues.
+   5. Exception: at the discretion of the WCA Financial Committee (WFC), competitions in certain countries may be exempt from paying Dues based on the criteria in Appendix B.
 2. Lead Delegates or Regional Organizations may allow the competition organizers or some other individual or organization involved with the competition to pay the Dues on their behalf. It remains the responsibility of the Lead Delegate or Regional Organization to ensure that the invoice is paid on time, even if it will be paid by someone else.
    1. Exception: Individuals residing in and organizations based in countries subject to financial restrictions under the WCA Regional Restrictions Policy may not pay the Dues on behalf of a Lead Delegate or Regional Organization.
    2. Exception: A Lead Delegate whose assigned country is subject to financial restrictions under the WCA Regional Restrictions Policy who delegates a competition in a country not subject to financial restrictions must have an individual or organization not subject to financial restrictions pay the Dues on their behalf.
@@ -54,11 +55,11 @@ The WCA Dues System is a program by which the WCA will collect revenue on a per-
    2. The country is subject to financial restrictions according to the Regional Restrictions Policy.
       1. If the country’s financial restrictions under the Regional Restrictions policy are lifted, then the WFC will return the country to the band in which it would otherwise be placed.
    3. The country faces substantial difficulties making payments to the WCA via the supported payment methods due to their financial system and/or laws.
-      1. This will be handled on a case-by-base basis at the discretion of the WFC after they become aware of the issue.
+      1. This will be handled on a case-by-case basis at the discretion of the WFC after they become aware of the issue.
       2. If the country’s financial system advances or laws change to allow for payment through one or more of the supported methods, then the WFC will return the country to the band in which it would otherwise be placed.
    4. The country is experiencing economic and/or currency instability.
-      1. This will be handled on a case-by-base basis at the discretion of the WFC after they become aware of the issue.
+      1. This will be handled on a case-by-case basis at the discretion of the WFC after they become aware of the issue.
       2. Once economic indicators and/or world news support the conclusion that the country’s economic and/or currency situation has stabilized, then the WFC will return the country to the band in which it would otherwise be placed.
    5. The country has experienced a severe setback in its cubing community, including but not limited to: no longer having a local Delegate, the cancellation/failure of a major competition for reasons outside the Delegates’ control, a major fraud event, etc.
-      1. This will be handled on a case-by-base basis at the discretion of the WFC after they become aware of the issue.
+      1. This will be handled on a case-by-case basis at the discretion of the WFC after they become aware of the issue.
       2. Once the country’s cubing community has been restored to a self-sustaining level, then the WFC will return the country to the band in which it would otherwise be placed.
