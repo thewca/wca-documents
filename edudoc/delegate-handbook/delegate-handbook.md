@@ -1037,37 +1037,39 @@ Before submitting results, make all needed changes to the registration data, if 
 
 ### Submitting Results
 
-To submit the results for a competition, you must have access to the original folder of the scrambles that were generated using TNoodle. Follow these steps:
+To submit the results for a competition, you must have access  to the JSON file inside the interchange folder where the scrambles were generated using TNoodle. Follow these steps:
 
 1. Modify the events tab with all changes made during the competition, such as adjusting cutoffs or adding rounds.
 2. Adjust the number of scramble sets for each round if you generated unused backup scramble sets before the competition or extra scramble sets during the competition. The number of scramble sets must exactly match the number of scramble sets used during each round.
 3. Ensure each round in the schedule tab is on its correct day. If needed, modify the schedule tab accordingly.
-4. Synchronize your competition results by logging into WCA Live, navigating to your competition, enabling the admin view, clicking the synchronization tab, and clicking the “Synchronize” button.
-5. Open [Scrambles Matcher](https://scrambles-matcher.worldcubeassociation.org/) and log in by authorizing it to use your WCA account.
-6. Select the competition from the list.
-7. Upload the generated scrambles from TNoodle to Scrambles Matcher. Go to the folder where you saved the scramble sets after generating scrambles and select `/Interchange/<competition-name>.json` to upload them. If you generated and used extra sets of scrambles during the competition, upload multiple JSON files.
-8. Assign each used scramble set to its respective round by clicking the “Automatically Assign Scrambles” button. Navigate along the left side for each round and drag any scramble sets that were not used during the competition to the “Available” column.
-9. When all scramble sets are assigned to rounds, return to the main page and click the “Get Results JSON” button. This downloads a JSON file containing the complete competition results and the scramble data.
-10. Submit the results by going to the competition website and navigating to the Upload Results page. Upload the JSON file downloaded from the previous step, then click “Submit”. The website will run a series of checks on the results for common issues and provide a list of errors and warnings.
-11. Resolve every error. Read the message next to each error, as it contains useful information about the problem. The errors can often be resolved by going back to one of the previous steps. When every error is resolved, you will need to create and upload a new JSON file from Step 4 onwards and revalidate. **Do not forget to synchronize once again in WCA Live!** Common errors include the following:
+4. Synchronize your competition results by logging into WCA Live, navigating to your competition, enabling the admin view, clicking the synchronization tab, and clicking the “Synchronize” button. This step is not necessary with Integrated Live Results.
+5. Go to “Upload Scrambles” on the competition page.
+6. In the upper right corner click the "Upload from TNoodle" button.
+7. Choose the scrambling file(s).
+8. If you do not want scrambles to auto-match when you upload, click the coffee mug icon. Click the hand icon to re-enable auto-match. Match the scrambles.
+9. Do not forget to Save the changes.
+10. Go to “Submit Results” the competition page.
+11. Go to “Use Live Results” tab and click the “Import Live Results” button.
+12. The website will run a series of checks on the results for common issues and provide a list of errors and warnings. If there are no errors, click the "Submit" button.
+13. Resolve every error. Read the message next to each error, as it contains useful information about the problem. The errors can often be resolved by going back to one of the previous steps. When every error is resolved, you will need to create and upload a new JSON file from Step 4 onwards and revalidate. **Do not forget to synchronize once again in WCA Live!** Common errors include the following:
     1. Unexpected results for an event. This happens when the results contain an event that was not officially listed for the competition. You must appeal to the WCA Board, who will either add the event or reject the addition.
     2. Missing results for an event. This happens when a competition has an event that no one competed in. You must ask the WRT to remove the event before you re-upload the results.
     3. Unexpected/missing results for a round. You must modify the competition events on the WCA website with an explanation of what happened at the competition.
-    4. Unexpected/missing scrambles for a round. Double-check Scrambles Matcher to ensure all used scramble sets are properly assigned to their respective rounds.
+    4. Unexpected/missing scrambles for a round. Double-check matched scrambles to ensure all used scramble sets are properly assigned to their respective rounds.
     5. Unexpected/missing scrambles for a group. You must modify the events tab to indicate the correct number of scramble sets used in each round.
     6. The number of persons in the competition (###) is above the competitor limit. You must remove the competitors above the limit or appeal to the WRC and request for the limit to be changed retroactively.
     7. Wrong country/name for a person. You must correct the data for the person. If there is a country/name change request, please provide all required information for such cases to the WRT as described below.
     8. Any Regulations-related errors must be rectified.
-12. Review the remaining warnings. Read the messages provided and evaluate whether the warning is an actual issue. If it is, fix the issue and upload a new JSON file.
-13. **Provide an explanation for each remaining warning**. At this point, the only remaining warnings will be those you have verified as false positives, such as persons with names matching existing WCA IDs. Additionally, provide explanations for anything unusual that happened, such as “competitor chose not to finish average and resulted in DNS”, as the WRT will likely ask about them. Here are some common items that may be listed in the message:
+14. Review the remaining warnings. Read the messages provided and evaluate whether the warning is an actual issue. If it is, fix the issue and upload a new JSON file.
+15. **Provide an explanation for each remaining warning**. At this point, the only remaining warnings will be those you have verified as false positives, such as persons with names matching existing WCA IDs. Additionally, provide explanations for anything unusual that happened, such as “competitor chose not to finish average and resulted in DNS”, as the WRT will likely ask about them. Here are some common items that may be listed in the message:
     1. Are there any name changes requested? If so, please list the WCA ID, old name, new name, and which version of the name is included in the submitted JSON file.
     2. Are dates of birth missing, or are you uncertain if a WCA ID is missing?
     3. Have rounds or entire events been dropped during the competition?
     4. Are there records that must be declined due to [Regulation 9i2](https://www.worldcubeassociation.org/regulations/#9i2)?
     5. What was the main event at the competition? This is only necessary if the main event was not 3x3x3 Cube. Although the prospective main event is submitted to the WCAT during the competition page submission, this is before the competition occurs. The WRT needs to know **how** a main event was treated as such during the competition.
     6. If there is anything else of importance for the WRT, please do not hesitate to include it. The more detailed it is, the better.
-14. Clearly outline anything irregular with the results submission, such as manual edits you made to the JSON file.
-15. Click “Submit Results” to send the results to the WRT. Every listed Delegate will receive a confirmation email that the results have been submitted.
+16. Clearly outline anything irregular with the results submission, such as manual edits you made to the JSON file.
+17. Click “Submit” to send the results to the WRT. Every listed Delegate will receive a confirmation email that the results have been submitted.
 
 ### Requesting Changes to Competition Results
 
@@ -1270,9 +1272,10 @@ For more information on the WCA Equipment Funding program, please review the [of
 The WCA offers the Travel Funding program to fulfill the spirit and purpose of the WCA.
 
 Delegates may claim travel expenses only when the travel serves at least one of the following purposes:
-1.   Attending a competition as a Delegate in a region that has no Delegate above the Trainee level.
-2.   A Senior Delegate, Regional Delegate, or a Delegate designated by them attending a competition to supervise and train one or more Delegates (including Trainee Delegates) in their region.
-3.   Attending a competition as a Delegate (including a Trainee Delegate) for the purpose of receiving supervision and training.
+
+1. Attending a competition as a Delegate in a region that has no Delegate above the Trainee level.
+2. A Senior Delegate, Regional Delegate, or a Delegate designated by them attending a competition to supervise and train one or more Delegates (including Trainee Delegates) in their region.
+3. Attending a competition as a Delegate (including a Trainee Delegate) for the purpose of receiving supervision and training.
 
 Travel for the purposes described above must be supported by the Senior Delegate of the region in question.
 
