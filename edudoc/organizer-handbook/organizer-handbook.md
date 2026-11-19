@@ -977,7 +977,7 @@ Unofficial events can be fun for competitors to participate in and for spectator
 
 ### Scheduling
 
-Creating a reasonable schedule is essential for your competition to run properly. Consider the key factors below to keep it accurate.
+Creating a reasonable schedule is essential for your competition to run properly. The [Schedule Template](https://docs.google.com/spreadsheets/d/1gnoZxzkOs0ofYUePGll1HK9Cbbb9BZ-QYea1B8Ml4hI/copy) can be used as a starting point for planning your schedule. Consider the key factors below to keep it accurate.
 
 #### Venue Details
 
